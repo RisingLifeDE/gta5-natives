@@ -8,7 +8,8 @@
 					"type": "object",
 					"properties": {
 						"name": { "$ref": "#/$defs/native_name" },
-						"comment": { "type": "string" },
+						"jhash": { "type": "string" },
+                        "comment": { "type": "string" },
 						"params": {
 							"type": "array",
 							"items": {
