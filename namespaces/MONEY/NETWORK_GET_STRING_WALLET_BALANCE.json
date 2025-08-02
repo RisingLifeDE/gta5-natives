@@ -10,6 +10,6 @@
             }
         ],
         "return_type": "const char*",
-        "build": "323"natives
+        "build": "323"
     }
 }
