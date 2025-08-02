@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "350",natives
+        "build": "350",
         "old_names": [
             "_NETWORK_REPORT_MYSELF"
         ]

@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2189",natives
+        "build": "2189",
         "old_names": [
             "_NETWORK_EARN_FROM_BEACH_PARTY_LOST_FOUND"
         ]

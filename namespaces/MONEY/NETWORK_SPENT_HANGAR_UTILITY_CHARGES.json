@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1180",natives
+        "build": "1180",
         "old_names": [
             "_NETWORK_SPENT_HANGAR_UTILITY_CHARGES"
         ]

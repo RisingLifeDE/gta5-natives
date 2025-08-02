@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_GET_AVERAGE_PACKET_LOSS_FOR_PLAYER"
         ]

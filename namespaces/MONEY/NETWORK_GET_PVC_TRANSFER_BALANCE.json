@@ -5,7 +5,7 @@
         "comment": "Retturns the same value as NETWORK_GET_REMAINING_TRANSFER_BALANCE.",
         "params": [],
         "return_type": "int",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_GET_REMAINING_VC_DAILY_TRANSFERS"
         ]

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2545",natives
+        "build": "2545",
         "old_names": [
             "_NETWORK_REMOVE_INVALID_MODEL"
         ]

@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_SPENT_JOB_SKIP"
         ]

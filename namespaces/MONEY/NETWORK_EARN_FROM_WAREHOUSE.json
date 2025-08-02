@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "757",natives
+        "build": "757",
         "old_names": [
             "_NETWORK_EARN_FROM_WAREHOUSE"
         ]

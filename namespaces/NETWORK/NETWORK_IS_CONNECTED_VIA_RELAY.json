@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_IS_CONNECTION_ENDPOINT_RELAY_SERVER"
         ]

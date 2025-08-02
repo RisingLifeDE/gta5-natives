@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2545",natives
+        "build": "2545",
         "old_names": [
             "_NETWORK_SPENT_SUV_FAST_TRAVEL"
         ]

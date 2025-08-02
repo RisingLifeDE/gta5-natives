@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "573",natives
+        "build": "573",
         "old_names": [
             "_CAN_PAY_GOON"
         ]

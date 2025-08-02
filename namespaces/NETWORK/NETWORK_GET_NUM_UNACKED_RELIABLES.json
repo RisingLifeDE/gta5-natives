@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_GET_NUM_UNACKED_FOR_PLAYER"
         ]

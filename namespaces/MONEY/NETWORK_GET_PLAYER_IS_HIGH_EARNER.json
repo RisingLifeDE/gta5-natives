@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_GET_IS_HIGH_EARNER"
         ]

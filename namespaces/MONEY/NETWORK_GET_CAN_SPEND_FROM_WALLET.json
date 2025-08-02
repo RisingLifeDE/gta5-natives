@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",natives
+        "build": "323",
         "old_names": [
             "_NETWORK_GET_VC_WALLET_BALANCE_IS_NOT_LESS_THAN"
         ]
