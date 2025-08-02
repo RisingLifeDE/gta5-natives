@@ -1,0 +1,22 @@
+{
+    "0x571FEB383F629926": {
+        "name": "SET_CARGOBOB_FORCE_DONT_DETACH_VEHICLE",
+        "jhash": "0x49949FDA",
+        "comment": "Stops cargobob from being able to detach the attached vehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CARGOBOB_HOOK_CAN_DETACH"
+        ]
+    }
+}

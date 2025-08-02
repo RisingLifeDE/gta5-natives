@@ -1,0 +1,10 @@
+{
+    "0x2F9A292AD0A3BD89": {
+        "name": "SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME",
+        "jhash": "0x4CC674B5",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

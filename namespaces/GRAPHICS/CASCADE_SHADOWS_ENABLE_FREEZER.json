@@ -1,0 +1,15 @@
+{
+    "0x0AE73D8DF3A762B2": {
+        "name": "CASCADE_SHADOWS_ENABLE_FREEZER",
+        "jhash": "0x342FA2B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

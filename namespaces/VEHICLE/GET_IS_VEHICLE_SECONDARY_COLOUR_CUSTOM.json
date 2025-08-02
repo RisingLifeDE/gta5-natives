@@ -1,0 +1,15 @@
+{
+    "0x910A32E7AAD2656C": {
+        "name": "GET_IS_VEHICLE_SECONDARY_COLOUR_CUSTOM",
+        "jhash": "0x288AD228",
+        "comment": "Check if Vehicle Secondary is avaliable for customize",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

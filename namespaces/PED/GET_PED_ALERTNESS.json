@@ -1,0 +1,15 @@
+{
+    "0xF6AA118530443FD2": {
+        "name": "GET_PED_ALERTNESS",
+        "jhash": "0xF83E4DAF",
+        "comment": "Returns the ped's alertness (0-3).\n\nValues : \n\n0 : Neutral\n1 : Heard something (gun shot, hit, etc)\n2 : Knows (the origin of the event)\n3 : Fully alerted (is facing the event?)\n\nIf the Ped does not exist, returns -1.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

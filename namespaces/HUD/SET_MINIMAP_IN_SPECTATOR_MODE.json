@@ -1,0 +1,22 @@
+{
+    "0x1A5CD7752DD28CD3": {
+        "name": "SET_MINIMAP_IN_SPECTATOR_MODE",
+        "jhash": "0xD5BFCADB",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "KEY_HUD_COLOUR"
+        ]
+    }
+}

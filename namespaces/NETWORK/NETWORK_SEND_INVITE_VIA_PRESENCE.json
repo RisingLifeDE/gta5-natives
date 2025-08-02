@@ -1,0 +1,30 @@
+{
+    "0xC3C7A6AFDB244624": {
+        "name": "NETWORK_SEND_INVITE_VIA_PRESENCE",
+        "jhash": "0x8B99B72B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "dataCount"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SEND_PRESENCE_INVITE"
+        ]
+    }
+}

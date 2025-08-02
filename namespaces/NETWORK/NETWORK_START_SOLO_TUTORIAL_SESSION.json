@@ -1,0 +1,10 @@
+{
+    "0x17E0198B3882C2CB": {
+        "name": "NETWORK_START_SOLO_TUTORIAL_SESSION",
+        "jhash": "0x408A9436",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

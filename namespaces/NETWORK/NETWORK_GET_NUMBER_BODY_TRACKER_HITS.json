@@ -1,0 +1,13 @@
+{
+    "0xD38C4A6D047C019D": {
+        "name": "NETWORK_GET_NUMBER_BODY_TRACKER_HITS",
+        "jhash": "0x17CBC608",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_NUM_BODY_TRACKERS"
+        ]
+    }
+}

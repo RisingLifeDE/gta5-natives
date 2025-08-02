@@ -1,0 +1,18 @@
+{
+    "0x316DB59CD14C1774": {
+        "name": "PLAYSTATS_BUSINESS_BATTLE_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_PLAYSTATS_BUSINESS_BATTLE_ENDED"
+        ]
+    }
+}

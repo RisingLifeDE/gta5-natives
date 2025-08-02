@@ -1,0 +1,15 @@
+{
+    "0x4FCD976DA686580C": {
+        "name": "DOES_CUTSCENE_HANDLE_EXIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cutsceneHandle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1290"
+    }
+}

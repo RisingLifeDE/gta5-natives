@@ -1,0 +1,18 @@
+{
+    "0x26AF0E8E30BD2A2C": {
+        "name": "IS_PED_OPENING_DOOR",
+        "jhash": "",
+        "comment": "Returns true if the ped is currently opening a door (CTaskOpenDoor).",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_OPENING_A_DOOR"
+        ]
+    }
+}

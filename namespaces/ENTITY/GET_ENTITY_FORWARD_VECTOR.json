@@ -1,0 +1,15 @@
+{
+    "0x0A794A5A57F8DF91": {
+        "name": "GET_ENTITY_FORWARD_VECTOR",
+        "jhash": "0x84DCECBF",
+        "comment": "Gets the entity's forward vector.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

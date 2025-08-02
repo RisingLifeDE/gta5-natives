@@ -1,0 +1,19 @@
+{
+    "0x0AD9E8F87FF7C16F": {
+        "name": "SET_VEHICLE_INFLUENCES_WANTED_LEVEL",
+        "jhash": "0x04F5546C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

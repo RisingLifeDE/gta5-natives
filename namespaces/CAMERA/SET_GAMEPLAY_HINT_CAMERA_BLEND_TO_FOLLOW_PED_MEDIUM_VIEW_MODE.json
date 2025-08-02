@@ -1,0 +1,19 @@
+{
+    "0xE3433EADAAF7EE40": {
+        "name": "SET_GAMEPLAY_HINT_CAMERA_BLEND_TO_FOLLOW_PED_MEDIUM_VIEW_MODE",
+        "jhash": "0x2F0CE859",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "GET_IS_MULTIPLAYER_BRIEF",
+            "_SET_GAMEPLAY_HINT_ANIM_CLOSEUP"
+        ]
+    }
+}

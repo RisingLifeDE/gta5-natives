@@ -1,0 +1,10 @@
+{
+    "0x0626A247D2405330": {
+        "name": "IS_RADIO_FADED_OUT",
+        "jhash": "0x815CAE99",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x2622E35B77D3ACA2": {
+        "name": "SET_PED_WEAPON_MOVEMENT_CLIPSET",
+        "jhash": "0xF8BE54DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

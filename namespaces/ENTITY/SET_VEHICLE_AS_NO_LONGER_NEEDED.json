@@ -1,0 +1,15 @@
+{
+    "0x629BFA74418D6239": {
+        "name": "SET_VEHICLE_AS_NO_LONGER_NEEDED",
+        "jhash": "0x9B0E10BE",
+        "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
+        "params": [
+            {
+                "type": "const Vehicle*",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

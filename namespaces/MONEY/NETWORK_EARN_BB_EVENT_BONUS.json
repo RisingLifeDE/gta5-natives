@@ -1,0 +1,18 @@
+{
+    "0xFDD8D2440DAF1590": {
+        "name": "NETWORK_EARN_BB_EVENT_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_BB_EVENT_BONUS"
+        ]
+    }
+}

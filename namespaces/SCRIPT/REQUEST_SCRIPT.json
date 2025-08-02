@@ -1,0 +1,15 @@
+{
+    "0x6EB5F71AA68F2E8E": {
+        "name": "REQUEST_SCRIPT",
+        "jhash": "0xE26B2666",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x24DA7D7667FD7B09": {
+        "name": "GET_CONTENT_TO_LOAD",
+        "jhash": "",
+        "comment": "Returns pointer to an empty string.",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_GLOBAL_CHAR_BUFFER"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xDFBD93BF2943E29B": {
+        "name": "PLAYSTATS_HEIST3_DRONE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_PLAYSTATS_HEIST3_DRONE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x2432784ACA090DA4": {
+        "name": "IS_FLOATING_HELP_TEXT_ON_SCREEN",
+        "jhash": "0x45472FD5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

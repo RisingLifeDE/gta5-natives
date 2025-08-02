@@ -1,0 +1,31 @@
+{
+    "0x8A7B3952DD64D2B5": {
+        "name": "NETWORK_BUY_FAIRGROUND_RIDE",
+        "jhash": "0xD9622D64",
+        "comment": "The first parameter is the amount spent which is store in a global when this native is called. The global returns 10. Which is the price for both rides.\n\nThe last 3 parameters are, \n2,0,1 in the am_ferriswheel.c\n1,0,1 in the am_rollercoaster.c\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

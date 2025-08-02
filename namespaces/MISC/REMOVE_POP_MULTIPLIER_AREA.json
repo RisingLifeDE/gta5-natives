@@ -1,0 +1,19 @@
+{
+    "0xB129E447A2EDA4BF": {
+        "name": "REMOVE_POP_MULTIPLIER_AREA",
+        "jhash": "0xFBDBE374",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x320C35147D5B5DDD": {
+        "name": "PLAYSTATS_SMUGGLER_MISSION_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_PLAYSTATS_SMUG_MISSION_ENDED"
+        ]
+    }
+}

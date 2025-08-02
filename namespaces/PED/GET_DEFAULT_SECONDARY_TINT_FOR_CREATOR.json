@@ -1,0 +1,18 @@
+{
+    "0xEA9960D07DADCF10": {
+        "name": "GET_DEFAULT_SECONDARY_TINT_FOR_CREATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_DEFAULT_SECONDARY_HAIR_CREATOR_COLOR"
+        ]
+    }
+}

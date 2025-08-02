@@ -1,0 +1,18 @@
+{
+    "0x5F6DF3D92271E8A1": {
+        "name": "DISABLE_DOWNWASH_PTFX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PARTICLE_FX_BLOOD_SCALE"
+        ]
+    }
+}

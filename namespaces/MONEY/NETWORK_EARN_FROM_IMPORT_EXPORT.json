@@ -1,0 +1,19 @@
+{
+    "0xF92A014A634442D6": {
+        "name": "NETWORK_EARN_FROM_IMPORT_EXPORT",
+        "jhash": "0xF11FC458",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

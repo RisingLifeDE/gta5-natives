@@ -1,0 +1,19 @@
+{
+    "0xFA932DE350266EF8": {
+        "name": "USE_SIREN_AS_HORN",
+        "jhash": "0xC6BC16F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

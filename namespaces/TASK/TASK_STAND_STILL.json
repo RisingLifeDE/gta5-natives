@@ -1,0 +1,19 @@
+{
+    "0x919BE13EED931959": {
+        "name": "TASK_STAND_STILL",
+        "jhash": "0x6F80965D",
+        "comment": "Makes the specified ped stand still for (time) milliseconds.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

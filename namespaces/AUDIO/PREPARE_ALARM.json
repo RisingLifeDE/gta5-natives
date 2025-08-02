@@ -1,0 +1,15 @@
+{
+    "0x9D74AE343DB65533": {
+        "name": "PREPARE_ALARM",
+        "jhash": "0x084932E8",
+        "comment": "Example:\n\nbool prepareAlarm = AUDIO::PREPARE_ALARM(\"PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS\");\nFull list of alarm names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/alarmSounds.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "alarmName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

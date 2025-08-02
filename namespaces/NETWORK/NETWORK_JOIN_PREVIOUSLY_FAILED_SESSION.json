@@ -1,0 +1,10 @@
+{
+    "0x59DF79317F85A7E0": {
+        "name": "NETWORK_JOIN_PREVIOUSLY_FAILED_SESSION",
+        "jhash": "0x6CDAA7D2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

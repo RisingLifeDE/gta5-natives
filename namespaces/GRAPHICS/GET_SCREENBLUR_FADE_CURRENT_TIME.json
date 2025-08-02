@@ -1,0 +1,13 @@
+{
+    "0x5CCABFFCA31DDE33": {
+        "name": "GET_SCREENBLUR_FADE_CURRENT_TIME",
+        "jhash": "0xEA432A94",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "IS_PARTICLE_FX_DELAYED_BLINK"
+        ]
+    }
+}

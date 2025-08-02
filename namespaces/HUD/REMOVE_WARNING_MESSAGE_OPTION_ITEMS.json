@@ -1,0 +1,13 @@
+{
+    "0x6EF54AB721DC6242": {
+        "name": "REMOVE_WARNING_MESSAGE_OPTION_ITEMS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_WARNING_MESSAGE_LIST_ITEMS"
+        ]
+    }
+}

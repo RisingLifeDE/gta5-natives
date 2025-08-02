@@ -1,0 +1,35 @@
+{
+    "0xAA295B6F28BD587D": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_AWARD",
+        "jhash": "0x02DED2B8",
+        "comment": "Shows an \"award\" notification above the minimap, example: https://i.imgur.com/e2DNaKX.png\nExample:\n\nHUD::BEGIN_TEXT_COMMAND_THEFEED_POST(\"HUNT\");\nHUD::END_TEXT_COMMAND_THEFEED_POST_AWARD(\"Hunting\", \"Hunting_Gold_128\", 0, 109, \"HUD_MED_UNLKED\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "int",
+                "name": "rpBonus"
+            },
+            {
+                "type": "int",
+                "name": "colorOverlay"
+            },
+            {
+                "type": "const char*",
+                "name": "titleLabel"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_DRAW_NOTIFICATION_ICON",
+            "_DRAW_NOTIFICATION_AWARD"
+        ]
+    }
+}

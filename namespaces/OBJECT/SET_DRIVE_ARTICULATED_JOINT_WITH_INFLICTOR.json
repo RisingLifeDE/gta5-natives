@@ -1,0 +1,30 @@
+{
+    "0xB20834A7DD3D8896": {
+        "name": "SET_DRIVE_ARTICULATED_JOINT_WITH_INFLICTOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_ENABLE_ARENA_PROP_PHYSICS_ON_PED"
+        ]
+    }
+}

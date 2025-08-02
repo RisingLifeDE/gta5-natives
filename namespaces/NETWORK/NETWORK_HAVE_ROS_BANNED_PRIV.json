@@ -1,0 +1,14 @@
+{
+    "0x8020A73847E0CA7D": {
+        "name": "NETWORK_HAVE_ROS_BANNED_PRIV",
+        "jhash": "0xD3BBE42F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_ROCKSTAR_BANNED",
+            "_NETWORK_HAS_PLAYER_BEEN_BANNED"
+        ]
+    }
+}

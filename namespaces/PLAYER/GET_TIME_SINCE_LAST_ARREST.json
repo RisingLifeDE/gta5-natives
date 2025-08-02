@@ -1,0 +1,10 @@
+{
+    "0x5063F92F07C2A316": {
+        "name": "GET_TIME_SINCE_LAST_ARREST",
+        "jhash": "0x62824EF4",
+        "comment": "Returns the time since the character was arrested in (ms) milliseconds.\n\nexample\n\nvar time = Function.call<int>(Hash.GET_TIME_SINCE_LAST_ARREST();\n\nUI.DrawSubtitle(time.ToString());\n\nif player has not been arrested, the int returned will be -1.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

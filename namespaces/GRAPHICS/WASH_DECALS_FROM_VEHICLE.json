@@ -1,0 +1,19 @@
+{
+    "0x5B712761429DBC14": {
+        "name": "WASH_DECALS_FROM_VEHICLE",
+        "jhash": "0x2929F11A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

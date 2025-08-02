@@ -1,0 +1,15 @@
+{
+    "0x0811381EF5062FEC": {
+        "name": "SET_RESTORE_FOCUS_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

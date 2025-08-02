@@ -1,0 +1,18 @@
+{
+    "0xAEF12960FA943792": {
+        "name": "ARE_FOLDING_WINGS_DEPLOYED",
+        "jhash": "",
+        "comment": "Only used with the \"akula\" and \"annihilator2\" in the decompiled native scripts.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1290",
+        "old_names": [
+            "_ARE_HELI_STUB_WINGS_DEPLOYED"
+        ]
+    }
+}

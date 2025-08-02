@@ -1,0 +1,15 @@
+{
+    "0x1C7302E725259789": {
+        "name": "DOES_TEXT_BLOCK_EXIST",
+        "jhash": "0x96F74838",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

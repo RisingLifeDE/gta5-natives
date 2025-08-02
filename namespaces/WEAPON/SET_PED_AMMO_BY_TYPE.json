@@ -1,0 +1,23 @@
+{
+    "0x5FD1E1F011E76D7E": {
+        "name": "SET_PED_AMMO_BY_TYPE",
+        "jhash": "0x311C52BB",
+        "comment": "Ammo types: https://gist.github.com/root-cause/faf41f59f7a6d818b7db0b839bd147c1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoTypeHash"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

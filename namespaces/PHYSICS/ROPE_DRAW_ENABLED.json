@@ -1,0 +1,19 @@
+{
+    "0xA1AE736541B0FCA3": {
+        "name": "ROPE_DRAW_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

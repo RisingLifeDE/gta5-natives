@@ -1,0 +1,19 @@
+{
+    "0xBF22E0F32968E967": {
+        "name": "NETWORK_LEAVE_PED_BEHIND_BEFORE_CUTSCENE",
+        "jhash": "0x22E03AD0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

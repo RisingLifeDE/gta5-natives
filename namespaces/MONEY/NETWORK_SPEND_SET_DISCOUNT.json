@@ -1,0 +1,18 @@
+{
+    "0x7E2F4E8F44CAF4E0": {
+        "name": "NETWORK_SPEND_SET_DISCOUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_NETWORK_SPENT_SALES_DISPLAY"
+        ]
+    }
+}

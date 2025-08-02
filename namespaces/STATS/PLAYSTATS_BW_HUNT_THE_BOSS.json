@@ -1,0 +1,18 @@
+{
+    "0x88087EE1F28024AE": {
+        "name": "PLAYSTATS_BW_HUNT_THE_BOSS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PLAYSTATS_BW_HUNT_THE_BOSS"
+        ]
+    }
+}

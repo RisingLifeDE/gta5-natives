@@ -1,0 +1,19 @@
+{
+    "0x487EB21CC7295BA1": {
+        "name": "SET_VEHICLE_WHEEL_TYPE",
+        "jhash": "0x64BDAAAD",
+        "comment": "0: Sport\n1: Muscle\n2: Lowrider\n3: SUV\n4: Offroad\n5: Tuner\n6: Bike Wheels\n7: High End\n8: Benny's Originals\n9: Benny's Bespoke\n10: Racing\n11: Street\n12: Track",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "WheelType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

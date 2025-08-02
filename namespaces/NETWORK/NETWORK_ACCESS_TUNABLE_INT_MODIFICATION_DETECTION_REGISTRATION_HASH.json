@@ -1,0 +1,26 @@
+{
+    "0x3A8B55FDA4C8DDEF": {
+        "name": "NETWORK_ACCESS_TUNABLE_INT_MODIFICATION_DETECTION_REGISTRATION_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            },
+            {
+                "type": "Hash",
+                "name": "nameHash"
+            },
+            {
+                "type": "int*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "393",
+        "old_names": [
+            "_NETWORK_REGISTER_TUNABLE_INT_HASH"
+        ]
+    }
+}

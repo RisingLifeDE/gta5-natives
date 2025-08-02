@@ -1,0 +1,22 @@
+{
+    "0xE301BD63E9E13CF0": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_SET_TARGETED_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_CARGOBOB_PICKUP_MAGNET_REDUCED_STRENGTH"
+        ]
+    }
+}

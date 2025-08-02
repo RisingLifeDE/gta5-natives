@@ -1,0 +1,13 @@
+{
+    "0xAF754F20EB5CD51A": {
+        "name": "IS_MINIMAP_RENDERING",
+        "jhash": "0x9CD18314",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_RADAR_ENABLED"
+        ]
+    }
+}

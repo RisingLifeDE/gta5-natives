@@ -1,0 +1,19 @@
+{
+    "0x45FF974EEE1C8734": {
+        "name": "SET_BLIP_ALPHA",
+        "jhash": "0xA791FCCD",
+        "comment": "Sets alpha-channel for blip color.\n\nExample:\n\nBlip blip = HUD::ADD_BLIP_FOR_ENTITY(entity);\nHUD::SET_BLIP_COLOUR(blip , 3);\nHUD::SET_BLIP_ALPHA(blip , 64);\n",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x32C27A11307B01CC": {
+        "name": "GET_PED_TARGET_FROM_COMBAT_PED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "2372",
+        "old_names": [
+            "_GET_PED_TASK_COMBAT_TARGET"
+        ]
+    }
+}

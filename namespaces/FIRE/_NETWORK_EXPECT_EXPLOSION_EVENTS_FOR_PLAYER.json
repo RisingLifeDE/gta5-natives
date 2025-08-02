@@ -1,0 +1,19 @@
+{
+    "0x5241DB47A8B8AD54": {
+        "name": "_NETWORK_EXPECT_EXPLOSION_EVENTS_FOR_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "expect"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

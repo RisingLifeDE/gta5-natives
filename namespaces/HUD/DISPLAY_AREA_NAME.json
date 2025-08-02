@@ -1,0 +1,15 @@
+{
+    "0x276B6CE369C33678": {
+        "name": "DISPLAY_AREA_NAME",
+        "jhash": "0x489FDD41",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

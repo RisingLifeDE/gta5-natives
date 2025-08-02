@@ -1,0 +1,27 @@
+{
+    "0xA4A0065E39C9F25C": {
+        "name": "GET_SAVE_HOUSE_DETAILS_AFTER_SUCCESSFUL_LOAD",
+        "jhash": "0xC4D71AB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "p0"
+            },
+            {
+                "type": "float*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL*",
+                "name": "fadeInAfterLoad"
+            },
+            {
+                "type": "BOOL*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

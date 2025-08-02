@@ -1,0 +1,19 @@
+{
+    "0x02C40BF885C567B6": {
+        "name": "NETWORK_GET_LOCAL_SCENE_FROM_NETWORK_ID",
+        "jhash": "0x16AED87B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_UNLINK_NETWORKED_SYNCHRONISED_SCENE",
+            "_NETWORK_CONVERT_SYNCHRONISED_SCENE_TO_SYNCHRONIZED_SCENE"
+        ]
+    }
+}

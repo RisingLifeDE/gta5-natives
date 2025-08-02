@@ -1,0 +1,10 @@
+{
+    "0xBD605B8E0E18B3BB": {
+        "name": "DISABLE_SWITCH_OUTRO_FX",
+        "jhash": "0x59CC312D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

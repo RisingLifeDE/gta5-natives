@@ -1,0 +1,19 @@
+{
+    "0xCADA5A0D0702381E": {
+        "name": "PLAY_DEFERRED_SOUND_FRONTEND",
+        "jhash": "0xC70E6CFA",
+        "comment": "Only call found in the b617d scripts:\n\nAUDIO::PLAY_DEFERRED_SOUND_FRONTEND(\"BACK\", \"HUD_FREEMODE_SOUNDSET\");\n\nFull list of audio / sound names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/soundNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

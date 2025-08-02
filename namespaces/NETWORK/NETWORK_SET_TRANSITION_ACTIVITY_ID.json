@@ -1,0 +1,15 @@
+{
+    "0x30DE938B516F0AD2": {
+        "name": "NETWORK_SET_TRANSITION_ACTIVITY_ID",
+        "jhash": "0xCCA9C022",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

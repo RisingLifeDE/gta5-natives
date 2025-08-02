@@ -1,0 +1,10 @@
+{
+    "0xC545AB1CF97ABB34": {
+        "name": "IS_SCARLETT_VERSION",
+        "jhash": "",
+        "comment": "Xbox Series (Scarlett) version...",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

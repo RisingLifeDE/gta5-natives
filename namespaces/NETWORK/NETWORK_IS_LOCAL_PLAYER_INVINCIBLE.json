@@ -1,0 +1,10 @@
+{
+    "0x8A8694B48715B000": {
+        "name": "NETWORK_IS_LOCAL_PLAYER_INVINCIBLE",
+        "jhash": "0x8DE13B36",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

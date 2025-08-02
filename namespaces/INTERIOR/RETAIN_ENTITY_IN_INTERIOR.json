@@ -1,0 +1,19 @@
+{
+    "0x82EBB79E258FA2B7": {
+        "name": "RETAIN_ENTITY_IN_INTERIOR",
+        "jhash": "0xE645E162",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

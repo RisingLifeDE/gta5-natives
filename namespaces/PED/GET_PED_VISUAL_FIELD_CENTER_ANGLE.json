@@ -1,0 +1,18 @@
+{
+    "0xEF2C71A32CAD5FBD": {
+        "name": "GET_PED_VISUAL_FIELD_CENTER_ANGLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1493",
+        "old_names": [
+            "_GET_PED_VISUAL_FIELD_CENTER_ANGLE"
+        ]
+    }
+}

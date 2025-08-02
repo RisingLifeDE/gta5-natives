@@ -1,0 +1,19 @@
+{
+    "0x4102C7858CFEE4E4": {
+        "name": "SET_GROUP_SEPARATION_RANGE",
+        "jhash": "0x7B820CD5",
+        "comment": "Sets the range at which members will automatically leave the group.",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupHandle"
+            },
+            {
+                "type": "float",
+                "name": "separationRange"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF44A5456AC3F4F97": {
+        "name": "REMOVE_SCALEFORM_SCRIPT_HUD_MOVIE",
+        "jhash": "0x03D87600",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudComponent"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

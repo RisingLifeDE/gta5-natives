@@ -1,0 +1,19 @@
+{
+    "0xF78F94D60248C737": {
+        "name": "ARE_PLANE_CONTROL_PANELS_INTACT",
+        "jhash": "0x3B51B348",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

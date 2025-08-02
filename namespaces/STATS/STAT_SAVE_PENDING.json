@@ -1,0 +1,10 @@
+{
+    "0x7D3A583856F2C5AC": {
+        "name": "STAT_SAVE_PENDING",
+        "jhash": "0xC3FD3822",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA2459F72C14E2E8D": {
+        "name": "GET_IS_VEHICLE_SHUNTING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_GET_IS_VEHICLE_SHUNT_BOOST_ACTIVE"
+        ]
+    }
+}

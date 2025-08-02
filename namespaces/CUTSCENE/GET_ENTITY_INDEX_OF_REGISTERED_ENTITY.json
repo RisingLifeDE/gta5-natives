@@ -1,0 +1,19 @@
+{
+    "0xC0741A26499654CD": {
+        "name": "GET_ENTITY_INDEX_OF_REGISTERED_ENTITY",
+        "jhash": "0x46D18755",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323"
+    }
+}

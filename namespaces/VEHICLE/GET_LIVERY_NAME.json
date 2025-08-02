@@ -1,0 +1,19 @@
+{
+    "0xB4C7A93837C91A1F": {
+        "name": "GET_LIVERY_NAME",
+        "jhash": "0xED80B5BE",
+        "comment": "Returns the text label of the vehicle's liveryIndex, as specified by the liveryNames section of the vehicle's modkit data in the carcols file.\n\nexample \n\nint count = VEHICLE::GET_VEHICLE_LIVERY_COUNT(veh);\nfor (int i = 0; i < count; i++)  \n  {\n     const char* LiveryName = VEHICLE::GET_LIVERY_NAME(veh, i);\n  }\n\n\nthis example will work fine to fetch all names \nfor example for Sanchez we get \n\nSANC_LV1\nSANC_LV2\nSANC_LV3\nSANC_LV4\nSANC_LV5\n\n\nUse GET_FILENAME_FOR_AUDIO_CONVERSATION, to get the localized livery name.\n\nFull list of vehicle mod kits and mods by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleModKits.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "liveryIndex"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

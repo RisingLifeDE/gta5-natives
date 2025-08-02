@@ -1,0 +1,23 @@
+{
+    "0xD47A2C1BA117471D": {
+        "name": "NET_GAMESERVER_TRANSFER_BANK_TO_WALLET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "charSlot"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_TRANSFER_BANK_TO_WALLET",
+            "_NET_GAMESERVER_TRANSFER_BANK_TO_WALLET"
+        ]
+    }
+}

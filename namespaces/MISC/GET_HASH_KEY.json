@@ -1,0 +1,15 @@
+{
+    "0xD24D37CC275948CC": {
+        "name": "GET_HASH_KEY",
+        "jhash": "0x98EFF6F1",
+        "comment": "This native converts its past string to hash. It is hashed using jenkins one at a time method.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x098760C7461724CD": {
+        "name": "PLAYSTATS_STARTED_SESSION_IN_OFFLINEMODE",
+        "jhash": "0x896CDF8D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

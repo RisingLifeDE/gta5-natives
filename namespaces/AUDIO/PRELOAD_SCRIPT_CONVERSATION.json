@@ -1,0 +1,27 @@
+{
+    "0x3B3CAD6166916D87": {
+        "name": "PRELOAD_SCRIPT_CONVERSATION",
+        "jhash": "0xDDF5C579",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

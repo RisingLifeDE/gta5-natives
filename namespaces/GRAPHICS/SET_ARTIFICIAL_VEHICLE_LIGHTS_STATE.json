@@ -1,0 +1,18 @@
+{
+    "0xE2B187C0939B3D32": {
+        "name": "SET_ARTIFICIAL_VEHICLE_LIGHTS_STATE",
+        "jhash": "",
+        "comment": "If \"blackout\" is enabled, this native allows you to ignore \"blackout\" for vehicles.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_SET_ARTIFICIAL_LIGHTS_STATE_AFFECTS_VEHICLES"
+        ]
+    }
+}

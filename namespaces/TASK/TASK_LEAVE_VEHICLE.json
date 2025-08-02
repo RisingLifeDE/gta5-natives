@@ -1,0 +1,23 @@
+{
+    "0xD3DBCE61A490BE02": {
+        "name": "TASK_LEAVE_VEHICLE",
+        "jhash": "0x7B1141C6",
+        "comment": "Flags from decompiled scripts:\n0 = normal exit and closes door.\n1 = normal exit and closes door.\n16 = teleports outside, door kept closed.\n64 = normal exit and closes door, maybe a bit slower animation than 0.\n256 = normal exit but does not close the door.\n4160 = ped is throwing himself out, even when the vehicle is still.\n262144 = ped moves to passenger seat first, then exits normally\n\nOthers to be tried out: 320, 512, 131072.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

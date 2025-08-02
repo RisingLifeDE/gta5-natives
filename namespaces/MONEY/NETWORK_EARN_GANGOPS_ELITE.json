@@ -1,0 +1,26 @@
+{
+    "0x2597A0D4A4FC2C77": {
+        "name": "NETWORK_EARN_GANGOPS_ELITE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "actIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_GANGOPS_ELITE"
+        ]
+    }
+}

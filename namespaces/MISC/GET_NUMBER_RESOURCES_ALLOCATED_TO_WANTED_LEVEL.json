@@ -1,0 +1,19 @@
+{
+    "0xEB4A0C2D56441717": {
+        "name": "GET_NUMBER_RESOURCES_ALLOCATED_TO_WANTED_LEVEL",
+        "jhash": "0x3CE5BF6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "dispatchService"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUMBER_OF_DISPATCHED_UNITS_FOR_PLAYER",
+            "_GET_NUM_DISPATCHED_UNITS_FOR_PLAYER"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x02398B627547189C": {
+        "name": "SET_VEHICLE_HAS_BEEN_DRIVEN_FLAG",
+        "jhash": "0x08CD58F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

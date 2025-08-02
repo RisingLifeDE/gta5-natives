@@ -1,0 +1,18 @@
+{
+    "0x66E49BF55B4B1874": {
+        "name": "IS_MISSION_NEWS_STORY_UNLOCKED",
+        "jhash": "0x27305D37",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "newsStory"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "GET_NUMBER_OF_PASSENGER_VOICE_VARIATIONS"
+        ]
+    }
+}

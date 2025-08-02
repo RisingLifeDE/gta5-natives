@@ -1,0 +1,26 @@
+{
+    "0x80C2FD58D720C801": {
+        "name": "GET_CONTROL_GROUP_INSTRUCTIONAL_BUTTONS_STRING",
+        "jhash": "",
+        "comment": "control: unused parameter",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "controlGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowXOSwap"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "GET_CONTROL_GROUP_INSTRUCTIONAL_BUTTON"
+        ]
+    }
+}

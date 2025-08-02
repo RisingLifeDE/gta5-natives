@@ -1,0 +1,15 @@
+{
+    "0xA0EBB943C300E693": {
+        "name": "DISPLAY_RADAR",
+        "jhash": "0x52816BD4",
+        "comment": "If Minimap / Radar should be displayed.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

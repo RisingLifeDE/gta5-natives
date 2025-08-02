@@ -1,0 +1,22 @@
+{
+    "0x9FD452BFBE7A7A8B": {
+        "name": "GET_PED_DECORATION_ZONE_FROM_HASHES",
+        "jhash": "0x3543019E",
+        "comment": "Returns the zoneID for the overlay if it is a member of collection.\nenum ePedDecorationZone\n{\n\tZONE_TORSO = 0,\n\tZONE_HEAD = 1,\n\tZONE_LEFT_ARM = 2,\n\tZONE_RIGHT_ARM = 3,\n\tZONE_LEFT_LEG = 4,\n\tZONE_RIGHT_LEG = 5,\n\tZONE_MEDALS = 6,\n\tZONE_INVALID = 7\n};\n\nFull list of ped overlays / decorations by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedOverlayCollections.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collection"
+            },
+            {
+                "type": "Hash",
+                "name": "overlay"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_TATTOO_ZONE"
+        ]
+    }
+}

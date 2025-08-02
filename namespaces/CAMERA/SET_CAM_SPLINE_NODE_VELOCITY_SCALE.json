@@ -1,0 +1,23 @@
+{
+    "0xA6385DEB180F319F": {
+        "name": "SET_CAM_SPLINE_NODE_VELOCITY_SCALE",
+        "jhash": "0xA3BD9E94",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

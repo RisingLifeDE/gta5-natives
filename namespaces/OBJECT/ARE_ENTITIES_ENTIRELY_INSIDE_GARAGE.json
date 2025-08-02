@@ -1,0 +1,31 @@
+{
+    "0x85B6C850546FDDE2": {
+        "name": "ARE_ENTITIES_ENTIRELY_INSIDE_GARAGE",
+        "jhash": "0x4BD59750",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF98E4B3E56AFC7B1": {
+        "name": "SET_RADAR_ZOOM_TO_BLIP",
+        "jhash": "0x25EC28C0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

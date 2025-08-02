@@ -1,0 +1,13 @@
+{
+    "0xADFF1B2A555F5FBA": {
+        "name": "DISABLE_CINEMATIC_BONNET_CAMERA_THIS_UPDATE",
+        "jhash": "0x5AC6DAC9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_VEHICLE_FIRST_PERSON_CAM_THIS_FRAME"
+        ]
+    }
+}

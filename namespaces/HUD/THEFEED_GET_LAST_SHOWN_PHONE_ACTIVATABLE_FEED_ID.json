@@ -1,0 +1,15 @@
+{
+    "0x82352748437638CA": {
+        "name": "THEFEED_GET_LAST_SHOWN_PHONE_ACTIVATABLE_FEED_ID",
+        "jhash": "0x294405D4",
+        "comment": "Returns the handle for the notification currently displayed on the screen. Name may be a hash collision, but describes the function accurately.",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_CURRENT_NOTIFICATION",
+            "_THEFEED_GET_CURRENT_NOTIFICATION",
+            "THEFEED_GET_FIRST_VISIBLE_DELETE_REMAINING"
+        ]
+    }
+}

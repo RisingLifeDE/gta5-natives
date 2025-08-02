@@ -1,0 +1,15 @@
+{
+    "0x5FC472C501CCADB3": {
+        "name": "GET_IS_PLAYER_DRIVING_ON_HIGHWAY",
+        "jhash": "0x46E7E31D",
+        "comment": "Appears once in \"re_dealgonewrong\"",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

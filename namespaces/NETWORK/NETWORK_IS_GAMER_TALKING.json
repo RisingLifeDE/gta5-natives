@@ -1,0 +1,15 @@
+{
+    "0x71C33B22606CD88A": {
+        "name": "NETWORK_IS_GAMER_TALKING",
+        "jhash": "0x99B58DBC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

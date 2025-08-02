@@ -1,0 +1,18 @@
+{
+    "0xF6B170F9A02E9E87": {
+        "name": "NETWORK_EARN_BOUNTY_HUNTER_REWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_NETWORK_EARN_BOUNTY_HUNTER_REWARD"
+        ]
+    }
+}

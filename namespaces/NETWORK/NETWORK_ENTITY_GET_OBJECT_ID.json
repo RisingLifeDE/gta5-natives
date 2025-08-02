@@ -1,0 +1,18 @@
+{
+    "0x815F18AD865F057F": {
+        "name": "NETWORK_ENTITY_GET_OBJECT_ID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_NETWORK_GET_ENTITY_NET_SCRIPT_ID"
+        ]
+    }
+}

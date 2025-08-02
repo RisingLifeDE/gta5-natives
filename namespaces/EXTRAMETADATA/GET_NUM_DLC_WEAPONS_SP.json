@@ -1,0 +1,13 @@
+{
+    "0x4160B65AE085B5A9": {
+        "name": "GET_NUM_DLC_WEAPONS_SP",
+        "jhash": "",
+        "comment": "Returns the total number of DLC weapons that are available in SP (availableInSP field in shop_weapon.meta).",
+        "params": [],
+        "return_type": "int",
+        "build": "2060",
+        "old_names": [
+            "_GET_NUM_DLC_WEAPONS_SP"
+        ]
+    }
+}

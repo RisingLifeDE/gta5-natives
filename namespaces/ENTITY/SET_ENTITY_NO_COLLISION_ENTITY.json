@@ -1,0 +1,23 @@
+{
+    "0xA53ED5520C07654A": {
+        "name": "SET_ENTITY_NO_COLLISION_ENTITY",
+        "jhash": "0x1E11BFE9",
+        "comment": "Calling this function disables collision between two entities.\nThe importance of the order for entity1 and entity2 is unclear.\nThe third parameter, `thisFrame`, decides whether the collision is to be disabled until it is turned back on, or if it's just this frame.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "BOOL",
+                "name": "thisFrameOnly"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

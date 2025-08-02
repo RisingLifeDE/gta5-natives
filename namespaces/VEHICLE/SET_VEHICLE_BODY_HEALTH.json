@@ -1,0 +1,19 @@
+{
+    "0xB77D05AC8C78AADB": {
+        "name": "SET_VEHICLE_BODY_HEALTH",
+        "jhash": "0x920C2517",
+        "comment": "p2 often set to 1000.0 in the decompiled scripts.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

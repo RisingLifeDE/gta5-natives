@@ -1,0 +1,22 @@
+{
+    "0xA2A707979FE754DC": {
+        "name": "SET_NETWORK_VEHICLE_MAX_POSITION_DELTA_MULTIPLIER",
+        "jhash": "",
+        "comment": "rage::netBlenderLinInterp::GetPositionMaxForUpdateLevel",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_NETWORK_VEHICLE_POSITION_UPDATE_MULTIPLIER"
+        ]
+    }
+}

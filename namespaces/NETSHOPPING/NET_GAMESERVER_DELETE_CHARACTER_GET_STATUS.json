@@ -1,0 +1,13 @@
+{
+    "0x0A6D923DFFC9BD89": {
+        "name": "NET_GAMESERVER_DELETE_CHARACTER_GET_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_DELETE_CHARACTER_SLOT_GET_STATUS"
+        ]
+    }
+}

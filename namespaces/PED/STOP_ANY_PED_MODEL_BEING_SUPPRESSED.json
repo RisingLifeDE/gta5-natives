@@ -1,0 +1,10 @@
+{
+    "0xB47BD05FA66B40CF": {
+        "name": "STOP_ANY_PED_MODEL_BEING_SUPPRESSED",
+        "jhash": "0x5AD7DC55",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

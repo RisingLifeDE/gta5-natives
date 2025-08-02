@@ -1,0 +1,26 @@
+{
+    "0xB8322EEB38BE7C26": {
+        "name": "UGC_GET_GET_BY_CONTENT_IDS",
+        "jhash": "0x22C33603",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataCount"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_BALANCE_ADD_MACHINES"
+        ]
+    }
+}

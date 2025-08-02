@@ -1,0 +1,15 @@
+{
+    "0x66680A92700F43DF": {
+        "name": "HAS_PED_PRELOAD_VARIATION_DATA_FINISHED",
+        "jhash": "0xC6517D52",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

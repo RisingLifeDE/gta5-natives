@@ -1,0 +1,19 @@
+{
+    "0x56A3B51944C50598": {
+        "name": "NETWORK_RECEIVE_PLAYER_JOBSHARE_CASH",
+        "jhash": "0x4ED71C1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

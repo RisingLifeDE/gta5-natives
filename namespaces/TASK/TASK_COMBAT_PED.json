@@ -1,0 +1,27 @@
+{
+    "0xF166E48407BAC484": {
+        "name": "TASK_COMBAT_PED",
+        "jhash": "0xCB0D8932",
+        "comment": "Makes the specified ped attack the target ped.\np2 should be 0\np3 should be 16",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "int",
+                "name": "combatFlags"
+            },
+            {
+                "type": "int",
+                "name": "threatResponseFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

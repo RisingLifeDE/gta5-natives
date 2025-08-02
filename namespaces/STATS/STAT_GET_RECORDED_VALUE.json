@@ -1,0 +1,18 @@
+{
+    "0xF11F01D98113536A": {
+        "name": "STAT_GET_RECORDED_VALUE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_PROGRESS_OF_TRACKED_STAT"
+        ]
+    }
+}

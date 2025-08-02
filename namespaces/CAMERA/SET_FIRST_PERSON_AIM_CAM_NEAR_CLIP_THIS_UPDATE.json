@@ -1,0 +1,18 @@
+{
+    "0x0AF7B437918103B3": {
+        "name": "SET_FIRST_PERSON_AIM_CAM_NEAR_CLIP_THIS_UPDATE",
+        "jhash": "0x0E21069D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_FIRST_PERSON_CAM_NEAR_CLIP"
+        ]
+    }
+}

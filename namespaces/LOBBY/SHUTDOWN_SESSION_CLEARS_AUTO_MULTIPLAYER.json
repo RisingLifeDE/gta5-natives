@@ -1,0 +1,15 @@
+{
+    "0xFA1E0E893D915215": {
+        "name": "SHUTDOWN_SESSION_CLEARS_AUTO_MULTIPLAYER",
+        "jhash": "0x5C350D78",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

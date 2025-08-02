@@ -1,0 +1,19 @@
+{
+    "0xA731F608CA104E3C": {
+        "name": "SET_DRIVER_AGGRESSIVENESS",
+        "jhash": "0x8B02A8FB",
+        "comment": "range 0.0f - 1.0f",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "aggressiveness"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

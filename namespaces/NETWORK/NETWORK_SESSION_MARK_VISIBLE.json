@@ -1,0 +1,15 @@
+{
+    "0x271CC6AB59EBF9A5": {
+        "name": "NETWORK_SESSION_MARK_VISIBLE",
+        "jhash": "0x7017257D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

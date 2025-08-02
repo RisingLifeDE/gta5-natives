@@ -1,0 +1,19 @@
+{
+    "0xA660FAF550EB37E5": {
+        "name": "SET_PED_CLOTH_PRONE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

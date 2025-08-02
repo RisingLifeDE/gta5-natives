@@ -1,0 +1,27 @@
+{
+    "0x142A02425FF02BD9": {
+        "name": "TASK_START_SCENARIO_IN_PLACE",
+        "jhash": "0xE50D6DDE",
+        "comment": "Plays a scenario on a Ped at their current location.\n\nunkDelay - Usually 0 or -1, doesn't seem to have any effect. Might be a delay between sequences.\nplayEnterAnim - Plays the \"Enter\" anim if true, otherwise plays the \"Exit\" anim. Scenarios that don't have any \"Enter\" anims won't play if this is set to true.\n\n----\n\nFrom \"am_hold_up.ysc.c4\" at line 339:\n\nTASK::TASK_START_SCENARIO_IN_PLACE(NETWORK::NET_TO_PED(l_8D._f4), sub_adf(), 0, 1);\n\nI'm unsure of what the last two parameters are, however sub_adf() randomly returns 1 of 3 scenarios, those being:\nWORLD_HUMAN_SMOKING\nWORLD_HUMAN_HANG_OUT_STREET\nWORLD_HUMAN_STAND_MOBILE\n\nThis makes sense, as these are what I commonly see when going by a liquor store.\n-------------------------\nList of scenarioNames: https://pastebin.com/6mrYTdQv\n(^ Thank you so fucking much for this)\n\nAlso these:\nWORLD_FISH_FLEE\nDRIVE\nWORLD_HUMAN_HIKER\nWORLD_VEHICLE_ATTRACTOR\nWORLD_VEHICLE_BICYCLE_MOUNTAIN\nWORLD_VEHICLE_BIKE_OFF_ROAD_RACE\nWORLD_VEHICLE_BIKER\nWORLD_VEHICLE_CONSTRUCTION_PASSENGERS\nWORLD_VEHICLE_CONSTRUCTION_SOLO\nWORLD_VEHICLE_DRIVE_PASSENGERS\nWORLD_VEHICLE_DRIVE_SOLO\nWORLD_VEHICLE_EMPTY\nWORLD_VEHICLE_PARK_PARALLEL\nWORLD_VEHICLE_PARK_PERPENDICULAR_NOSE_IN\nWORLD_VEHICLE_POLICE_BIKE\nWORLD_VEHICLE_POLICE_CAR\nWORLD_VEHICLE_POLICE_NEXT_TO_CAR\nWORLD_VEHICLE_SALTON_DIRT_BIKE\nWORLD_VEHICLE_TRUCK_LOGS\n\nFull list of ped scenarios by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenariosCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "scenarioName"
+            },
+            {
+                "type": "int",
+                "name": "unkDelay"
+            },
+            {
+                "type": "BOOL",
+                "name": "playEnterAnim"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

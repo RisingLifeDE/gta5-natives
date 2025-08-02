@@ -1,0 +1,35 @@
+{
+    "0x918B101666F9CB83": {
+        "name": "LEADERBOARDS2_READ_FRIENDS_BY_ROW",
+        "jhash": "0xBD91B136",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

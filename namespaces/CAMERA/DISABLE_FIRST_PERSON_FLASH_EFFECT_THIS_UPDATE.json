@@ -1,0 +1,10 @@
+{
+    "0x59424BD75174C9B1": {
+        "name": "DISABLE_FIRST_PERSON_FLASH_EFFECT_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

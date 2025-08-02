@@ -1,0 +1,10 @@
+{
+    "0x5DC577201723960A": {
+        "name": "NETWORK_IS_TRANSITION_SOLO",
+        "jhash": "0x063DC4A5",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

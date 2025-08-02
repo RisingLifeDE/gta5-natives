@@ -1,0 +1,19 @@
+{
+    "0x10C2FA78D0E128A1": {
+        "name": "REGISTER_ENUM_TO_SAVE",
+        "jhash": "0x9B38374A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

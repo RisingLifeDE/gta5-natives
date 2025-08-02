@@ -1,0 +1,19 @@
+{
+    "0x100CD221F572F6E1": {
+        "name": "_SET_PED_SURVIVES_BEING_OUT_OF_WATER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

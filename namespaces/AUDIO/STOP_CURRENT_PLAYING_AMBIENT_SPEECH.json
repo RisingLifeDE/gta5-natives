@@ -1,0 +1,15 @@
+{
+    "0xB8BEC0CA6F0EDB0F": {
+        "name": "STOP_CURRENT_PLAYING_AMBIENT_SPEECH",
+        "jhash": "0xBB8E64BF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

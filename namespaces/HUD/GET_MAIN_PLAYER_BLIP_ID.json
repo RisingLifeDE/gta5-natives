@@ -1,0 +1,10 @@
+{
+    "0xDCD4EC3F419D02FA": {
+        "name": "GET_MAIN_PLAYER_BLIP_ID",
+        "jhash": "0xAB93F020",
+        "comment": "",
+        "params": [],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

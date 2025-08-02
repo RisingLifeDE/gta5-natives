@@ -1,0 +1,38 @@
+{
+    "0xBA3D65906822BED5": {
+        "name": "SET_HIDOF_OVERRIDE",
+        "jhash": "0x513D444B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "nearplaneOut"
+            },
+            {
+                "type": "float",
+                "name": "nearplaneIn"
+            },
+            {
+                "type": "float",
+                "name": "farplaneOut"
+            },
+            {
+                "type": "float",
+                "name": "farplaneIn"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_HIDOF_ENV_BLUR_PARAMS"
+        ]
+    }
+}

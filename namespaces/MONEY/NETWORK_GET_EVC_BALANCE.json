@@ -1,0 +1,10 @@
+{
+    "0x5D1E75F91C07DEE5": {
+        "name": "NETWORK_GET_EVC_BALANCE",
+        "jhash": "0xF1EDB7F4",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

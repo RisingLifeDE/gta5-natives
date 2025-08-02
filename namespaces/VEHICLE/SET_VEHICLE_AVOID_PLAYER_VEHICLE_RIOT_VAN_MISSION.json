@@ -1,0 +1,15 @@
+{
+    "0xD3301660A57C9272": {
+        "name": "SET_VEHICLE_AVOID_PLAYER_VEHICLE_RIOT_VAN_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

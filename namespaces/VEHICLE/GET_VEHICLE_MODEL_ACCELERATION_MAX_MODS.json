@@ -1,0 +1,19 @@
+{
+    "0x53409B5163D5B846": {
+        "name": "GET_VEHICLE_MODEL_ACCELERATION_MAX_MODS",
+        "jhash": "0x37FBA7BC",
+        "comment": "9.8 * thrust if air vehicle, else 0.38 + drive force?\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_DOWN_FORCE",
+            "_GET_VEHICLE_MODEL_ESTIMATED_AGILITY"
+        ]
+    }
+}

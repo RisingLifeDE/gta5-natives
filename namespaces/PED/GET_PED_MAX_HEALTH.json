@@ -1,0 +1,15 @@
+{
+    "0x4700A416E8324EF3": {
+        "name": "GET_PED_MAX_HEALTH",
+        "jhash": "0xA45B6C8D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

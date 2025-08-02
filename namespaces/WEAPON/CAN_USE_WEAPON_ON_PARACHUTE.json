@@ -1,0 +1,15 @@
+{
+    "0xBC7BE5ABC0879F74": {
+        "name": "CAN_USE_WEAPON_ON_PARACHUTE",
+        "jhash": "0x135E7AD4",
+        "comment": "this returns if you can use the weapon while using a parachute\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

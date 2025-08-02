@@ -1,0 +1,15 @@
+{
+    "0x15D757606D170C3C": {
+        "name": "GET_ENTITY_MAX_HEALTH",
+        "jhash": "0xC7AE6AA1",
+        "comment": "Return an integer value of entity's maximum health.\n\nExample:\n- Player = 200\n- Ped = 150",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

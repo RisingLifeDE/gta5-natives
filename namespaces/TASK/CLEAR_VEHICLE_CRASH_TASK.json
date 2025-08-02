@@ -1,0 +1,15 @@
+{
+    "0x53DDC75BC3AC0A90": {
+        "name": "CLEAR_VEHICLE_CRASH_TASK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

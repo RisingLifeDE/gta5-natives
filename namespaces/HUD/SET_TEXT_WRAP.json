@@ -1,0 +1,19 @@
+{
+    "0x63145D9C883A1A70": {
+        "name": "SET_TEXT_WRAP",
+        "jhash": "0x6F60AB54",
+        "comment": "It sets the text in a specified box and wraps the text if it exceeds the boundries. Both values are for X axis. Useful when positioning text set to center or aligned to the right.\n\nstart - left boundry on screen position (0.0 - 1.0)\nend - right boundry on screen position (0.0 - 1.0)",
+        "params": [
+            {
+                "type": "float",
+                "name": "start"
+            },
+            {
+                "type": "float",
+                "name": "end"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

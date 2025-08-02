@@ -1,0 +1,15 @@
+{
+    "0x703F12425ECA8BF5": {
+        "name": "UGC_GET_CONTENT_USER_NAME",
+        "jhash": "0xB9137BA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

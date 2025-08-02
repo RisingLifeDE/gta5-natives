@@ -1,0 +1,19 @@
+{
+    "0x6C4D0409BA1A2BC2": {
+        "name": "GET_PED_LAST_WEAPON_IMPACT_COORD",
+        "jhash": "0x9B266079",
+        "comment": "Pass ped. Pass address of Vector3.\nThe coord will be put into the Vector3.\nThe return will determine whether there was a coord found or not.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vector3*",
+                "name": "coords"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

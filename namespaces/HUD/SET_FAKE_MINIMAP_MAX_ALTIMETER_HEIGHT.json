@@ -1,0 +1,27 @@
+{
+    "0xD201F3FF917A506D": {
+        "name": "SET_FAKE_MINIMAP_MAX_ALTIMETER_HEIGHT",
+        "jhash": "0x0308EDF6",
+        "comment": "Argument must be 0.0f or above 38.0f, or it will be ignored.",
+        "params": [
+            {
+                "type": "float",
+                "name": "altitude"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MINIMAP_ATTITUDE_INDICATOR_LEVEL",
+            "_SET_MINIMAP_ALTITUDE_INDICATOR_LEVEL"
+        ]
+    }
+}

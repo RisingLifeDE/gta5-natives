@@ -1,0 +1,23 @@
+{
+    "0x53158863FCC0893A": {
+        "name": "GET_BITS_IN_RANGE",
+        "jhash": "0xCA03A1E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "var"
+            },
+            {
+                "type": "int",
+                "name": "rangeStart"
+            },
+            {
+                "type": "int",
+                "name": "rangeEnd"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

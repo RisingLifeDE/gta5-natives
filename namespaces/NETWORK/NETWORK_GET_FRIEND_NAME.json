@@ -1,0 +1,15 @@
+{
+    "0xE11EBBB2A783FE8B": {
+        "name": "NETWORK_GET_FRIEND_NAME",
+        "jhash": "0x97420B6D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "friendIndex"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

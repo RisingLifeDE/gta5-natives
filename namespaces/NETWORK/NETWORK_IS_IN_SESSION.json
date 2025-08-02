@@ -1,0 +1,10 @@
+{
+    "0xCA97246103B63917": {
+        "name": "NETWORK_IS_IN_SESSION",
+        "jhash": "0x4BC4105E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

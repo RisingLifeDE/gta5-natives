@@ -1,0 +1,15 @@
+{
+    "0x25D39B935A038A26": {
+        "name": "IS_SYNCHRONIZED_SCENE_RUNNING",
+        "jhash": "0x57A282F1",
+        "comment": "Returns true if a synchronized scene is running",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

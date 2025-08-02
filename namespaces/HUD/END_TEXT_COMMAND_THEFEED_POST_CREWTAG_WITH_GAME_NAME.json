@@ -1,0 +1,59 @@
+{
+    "0x137BC35589E34E1E": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_CREWTAG_WITH_GAME_NAME",
+        "jhash": "0x88B9B909",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "isLeader"
+            },
+            {
+                "type": "BOOL",
+                "name": "unk0"
+            },
+            {
+                "type": "int",
+                "name": "clanDesc"
+            },
+            {
+                "type": "const char*",
+                "name": "playerName"
+            },
+            {
+                "type": "int",
+                "name": "R"
+            },
+            {
+                "type": "int",
+                "name": "G"
+            },
+            {
+                "type": "int",
+                "name": "B"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NOTIFICATION_SEND_CLAN_INVITE",
+            "_DRAW_NOTIFICATION_CLAN_INVITE"
+        ]
+    }
+}

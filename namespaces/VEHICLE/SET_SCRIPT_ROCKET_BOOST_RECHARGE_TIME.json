@@ -1,0 +1,22 @@
+{
+    "0xE00F2AB100B76E89": {
+        "name": "SET_SCRIPT_ROCKET_BOOST_RECHARGE_TIME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_ROCKET_BOOST_REFILL_TIME"
+        ]
+    }
+}

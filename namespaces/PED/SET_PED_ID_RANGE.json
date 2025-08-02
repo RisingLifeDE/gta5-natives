@@ -1,0 +1,19 @@
+{
+    "0xF107E836A70DCE05": {
+        "name": "SET_PED_ID_RANGE",
+        "jhash": "0xEF3B4ED9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

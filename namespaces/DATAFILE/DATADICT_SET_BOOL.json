@@ -1,0 +1,26 @@
+{
+    "0x35124302A556A325": {
+        "name": "DATADICT_SET_BOOL",
+        "jhash": "0x9B29D99B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_BOOLEAN"
+        ]
+    }
+}

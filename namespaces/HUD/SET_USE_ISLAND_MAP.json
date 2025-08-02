@@ -1,0 +1,18 @@
+{
+    "0x5E1460624D194A38": {
+        "name": "SET_USE_ISLAND_MAP",
+        "jhash": "",
+        "comment": "Toggles the Cayo Perico map.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_SET_TOGGLE_MINIMAP_HEIST_ISLAND"
+        ]
+    }
+}

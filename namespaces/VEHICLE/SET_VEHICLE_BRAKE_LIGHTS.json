@@ -1,0 +1,19 @@
+{
+    "0x92B35082E0B42F66": {
+        "name": "SET_VEHICLE_BRAKE_LIGHTS",
+        "jhash": "0x6D9BA11E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

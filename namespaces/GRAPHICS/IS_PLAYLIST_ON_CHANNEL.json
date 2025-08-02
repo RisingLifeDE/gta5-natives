@@ -1,0 +1,22 @@
+{
+    "0x1F710BFF7DAE6261": {
+        "name": "IS_PLAYLIST_ON_CHANNEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_IS_PLAYLIST_UNK"
+        ]
+    }
+}

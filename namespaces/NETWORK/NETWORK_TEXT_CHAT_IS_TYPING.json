@@ -1,0 +1,13 @@
+{
+    "0x5FCF4D7069B09026": {
+        "name": "NETWORK_TEXT_CHAT_IS_TYPING",
+        "jhash": "",
+        "comment": "Same as _IS_TEXT_CHAT_ACTIVE, except it does not check if the text chat HUD component is initialized, and therefore may crash.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_IS_TEXT_CHAT_ACTIVE"
+        ]
+    }
+}

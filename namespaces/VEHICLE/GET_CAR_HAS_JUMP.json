@@ -1,0 +1,20 @@
+{
+    "0x9078C0C5EF8C19E9": {
+        "name": "GET_CAR_HAS_JUMP",
+        "jhash": "",
+        "comment": "Returns true if the vehicle has the FLAG_JUMPING_CAR flag set.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_HAS_VEHICLE_JUMPING_ABILITY",
+            "_DOES_VEHICLE_HAVE_JUMPING_ABILITY",
+            "_GET_CAN_VEHICLE_JUMP"
+        ]
+    }
+}

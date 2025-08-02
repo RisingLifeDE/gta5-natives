@@ -1,0 +1,18 @@
+{
+    "0xAC51915D27E4A5F7": {
+        "name": "GET_HELI_TAIL_BOOM_HEALTH",
+        "jhash": "0x8A68388F",
+        "comment": "Max 1000.\nAt -100 both helicopter rotors will stall.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_HELI_ENGINE_HEALTH"
+        ]
+    }
+}

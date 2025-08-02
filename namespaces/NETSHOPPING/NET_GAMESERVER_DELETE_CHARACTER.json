@@ -1,0 +1,26 @@
+{
+    "0x51F1A8E48C3D2F6D": {
+        "name": "NET_GAMESERVER_DELETE_CHARACTER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "slot"
+            },
+            {
+                "type": "BOOL",
+                "name": "transfer"
+            },
+            {
+                "type": "Hash",
+                "name": "reason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_DELETE_CHARACTER_SLOT"
+        ]
+    }
+}

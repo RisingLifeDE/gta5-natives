@@ -1,0 +1,10 @@
+{
+    "0x292564C735375EDF": {
+        "name": "NETWORK_IS_TRANSITION_MATCHMAKING",
+        "jhash": "0x8262C70E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

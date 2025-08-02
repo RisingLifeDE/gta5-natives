@@ -1,0 +1,31 @@
+{
+    "0x10A691F5756416D0": {
+        "name": "PLAYSTATS_VEH_DEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "bossId1"
+            },
+            {
+                "type": "int",
+                "name": "bossId2"
+            },
+            {
+                "type": "int",
+                "name": "bossType"
+            },
+            {
+                "type": "int",
+                "name": "vehicleID"
+            },
+            {
+                "type": "int",
+                "name": "reason"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

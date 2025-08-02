@@ -1,0 +1,15 @@
+{
+    "0x6EAAEFC76ACC311F": {
+        "name": "GET_VEHICLE_HOMING_LOCKEDONTO_STATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "757"
+    }
+}

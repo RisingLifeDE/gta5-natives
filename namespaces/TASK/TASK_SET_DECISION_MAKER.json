@@ -1,0 +1,19 @@
+{
+    "0xEB8517DDA73720DA": {
+        "name": "TASK_SET_DECISION_MAKER",
+        "jhash": "0x830AD50C",
+        "comment": "p1 is always GET_HASH_KEY(\"empty\") in scripts, for the rare times this is used",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "decisionMakerId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA2CCBE62CD4C91A4": {
+        "name": "CELL_CAM_ACTIVATE_SHALLOW_DOF_MODE",
+        "jhash": "0xC273BB4D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

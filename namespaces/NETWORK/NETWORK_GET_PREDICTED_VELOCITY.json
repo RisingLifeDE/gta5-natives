@@ -1,0 +1,20 @@
+{
+    "0xAA5FAFCD2C5F5E47": {
+        "name": "NETWORK_GET_PREDICTED_VELOCITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeedToPredict"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1103",
+        "unused": true
+    }
+}

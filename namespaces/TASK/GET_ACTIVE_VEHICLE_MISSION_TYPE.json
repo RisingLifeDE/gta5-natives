@@ -1,0 +1,15 @@
+{
+    "0x534AEBA6E5ED4CAB": {
+        "name": "GET_ACTIVE_VEHICLE_MISSION_TYPE",
+        "jhash": "0xAFA914EF",
+        "comment": "https://alloc8or.re/gta5/doc/enums/eVehicleMissionType.txt",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

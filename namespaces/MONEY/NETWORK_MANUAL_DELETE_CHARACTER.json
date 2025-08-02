@@ -1,0 +1,18 @@
+{
+    "0x821418C727FCACD7": {
+        "name": "NETWORK_MANUAL_DELETE_CHARACTER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_NETWORK_MANUAL_DELETE_CHARACTER"
+        ]
+    }
+}

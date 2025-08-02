@@ -1,0 +1,23 @@
+{
+    "0x76B3F29D3F967692": {
+        "name": "SET_NETWORK_ID_VISIBLE_IN_CUTSCENE_REMAIN_HACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

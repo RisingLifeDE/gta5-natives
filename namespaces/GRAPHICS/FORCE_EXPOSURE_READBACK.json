@@ -1,0 +1,15 @@
+{
+    "0x814AF7DCAACC597B": {
+        "name": "FORCE_EXPOSURE_READBACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "372"
+    }
+}

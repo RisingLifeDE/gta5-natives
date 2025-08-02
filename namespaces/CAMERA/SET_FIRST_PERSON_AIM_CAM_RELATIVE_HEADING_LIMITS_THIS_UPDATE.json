@@ -1,0 +1,19 @@
+{
+    "0x2F7F2B26DD3F18EE": {
+        "name": "SET_FIRST_PERSON_AIM_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE",
+        "jhash": "0x2F29F0D5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

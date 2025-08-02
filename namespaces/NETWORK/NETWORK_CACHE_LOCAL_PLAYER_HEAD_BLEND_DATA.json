@@ -1,0 +1,10 @@
+{
+    "0xBD0BE0BFC927EAC1": {
+        "name": "NETWORK_CACHE_LOCAL_PLAYER_HEAD_BLEND_DATA",
+        "jhash": "0x94AB35A9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

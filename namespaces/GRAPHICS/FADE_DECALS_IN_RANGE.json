@@ -1,0 +1,31 @@
+{
+    "0xD77EDADB0420E6E0": {
+        "name": "FADE_DECALS_IN_RANGE",
+        "jhash": "0xF81E884A",
+        "comment": "Fades nearby decals within the range specified",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

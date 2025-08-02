@@ -1,0 +1,27 @@
+{
+    "0x7A192BE16D373D00": {
+        "name": "TASK_AIM_GUN_SCRIPTED",
+        "jhash": "0x9D296BCD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "scriptTask"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableBlockingClip"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantBlendToAim"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

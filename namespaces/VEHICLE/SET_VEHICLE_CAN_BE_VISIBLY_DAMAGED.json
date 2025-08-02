@@ -1,0 +1,19 @@
+{
+    "0x4C7028F78FFD3681": {
+        "name": "SET_VEHICLE_CAN_BE_VISIBLY_DAMAGED",
+        "jhash": "0xC5D94017",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

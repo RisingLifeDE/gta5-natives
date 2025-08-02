@@ -1,0 +1,27 @@
+{
+    "0x87052FE446E07247": {
+        "name": "SET_PED_COORDS_NO_GANG",
+        "jhash": "0x9561AD98",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

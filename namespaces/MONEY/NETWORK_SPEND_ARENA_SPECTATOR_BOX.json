@@ -1,0 +1,30 @@
+{
+    "0x7049BF858601DC0F": {
+        "name": "NETWORK_SPEND_ARENA_SPECTATOR_BOX",
+        "jhash": "",
+        "comment": "type either, 1 for cam spectate, 2 for drone",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_SPENT_ARENA_SPECTATOR_BOX"
+        ]
+    }
+}

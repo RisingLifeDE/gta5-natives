@@ -1,0 +1,35 @@
+{
+    "0x93376B65A266EB5F": {
+        "name": "SET_PED_PROP_INDEX",
+        "jhash": "0x0829F2E2",
+        "comment": "ComponentId can be set to various things based on what category you're wanting to set\nenum PedPropsData\n{\n    PED_PROP_HATS = 0,\n    PED_PROP_GLASSES = 1,\n PED_PROP_EARS = 2,\n    PED_PROP_WATCHES = 3,\n};\nUsage: SET_PED_PROP_INDEX(playerPed, PED_PROP_HATS, GET_NUMBER_OF_PED_PROP_DRAWABLE_VARIATIONS(playerPed, PED_PROP_HATS), GET_NUMBER_OF_PED_PROP_TEXTURE_VARIATIONS(playerPed, PED_PROP_HATS, 0), TRUE);\n\nList of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "TextureId"
+            },
+            {
+                "type": "BOOL",
+                "name": "attach"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

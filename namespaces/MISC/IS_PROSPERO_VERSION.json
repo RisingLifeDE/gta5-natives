@@ -1,0 +1,10 @@
+{
+    "0x807ABE1AB65C24D2": {
+        "name": "IS_PROSPERO_VERSION",
+        "jhash": "",
+        "comment": "PS5 (Prospero) version...",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

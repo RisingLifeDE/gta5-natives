@@ -1,0 +1,19 @@
+{
+    "0xD2CC78CD3D0B50F9": {
+        "name": "OVERRIDE_PLAYER_GROUND_MATERIAL",
+        "jhash": "0xC307D531",
+        "comment": "Sets audio flag \"OverridePlayerGroundMaterial\"",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

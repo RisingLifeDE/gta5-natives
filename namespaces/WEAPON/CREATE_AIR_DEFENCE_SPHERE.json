@@ -1,0 +1,46 @@
+{
+    "0x91EF34584710BE99": {
+        "name": "CREATE_AIR_DEFENCE_SPHERE",
+        "jhash": "",
+        "comment": "Both coordinates are from objects in the decompiled scripts. Native related to 0xECDC202B25E5CF48 p1 value. The only weapon hash used in the decompiled scripts is weapon_air_defence_gun. These two natives are used by the yacht script, decompiled scripts suggest it and the weapon hash used (valkyrie's rockets) are also used by yachts.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "573",
+        "old_names": [
+            "_CREATE_AIR_DEFENSE_SPHERE"
+        ]
+    }
+}

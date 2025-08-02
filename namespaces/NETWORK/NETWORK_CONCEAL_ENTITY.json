@@ -1,0 +1,22 @@
+{
+    "0x1632BE0AC1E62876": {
+        "name": "NETWORK_CONCEAL_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_NETWORK_CONCEAL_ENTITY"
+        ]
+    }
+}

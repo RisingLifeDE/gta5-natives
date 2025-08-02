@@ -1,0 +1,35 @@
+{
+    "0x60A19CF85FF4CEFA": {
+        "name": "TASK_SHARK_CIRCLE_COORD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

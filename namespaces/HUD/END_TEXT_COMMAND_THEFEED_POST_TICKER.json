@@ -1,0 +1,22 @@
+{
+    "0x2ED7843F8F801023": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_TICKER",
+        "jhash": "0x08F7AF78",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "blink"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_DRAW_NOTIFICATION"
+        ]
+    }
+}

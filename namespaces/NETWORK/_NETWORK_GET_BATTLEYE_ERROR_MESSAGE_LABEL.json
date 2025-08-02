@@ -1,0 +1,15 @@
+{
+    "0xCBA50F371E45B90D": {
+        "name": "_NETWORK_GET_BATTLEYE_ERROR_MESSAGE_LABEL",
+        "jhash": "",
+        "comment": "0x20211000 = HUD_BE_ERROR_FAILED_UNKNOWN\n0x20212000 = HUD_BE_ERROR_FAILED_CLIENT_INIT\n0x20213000 = HUD_BE_ERROR_FAILED_SERVER_INIT\n0x20214000 = HUD_BE_ERROR_FAILED_AUTH_ATTEMPTS\n0x20215000 = HUD_BE_ERROR_UNTRUSTED_HOST\n0x20216000 = HUD_BE_ERROR_KICKED\n0x20217000 = HUD_BE_ERROR_BANNED\n0x50140000 = HUD_BE_BLOCK_BANNED\n\nNote: an invalid error code returns a null pointer!",
+        "params": [
+            {
+                "type": "int",
+                "name": "errorCode"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "3323"
+    }
+}

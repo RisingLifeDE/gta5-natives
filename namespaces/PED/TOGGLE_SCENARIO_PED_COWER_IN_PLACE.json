@@ -1,0 +1,22 @@
+{
+    "0x9A77DFD295E29B09": {
+        "name": "TOGGLE_SCENARIO_PED_COWER_IN_PLACE",
+        "jhash": "0xC08FE5F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_SCARED_WHEN_USING_SCENARIO"
+        ]
+    }
+}

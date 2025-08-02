@@ -1,0 +1,10 @@
+{
+    "0xE036A705F989E049": {
+        "name": "NETWORK_CLEAR_VOICE_CHANNEL",
+        "jhash": "0x9ECF722A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

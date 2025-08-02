@@ -1,0 +1,18 @@
+{
+    "0xAEEDAD1420C65CC0": {
+        "name": "USE_SNOW_FOOT_VFX_WHEN_UNSHELTERED",
+        "jhash": "0xC53576CA",
+        "comment": "Forces footstep tracks on all surfaces.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_FORCE_PED_FOOTSTEPS_TRACKS"
+        ]
+    }
+}

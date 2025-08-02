@@ -1,0 +1,15 @@
+{
+    "0x3448505B6E35262D": {
+        "name": "TEXTURE_DOWNLOAD_GET_NAME",
+        "jhash": "0xA40EF65A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

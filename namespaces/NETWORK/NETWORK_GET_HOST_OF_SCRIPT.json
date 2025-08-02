@@ -1,0 +1,23 @@
+{
+    "0x1D6A14F1F9A736FC": {
+        "name": "NETWORK_GET_HOST_OF_SCRIPT",
+        "jhash": "0x9C95D0BB",
+        "comment": "scriptName examples:\n\"freemode\", \"AM_CR_SecurityVan\", ...\n\nMost of the time, these values are used:\ninstance_id = -1\nposition_hash = 0",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "instance_id"
+            },
+            {
+                "type": "int",
+                "name": "position_hash"
+            }
+        ],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

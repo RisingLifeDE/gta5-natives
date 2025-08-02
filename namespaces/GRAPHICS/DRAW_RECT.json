@@ -1,0 +1,47 @@
+{
+    "0x3A618A217E5154F0": {
+        "name": "DRAW_RECT",
+        "jhash": "0xDD2BFC77",
+        "comment": "Draws a rectangle on the screen.\n\n-x: The relative X point of the center of the rectangle. (0.0-1.0, 0.0 is the left edge of the screen, 1.0 is the right edge of the screen)\n\n-y: The relative Y point of the center of the rectangle. (0.0-1.0, 0.0 is the top edge of the screen, 1.0 is the bottom edge of the screen)\n\n-width: The relative width of the rectangle. (0.0-1.0, 1.0 means the whole screen width)\n\n-height: The relative height of the rectangle. (0.0-1.0, 1.0 means the whole screen height)\n\n-R: Red part of the color. (0-255)\n\n-G: Green part of the color. (0-255)\n\n-B: Blue part of the color. (0-255)\n\n-A: Alpha part of the color. (0-255, 0 means totally transparent, 255 means totally opaque)\n\nThe total number of rectangles to be drawn in one frame is apparently limited to 399.\n",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

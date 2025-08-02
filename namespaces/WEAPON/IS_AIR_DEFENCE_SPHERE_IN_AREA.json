@@ -1,0 +1,35 @@
+{
+    "0xDAB963831DBFD3F4": {
+        "name": "IS_AIR_DEFENCE_SPHERE_IN_AREA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int*",
+                "name": "outZoneId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1103",
+        "old_names": [
+            "_IS_AIR_DEFENSE_ZONE_INSIDE_SPHERE",
+            "_IS_ANY_AIR_DEFENSE_ZONE_INSIDE_SPHERE"
+        ]
+    }
+}

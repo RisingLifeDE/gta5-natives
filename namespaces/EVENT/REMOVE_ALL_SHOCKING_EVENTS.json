@@ -1,0 +1,15 @@
+{
+    "0xEAABE8FDFA21274C": {
+        "name": "REMOVE_ALL_SHOCKING_EVENTS",
+        "jhash": "0x64DF6282",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

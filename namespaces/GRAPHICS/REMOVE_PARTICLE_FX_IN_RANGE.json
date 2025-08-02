@@ -1,0 +1,27 @@
+{
+    "0xDD19FA1C6D657305": {
+        "name": "REMOVE_PARTICLE_FX_IN_RANGE",
+        "jhash": "0x7EB8F275",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

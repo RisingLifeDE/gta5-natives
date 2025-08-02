@@ -1,0 +1,19 @@
+{
+    "0xAF04C87F5DC1DF38": {
+        "name": "SET_PLAYER_RESERVE_PARACHUTE_TINT_INDEX",
+        "jhash": "0x70689638",
+        "comment": "Tints:\n   None = -1,\n    Rainbow = 0,\n  Red = 1,\n  SeasideStripes = 2,\n   WidowMaker = 3,\n   Patriot = 4,\n  Blue = 5,\n Black = 6,\n    Hornet = 7,\n   AirFocce = 8,\n Desert = 9,\n   Shadow = 10,\n  HighAltitude = 11,\n    Airbone = 12,\n Sunrise = 13,",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

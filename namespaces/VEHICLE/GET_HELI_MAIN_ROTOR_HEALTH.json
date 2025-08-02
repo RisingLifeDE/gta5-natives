@@ -1,0 +1,18 @@
+{
+    "0xE4CB7541F413D2C5": {
+        "name": "GET_HELI_MAIN_ROTOR_HEALTH",
+        "jhash": "0xF01E2AAB",
+        "comment": "Max 1000.\nAt 0 the main rotor will stall.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_HELI_MAIN_ROTOR_HEALTH"
+        ]
+    }
+}

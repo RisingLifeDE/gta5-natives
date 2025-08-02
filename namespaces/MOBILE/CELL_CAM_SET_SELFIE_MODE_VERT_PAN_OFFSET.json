@@ -1,0 +1,15 @@
+{
+    "0x3117D84EFA60F77B": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_VERT_PAN_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vertPan"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x8664170EF165C4A6": {
+        "name": "SET_IGNORE_PLANES_SMALL_PITCH_CHANGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

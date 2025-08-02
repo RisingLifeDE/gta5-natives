@@ -1,0 +1,15 @@
+{
+    "0xC4B3347BD68BD609": {
+        "name": "SET_VEHICLE_REMOVE_AGGRESSIVE_CARJACK_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

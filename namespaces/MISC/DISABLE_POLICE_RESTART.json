@@ -1,0 +1,19 @@
+{
+    "0x23285DED6EBD7EA3": {
+        "name": "DISABLE_POLICE_RESTART",
+        "jhash": "0x0A280324",
+        "comment": "Disables the spawn point at the police house on the specified index.\n\npoliceIndex: The police house index.\ntoggle: true to enable the spawn point, false to disable.\n\n- Nacorpio",
+        "params": [
+            {
+                "type": "int",
+                "name": "policeIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

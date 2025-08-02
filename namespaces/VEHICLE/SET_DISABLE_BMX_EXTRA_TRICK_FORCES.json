@@ -1,0 +1,15 @@
+{
+    "0x26D99D5A82FD18E8": {
+        "name": "SET_DISABLE_BMX_EXTRA_TRICK_FORCES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

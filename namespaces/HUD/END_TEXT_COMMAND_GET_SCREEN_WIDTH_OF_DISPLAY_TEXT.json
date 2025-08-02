@@ -1,0 +1,19 @@
+{
+    "0x85F061DA64ED2F67": {
+        "name": "END_TEXT_COMMAND_GET_SCREEN_WIDTH_OF_DISPLAY_TEXT",
+        "jhash": "0xD12A643A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_TEXT_SCREEN_WIDTH",
+            "_END_TEXT_COMMAND_GET_WIDTH"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF827589017D4E4A9": {
+        "name": "SET_WEAPON_OBJECT_TINT_INDEX",
+        "jhash": "0x44ACC1DA",
+        "comment": "Full list of weapons, components & tint indexes by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weapon"
+            },
+            {
+                "type": "int",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0xB9C362BABECDDC7A": {
+        "name": "SET_HELP_MESSAGE_STYLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "style"
+            },
+            {
+                "type": "int",
+                "name": "hudColor"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_HELP_MESSAGE_TEXT_STYLE"
+        ]
+    }
+}

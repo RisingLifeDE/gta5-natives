@@ -1,0 +1,27 @@
+{
+    "0x83B8201ED82A9A2D": {
+        "name": "SET_CAM_SPLINE_NODE_EASE",
+        "jhash": "0x21D275DA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "easingFunction"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

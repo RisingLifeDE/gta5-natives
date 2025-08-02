@@ -1,0 +1,31 @@
+{
+    "0x6B83617E04503888": {
+        "name": "START_SCRIPT_FIRE",
+        "jhash": "0xE7529357",
+        "comment": "Starts a fire:\n\nxyz: Location of fire\nmaxChildren: The max amount of times a fire can spread to other objects. Must be 25 or less, or the function will do nothing.\nisGasFire: Whether or not the fire is powered by gasoline.",
+        "params": [
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "int",
+                "name": "maxChildren"
+            },
+            {
+                "type": "BOOL",
+                "name": "isGasFire"
+            }
+        ],
+        "return_type": "FireId",
+        "build": "323"
+    }
+}

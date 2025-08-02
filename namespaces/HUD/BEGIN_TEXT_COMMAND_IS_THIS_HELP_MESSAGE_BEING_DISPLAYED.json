@@ -1,0 +1,15 @@
+{
+    "0x0A24DA3A41B718F5": {
+        "name": "BEGIN_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED",
+        "jhash": "0x00E20F2D",
+        "comment": "BOOL IsContextActive(char *ctx)\n    {\n     BEGIN_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED(ctx);\n     return END_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED(0);\n  }",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "labelName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

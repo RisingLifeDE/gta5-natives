@@ -1,0 +1,13 @@
+{
+    "0x708BDD8CD795B043": {
+        "name": "HAS_CUTSCENE_CUT_THIS_FRAME",
+        "jhash": "0x4315A7C5",
+        "comment": "Possibly HAS_CUTSCENE_CUT_THIS_FRAME, needs more research.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_CUTSCENE_CUT_THIS_FRAME"
+        ]
+    }
+}

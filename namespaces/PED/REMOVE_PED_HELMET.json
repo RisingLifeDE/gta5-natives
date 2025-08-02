@@ -1,0 +1,19 @@
+{
+    "0xA7B2458D0AD6DED8": {
+        "name": "REMOVE_PED_HELMET",
+        "jhash": "0x2086B1F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

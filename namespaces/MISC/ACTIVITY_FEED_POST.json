@@ -1,0 +1,10 @@
+{
+    "0x8951EB9C6906D3C8": {
+        "name": "ACTIVITY_FEED_POST",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

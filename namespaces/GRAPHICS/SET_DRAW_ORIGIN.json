@@ -1,0 +1,27 @@
+{
+    "0xAA0008F3BBB8F416": {
+        "name": "SET_DRAW_ORIGIN",
+        "jhash": "0xE10198D5",
+        "comment": "Sets the on-screen drawing origin for draw-functions (which is normally x=0,y=0 in the upper left corner of the screen) to a world coordinate.\nFrom now on, the screen coordinate which displays the given world coordinate on the screen is seen as x=0,y=0.\n\nExample in C#:\nVector3 boneCoord = somePed.GetBoneCoord(Bone.SKEL_Head);\nFunction.Call(Hash.SET_DRAW_ORIGIN, boneCoord.X, boneCoord.Y, boneCoord.Z, 0);\nFunction.Call(Hash.DRAW_SPRITE, \"helicopterhud\", \"hud_corner\", -0.01, -0.015, 0.013, 0.013, 0.0, 255, 0, 0, 200);\nFunction.Call(Hash.DRAW_SPRITE, \"helicopterhud\", \"hud_corner\", 0.01, -0.015, 0.013, 0.013, 90.0, 255, 0, 0, 200);\nFunction.Call(Hash.DRAW_SPRITE, \"helicopterhud\", \"hud_corner\", -0.01, 0.015, 0.013, 0.013, 270.0, 255, 0, 0, 200);\nFunction.Call(Hash.DRAW_SPRITE, \"helicopterhud\", \"hud_corner\", 0.01, 0.015, 0.013, 0.013, 180.0, 255, 0, 0, 200);\nFunction.Call(Hash.CLEAR_DRAW_ORIGIN);\n\nResult: www11.pic-upload.de/19.06.15/bkqohvil2uao.jpg\nIf the pedestrian starts walking around now, the sprites are always around her head, no matter where the head is displayed on the screen.\n\nThis function also effects the drawing of texts and other UI-elements.\nThe effect can be reset by calling GRAPHICS::CLEAR_DRAW_ORIGIN().",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

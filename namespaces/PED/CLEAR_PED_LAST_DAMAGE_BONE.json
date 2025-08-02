@@ -1,0 +1,15 @@
+{
+    "0x8EF6B7AC68E2F01B": {
+        "name": "CLEAR_PED_LAST_DAMAGE_BONE",
+        "jhash": "0x56CB715E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

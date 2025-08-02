@@ -1,0 +1,15 @@
+{
+    "0xA78B8FA58200DA56": {
+        "name": "STAT_LOCAL_RESET_ALL_ONLINE_CHARACTER_STATS",
+        "jhash": "0xE3247582",
+        "comment": "p0 seems to range from 0 to 7",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

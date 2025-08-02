@@ -1,0 +1,14 @@
+{
+    "0xEA560AC9EEB1E19B": {
+        "name": "NETWORK_GET_REMAINING_TRANSFER_BALANCE",
+        "jhash": "0xA9021211",
+        "comment": "Returns the same value as NETWORK_GET_PVC_TRANSFER_BALANCE.",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_REMAINING_VC_DAILY_TRANSFERS_2"
+        ]
+    }
+}

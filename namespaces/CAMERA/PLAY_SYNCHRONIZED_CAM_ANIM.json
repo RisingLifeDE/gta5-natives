@@ -1,0 +1,27 @@
+{
+    "0xE32EFE9AB4A9AA0C": {
+        "name": "PLAY_SYNCHRONIZED_CAM_ANIM",
+        "jhash": "0x9458459E",
+        "comment": "Examples:\n\nCAM::PLAY_SYNCHRONIZED_CAM_ANIM(l_2734, NETWORK::NETWORK_GET_LOCAL_SCENE_FROM_NETWORK_ID(l_2739), \"PLAYER_EXIT_L_CAM\", \"mp_doorbell\");\n\nCAM::PLAY_SYNCHRONIZED_CAM_ANIM(l_F0D[7/*1*/], l_F4D[15/*1*/], \"ah3b_attackheli_cam2\", \"missheistfbi3b_helicrash\");",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB938B7E6D3C0620C": {
+        "name": "SET_CREDITS_ACTIVE",
+        "jhash": "0xEC2A0ECF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

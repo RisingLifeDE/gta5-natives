@@ -1,0 +1,19 @@
+{
+    "0x39D22031557946C1": {
+        "name": "GET_PED_AMMO_BY_TYPE",
+        "jhash": "0x54077C4D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoTypeHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

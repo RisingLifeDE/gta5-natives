@@ -1,0 +1,15 @@
+{
+    "0x584FDFDA48805B86": {
+        "name": "GET_MOBILE_PHONE_POSITION",
+        "jhash": "0xB2E1E1A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "position"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

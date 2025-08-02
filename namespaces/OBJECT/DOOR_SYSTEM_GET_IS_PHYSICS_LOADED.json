@@ -1,0 +1,15 @@
+{
+    "0xDF97CDD4FC08FD34": {
+        "name": "DOOR_SYSTEM_GET_IS_PHYSICS_LOADED",
+        "jhash": "0x17FF9393",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

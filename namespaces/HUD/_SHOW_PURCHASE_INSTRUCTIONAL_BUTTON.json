@@ -1,0 +1,15 @@
+{
+    "0xF6865E26067B708C": {
+        "name": "_SHOW_PURCHASE_INSTRUCTIONAL_BUTTON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

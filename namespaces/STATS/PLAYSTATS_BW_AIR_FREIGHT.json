@@ -1,0 +1,18 @@
+{
+    "0xF06A6F41CB445443": {
+        "name": "PLAYSTATS_BW_AIR_FREIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_BW_AIR_FREIGHT"
+        ]
+    }
+}

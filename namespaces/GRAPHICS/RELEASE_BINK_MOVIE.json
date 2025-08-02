@@ -1,0 +1,18 @@
+{
+    "0x04D950EEFA4EED8C": {
+        "name": "RELEASE_BINK_MOVIE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "binkMovie"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_RELEASE_BINK_MOVIE"
+        ]
+    }
+}

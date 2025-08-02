@@ -1,0 +1,15 @@
+{
+    "0x395BF71085D1B1D9": {
+        "name": "SET_AGGRESSIVE_HORNS",
+        "jhash": "0x01D6EABE",
+        "comment": "Makes pedestrians sound their horn longer, faster and more agressive when they use their horn.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

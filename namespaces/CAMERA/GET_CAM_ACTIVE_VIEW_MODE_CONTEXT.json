@@ -1,0 +1,13 @@
+{
+    "0x19CAFA3C87F7C2FF": {
+        "name": "GET_CAM_ACTIVE_VIEW_MODE_CONTEXT",
+        "jhash": "",
+        "comment": "enum Context\n{\n\tON_FOOT,\n\tIN_VEHICLE,\n\tON_BIKE,\n\tIN_BOAT,\n\tIN_AIRCRAFT,\n\tIN_SUBMARINE,\n\tIN_HELI,\n\tIN_TURRET\n};",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_CAM_ACTIVE_VIEW_MODE_CONTEXT"
+        ]
+    }
+}

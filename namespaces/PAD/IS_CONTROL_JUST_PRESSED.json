@@ -1,0 +1,19 @@
+{
+    "0x580417101DDB492F": {
+        "name": "IS_CONTROL_JUST_PRESSED",
+        "jhash": "0x4487F579",
+        "comment": "Returns whether a control was newly pressed since the last check.\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

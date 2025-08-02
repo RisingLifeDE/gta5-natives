@@ -1,0 +1,15 @@
+{
+    "0x6A842D197F845D56": {
+        "name": "GET_VEHICLE_COLOUR_COMBINATION",
+        "jhash": "0x77AC1B4C",
+        "comment": "Returns the index of the color combination found in the vehicle's carvariations.meta entry.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

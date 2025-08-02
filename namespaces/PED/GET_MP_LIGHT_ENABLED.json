@@ -1,0 +1,18 @@
+{
+    "0x88274C11CF0D866D": {
+        "name": "GET_MP_LIGHT_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1493",
+        "old_names": [
+            "_IS_SCUBA_GEAR_LIGHT_ENABLED"
+        ]
+    }
+}

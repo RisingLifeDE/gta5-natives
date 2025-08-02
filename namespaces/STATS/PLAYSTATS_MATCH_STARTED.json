@@ -1,0 +1,23 @@
+{
+    "0xBC80E22DED931E3D": {
+        "name": "PLAYSTATS_MATCH_STARTED",
+        "jhash": "0x2BDE85C1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

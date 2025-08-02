@@ -1,0 +1,26 @@
+{
+    "0x0499D7B09FC9B407": {
+        "name": "GET_CONTROL_INSTRUCTIONAL_BUTTONS_STRING",
+        "jhash": "",
+        "comment": "allowXOSwap appears to always be true.\n\nEG:\nGET_CONTROL_INSTRUCTIONAL_BUTTON (2, 201, 1) /*INPUT_FRONTEND_ACCEPT (e.g. Enter button)*/\nGET_CONTROL_INSTRUCTIONAL_BUTTON (2, 202, 1) /*INPUT_FRONTEND_CANCEL (e.g. ESC button)*/\nGET_CONTROL_INSTRUCTIONAL_BUTTON (2, 51, 1) /*INPUT_CONTEXT (e.g. E button)*/\n\ngtaforums.com/topic/819070-c-draw-instructional-buttons-scaleform-movie/#entry1068197378\n\ncontrol: unused parameter",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowXOSwap"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "GET_CONTROL_INSTRUCTIONAL_BUTTON"
+        ]
+    }
+}

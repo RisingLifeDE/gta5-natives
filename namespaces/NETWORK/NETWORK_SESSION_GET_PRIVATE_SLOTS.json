@@ -1,0 +1,10 @@
+{
+    "0x53AFD64C6758F2F9": {
+        "name": "NETWORK_SESSION_GET_PRIVATE_SLOTS",
+        "jhash": "0xE642F2FD",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

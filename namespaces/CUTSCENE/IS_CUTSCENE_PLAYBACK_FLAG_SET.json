@@ -1,0 +1,15 @@
+{
+    "0x71B74D2AE19338D0": {
+        "name": "IS_CUTSCENE_PLAYBACK_FLAG_SET",
+        "jhash": "0x7B93CDAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

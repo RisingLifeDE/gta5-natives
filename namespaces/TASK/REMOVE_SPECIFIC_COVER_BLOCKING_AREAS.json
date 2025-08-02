@@ -1,0 +1,54 @@
+{
+    "0x1F351CF1C6475734": {
+        "name": "REMOVE_SPECIFIC_COVER_BLOCKING_AREAS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "startX"
+            },
+            {
+                "type": "float",
+                "name": "startY"
+            },
+            {
+                "type": "float",
+                "name": "startZ"
+            },
+            {
+                "type": "float",
+                "name": "endX"
+            },
+            {
+                "type": "float",
+                "name": "endY"
+            },
+            {
+                "type": "float",
+                "name": "endZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "blockObjects"
+            },
+            {
+                "type": "BOOL",
+                "name": "blockVehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "blockMap"
+            },
+            {
+                "type": "BOOL",
+                "name": "blockPlayer"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_REMOVE_SPECIFIC_COVER_BLOCKING_AREA"
+        ]
+    }
+}

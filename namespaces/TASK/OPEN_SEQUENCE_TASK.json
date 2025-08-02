@@ -1,0 +1,15 @@
+{
+    "0xE8854A4326B9E12B": {
+        "name": "OPEN_SEQUENCE_TASK",
+        "jhash": "0xABA6923E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

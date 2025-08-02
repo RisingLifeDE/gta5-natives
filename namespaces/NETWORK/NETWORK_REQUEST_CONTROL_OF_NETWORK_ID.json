@@ -1,0 +1,15 @@
+{
+    "0xA670B3662FAFFBD0": {
+        "name": "NETWORK_REQUEST_CONTROL_OF_NETWORK_ID",
+        "jhash": "0x9262A60A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

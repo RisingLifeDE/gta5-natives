@@ -1,0 +1,18 @@
+{
+    "0x718FBBF67414FA36": {
+        "name": "NETWORK_EARN_FROM_CASHING_OUT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_CASHING_OUT"
+        ]
+    }
+}

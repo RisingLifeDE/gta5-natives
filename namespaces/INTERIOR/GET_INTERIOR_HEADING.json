@@ -1,0 +1,18 @@
+{
+    "0xF49B58631D9E22D9": {
+        "name": "GET_INTERIOR_HEADING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "float",
+        "build": "1493",
+        "old_names": [
+            "_GET_INTERIOR_HEADING"
+        ]
+    }
+}

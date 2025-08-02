@@ -1,0 +1,15 @@
+{
+    "0xDFF09646E12EC386": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_ID",
+        "jhash": "0xD50DF46C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

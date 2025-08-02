@@ -1,0 +1,15 @@
+{
+    "0xB50C0B0CEDC6CE84": {
+        "name": "IS_THIS_MODEL_A_BIKE",
+        "jhash": "0x7E702CDD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

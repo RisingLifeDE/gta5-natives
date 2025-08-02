@@ -1,0 +1,15 @@
+{
+    "0x25ECB9F8017D98E0": {
+        "name": "DOES_VEHICLE_HAVE_WEAPONS",
+        "jhash": "0xB2E1E1FB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

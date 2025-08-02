@@ -1,0 +1,10 @@
+{
+    "0x23B59D8912F94246": {
+        "name": "CLEAR_ROOM_FOR_GAME_VIEWPORT",
+        "jhash": "0x617DC75D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

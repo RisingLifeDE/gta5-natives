@@ -1,0 +1,15 @@
+{
+    "0xC01D2470F22CDE5A": {
+        "name": "STATS_COMPLETED_CHARACTER_CREATION",
+        "jhash": "",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372"
+    }
+}

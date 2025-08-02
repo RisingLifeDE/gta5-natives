@@ -1,0 +1,18 @@
+{
+    "0x8DC9675797123522": {
+        "name": "FIND_SPAWN_COORDINATES_FOR_HELI",
+        "jhash": "",
+        "comment": "Native is significantly more complicated than simply generating a random vector & length.\nThe 'point' is either 400.0 or 250.0 units away from the Ped's current coordinates; and paths into functions like rage::grcViewport___IsSphereVisible",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1290",
+        "old_names": [
+            "_FIND_RANDOM_POINT_IN_SPACE"
+        ]
+    }
+}

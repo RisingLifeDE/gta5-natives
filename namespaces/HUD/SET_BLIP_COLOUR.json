@@ -1,0 +1,19 @@
+{
+    "0x03D7FB09E75D6B7E": {
+        "name": "SET_BLIP_COLOUR",
+        "jhash": "0xBB3C5A41",
+        "comment": "https://gtaforums.com/topic/864881-all-blip-color-ids-pictured/",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

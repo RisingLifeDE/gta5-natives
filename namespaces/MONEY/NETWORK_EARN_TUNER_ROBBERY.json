@@ -1,0 +1,34 @@
+{
+    "0xBCB266247193AC61": {
+        "name": "NETWORK_EARN_TUNER_ROBBERY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_EARN_FROM_TUNER_FINALE"
+        ]
+    }
+}

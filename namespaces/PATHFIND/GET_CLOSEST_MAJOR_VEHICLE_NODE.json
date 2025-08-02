@@ -1,0 +1,35 @@
+{
+    "0x2EABE3B06F58C1BE": {
+        "name": "GET_CLOSEST_MAJOR_VEHICLE_NODE",
+        "jhash": "0x04B5F15B",
+        "comment": "Get the closest vehicle node to a given position.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "float",
+                "name": "unknown1"
+            },
+            {
+                "type": "float",
+                "name": "unknown2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

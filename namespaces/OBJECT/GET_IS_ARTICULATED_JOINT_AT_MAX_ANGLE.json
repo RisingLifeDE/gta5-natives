@@ -1,0 +1,19 @@
+{
+    "0x3BD770D281982DB5": {
+        "name": "GET_IS_ARTICULATED_JOINT_AT_MAX_ANGLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604"
+    }
+}

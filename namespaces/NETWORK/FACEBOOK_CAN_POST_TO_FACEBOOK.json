@@ -1,0 +1,13 @@
+{
+    "0x43865688AE10F0D7": {
+        "name": "FACEBOOK_CAN_POST_TO_FACEBOOK",
+        "jhash": "0x429AEAB3",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_FACEBOOK_IS_AVAILABLE"
+        ]
+    }
+}

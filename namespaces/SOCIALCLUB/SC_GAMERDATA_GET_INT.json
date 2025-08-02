@@ -1,0 +1,20 @@
+{
+    "0xC85A7127E7AD02AA": {
+        "name": "SC_GAMERDATA_GET_INT",
+        "jhash": "0xF8BDA989",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

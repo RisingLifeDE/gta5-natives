@@ -1,0 +1,19 @@
+{
+    "0x6501129C9E0FFA05": {
+        "name": "SET_VEHICLE_FORWARD_SPEED_XY",
+        "jhash": "",
+        "comment": "Seems to be identical to SET_VEHICLE_FORWARD_SPEED",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

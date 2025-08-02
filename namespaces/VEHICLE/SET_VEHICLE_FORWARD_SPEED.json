@@ -1,0 +1,19 @@
+{
+    "0xAB54A438726D25D5": {
+        "name": "SET_VEHICLE_FORWARD_SPEED",
+        "jhash": "0x69880D14",
+        "comment": "SCALE: Setting the speed to 30 would result in a speed of roughly 60mph, according to speedometer.\n\nSpeed is in meters per second\nYou can convert meters/s to mph here:\nhttp://www.calculateme.com/Speed/MetersperSecond/ToMilesperHour.htm",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

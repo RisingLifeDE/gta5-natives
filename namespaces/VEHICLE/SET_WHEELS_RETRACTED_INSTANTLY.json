@@ -1,0 +1,18 @@
+{
+    "0x5335BE58C083E74E": {
+        "name": "SET_WHEELS_RETRACTED_INSTANTLY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011",
+        "old_names": [
+            "_LOWER_RETRACTABLE_WHEELS"
+        ]
+    }
+}

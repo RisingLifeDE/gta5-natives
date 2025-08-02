@@ -1,0 +1,19 @@
+{
+    "0x67B2C79AA7FF5738": {
+        "name": "SET_VEHICLE_IS_STOLEN",
+        "jhash": "0x70912E42",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isStolen"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

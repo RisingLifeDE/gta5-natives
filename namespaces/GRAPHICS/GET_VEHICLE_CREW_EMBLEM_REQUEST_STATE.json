@@ -1,0 +1,19 @@
+{
+    "0xFE26117A5841B2FF": {
+        "name": "GET_VEHICLE_CREW_EMBLEM_REQUEST_STATE",
+        "jhash": "0x4F4D76E8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x94495889E22C6479": {
+        "name": "IS_PED_ON_ANY_BIKE",
+        "jhash": "0x4D885B2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

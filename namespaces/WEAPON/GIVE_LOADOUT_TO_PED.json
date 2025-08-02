@@ -1,0 +1,22 @@
+{
+    "0x68F8BE6AF5CDF8A6": {
+        "name": "GIVE_LOADOUT_TO_PED",
+        "jhash": "",
+        "comment": "Gives the specified loadout to the specified ped. \nLoadouts are defined in common.rpf\\data\\ai\\loadouts.meta",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "loadoutHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_GIVE_LOADOUT_TO_PED"
+        ]
+    }
+}

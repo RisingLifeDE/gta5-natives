@@ -1,0 +1,15 @@
+{
+    "0xD125AE748725C6BC": {
+        "name": "IS_PED_DUCKING",
+        "jhash": "0x9199C77D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

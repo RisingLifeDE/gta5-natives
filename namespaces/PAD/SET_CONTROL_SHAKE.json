@@ -1,0 +1,26 @@
+{
+    "0x48B3886C1358D0D5": {
+        "name": "SET_CONTROL_SHAKE",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED\nduration in milliseconds \nfrequency should range from about 10 (slow vibration) to 255 (very fast)\n\nexample:\nSET_CONTROL_SHAKE(PLAYER_CONTROL, 100, 200);",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "frequency"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PAD_SHAKE"
+        ]
+    }
+}

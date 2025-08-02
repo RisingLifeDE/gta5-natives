@@ -1,0 +1,15 @@
+{
+    "0xA51C4B86B71652AE": {
+        "name": "GOLF_TRAIL_SET_ENABLED",
+        "jhash": "0x5D3BFFC9",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

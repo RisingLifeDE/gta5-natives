@@ -1,0 +1,15 @@
+{
+    "0xA5F377B175A699C5": {
+        "name": "SET_AUDIO_SCRIPT_CLEANUP_TIME",
+        "jhash": "0xE812925D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

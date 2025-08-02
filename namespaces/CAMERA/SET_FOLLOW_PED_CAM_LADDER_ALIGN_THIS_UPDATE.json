@@ -1,0 +1,10 @@
+{
+    "0xC8391C309684595A": {
+        "name": "SET_FOLLOW_PED_CAM_LADDER_ALIGN_THIS_UPDATE",
+        "jhash": "0x1F9DE6E4",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

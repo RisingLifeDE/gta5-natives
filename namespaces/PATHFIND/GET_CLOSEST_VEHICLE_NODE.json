@@ -1,0 +1,39 @@
+{
+    "0x240A18690AE96513": {
+        "name": "GET_CLOSEST_VEHICLE_NODE",
+        "jhash": "0x6F5F1E6C",
+        "comment": "https://gtaforums.com/topic/843561-pathfind-node-types",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "int",
+                "name": "nodeFlags"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

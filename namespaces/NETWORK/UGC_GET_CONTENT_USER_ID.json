@@ -1,0 +1,19 @@
+{
+    "0xCD67AD041A394C9C": {
+        "name": "UGC_GET_CONTENT_USER_ID",
+        "jhash": "0x8F3137E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_CONTENT_USER_ID",
+            "GET_PLAYER_ADVANCED_MODIFIER_PRIVILEGES"
+        ]
+    }
+}

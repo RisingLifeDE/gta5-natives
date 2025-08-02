@@ -1,0 +1,13 @@
+{
+    "0xA6575914D2A0B450": {
+        "name": "GET_ROOM_KEY_FOR_GAME_VIEWPORT",
+        "jhash": "0x4FF3D3F5",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_ROOM_KEY_FROM_GAMEPLAY_CAM"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x71C6302CBCA6CA35": {
+        "name": "_IS_VEHICLE_ON_BOOST_PAD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x2D2386F273FF7A25": {
+        "name": "TASK_PLANE_CHASE",
+        "jhash": "0x12FA1C28",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToFollow"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "0x45F35C0EDC33B03B": {
+        "name": "NETWORK_ADD_MAP_ENTITY_TO_SYNCHRONISED_SCENE",
+        "jhash": "",
+        "comment": "Similar structure as NETWORK_ADD_ENTITY_TO_SYNCHRONISED_SCENE but it includes this time a hash.\nIn casino_slots it is used one time in a synced scene involving a ped and the slot machine?",
+        "params": [
+            {
+                "type": "int",
+                "name": "netScene"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

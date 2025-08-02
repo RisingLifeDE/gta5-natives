@@ -1,0 +1,15 @@
+{
+    "0x5DDFE2FF727F3CA3": {
+        "name": "GET_PLAYER_HAS_RESERVE_PARACHUTE",
+        "jhash": "0x30DA1DA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

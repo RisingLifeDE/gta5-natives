@@ -1,0 +1,15 @@
+{
+    "0xDA024BDBD600F44A": {
+        "name": "SC_INBOX_MESSAGE_PUSH_GAMER_T0_RECIP_LIST",
+        "jhash": "0x0B9A3512",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

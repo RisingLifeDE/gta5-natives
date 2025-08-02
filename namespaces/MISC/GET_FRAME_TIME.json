@@ -1,0 +1,10 @@
+{
+    "0x15C40837039FFAF7": {
+        "name": "GET_FRAME_TIME",
+        "jhash": "0x96374262",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

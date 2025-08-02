@@ -1,0 +1,15 @@
+{
+    "0x3C891A251567DFCE": {
+        "name": "NETWORK_QUERY_RESPAWN_RESULTS",
+        "jhash": "0x90700C7D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

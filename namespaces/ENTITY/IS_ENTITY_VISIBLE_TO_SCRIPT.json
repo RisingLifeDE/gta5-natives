@@ -1,0 +1,15 @@
+{
+    "0xD796CB5BA8F20E32": {
+        "name": "IS_ENTITY_VISIBLE_TO_SCRIPT",
+        "jhash": "0x5D240E9D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

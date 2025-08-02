@@ -1,0 +1,18 @@
+{
+    "0x73040398DFF9A4A6": {
+        "name": "ROPE_GET_DISTANCE_BETWEEN_ENDS",
+        "jhash": "0xFD309DC8",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_ROPE_LENGTH"
+        ]
+    }
+}

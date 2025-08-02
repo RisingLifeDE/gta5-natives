@@ -1,0 +1,35 @@
+{
+    "0x494C8FB299290269": {
+        "name": "NETWORK_ADD_ENTITY_AREA",
+        "jhash": "0x51030E5B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

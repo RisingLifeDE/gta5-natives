@@ -1,0 +1,10 @@
+{
+    "0xA151A7394A214E65": {
+        "name": "IS_RADIO_RETUNING",
+        "jhash": "0xCF29097B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

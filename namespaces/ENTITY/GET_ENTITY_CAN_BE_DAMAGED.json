@@ -1,0 +1,18 @@
+{
+    "0xD95CC5D2AB15A09F": {
+        "name": "GET_ENTITY_CAN_BE_DAMAGED",
+        "jhash": "0xE4938B5D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757",
+        "old_names": [
+            "_GET_ENTITY_CAN_BE_DAMAGED"
+        ]
+    }
+}

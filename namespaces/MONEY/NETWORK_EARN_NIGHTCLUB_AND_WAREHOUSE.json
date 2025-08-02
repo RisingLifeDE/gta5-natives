@@ -1,0 +1,42 @@
+{
+    "0xC6E74CF8C884C880": {
+        "name": "NETWORK_EARN_NIGHTCLUB_AND_WAREHOUSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_NETWORK_EARN_FROM_NIGHTCLUB_LOCATION"
+        ]
+    }
+}

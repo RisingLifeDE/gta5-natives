@@ -1,0 +1,19 @@
+{
+    "0xB0C56BD3D808D863": {
+        "name": "LOBBY_SET_AUTO_MULTIPLAYER",
+        "jhash": "0xC0B971EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_BROADCAST_FINSHED_LOS_SOUND",
+            "_LOADINGSCREEN_SET_LOAD_FREEMODE"
+        ]
+    }
+}

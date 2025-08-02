@@ -1,0 +1,34 @@
+{
+    "0x8EFCCF6EC66D85E4": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_CREW_RANKUP_WITH_LITERAL_FLAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "END_TEXT_COMMAND_THEFEED_POST_CREW_RANKUP"
+        ]
+    }
+}

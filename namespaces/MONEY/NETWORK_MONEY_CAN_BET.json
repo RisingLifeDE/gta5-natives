@@ -1,0 +1,23 @@
+{
+    "0x81404F3DC124FE5B": {
+        "name": "NETWORK_MONEY_CAN_BET",
+        "jhash": "0x8474E6F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

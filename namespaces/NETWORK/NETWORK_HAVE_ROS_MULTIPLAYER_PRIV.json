@@ -1,0 +1,15 @@
+{
+    "0x5F91D5D0B36AA310": {
+        "name": "NETWORK_HAVE_ROS_MULTIPLAYER_PRIV",
+        "jhash": "0x97287D68",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PLAYER_BANNED",
+            "_CAN_PLAY_ONLINE",
+            "_NETWORK_GET_ROS_PRIVILEGE_3"
+        ]
+    }
+}

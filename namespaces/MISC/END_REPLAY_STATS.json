@@ -1,0 +1,10 @@
+{
+    "0xA23E821FBDF8A5F2": {
+        "name": "END_REPLAY_STATS",
+        "jhash": "0xCB570185",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xA8ACB6459542A8C8": {
+        "name": "NETWORK_IS_PLATFORM_SUBSCRIPTION_CHECK_PENDING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

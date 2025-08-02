@@ -1,0 +1,10 @@
+{
+    "0x42FB3B532D526E6C": {
+        "name": "NETWORK_REQUEST_CLOUD_TUNABLES",
+        "jhash": "0xD760CAD5",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

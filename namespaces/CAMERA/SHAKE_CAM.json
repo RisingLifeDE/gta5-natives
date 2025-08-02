@@ -1,0 +1,23 @@
+{
+    "0x6A25241C340D3822": {
+        "name": "SHAKE_CAM",
+        "jhash": "0x1D4211B0",
+        "comment": "Possible shake types (updated b617d):\n\nDEATH_FAIL_IN_EFFECT_SHAKE\nDRUNK_SHAKE\nFAMILY5_DRUG_TRIP_SHAKE\nHAND_SHAKE\nJOLT_SHAKE\nLARGE_EXPLOSION_SHAKE\nMEDIUM_EXPLOSION_SHAKE\nSMALL_EXPLOSION_SHAKE\nROAD_VIBRATION_SHAKE\nSKY_DIVING_SHAKE\nVIBRATE_SHAKE\n\nFull list of cam shake types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/camShakeTypesCompact.json",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "const char*",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

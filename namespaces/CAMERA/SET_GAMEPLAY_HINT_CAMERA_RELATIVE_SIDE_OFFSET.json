@@ -1,0 +1,18 @@
+{
+    "0x5D7B620DAE436138": {
+        "name": "SET_GAMEPLAY_HINT_CAMERA_RELATIVE_SIDE_OFFSET",
+        "jhash": "0xFC7464A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xOffset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_HINT_ANIM_OFFSETX"
+        ]
+    }
+}

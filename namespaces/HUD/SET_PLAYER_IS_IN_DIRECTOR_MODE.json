@@ -1,0 +1,19 @@
+{
+    "0x808519373FD336A3": {
+        "name": "SET_PLAYER_IS_IN_DIRECTOR_MODE",
+        "jhash": "",
+        "comment": "If toggle is true, hides special ability bar / character name in the pause menu\nIf toggle is false, shows special ability bar / character name in the pause menu",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DIRECTOR_MODE",
+            "_SET_PLAYER_IS_IN_DIRECTOR_MODE"
+        ]
+    }
+}

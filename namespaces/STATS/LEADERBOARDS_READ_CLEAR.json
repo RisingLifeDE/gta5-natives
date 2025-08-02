@@ -1,0 +1,23 @@
+{
+    "0x7CCE5C737A665701": {
+        "name": "LEADERBOARDS_READ_CLEAR",
+        "jhash": "0x7090012F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

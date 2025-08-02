@@ -1,0 +1,19 @@
+{
+    "0x62E29CDA11F9C230": {
+        "name": "_NETWORK_HAS_PLAYER_PASSED_CHECK_TYPE",
+        "jhash": "",
+        "comment": "_NETWORK_HAS_P*\ncheckType 3 is similar as using 0x9F633448E4C73207",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkType"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB3ED1BFB4BE636DC": {
+        "name": "GET_VEHICLE_WHEEL_TYPE",
+        "jhash": "0xDA58D7AE",
+        "comment": "Returns an int\n\nWheel Types:\n0: Sport\n1: Muscle\n2: Lowrider\n3: SUV\n4: Offroad\n5: Tuner\n6: Bike Wheels\n7: High End\n8: Benny's Originals\n9: Benny's Bespoke\n10: Racing\n11: Street\n12: Track\n\nTested in Los Santos Customs",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

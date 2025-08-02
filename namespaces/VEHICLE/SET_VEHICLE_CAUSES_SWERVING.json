@@ -1,0 +1,19 @@
+{
+    "0x9849DE24FCF23CCC": {
+        "name": "SET_VEHICLE_CAUSES_SWERVING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

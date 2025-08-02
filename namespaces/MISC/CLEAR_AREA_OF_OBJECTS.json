@@ -1,0 +1,31 @@
+{
+    "0xDD9B9B385AAC7F5B": {
+        "name": "CLEAR_AREA_OF_OBJECTS",
+        "jhash": "0xBB720FE7",
+        "comment": "I looked through the PC scripts that this site provides you with a link to find. It shows the last param mainly uses, (0, 2, 6, 16, and 17) so I am going to assume it is a type of flag. ",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

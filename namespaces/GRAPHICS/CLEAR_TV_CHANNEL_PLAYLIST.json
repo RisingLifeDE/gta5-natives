@@ -1,0 +1,15 @@
+{
+    "0xBEB3D46BB7F043C0": {
+        "name": "CLEAR_TV_CHANNEL_PLAYLIST",
+        "jhash": "0xCBE7068F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x3C06B5C839B38F7B": {
+        "name": "IS_PLAYER_FREE_AIMING_AT_ENTITY",
+        "jhash": "0x7D80EEAA",
+        "comment": "Gets a value indicating whether the specified player is currently aiming freely at the specified entity.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

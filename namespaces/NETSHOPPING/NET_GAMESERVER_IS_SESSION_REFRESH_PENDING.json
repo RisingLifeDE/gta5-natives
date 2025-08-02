@@ -1,0 +1,13 @@
+{
+    "0x810E8431C0614BF9": {
+        "name": "NET_GAMESERVER_IS_SESSION_REFRESH_PENDING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_GET_TRANSACTIONS_DISABLED"
+        ]
+    }
+}

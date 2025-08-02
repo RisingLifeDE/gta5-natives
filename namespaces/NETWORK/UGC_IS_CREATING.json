@@ -1,0 +1,10 @@
+{
+    "0x9FEDF86898F100E9": {
+        "name": "UGC_IS_CREATING",
+        "jhash": "0x798D6C27",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

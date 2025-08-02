@@ -1,0 +1,27 @@
+{
+    "0xD1110739EEADB592": {
+        "name": "NETWORK_TRY_TO_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SET_THIS_SCRIPT_MARKED",
+            "_NETWORK_IS_THIS_SCRIPT_MARKED"
+        ]
+    }
+}

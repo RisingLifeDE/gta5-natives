@@ -1,0 +1,13 @@
+{
+    "0x17330EBF2F2124A8": {
+        "name": "RESET_GHOST_ALPHA",
+        "jhash": "",
+        "comment": "Resets the entity ghost alpha to the default value (128)",
+        "params": [],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_RESET_GHOSTED_ENTITY_ALPHA"
+        ]
+    }
+}

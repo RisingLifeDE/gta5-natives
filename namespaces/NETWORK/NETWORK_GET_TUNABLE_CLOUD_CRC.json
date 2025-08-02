@@ -1,0 +1,13 @@
+{
+    "0x10BD227A753B0D84": {
+        "name": "NETWORK_GET_TUNABLE_CLOUD_CRC",
+        "jhash": "0x231CFD12",
+        "comment": "Actually returns the version (TUNABLE_VERSION)",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_TUNABLES_VERSION"
+        ]
+    }
+}

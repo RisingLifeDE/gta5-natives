@@ -1,0 +1,15 @@
+{
+    "0x4C5E1F087CD10BB7": {
+        "name": "IS_PED_TRACKED",
+        "jhash": "0x7EB613D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

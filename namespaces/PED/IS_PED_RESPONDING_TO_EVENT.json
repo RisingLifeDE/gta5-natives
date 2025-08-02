@@ -1,0 +1,19 @@
+{
+    "0x625B774D75C87068": {
+        "name": "IS_PED_RESPONDING_TO_EVENT",
+        "jhash": "0x7A877554",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "event"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

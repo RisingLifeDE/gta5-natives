@@ -1,0 +1,26 @@
+{
+    "0xBF737600CDDBEADD": {
+        "name": "START_SAVE_STRUCT_WITH_SIZE",
+        "jhash": "0xFB45728E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "size"
+            },
+            {
+                "type": "const char*",
+                "name": "structName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_START_SAVE_STRUCT"
+        ]
+    }
+}

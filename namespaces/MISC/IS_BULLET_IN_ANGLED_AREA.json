@@ -1,0 +1,43 @@
+{
+    "0x1A8B5F3C01E2B477": {
+        "name": "IS_BULLET_IN_ANGLED_AREA",
+        "jhash": "0xE2DB58F7",
+        "comment": "For projectiles, see: IS_PROJECTILE_TYPE_IN_ANGLED_AREA\nSee IS_POINT_IN_ANGLED_AREA for the definition of an angled area.\nReturns True if a bullet, as maintained by a pool within CWeaponManager, has been fired into the defined angled area.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

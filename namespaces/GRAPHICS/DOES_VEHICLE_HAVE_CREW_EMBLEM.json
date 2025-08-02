@@ -1,0 +1,23 @@
+{
+    "0x060D935D3981A275": {
+        "name": "DOES_VEHICLE_HAVE_CREW_EMBLEM",
+        "jhash": "0x6D58F73B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_VEHICLE_GOT_DECAL",
+            "_DOES_VEHICLE_HAVE_DECAL"
+        ]
+    }
+}

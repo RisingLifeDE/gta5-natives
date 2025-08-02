@@ -1,0 +1,19 @@
+{
+    "0x0EDE326D47CD0F3E": {
+        "name": "NETWORK_SET_ATTRIBUTE_DAMAGE_TO_PLAYER",
+        "jhash": "0xBEB7281A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xD4A7A435B3710D05": {
+        "name": "ADD_EXTENDED_PICKUP_PROBE_AREA",
+        "jhash": "",
+        "comment": "Adds an area that seems to be related to pickup physics behavior.\nMax amount of areas is 10. Only works in multiplayer.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

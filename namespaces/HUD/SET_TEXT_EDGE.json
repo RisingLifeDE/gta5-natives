@@ -1,0 +1,31 @@
+{
+    "0x441603240D202FA6": {
+        "name": "SET_TEXT_EDGE",
+        "jhash": "0x3F1A5DAB",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

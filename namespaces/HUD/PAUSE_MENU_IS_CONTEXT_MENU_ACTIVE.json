@@ -1,0 +1,10 @@
+{
+    "0x2A25ADC48F87841F": {
+        "name": "PAUSE_MENU_IS_CONTEXT_MENU_ACTIVE",
+        "jhash": "0x016D7AF9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

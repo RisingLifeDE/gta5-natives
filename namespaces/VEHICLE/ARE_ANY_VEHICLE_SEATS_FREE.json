@@ -1,0 +1,18 @@
+{
+    "0x2D34FC3BC4ADB780": {
+        "name": "ARE_ANY_VEHICLE_SEATS_FREE",
+        "jhash": "0x648E685A",
+        "comment": "Returns false if every seat is occupied.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_ANY_VEHICLE_SEAT_EMPTY"
+        ]
+    }
+}

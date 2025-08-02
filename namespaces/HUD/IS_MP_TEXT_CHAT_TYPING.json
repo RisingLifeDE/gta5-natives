@@ -1,0 +1,14 @@
+{
+    "0xB118AF58B5F332A1": {
+        "name": "IS_MP_TEXT_CHAT_TYPING",
+        "jhash": "",
+        "comment": "Returns whether or not the text chat (MULTIPLAYER_CHAT Scaleform component) is active.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_TEXT_CHAT_ACTIVE",
+            "_IS_MULTIPLAYER_CHAT_ACTIVE"
+        ]
+    }
+}

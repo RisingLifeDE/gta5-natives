@@ -1,0 +1,23 @@
+{
+    "0xCBBD7C4991B64809": {
+        "name": "FILLOUT_PM_PLAYER_LIST",
+        "jhash": "0xCE40F423",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

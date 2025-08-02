@@ -1,0 +1,10 @@
+{
+    "0x72433699B4E6DD64": {
+        "name": "NETWORK_RESET_BODY_TRACKER",
+        "jhash": "0x3914463F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xBA751764F0821256": {
+        "name": "SUPPRESS_FRONTEND_RENDERING_THIS_FRAME",
+        "jhash": "0x7F349900",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

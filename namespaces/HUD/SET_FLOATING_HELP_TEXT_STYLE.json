@@ -1,0 +1,35 @@
+{
+    "0x788E7FD431BD67F1": {
+        "name": "SET_FLOATING_HELP_TEXT_STYLE",
+        "jhash": "0x97852A82",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudIndex"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4462658788425076": {
+        "name": "REGISTER_PEDHEADSHOT",
+        "jhash": "0xFFE2667B",
+        "comment": "gtaforums.com/topic/885580-ped-headshotmugshot-txd/",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

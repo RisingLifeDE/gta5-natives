@@ -1,0 +1,22 @@
+{
+    "0x9D77056A530643F6": {
+        "name": "END_TEXT_COMMAND_PRINT",
+        "jhash": "0x38F82261",
+        "comment": "Draws the subtitle at middle center of the screen.\n\nint duration = time in milliseconds to show text on screen before disappearing\n\ndrawImmediately = If true, the text will be drawn immediately, if false, the text will be drawn after the previous subtitle has finished\n\nUsed to be known as _DRAW_SUBTITLE_TIMED",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawImmediately"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DRAW_SUBTITLE_TIMED"
+        ]
+    }
+}

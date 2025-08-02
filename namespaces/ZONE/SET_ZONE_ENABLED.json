@@ -1,0 +1,19 @@
+{
+    "0xBA5ECEEA120E5611": {
+        "name": "SET_ZONE_ENABLED",
+        "jhash": "0x04E21B03",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoneId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xEB119AA014E89183": {
+        "name": "RELEASE_MOVIE_MESH_SET",
+        "jhash": "0x4FA5501D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "movieMeshSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

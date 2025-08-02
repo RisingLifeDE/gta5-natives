@@ -1,0 +1,10 @@
+{
+    "0x0C87C83C8950432B": {
+        "name": "_NETWORK_CLEAR_TUNABLES_REGISTRATION_CONTEXTS",
+        "jhash": "",
+        "comment": "Clears tunable contexts that were set up using _NETWORK_SET_TUNABLES_REGISTRATION_CONTEXTS",
+        "params": [],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

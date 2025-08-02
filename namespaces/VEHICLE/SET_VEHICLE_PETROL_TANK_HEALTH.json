@@ -1,0 +1,19 @@
+{
+    "0x70DB57649FA8D0D8": {
+        "name": "SET_VEHICLE_PETROL_TANK_HEALTH",
+        "jhash": "0x660A3692",
+        "comment": "1000 is max health\nBegins leaking gas at around 650 health\n-999.90002441406 appears to be minimum health, although nothing special occurs",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xB0A6CFD2C69C1088": {
+        "name": "SET_TASK_MOVE_NETWORK_SIGNAL_BOOL",
+        "jhash": "0xF3538041",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TASK_PROPERTY_BOOL"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0x2B7E9A4EAAA93C89": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_STATS",
+        "jhash": "0xED130FA1",
+        "comment": "List of picture names: https://pastebin.com/XdpJVbHz\nExample result: https://i.imgur.com/SdEZ22m.png",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "statTitle"
+            },
+            {
+                "type": "int",
+                "name": "iconEnum"
+            },
+            {
+                "type": "BOOL",
+                "name": "stepVal"
+            },
+            {
+                "type": "int",
+                "name": "barValue"
+            },
+            {
+                "type": "BOOL",
+                "name": "isImportant"
+            },
+            {
+                "type": "const char*",
+                "name": "pictureTextureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "pictureTextureName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_MESSAGE_2"
+        ]
+    }
+}

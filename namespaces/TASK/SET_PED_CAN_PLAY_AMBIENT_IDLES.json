@@ -1,0 +1,23 @@
+{
+    "0x8FD89A6240813FD0": {
+        "name": "SET_PED_CAN_PLAY_AMBIENT_IDLES",
+        "jhash": "0xB5AD044E",
+        "comment": "Appears only in fm_mission_controller and used only 3 times.\n\nped was always PLAYER_PED_ID()\np1 was always true\np2 was always true",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "blockIdleClips"
+            },
+            {
+                "type": "BOOL",
+                "name": "removeIdleClipIfPlaying"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

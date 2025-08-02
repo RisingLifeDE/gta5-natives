@@ -1,0 +1,15 @@
+{
+    "0xF162E133B4E7A675": {
+        "name": "GET_PED_GROUP_INDEX",
+        "jhash": "0x134E0785",
+        "comment": "Returns the group id of which the specified ped is a member of.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

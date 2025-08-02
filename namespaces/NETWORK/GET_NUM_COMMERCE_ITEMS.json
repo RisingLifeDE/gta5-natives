@@ -1,0 +1,10 @@
+{
+    "0xF2EAC213D5EA0623": {
+        "name": "GET_NUM_COMMERCE_ITEMS",
+        "jhash": "0x965EA007",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

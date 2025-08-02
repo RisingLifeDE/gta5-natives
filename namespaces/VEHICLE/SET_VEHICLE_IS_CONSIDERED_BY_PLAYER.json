@@ -1,0 +1,19 @@
+{
+    "0x31B927BBC44156CD": {
+        "name": "SET_VEHICLE_IS_CONSIDERED_BY_PLAYER",
+        "jhash": "0x14413319",
+        "comment": "Setting this to false, makes the specified vehicle to where if you press Y your character doesn't even attempt the animation to enter the vehicle. Hence it's not considered aka ignored.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

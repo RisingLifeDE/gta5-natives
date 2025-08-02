@@ -1,0 +1,23 @@
+{
+    "0x3E4ADAFF1830F146": {
+        "name": "NETWORK_EARN_FROM_WAREHOUSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_WAREHOUSE"
+        ]
+    }
+}

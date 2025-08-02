@@ -1,0 +1,22 @@
+{
+    "0xB81656BC81FE24D1": {
+        "name": "SHOW_OUTLINE_INDICATOR_ON_BLIP",
+        "jhash": "0x8DE82C15",
+        "comment": "Highlights a blip by a cyan color circle.\n\nColor can be changed with SET_BLIP_SECONDARY_COLOUR",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_BLIP_FRIENDLY"
+        ]
+    }
+}

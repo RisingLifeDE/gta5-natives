@@ -1,0 +1,19 @@
+{
+    "0x1F2AA07F00B3217A": {
+        "name": "SET_VEHICLE_MOD_KIT",
+        "jhash": "0xB8132158",
+        "comment": "Set modKit to 0 if you plan to call SET_VEHICLE_MOD. That's what the game does. Most body modifications through SET_VEHICLE_MOD will not take effect until this is set to 0.\n\nFull list of vehicle mod kits and mods by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleModKits.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modKit"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

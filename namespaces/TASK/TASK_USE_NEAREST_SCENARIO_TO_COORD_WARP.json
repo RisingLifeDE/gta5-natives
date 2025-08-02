@@ -1,0 +1,35 @@
+{
+    "0x58E2E0F23F6B76C3": {
+        "name": "TASK_USE_NEAREST_SCENARIO_TO_COORD_WARP",
+        "jhash": "0x1BE9D65C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "timeToLeave"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

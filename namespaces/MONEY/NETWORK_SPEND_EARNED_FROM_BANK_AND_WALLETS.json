@@ -1,0 +1,16 @@
+{
+    "0x9B5016A6433A68C5": {
+        "name": "NETWORK_SPEND_EARNED_FROM_BANK_AND_WALLETS",
+        "jhash": "0xBD64F1B7",
+        "comment": "Hardcoded to return 0.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "unused": true
+    }
+}

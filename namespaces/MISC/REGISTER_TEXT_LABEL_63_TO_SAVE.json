@@ -1,0 +1,19 @@
+{
+    "0xFAA457EF263E8763": {
+        "name": "REGISTER_TEXT_LABEL_63_TO_SAVE",
+        "jhash": "0x6B4335DD",
+        "comment": "MISC::REGISTER_TEXT_LABEL_63_TO_SAVE(a_0, \"Thumb_label\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f10, \"Photo_label\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(a_0, \"GXTlabel\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f21, \"StringComp\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f43, \"SecondStringComp\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f53, \"ThirdStringComp\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f32, \"SenderStringComp\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f726[v_1A/*16*/], &v_20); // where v_20 is \"LastJobTL_0_1\" thru \"LastJobTL_2_1\", gets saved in a struct called \"LAST_JobGamer_TL\"\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f4B, \"PAID_PLAYER\");\nMISC::REGISTER_TEXT_LABEL_63_TO_SAVE(&a_0._f5B, \"RADIO_STATION\");",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x4DC9A62F844D9337": {
+        "name": "GET_NEAREST_PLAYER_TO_ENTITY_ON_TEAM",
+        "jhash": "0xB1808F56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            }
+        ],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

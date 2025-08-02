@@ -1,0 +1,10 @@
+{
+    "0x7984C03AA5CC2F41": {
+        "name": "IS_MESSAGE_BEING_DISPLAYED",
+        "jhash": "0x6A77FE8D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

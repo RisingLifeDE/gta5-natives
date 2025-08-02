@@ -1,0 +1,19 @@
+{
+    "0x3C606747B23E497B": {
+        "name": "SET_PED_COMBAT_RANGE",
+        "jhash": "0x8818A959",
+        "comment": "enum eCombatRange // 0xB69160F5\n{\n\tCR_Near,\n\tCR_Medium,\n\tCR_Far,\n\tCR_VeryFar,\n\tCR_NumRanges\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "combatRange"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

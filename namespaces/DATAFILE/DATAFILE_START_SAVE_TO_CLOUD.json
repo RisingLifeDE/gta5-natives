@@ -1,0 +1,19 @@
+{
+    "0x83BCCE3224735F05": {
+        "name": "DATAFILE_START_SAVE_TO_CLOUD",
+        "jhash": "0x768CBB35",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "filename"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

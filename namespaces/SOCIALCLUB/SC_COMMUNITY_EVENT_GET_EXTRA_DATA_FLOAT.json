@@ -1,0 +1,20 @@
+{
+    "0x50A8A36201DBF83E": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT",
+        "jhash": "0x8DA93C3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "float*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

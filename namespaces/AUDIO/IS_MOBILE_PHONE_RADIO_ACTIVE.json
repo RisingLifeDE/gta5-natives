@@ -1,0 +1,10 @@
+{
+    "0xB35CE999E8EF317E": {
+        "name": "IS_MOBILE_PHONE_RADIO_ACTIVE",
+        "jhash": "0x6E502A5B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

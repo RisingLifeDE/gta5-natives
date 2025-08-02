@@ -1,0 +1,15 @@
+{
+    "0xC6372ECD45D73BCD": {
+        "name": "SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU",
+        "jhash": "0xF8FBCC25",
+        "comment": "Sets a flag defining whether or not script draw commands should continue being drawn behind the pause menu. This is usually used for TV channels and other draw commands that are used with a world render target.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

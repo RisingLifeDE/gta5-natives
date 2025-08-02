@@ -1,0 +1,18 @@
+{
+    "0xC772A904CDE1186F": {
+        "name": "SHOW_CONTACT_INSTRUCTIONAL_BUTTON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_SHOW_CONTACT_INSTRUCTIONAL_BUTTON"
+        ]
+    }
+}

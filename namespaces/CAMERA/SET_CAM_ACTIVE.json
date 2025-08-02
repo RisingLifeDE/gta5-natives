@@ -1,0 +1,19 @@
+{
+    "0x026FB97D0A425F84": {
+        "name": "SET_CAM_ACTIVE",
+        "jhash": "0x064659C2",
+        "comment": "Set camera as active/inactive.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

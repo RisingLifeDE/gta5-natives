@@ -1,0 +1,23 @@
+{
+    "0x58C21165F6545892": {
+        "name": "OPEN_COMMERCE_STORE",
+        "jhash": "0x365C50EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

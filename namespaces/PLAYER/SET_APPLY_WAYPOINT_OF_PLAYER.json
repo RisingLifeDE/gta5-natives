@@ -1,0 +1,19 @@
+{
+    "0x2382AB11450AE7BA": {
+        "name": "SET_APPLY_WAYPOINT_OF_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "hudColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

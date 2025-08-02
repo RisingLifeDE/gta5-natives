@@ -1,0 +1,10 @@
+{
+    "0x8A9BA1AB3E237613": {
+        "name": "END_TEXT_COMMAND_IS_MESSAGE_DISPLAYED",
+        "jhash": "0x672EFB45",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

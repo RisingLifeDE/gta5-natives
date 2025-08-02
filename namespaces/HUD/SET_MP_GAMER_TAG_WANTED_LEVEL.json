@@ -1,0 +1,19 @@
+{
+    "0xCF228E2AA03099C3": {
+        "name": "SET_MP_GAMER_TAG_WANTED_LEVEL",
+        "jhash": "0x0EBB003F",
+        "comment": "displays wanted star above head",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "wantedlvl"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

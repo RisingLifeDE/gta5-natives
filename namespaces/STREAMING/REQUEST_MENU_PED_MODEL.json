@@ -1,0 +1,15 @@
+{
+    "0xA0261AEF7ACFC51E": {
+        "name": "REQUEST_MENU_PED_MODEL",
+        "jhash": "0x48CEB6B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

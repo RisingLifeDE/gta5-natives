@@ -1,0 +1,15 @@
+{
+    "0x5DBF05DB5926D089": {
+        "name": "SET_SKIDMARK_RANGE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

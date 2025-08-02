@@ -1,0 +1,14 @@
+{
+    "0xD4438C0564490E63": {
+        "name": "THEFEED_REPORT_LOGO_ON",
+        "jhash": "0x709B4BCB",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_THEFEED_ENABLE_BASELINE_OFFSET",
+            "THEFEED_SPS_EXTEND_WIDESCREEN_ON"
+        ]
+    }
+}

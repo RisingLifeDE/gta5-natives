@@ -1,0 +1,23 @@
+{
+    "0x59C3757B3B7408E8": {
+        "name": "SET_PEDS_CAN_FALL_OFF_THIS_VEHICLE_FROM_LARGE_FALL_DAMAGE",
+        "jhash": "",
+        "comment": "Sets some bit and float of vehicle. float is >= 0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493"
+    }
+}

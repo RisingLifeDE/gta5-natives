@@ -1,0 +1,19 @@
+{
+    "0x3750146A28097A82": {
+        "name": "SET_VEHICLE_CAN_BE_TARGETTED",
+        "jhash": "0x64B70B1D",
+        "comment": "This has not yet been tested - it's just an assumption of what the types could be.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x14D8518E9760F08F": {
+        "name": "DISABLE_SCRIPT_BRAIN_SET",
+        "jhash": "0xFBD13FAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "brainSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x392183BB9EA57697": {
+        "name": "SET_TYRE_WEAR_RATE_SCALE",
+        "jhash": "",
+        "comment": "Controls how fast the tires wear out.\n\nDefault values from Rockstar's Open Wheel Race JSON's:\n\"owrtss\" (Soft): 2.2\n\"owrtsm\" (Medium): 1.7\n\"owrtsh\" (Hard): 1.2\n\nUsable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_SET_TYRE_SOFTNESS_MULTIPLIER"
+        ]
+    }
+}

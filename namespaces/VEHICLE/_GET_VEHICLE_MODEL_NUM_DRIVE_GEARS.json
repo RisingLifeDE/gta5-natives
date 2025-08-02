@@ -1,0 +1,15 @@
+{
+    "0x61F02E4E9A7A61EA": {
+        "name": "_GET_VEHICLE_MODEL_NUM_DRIVE_GEARS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "int",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x9CCC9525BF2408E0": {
+        "name": "GET_VEHICLE_PLATE_TYPE",
+        "jhash": "0x65CA9286",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

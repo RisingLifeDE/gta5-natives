@@ -1,0 +1,19 @@
+{
+    "0xDDF803377F94AAA8": {
+        "name": "SET_PED_GESTURE_GROUP",
+        "jhash": "0x170DA109",
+        "comment": "From the scripts:\nPED::SET_PED_GESTURE_GROUP(PLAYER::PLAYER_PED_ID(),\n\"ANIM_GROUP_GESTURE_MISS_FRA0\");\nPED::SET_PED_GESTURE_GROUP(PLAYER::PLAYER_PED_ID(),\n\"ANIM_GROUP_GESTURE_MISS_DocksSetup1\");",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animGroupGesture"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

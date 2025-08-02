@@ -1,0 +1,18 @@
+{
+    "0x0999F3F090EC5012": {
+        "name": "PLAYSTATS_CASINO_CHIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_CHIP"
+        ]
+    }
+}

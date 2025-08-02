@@ -1,0 +1,27 @@
+{
+    "0x7DCF7C708D292D55": {
+        "name": "OVERRIDE_CAM_SPLINE_MOTION_BLUR",
+        "jhash": "0x633179E6",
+        "comment": "Max value for p1 is 15.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

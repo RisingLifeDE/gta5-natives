@@ -1,0 +1,27 @@
+{
+    "0xF113E3AA9BC54613": {
+        "name": "SPECIAL_ABILITY_CHARGE_MEDIUM",
+        "jhash": "0xAB55D8F3",
+        "comment": "Only 1 match. Both p1 & p2 were true.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

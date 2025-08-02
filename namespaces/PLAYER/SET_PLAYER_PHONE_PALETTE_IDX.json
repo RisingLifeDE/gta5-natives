@@ -1,0 +1,22 @@
+{
+    "0x11D5F725F0E780E0": {
+        "name": "SET_PLAYER_PHONE_PALETTE_IDX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "idx"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PLAYER_RESET_FLAG_PREFER_REAR_SEATS"
+        ]
+    }
+}

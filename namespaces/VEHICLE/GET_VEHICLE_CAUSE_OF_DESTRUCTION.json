@@ -1,0 +1,15 @@
+{
+    "0xE495D1EF4C91FD20": {
+        "name": "GET_VEHICLE_CAUSE_OF_DESTRUCTION",
+        "jhash": "0x7F8C20DD",
+        "comment": "iVar3 = get_vehicle_cause_of_destruction(uLocal_248[iVar2]);\nif (iVar3 == joaat(\"weapon_stickybomb\"))\n{\n\tfunc_171(726);\n\tiLocal_260 = 1;\n}",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

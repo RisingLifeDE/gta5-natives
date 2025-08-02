@@ -1,0 +1,27 @@
+{
+    "0xB1F1346FD57685D7": {
+        "name": "NETWORK_SPENT_HANGAR_STAFF_CHARGES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_HANGAR_STAFF_CHARGES"
+        ]
+    }
+}

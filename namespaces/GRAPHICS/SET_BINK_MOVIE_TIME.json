@@ -1,0 +1,23 @@
+{
+    "0x0CB6B3446855B57A": {
+        "name": "SET_BINK_MOVIE_TIME",
+        "jhash": "",
+        "comment": "In percentage: 0.0 - 100.0",
+        "params": [
+            {
+                "type": "int",
+                "name": "binkMovie"
+            },
+            {
+                "type": "float",
+                "name": "progress"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_BINK_MOVIE_PROGRESS",
+            "_SET_BINK_MOVIE_TIME"
+        ]
+    }
+}

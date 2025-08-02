@@ -1,0 +1,22 @@
+{
+    "0x4CAFEBFA21EC188D": {
+        "name": "SET_RADIO_STATION_AS_FAVOURITE",
+        "jhash": "",
+        "comment": "Doesn't have an effect in Story Mode.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_RADIO_STATION_IS_VISIBLE"
+        ]
+    }
+}

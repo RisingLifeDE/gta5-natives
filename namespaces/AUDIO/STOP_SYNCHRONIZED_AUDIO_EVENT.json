@@ -1,0 +1,15 @@
+{
+    "0x92D6A88E64A94430": {
+        "name": "STOP_SYNCHRONIZED_AUDIO_EVENT",
+        "jhash": "0xADEED2B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

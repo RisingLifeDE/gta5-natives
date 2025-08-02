@@ -1,0 +1,15 @@
+{
+    "0xF1CEA8A4198D8E9A": {
+        "name": "UI3DSCENE_PUSH_PRESET",
+        "jhash": "0x2E7D9B98",
+        "comment": "All presets can be found in common\\data\\ui\\uiscenes.meta",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "presetName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

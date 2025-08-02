@@ -1,0 +1,15 @@
+{
+    "0x223CA69A8C4417FD": {
+        "name": "GET_HUD_COMPONENT_POSITION",
+        "jhash": "0x080DCED6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

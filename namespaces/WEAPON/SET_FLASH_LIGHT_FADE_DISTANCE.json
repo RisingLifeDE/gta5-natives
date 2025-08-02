@@ -1,0 +1,15 @@
+{
+    "0xCEA66DAD478CD39B": {
+        "name": "SET_FLASH_LIGHT_FADE_DISTANCE",
+        "jhash": "0xB0127EA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

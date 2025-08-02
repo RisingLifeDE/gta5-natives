@@ -1,0 +1,15 @@
+{
+    "0xD1032E482629049E": {
+        "name": "PLAYSTATS_SET_JOIN_TYPE",
+        "jhash": "0x1AC97138",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "joinType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xF7B38B8305F1FE8B": {
+        "name": "SET_TV_CHANNEL_PLAYLIST",
+        "jhash": "0xB262DE67",
+        "comment": "Loads specified video sequence into the TV Channel\nTV_Channel ranges from 0-2\nVideoSequence can be any of the following:\n\"PL_STD_CNT\" CNT Standard Channel\n\"PL_STD_WZL\" Weazel Standard Channel\n\"PL_LO_CNT\"\n\"PL_LO_WZL\"\n\"PL_SP_WORKOUT\"\n\"PL_SP_INV\" - Jay Norris Assassination Mission Fail\n\"PL_SP_INV_EXP\" - Jay Norris Assassination Mission Success\n\"PL_LO_RS\" - Righteous Slaughter Ad\n\"PL_LO_RS_CUTSCENE\" - Righteous Slaughter Cut-scene\n\"PL_SP_PLSH1_INTRO\"\n\"PL_LES1_FAME_OR_SHAME\"\n\"PL_STD_WZL_FOS_EP2\"\n\"PL_MP_WEAZEL\" - Weazel Logo on loop\n\"PL_MP_CCTV\" - Generic CCTV loop\n\nRestart:\n0=video sequence continues as normal\n1=sequence restarts from beginning every time that channel is selected\n\n\nThe above playlists work as intended, and are commonly used, but there are many more playlists, as seen in `tvplaylists.xml`. A pastebin below outlines all playlists, they will be surronded by the name tag I.E. (<Name>PL_STD_CNT</Name> = PL_STD_CNT).\nhttps://pastebin.com/zUzGB6h7",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            },
+            {
+                "type": "const char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "BOOL",
+                "name": "restart"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_LOAD_TV_CHANNEL_SEQUENCE"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "0x4B99AB08C92C54E4": {
+        "name": "_NETWORK_SPEND_UPGRADE_ACID_LAB_MINES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802",
+        "unused": true
+    }
+}

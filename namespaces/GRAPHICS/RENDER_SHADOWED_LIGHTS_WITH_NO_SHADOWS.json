@@ -1,0 +1,15 @@
+{
+    "0x03300B57FCAC6DDB": {
+        "name": "RENDER_SHADOWED_LIGHTS_WITH_NO_SHADOWS",
+        "jhash": "0x60F72371",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

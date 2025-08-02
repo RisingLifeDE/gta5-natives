@@ -1,0 +1,10 @@
+{
+    "0x66A49D021870FE88": {
+        "name": "CLOSE_SAFEHOUSE_GARAGES",
+        "jhash": "0x6158959E",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

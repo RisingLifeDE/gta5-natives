@@ -1,0 +1,19 @@
+{
+    "0x77FE3402004CD1B0": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_LITERAL_STRING",
+        "jhash": "",
+        "comment": "Same as SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING\nBoth SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING / _SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING_2 works, but _SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING_2 is usually used for \"name\" (organisation, players..).",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_STRING_2",
+            "_SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING_2"
+        ]
+    }
+}

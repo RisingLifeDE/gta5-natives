@@ -1,0 +1,19 @@
+{
+    "0x5B6010B3CBC29095": {
+        "name": "SET_PED_SHOULD_IGNORE_SCENARIO_NAV_CHECKS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x685D5561680D088B": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_PULL_ROPE_LENGTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_CARGOBOB_PICKUP_MAGNET_FALLOFF"
+        ]
+    }
+}

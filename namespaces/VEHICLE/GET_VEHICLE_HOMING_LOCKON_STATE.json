@@ -1,0 +1,15 @@
+{
+    "0xE6B0E8CFC3633BF0": {
+        "name": "GET_VEHICLE_HOMING_LOCKON_STATE",
+        "jhash": "0xFBDE9FD8",
+        "comment": "Returns a value depending on the lock-on state of vehicle weapons.\n0: not locked on\n1: locking on\n2: locked on",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

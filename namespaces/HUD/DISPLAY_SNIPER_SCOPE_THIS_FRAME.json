@@ -1,0 +1,10 @@
+{
+    "0x73115226F4814E62": {
+        "name": "DISPLAY_SNIPER_SCOPE_THIS_FRAME",
+        "jhash": "0xBC6C73CB",
+        "comment": "Displays the crosshair for this frame.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA7ECB73355EB2F20": {
+        "name": "GET_IS_RIGHT_VEHICLE_HEADLIGHT_DAMAGED",
+        "jhash": "0xF178390B",
+        "comment": "From the driver's perspective, is the right headlight broken.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_HEADLIGHT_R_BROKEN"
+        ]
+    }
+}

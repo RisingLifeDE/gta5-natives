@@ -1,0 +1,47 @@
+{
+    "0x5A6FFA2433E2F14C": {
+        "name": "NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER",
+        "jhash": "0xC62E77B3",
+        "comment": "One of the first things it does is get the players ped.\nThen it calls a function that is used in some tasks and ped based functions.\np5, p6, p7 is another coordinate (or zero), often related to `GET_BLIP_COORDS, in the decompiled scripts.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

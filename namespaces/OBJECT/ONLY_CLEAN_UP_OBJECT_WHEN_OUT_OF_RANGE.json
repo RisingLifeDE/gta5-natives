@@ -1,0 +1,18 @@
+{
+    "0xADBE4809F19F927A": {
+        "name": "ONLY_CLEAN_UP_OBJECT_WHEN_OUT_OF_RANGE",
+        "jhash": "0x2048A7DD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_MARK_OBJECT_FOR_DELETION"
+        ]
+    }
+}

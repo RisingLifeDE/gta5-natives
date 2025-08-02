@@ -1,0 +1,15 @@
+{
+    "0x600048C60D5C2C51": {
+        "name": "DISABLE_PED_HEATSCALE_OVERRIDE",
+        "jhash": "0x0688DE64",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

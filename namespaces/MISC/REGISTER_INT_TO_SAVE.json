@@ -1,0 +1,19 @@
+{
+    "0x34C9EE5986258415": {
+        "name": "REGISTER_INT_TO_SAVE",
+        "jhash": "0xB930956F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

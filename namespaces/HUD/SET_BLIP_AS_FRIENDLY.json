@@ -1,0 +1,19 @@
+{
+    "0x6F6F290102C02AB4": {
+        "name": "SET_BLIP_AS_FRIENDLY",
+        "jhash": "0xF290CFD8",
+        "comment": "false for enemy\ntrue for friendly",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

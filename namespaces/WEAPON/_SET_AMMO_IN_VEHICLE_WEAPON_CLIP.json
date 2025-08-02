@@ -1,0 +1,23 @@
+{
+    "0x873906720EE842C3": {
+        "name": "_SET_AMMO_IN_VEHICLE_WEAPON_CLIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

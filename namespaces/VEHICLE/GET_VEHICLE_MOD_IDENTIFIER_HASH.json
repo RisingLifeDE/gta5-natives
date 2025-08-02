@@ -1,0 +1,26 @@
+{
+    "0x4593CF82AA179706": {
+        "name": "GET_VEHICLE_MOD_IDENTIFIER_HASH",
+        "jhash": "0x94850968",
+        "comment": "Can be used for IS_DLC_VEHICLE_MOD and GET_DLC_VEHICLE_MOD_LOCK_HASH",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "int",
+                "name": "modIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MOD_DATA"
+        ]
+    }
+}

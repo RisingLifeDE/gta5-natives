@@ -1,0 +1,10 @@
+{
+    "0xD53ACDBEF24A46E8": {
+        "name": "UGC_IS_GETTING",
+        "jhash": "0x4908A514",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x79F020FF9EDC0748": {
+        "name": "SET_ENTITY_ONLY_DAMAGED_BY_PLAYER",
+        "jhash": "0x4B707F50",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

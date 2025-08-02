@@ -1,0 +1,15 @@
+{
+    "0xFEC9A3B1820F3331": {
+        "name": "IS_USING_PED_SCUBA_GEAR_VARIATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

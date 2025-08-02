@@ -1,0 +1,15 @@
+{
+    "0xED74007FFB146BC2": {
+        "name": "REMOVE_PED_FROM_GROUP",
+        "jhash": "0x82697713",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xECC01B7C5763333C": {
+        "name": "GET_DLC_VEHICLE_MODEL",
+        "jhash": "0xA2201E09",
+        "comment": "dlcVehicleIndex is 0 to GET_NUM_DLC_VEHICLS() - 1",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcVehicleIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

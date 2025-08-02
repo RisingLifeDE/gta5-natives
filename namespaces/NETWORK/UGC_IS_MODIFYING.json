@@ -1,0 +1,10 @@
+{
+    "0x45E816772E93A9DB": {
+        "name": "UGC_IS_MODIFYING",
+        "jhash": "0x8E664EFD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

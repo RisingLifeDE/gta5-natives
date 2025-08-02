@@ -1,0 +1,19 @@
+{
+    "0x6F79B93B0A8E4133": {
+        "name": "NETWORK_IS_HANDLE_VALID",
+        "jhash": "0xF0996C6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "gamerHandleSize"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

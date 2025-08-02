@@ -1,0 +1,19 @@
+{
+    "0xB604A2942ADED0EE": {
+        "name": "SET_DECISION_MAKER",
+        "jhash": "0x19CEAC9E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

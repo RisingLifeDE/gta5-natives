@@ -1,0 +1,23 @@
+{
+    "0xDE68E30D89F97132": {
+        "name": "NETWORK_EARN_YATCH_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_YACHT_MISSION"
+        ]
+    }
+}

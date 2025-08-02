@@ -1,0 +1,15 @@
+{
+    "0x00689CDE5F7C6787": {
+        "name": "REMOVE_VEHICLE_HIGH_DETAIL_MODEL",
+        "jhash": "0x382BE070",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

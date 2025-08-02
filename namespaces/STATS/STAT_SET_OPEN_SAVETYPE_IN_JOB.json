@@ -1,0 +1,15 @@
+{
+    "0x5688585E6D563CD8": {
+        "name": "STAT_SET_OPEN_SAVETYPE_IN_JOB",
+        "jhash": "0xC62406A6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x439BFDE3CD0610F6": {
+        "name": "NETWORK_CLEAR_FOLLOW_INVITE",
+        "jhash": "0x3242F952",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xC19A2925C34D2231": {
+        "name": "PLAYSTATS_MISSION_STARTED",
+        "jhash": "0x3AAB699C",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

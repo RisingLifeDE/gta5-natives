@@ -1,0 +1,22 @@
+{
+    "0x29C24BFBED8AB8FB": {
+        "name": "GET_APPROX_HEIGHT_FOR_POINT",
+        "jhash": "0x3FE8C5A0",
+        "comment": "Returns CGameWorldHeightMap's maximum Z value at specified point (grid node).",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_HEIGHTMAP_TOP_Z_FOR_POSITION"
+        ]
+    }
+}

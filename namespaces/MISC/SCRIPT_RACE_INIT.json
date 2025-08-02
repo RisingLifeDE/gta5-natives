@@ -1,0 +1,27 @@
+{
+    "0x0A60017F841A54F2": {
+        "name": "SCRIPT_RACE_INIT",
+        "jhash": "0x2D33F15A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

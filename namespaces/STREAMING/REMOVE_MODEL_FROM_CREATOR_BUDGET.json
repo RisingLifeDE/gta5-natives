@@ -1,0 +1,15 @@
+{
+    "0xF086AD9354FAC3A3": {
+        "name": "REMOVE_MODEL_FROM_CREATOR_BUDGET",
+        "jhash": "0x1C576388",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "0x742A637471BCECD9": {
+        "name": "NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE",
+        "jhash": "0xB386713E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "netScene"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animnName"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "playbackRate"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

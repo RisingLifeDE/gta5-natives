@@ -1,0 +1,19 @@
+{
+    "0xE05DD0E9707003A3": {
+        "name": "SET_VEHICLE_USED_FOR_PILOT_SCHOOL",
+        "jhash": "0x123E5B90",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

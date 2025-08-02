@@ -1,0 +1,19 @@
+{
+    "0x1B212B26DD3C04DF": {
+        "name": "SET_OPEN_REAR_DOORS_ON_EXPLOSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x33E179436C0B31DB": {
+        "name": "GIVE_WEAPON_COMPONENT_TO_WEAPON_OBJECT",
+        "jhash": "0xF7612A37",
+        "comment": "componentHash:\n(use WEAPON::GET_WEAPON_COMPONENT_TYPE_MODEL() to get hash value)\n${component_at_ar_flsh}, ${component_at_ar_supp}, ${component_at_pi_flsh}, ${component_at_scope_large}, ${component_at_ar_supp_02}",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

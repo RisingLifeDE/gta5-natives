@@ -1,0 +1,19 @@
+{
+    "0x1B882107C23A9022": {
+        "name": "NETWORK_SERVICE_EARN_GANGOPS_RIVAL_DELIVERY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "earnedMoney"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_RIVAL_DELIVERY_COMPLETED"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x55F5A5F07134DE60": {
+        "name": "DONT_ZOOM_MINIMAP_WHEN_SNIPING_THIS_FRAME",
+        "jhash": "0x7A569F78",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

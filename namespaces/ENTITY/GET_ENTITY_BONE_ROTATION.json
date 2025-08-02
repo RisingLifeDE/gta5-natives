@@ -1,0 +1,23 @@
+{
+    "0xCE6294A232D03786": {
+        "name": "GET_ENTITY_BONE_ROTATION",
+        "jhash": "",
+        "comment": "Gets the world rotation of the specified bone of the specified entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "791",
+        "old_names": [
+            "_GET_WORLD_ROTATION_OF_ENTITY_BONE",
+            "_GET_ENTITY_BONE_ROTATION"
+        ]
+    }
+}

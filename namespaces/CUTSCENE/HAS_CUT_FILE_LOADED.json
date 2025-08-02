@@ -1,0 +1,15 @@
+{
+    "0xA1C996C2A744262E": {
+        "name": "HAS_CUT_FILE_LOADED",
+        "jhash": "0x56D5B144",
+        "comment": "Simply checks if the cutscene has loaded and doesn't check via CutSceneManager as opposed to HAS_[THIS]_CUTSCENE_LOADED.\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

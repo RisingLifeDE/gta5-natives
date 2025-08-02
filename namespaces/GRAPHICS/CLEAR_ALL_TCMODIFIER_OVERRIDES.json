@@ -1,0 +1,18 @@
+{
+    "0x15E33297C3E8DC60": {
+        "name": "CLEAR_ALL_TCMODIFIER_OVERRIDES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "REMOVE_TCMODIFIER_OVERRIDE"
+        ]
+    }
+}

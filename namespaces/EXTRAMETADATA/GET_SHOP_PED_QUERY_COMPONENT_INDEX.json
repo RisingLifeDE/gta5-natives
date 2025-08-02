@@ -1,0 +1,15 @@
+{
+    "0x96E2929292A4DB77": {
+        "name": "GET_SHOP_PED_QUERY_COMPONENT_INDEX",
+        "jhash": "",
+        "comment": "Returns some sort of index/offset for components.\nNeeds _GET_NUM_PROPS_FROM_OUTFIT to be called with p3 = false and componentId with the drawable's component slot first, returns -1 otherwise.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "2189"
+    }
+}

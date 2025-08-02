@@ -1,0 +1,22 @@
+{
+    "0x78F06F6B1FB5A80C": {
+        "name": "DATADICT_GET_INT",
+        "jhash": "0xA6C68693",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_GET_INTEGER"
+        ]
+    }
+}

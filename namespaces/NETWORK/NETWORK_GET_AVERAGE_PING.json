@@ -1,0 +1,19 @@
+{
+    "0x0E3A041ED6AC2B45": {
+        "name": "NETWORK_GET_AVERAGE_PING",
+        "jhash": "",
+        "comment": "Same as NETWORK_GET_AVERAGE_LATENCY",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_AVERAGE_LATENCY_FOR_PLAYER_2"
+        ]
+    }
+}

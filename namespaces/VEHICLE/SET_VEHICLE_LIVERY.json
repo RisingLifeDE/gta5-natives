@@ -1,0 +1,19 @@
+{
+    "0x60BF608F1B8CD1B6": {
+        "name": "SET_VEHICLE_LIVERY",
+        "jhash": "0x7AD87059",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "livery"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

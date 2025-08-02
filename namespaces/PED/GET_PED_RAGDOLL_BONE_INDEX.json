@@ -1,0 +1,19 @@
+{
+    "0x2057EF813397A772": {
+        "name": "GET_PED_RAGDOLL_BONE_INDEX",
+        "jhash": "0x849F0716",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "bone"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

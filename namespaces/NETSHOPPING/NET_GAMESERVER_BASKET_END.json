@@ -1,0 +1,13 @@
+{
+    "0xFA336E7F40C0A0D0": {
+        "name": "NET_GAMESERVER_BASKET_END",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "372",
+        "old_names": [
+            "_NET_GAMESERVER_BASKET_DELETE"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x7FEAD38B326B9F74": {
+        "name": "GET_PED_AMMO_TYPE_FROM_WEAPON",
+        "jhash": "0x09337863",
+        "comment": "Returns the current ammo type of the specified ped's specified weapon.\nMkII magazines will change the return value, like Pistol MkII returning AMMO_PISTOL without any components and returning AMMO_PISTOL_TRACER after Tracer Rounds component is attached.\nUse 0xF489B44DD5AF4BD9 if you always want AMMO_PISTOL.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_PED_AMMO_TYPE"
+        ]
+    }
+}

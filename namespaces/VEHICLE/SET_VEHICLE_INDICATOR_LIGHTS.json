@@ -1,0 +1,23 @@
+{
+    "0xB5D45264751B7DF0": {
+        "name": "SET_VEHICLE_INDICATOR_LIGHTS",
+        "jhash": "0xA6073B5D",
+        "comment": "Sets the turn signal enabled for a vehicle.\nSet turnSignal to 1 for left light, 0 for right light.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "turnSignal"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

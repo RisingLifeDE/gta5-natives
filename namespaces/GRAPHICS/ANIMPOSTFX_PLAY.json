@@ -1,0 +1,26 @@
+{
+    "0x2206BF9A37B7F724": {
+        "name": "ANIMPOSTFX_PLAY",
+        "jhash": "0x1D980479",
+        "comment": "duration - is how long to play the effect for in milliseconds. If 0, it plays the default length\nif loop is true, the effect won't stop until you call ANIMPOSTFX_STOP on it. (only loopable effects)\n\nFull list of animpostFX / screen effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animPostFxNamesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "looped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_START_SCREEN_EFFECT"
+        ]
+    }
+}

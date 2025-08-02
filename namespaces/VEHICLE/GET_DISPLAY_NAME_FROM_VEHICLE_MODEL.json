@@ -1,0 +1,15 @@
+{
+    "0xB215AAC32D25D019": {
+        "name": "GET_DISPLAY_NAME_FROM_VEHICLE_MODEL",
+        "jhash": "0xEC86DF39",
+        "comment": "Returns model name of vehicle in all caps. Needs to be displayed through localizing text natives to get proper display name.\n-----------------------------------------------------------------------------------------------------------------------------------------\nWhile often the case, this does not simply return the model name of the vehicle (which could be hashed to return the model hash). Variations of the same vehicle may also use the same display name.\n-----------------------------------------------------------------------------------------------------------------------------------------\n\nReturns \"CARNOTFOUND\" if the hash doesn't match a vehicle hash.\n\nUsing HUD::GET_FILENAME_FOR_AUDIO_CONVERSATION, you can get the localized name.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

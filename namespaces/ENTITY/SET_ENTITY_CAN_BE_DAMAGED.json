@@ -1,0 +1,19 @@
+{
+    "0x1760FFA8AB074D66": {
+        "name": "SET_ENTITY_CAN_BE_DAMAGED",
+        "jhash": "0x60B6E744",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

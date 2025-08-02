@@ -1,0 +1,18 @@
+{
+    "0x3795688A307E1EB6": {
+        "name": "IS_PED_SWITCHING_WEAPON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "Ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "_IS_PED_SWAPPING_WEAPON"
+        ]
+    }
+}

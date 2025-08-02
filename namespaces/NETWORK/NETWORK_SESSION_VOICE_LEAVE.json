@@ -1,0 +1,10 @@
+{
+    "0x6793E42BE02B575D": {
+        "name": "NETWORK_SESSION_VOICE_LEAVE",
+        "jhash": "0xE566C7DA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xEE6C5AD3ECE0A82D": {
+        "name": "REMOVE_IPL",
+        "jhash": "0xDF7CBD36",
+        "comment": "Removes an IPL from the map.\n\nFull list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json\n\nExample:\nC#:\nFunction.Call(Hash.REMOVE_IPL, \"trevorstrailertidy\");\n\nC++:\nSTREAMING::REMOVE_IPL(\"trevorstrailertidy\");\n\niplName = Name of IPL you want to remove.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

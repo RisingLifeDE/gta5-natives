@@ -1,0 +1,10 @@
+{
+    "0x7792424AA0EAC32E": {
+        "name": "CLEAR_DYNAMIC_PAUSE_MENU_ERROR_MESSAGE",
+        "jhash": "0x2F9A309C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

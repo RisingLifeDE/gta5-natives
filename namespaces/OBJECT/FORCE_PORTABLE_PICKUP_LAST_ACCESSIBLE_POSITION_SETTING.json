@@ -1,0 +1,15 @@
+{
+    "0x5CE2E45A5CE2E45A": {
+        "name": "FORCE_PORTABLE_PICKUP_LAST_ACCESSIBLE_POSITION_SETTING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545"
+    }
+}

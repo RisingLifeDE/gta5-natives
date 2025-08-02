@@ -1,0 +1,27 @@
+{
+    "0xAE2AF67E9D9AF65D": {
+        "name": "SET_BLIP_COORDS",
+        "jhash": "0x680A34D4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

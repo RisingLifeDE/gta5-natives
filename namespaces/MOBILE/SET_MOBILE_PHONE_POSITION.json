@@ -1,0 +1,23 @@
+{
+    "0x693A5C6D6734085B": {
+        "name": "SET_MOBILE_PHONE_POSITION",
+        "jhash": "0x841800B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

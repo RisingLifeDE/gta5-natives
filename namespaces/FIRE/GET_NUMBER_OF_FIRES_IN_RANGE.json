@@ -1,0 +1,27 @@
+{
+    "0x50CAD495A460B305": {
+        "name": "GET_NUMBER_OF_FIRES_IN_RANGE",
+        "jhash": "0x654D93B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

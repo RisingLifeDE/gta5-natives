@@ -1,0 +1,10 @@
+{
+    "0xAFEBB0D5D8F687D2": {
+        "name": "NETWORK_GET_MAX_FRIENDS",
+        "jhash": "0x048171BC",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

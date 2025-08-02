@@ -1,0 +1,15 @@
+{
+    "0x8BB4EF4214E0E6D5": {
+        "name": "GET_ENTITY_FORWARD_X",
+        "jhash": "0x49FAE914",
+        "comment": "Gets the X-component of the entity's forward vector.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

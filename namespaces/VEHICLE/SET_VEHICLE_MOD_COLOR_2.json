@@ -1,0 +1,23 @@
+{
+    "0x816562BADFDEC83E": {
+        "name": "SET_VEHICLE_MOD_COLOR_2",
+        "jhash": "0xC32613C2",
+        "comment": "Changes the secondary paint type and color\npaintType:\n0: Normal\n1: Metallic\n2: Pearl\n3: Matte\n4: Metal\n5: Chrome\n6: Chameleon\n\ncolor: number of the color\n\nFull list of vehicle colors and vehicle plates by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleColors.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "paintType"
+            },
+            {
+                "type": "int",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

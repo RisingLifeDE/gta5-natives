@@ -1,0 +1,15 @@
+{
+    "0x9483AF821605B1D8": {
+        "name": "GET_PED_ARMOUR",
+        "jhash": "0x2CE311A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

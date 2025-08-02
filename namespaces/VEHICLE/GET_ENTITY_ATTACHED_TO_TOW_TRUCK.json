@@ -1,0 +1,15 @@
+{
+    "0xEFEA18DCF10F8F75": {
+        "name": "GET_ENTITY_ATTACHED_TO_TOW_TRUCK",
+        "jhash": "0x11EC7844",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "towTruck"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323"
+    }
+}

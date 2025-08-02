@@ -1,0 +1,18 @@
+{
+    "0xAE8CE82A4219AC8C": {
+        "name": "GET_HELI_TAIL_ROTOR_HEALTH",
+        "jhash": "0xA41BC13D",
+        "comment": "Max 1000.\nAt 0 the tail rotor will stall.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_HELI_TAIL_ROTOR_HEALTH"
+        ]
+    }
+}

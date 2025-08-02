@@ -1,0 +1,19 @@
+{
+    "0xFDE8F069C542D126": {
+        "name": "CELL_CAM_ACTIVATE",
+        "jhash": "0x234C1AE9",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x31698AA80E0223F8": {
+        "name": "REMOVE_MP_GAMER_TAG",
+        "jhash": "0x3D081FE4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0xD0837058AE2E4BEE": {
+        "name": "CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER",
+        "jhash": "0x557EDA1D",
+        "comment": "Calls the Scaleform function and passes the parameters as floats.\n\nThe number of parameters passed to the function varies, so the end of the parameter list is represented by -1.0.",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "const char*",
+                "name": "methodName"
+            },
+            {
+                "type": "float",
+                "name": "param1"
+            },
+            {
+                "type": "float",
+                "name": "param2"
+            },
+            {
+                "type": "float",
+                "name": "param3"
+            },
+            {
+                "type": "float",
+                "name": "param4"
+            },
+            {
+                "type": "float",
+                "name": "param5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CALL_SCALEFORM_MOVIE_FUNCTION_FLOAT_PARAMS"
+        ]
+    }
+}

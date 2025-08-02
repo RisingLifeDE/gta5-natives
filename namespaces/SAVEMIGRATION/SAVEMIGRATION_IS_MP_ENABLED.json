@@ -1,0 +1,10 @@
+{
+    "0x84B418E93894AC1C": {
+        "name": "SAVEMIGRATION_IS_MP_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2372"
+    }
+}

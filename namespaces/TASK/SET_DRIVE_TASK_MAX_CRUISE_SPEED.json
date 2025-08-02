@@ -1,0 +1,23 @@
+{
+    "0x404A5AA9B9F0B746": {
+        "name": "SET_DRIVE_TASK_MAX_CRUISE_SPEED",
+        "jhash": "0x7FDF6131",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "updateBaseTask"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

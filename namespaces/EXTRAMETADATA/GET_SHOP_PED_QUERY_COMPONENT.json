@@ -1,0 +1,19 @@
+{
+    "0x249E310B2D920699": {
+        "name": "GET_SHOP_PED_QUERY_COMPONENT",
+        "jhash": "0xC0718904",
+        "comment": "See https://git.io/JtcRf for example and structs.",
+        "params": [
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "Any*",
+                "name": "outComponent"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

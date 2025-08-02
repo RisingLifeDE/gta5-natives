@@ -1,0 +1,19 @@
+{
+    "0x67F3780DD425D4FC": {
+        "name": "GET_PED_DRAWABLE_VARIATION",
+        "jhash": "0x29850FE2",
+        "comment": "Ids\n0 - Head\n1 - Beard\n2 - Hair\n3 - Torso\n4 - Legs\n5 - Hands\n6 - Foot\n7 - ------\n8 - Accessories 1\n9 - Accessories 2\n10- Decals\n11 - Auxiliary parts for torso",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

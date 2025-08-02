@@ -1,0 +1,19 @@
+{
+    "0x6F697A66CE78674E": {
+        "name": "NETWORK_OVERRIDE_TEAM_RESTRICTIONS",
+        "jhash": "0xC8CC9E75",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

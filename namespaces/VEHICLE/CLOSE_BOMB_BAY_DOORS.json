@@ -1,0 +1,15 @@
+{
+    "0x3556041742A0DC74": {
+        "name": "CLOSE_BOMB_BAY_DOORS",
+        "jhash": "0xF8EC5751",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA150A4F065806B1F": {
+        "name": "NETWORK_CAN_TEXT_CHAT_WITH_GAMER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "NETWORK_CAN_COMMUNICATE_WITH_GAMER"
+        ]
+    }
+}

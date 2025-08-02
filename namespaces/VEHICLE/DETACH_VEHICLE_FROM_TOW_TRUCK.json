@@ -1,0 +1,19 @@
+{
+    "0xC2DB6B6708350ED8": {
+        "name": "DETACH_VEHICLE_FROM_TOW_TRUCK",
+        "jhash": "0xC666CF33",
+        "comment": "First two parameters swapped. Scripts verify that towTruck is the first parameter, not the second.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "towTruck"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

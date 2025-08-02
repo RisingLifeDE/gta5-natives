@@ -1,0 +1,18 @@
+{
+    "0xED26584F6BDCBBFD": {
+        "name": "NETWORK_EARN_GANGOPS_PREP_PARTICIPATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_GANGOPS_JOBS_PREP_PARTICIPATION"
+        ]
+    }
+}

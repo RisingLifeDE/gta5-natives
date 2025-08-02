@@ -1,0 +1,15 @@
+{
+    "0x547237AA71AB44DE": {
+        "name": "SET_CALMED_WAVE_HEIGHT_SCALER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

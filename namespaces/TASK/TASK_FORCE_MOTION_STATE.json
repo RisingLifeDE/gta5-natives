@@ -1,0 +1,23 @@
+{
+    "0x4F056E1AFFEF17AB": {
+        "name": "TASK_FORCE_MOTION_STATE",
+        "jhash": "0xCAD2EF77",
+        "comment": "p2 always false\n\n[30/03/2017] ins1de :\n\nSee FORCE_PED_MOTION_STATE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "state"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceRestart"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

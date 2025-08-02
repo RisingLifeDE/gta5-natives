@@ -1,0 +1,10 @@
+{
+    "0x5CBAD97E059E1B94": {
+        "name": "NETWORK_GET_VC_BALANCE",
+        "jhash": "0xADF8F882",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

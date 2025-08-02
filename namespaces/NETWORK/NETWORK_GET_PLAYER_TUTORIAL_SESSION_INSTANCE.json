@@ -1,0 +1,15 @@
+{
+    "0x3B39236746714134": {
+        "name": "NETWORK_GET_PLAYER_TUTORIAL_SESSION_INSTANCE",
+        "jhash": "0x5E1020CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

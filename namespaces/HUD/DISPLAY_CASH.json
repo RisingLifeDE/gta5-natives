@@ -1,0 +1,15 @@
+{
+    "0x96DEC8D5430208B7": {
+        "name": "DISPLAY_CASH",
+        "jhash": "0x0049DF83",
+        "comment": "\"DISPLAY_CASH(false);\" makes the cash amount render on the screen when appropriate\n\"DISPLAY_CASH(true);\" disables cash amount rendering",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

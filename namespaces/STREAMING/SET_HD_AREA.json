@@ -1,0 +1,27 @@
+{
+    "0xB85F26619073E775": {
+        "name": "SET_HD_AREA",
+        "jhash": "0x80BAA035",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

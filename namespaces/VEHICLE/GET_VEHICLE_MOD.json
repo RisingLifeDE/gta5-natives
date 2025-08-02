@@ -1,0 +1,19 @@
+{
+    "0x772960298DA26FDB": {
+        "name": "GET_VEHICLE_MOD",
+        "jhash": "0xDC520069",
+        "comment": "In b944, there are 50 (0 - 49) mod types. See SET_VEHICLE_MOD for the list.\n\nReturns -1 if the vehicle mod is stock",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

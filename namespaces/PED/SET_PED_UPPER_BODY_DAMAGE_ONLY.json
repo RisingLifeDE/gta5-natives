@@ -1,0 +1,19 @@
+{
+    "0xAFC976FD0580C7B3": {
+        "name": "SET_PED_UPPER_BODY_DAMAGE_ONLY",
+        "jhash": "0x1572022A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

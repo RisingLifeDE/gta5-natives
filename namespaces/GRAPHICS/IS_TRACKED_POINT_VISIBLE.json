@@ -1,0 +1,15 @@
+{
+    "0xC45CCDAAC9221CA8": {
+        "name": "IS_TRACKED_POINT_VISIBLE",
+        "jhash": "0x0BFC4F64",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

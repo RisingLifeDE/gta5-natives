@@ -1,0 +1,15 @@
+{
+    "0x9DC711BC69C548DF": {
+        "name": "TERMINATE_ALL_SCRIPTS_WITH_THIS_NAME",
+        "jhash": "0x9F861FD4",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

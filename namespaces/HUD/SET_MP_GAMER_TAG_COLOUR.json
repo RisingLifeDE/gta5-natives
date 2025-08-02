@@ -1,0 +1,23 @@
+{
+    "0x613ED644950626AE": {
+        "name": "SET_MP_GAMER_TAG_COLOUR",
+        "jhash": "0x7E3AA40A",
+        "comment": "Sets a gamer tag's component colour\n\ngamerTagId is obtained using for example CREATE_FAKE_MP_GAMER_TAG\nRanges from 0 to 255. 0 is grey health bar, ~50 yellow, 200 purple.",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "component"
+            },
+            {
+                "type": "int",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

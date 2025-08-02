@@ -1,0 +1,19 @@
+{
+    "0x6F44CBF56D79FAC0": {
+        "name": "GET_COMMERCE_ITEM_CAT",
+        "jhash": "0x16E53875",
+        "comment": "index2 is unused",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "int",
+                "name": "index2"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

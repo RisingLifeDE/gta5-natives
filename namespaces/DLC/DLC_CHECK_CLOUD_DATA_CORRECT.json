@@ -1,0 +1,10 @@
+{
+    "0xF2E07819EF1A5289": {
+        "name": "DLC_CHECK_CLOUD_DATA_CORRECT",
+        "jhash": "0x881B1FDB",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

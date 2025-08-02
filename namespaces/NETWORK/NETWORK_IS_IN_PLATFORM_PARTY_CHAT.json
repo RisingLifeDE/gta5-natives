@@ -1,0 +1,10 @@
+{
+    "0xFD8B834A8BA05048": {
+        "name": "NETWORK_IS_IN_PLATFORM_PARTY_CHAT",
+        "jhash": "0xC6609191",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

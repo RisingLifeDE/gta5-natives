@@ -1,0 +1,13 @@
+{
+    "0x62A0296C1BB1CEB3": {
+        "name": "NETWORK_REQUEST_INVITE_CONFIRMED_EVENT",
+        "jhash": "0x0907A6BF",
+        "comment": "Triggers a CEventNetworkInviteConfirmed event",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ACCEPT_INVITE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC098810437312FFF": {
+        "name": "GET_DLC_VEHICLE_MOD_LOCK_HASH",
+        "jhash": "0x59352658",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x412F1364FA066CFB": {
+        "name": "IS_PED_LANDING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573"
+    }
+}

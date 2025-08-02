@@ -1,0 +1,18 @@
+{
+    "0xAA6A6098851C396F": {
+        "name": "SET_IN_ARENA_MODE",
+        "jhash": "",
+        "comment": "Related to the lower-end of a vehicles fTractionCurve, e.g., from standing starts and acceleration from low/zero speeds.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_LAUNCH_CONTROL_ENABLED"
+        ]
+    }
+}

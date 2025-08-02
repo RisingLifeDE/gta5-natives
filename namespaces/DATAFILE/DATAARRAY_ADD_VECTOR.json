@@ -1,0 +1,30 @@
+{
+    "0x407F8D034F70F0C2": {
+        "name": "DATAARRAY_ADD_VECTOR",
+        "jhash": "0x16F464B6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "float",
+                "name": "valueX"
+            },
+            {
+                "type": "float",
+                "name": "valueY"
+            },
+            {
+                "type": "float",
+                "name": "valueZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_ADD_VECTOR3"
+        ]
+    }
+}

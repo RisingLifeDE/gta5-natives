@@ -1,0 +1,22 @@
+{
+    "0x0350E7E17BA767D0": {
+        "name": "SET_VEHICLE_HORN_SOUND_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_VEHICLE_HORN_VARIATION"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB346476EF1A64897": {
+        "name": "IS_ENTITY_ATTACHED",
+        "jhash": "0xEC1479D5",
+        "comment": "Whether the entity is attached to any other entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

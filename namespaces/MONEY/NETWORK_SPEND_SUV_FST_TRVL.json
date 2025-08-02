@@ -1,0 +1,31 @@
+{
+    "0x61A2DF64ED2D396E": {
+        "name": "NETWORK_SPEND_SUV_FST_TRVL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_SUV_FAST_TRAVEL"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x9D7AFCBF21C51712": {
+        "name": "NETWORK_SET_PROXIMITY_AFFECTS_TEAM",
+        "jhash": "0xE5219410",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

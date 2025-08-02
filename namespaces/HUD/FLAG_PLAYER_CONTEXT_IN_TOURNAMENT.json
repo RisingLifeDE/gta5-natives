@@ -1,0 +1,18 @@
+{
+    "0xCEF214315D276FD1": {
+        "name": "FLAG_PLAYER_CONTEXT_IN_TOURNAMENT",
+        "jhash": "0xFF06772A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_IS_IN_TOURNAMENT"
+        ]
+    }
+}

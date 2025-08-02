@@ -1,0 +1,10 @@
+{
+    "0xBBC08F6B4CB8FF0A": {
+        "name": "IS_CINEMATIC_CAM_SHAKING",
+        "jhash": "0x8376D939",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

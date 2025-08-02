@@ -1,0 +1,23 @@
+{
+    "0x055BF0AC0C34F4FD": {
+        "name": "GET_RANDOM_VEHICLE_MODEL_IN_MEMORY",
+        "jhash": "0xE2C45631",
+        "comment": "Not present in the retail version! It's just a nullsub.\n\np0 always true (except in one case)\nsuccessIndicator: 0 if success, -1 if failed",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "Hash*",
+                "name": "modelHash"
+            },
+            {
+                "type": "int*",
+                "name": "successIndicator"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

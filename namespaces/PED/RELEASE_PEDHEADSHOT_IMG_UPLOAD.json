@@ -1,0 +1,15 @@
+{
+    "0x5D517B27CF6ECD04": {
+        "name": "RELEASE_PEDHEADSHOT_IMG_UPLOAD",
+        "jhash": "0x0DBB2FA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

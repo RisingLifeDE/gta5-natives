@@ -1,0 +1,10 @@
+{
+    "0x2B4A15E44DE0F478": {
+        "name": "IS_MINIGAME_IN_PROGRESS",
+        "jhash": "0x53A95E13",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

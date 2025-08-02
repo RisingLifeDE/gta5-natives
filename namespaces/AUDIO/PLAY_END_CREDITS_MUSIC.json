@@ -1,0 +1,15 @@
+{
+    "0xCD536C4D33DCC900": {
+        "name": "PLAY_END_CREDITS_MUSIC",
+        "jhash": "0x8E88B3CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "play"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

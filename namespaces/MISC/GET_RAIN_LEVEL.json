@@ -1,0 +1,10 @@
+{
+    "0x96695E368AD855F3": {
+        "name": "GET_RAIN_LEVEL",
+        "jhash": "0xC9F67F28",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

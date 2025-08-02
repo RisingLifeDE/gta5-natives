@@ -1,0 +1,15 @@
+{
+    "0x49482F9FCD825AAA": {
+        "name": "DISABLE_CAM_COLLISION_FOR_OBJECT",
+        "jhash": "0xC4736ED3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

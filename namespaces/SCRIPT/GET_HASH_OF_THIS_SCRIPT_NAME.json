@@ -1,0 +1,13 @@
+{
+    "0x8A1C8B1738FFE87E": {
+        "name": "GET_HASH_OF_THIS_SCRIPT_NAME",
+        "jhash": "0x2BEE1F45",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_THIS_SCRIPT_HASH"
+        ]
+    }
+}

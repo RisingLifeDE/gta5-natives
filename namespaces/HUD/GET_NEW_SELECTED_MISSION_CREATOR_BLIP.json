@@ -1,0 +1,13 @@
+{
+    "0x5C90988E7C8E1AF4": {
+        "name": "GET_NEW_SELECTED_MISSION_CREATOR_BLIP",
+        "jhash": "0xFFD7476C",
+        "comment": "",
+        "params": [],
+        "return_type": "Blip",
+        "build": "323",
+        "old_names": [
+            "DISABLE_BLIP_NAME_FOR_VAR"
+        ]
+    }
+}

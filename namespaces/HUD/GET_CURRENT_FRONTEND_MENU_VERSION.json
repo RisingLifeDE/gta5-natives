@@ -1,0 +1,13 @@
+{
+    "0x2309595AD6145265": {
+        "name": "GET_CURRENT_FRONTEND_MENU_VERSION",
+        "jhash": "0x33D6868F",
+        "comment": "if (HUD::GET_CURRENT_FRONTEND_MENU_VERSION() == joaat(\"fe_menu_version_empty_no_background\"))",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_CURRENT_FRONTEND_MENU"
+        ]
+    }
+}

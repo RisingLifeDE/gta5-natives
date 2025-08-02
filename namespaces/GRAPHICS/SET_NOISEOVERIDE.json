@@ -1,0 +1,15 @@
+{
+    "0xE787BF1C5CF823C9": {
+        "name": "SET_NOISEOVERIDE",
+        "jhash": "0xD576F5DD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

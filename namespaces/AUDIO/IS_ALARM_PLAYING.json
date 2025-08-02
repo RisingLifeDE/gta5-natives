@@ -1,0 +1,15 @@
+{
+    "0x226435CB96CCFC8C": {
+        "name": "IS_ALARM_PLAYING",
+        "jhash": "0x9D8E1D23",
+        "comment": "Example:\n\nbool playing = AUDIO::IS_ALARM_PLAYING(\"PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS\");\nFull list of alarm names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/alarmSounds.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "alarmName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

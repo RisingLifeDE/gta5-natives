@@ -1,0 +1,18 @@
+{
+    "0x7E3F55ED251B76D3": {
+        "name": "LOAD_GLOBAL_WATER_FILE",
+        "jhash": "",
+        "comment": "0 - default\n1 - HeistIsland",
+        "params": [
+            {
+                "type": "int",
+                "name": "waterType"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_LOAD_GLOBAL_WATER_TYPE"
+        ]
+    }
+}

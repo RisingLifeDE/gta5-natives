@@ -1,0 +1,13 @@
+{
+    "0x0888C3502DBBEEF5": {
+        "name": "ON_ENTER_MP",
+        "jhash": "0xC65586A9",
+        "comment": "This loads the GTA:O dlc map parts (high end garages, apartments).\nWorks in singleplayer.\nIn order to use GTA:O heist IPL's you have to call this native with the following params: SET_INSTANCE_PRIORITY_MODE(1);",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_LOAD_MP_DLC_MAPS"
+        ]
+    }
+}

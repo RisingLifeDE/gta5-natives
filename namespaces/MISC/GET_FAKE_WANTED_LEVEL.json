@@ -1,0 +1,10 @@
+{
+    "0x4C9296CBCD1B971E": {
+        "name": "GET_FAKE_WANTED_LEVEL",
+        "jhash": "0x0022A430",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

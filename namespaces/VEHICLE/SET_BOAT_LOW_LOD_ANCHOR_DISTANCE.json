@@ -1,0 +1,23 @@
+{
+    "0xE842A9398079BD82": {
+        "name": "SET_BOAT_LOW_LOD_ANCHOR_DISTANCE",
+        "jhash": "0x66FA450C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT",
+            "_SET_BOAT_MOVEMENT_RESISTANCE"
+        ]
+    }
+}

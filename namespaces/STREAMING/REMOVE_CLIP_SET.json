@@ -1,0 +1,15 @@
+{
+    "0x01F73A131C18CD94": {
+        "name": "REMOVE_CLIP_SET",
+        "jhash": "0x1E21F7AA",
+        "comment": "Alias for REMOVE_ANIM_SET.\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json\n\nFull list of movement clipsets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/movementClipsetsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

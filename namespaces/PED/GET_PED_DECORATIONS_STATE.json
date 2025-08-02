@@ -1,0 +1,15 @@
+{
+    "0x71EAB450D86954A1": {
+        "name": "GET_PED_DECORATIONS_STATE",
+        "jhash": "0x47187F7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

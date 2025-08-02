@@ -1,0 +1,15 @@
+{
+    "0x9134873537FA419C": {
+        "name": "IS_PED_IN_FLYING_VEHICLE",
+        "jhash": "0xCA072485",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

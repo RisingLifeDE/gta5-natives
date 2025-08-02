@@ -1,0 +1,23 @@
+{
+    "0x0923DBF87DFF735E": {
+        "name": "SET_MINIMAP_FOW_REVEAL_COORDINATE",
+        "jhash": "0xE010F081",
+        "comment": "Up to eight coordinates may be revealed per frame",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

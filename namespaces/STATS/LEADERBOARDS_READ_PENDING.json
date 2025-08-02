@@ -1,0 +1,23 @@
+{
+    "0xAC392C8483342AC2": {
+        "name": "LEADERBOARDS_READ_PENDING",
+        "jhash": "0xEEB8BF5C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

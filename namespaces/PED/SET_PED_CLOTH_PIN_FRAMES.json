@@ -1,0 +1,22 @@
+{
+    "0x78C4E9961DB3EB5B": {
+        "name": "SET_PED_CLOTH_PIN_FRAMES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PED_CLOTH_PACKAGE_INDEX"
+        ]
+    }
+}

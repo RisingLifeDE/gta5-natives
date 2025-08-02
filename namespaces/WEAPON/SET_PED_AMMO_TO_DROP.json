@@ -1,0 +1,19 @@
+{
+    "0xA4EFEF9440A5B0EF": {
+        "name": "SET_PED_AMMO_TO_DROP",
+        "jhash": "0x2386A307",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

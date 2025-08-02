@@ -1,0 +1,15 @@
+{
+    "0x50276EF8172F5F12": {
+        "name": "SET_PED_CYCLE_VEHICLE_WEAPONS_ONLY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

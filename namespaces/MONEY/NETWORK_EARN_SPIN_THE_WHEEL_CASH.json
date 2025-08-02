@@ -1,0 +1,18 @@
+{
+    "0x676C48776CACBB5A": {
+        "name": "NETWORK_EARN_SPIN_THE_WHEEL_CASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_SPIN_THE_WHEEL_CASH"
+        ]
+    }
+}

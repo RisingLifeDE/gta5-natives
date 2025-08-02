@@ -1,0 +1,19 @@
+{
+    "0x69FF13266D7296DA": {
+        "name": "STAT_SET_LICENSE_PLATE",
+        "jhash": "0x3507D253",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "const char*",
+                "name": "str"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

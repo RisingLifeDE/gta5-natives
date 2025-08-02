@@ -1,0 +1,15 @@
+{
+    "0xE91F1B65F2B48D57": {
+        "name": "REMOVE_DECALS_FROM_VEHICLE",
+        "jhash": "0x831D06CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

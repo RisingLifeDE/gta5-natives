@@ -1,0 +1,22 @@
+{
+    "0x36C1451A88A09630": {
+        "name": "GET_MENU_TRIGGER_EVENT_DETAILS",
+        "jhash": "0x8543AAC8",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "lastItemMenuId"
+            },
+            {
+                "type": "int*",
+                "name": "selectedItemUniqueId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_PAUSE_MENU_SELECTION"
+        ]
+    }
+}

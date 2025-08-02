@@ -1,0 +1,10 @@
+{
+    "0x444C4525ECE0A4B9": {
+        "name": "RESET_STORE_NETWORK_GAME_TRACKING",
+        "jhash": "0xCC7DCE24",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

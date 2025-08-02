@@ -1,0 +1,26 @@
+{
+    "0xF1AE5DCDBFCA2721": {
+        "name": "LEADERBOARDS2_READ_BY_PLAFORM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "gamerHandleCsv"
+            },
+            {
+                "type": "const char*",
+                "name": "platformName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_LEADERBOARDS2_READ_BY_PLATFORM"
+        ]
+    }
+}

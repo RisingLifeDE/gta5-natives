@@ -1,0 +1,19 @@
+{
+    "0xF92099527DB8E2A7": {
+        "name": "SUPPRESS_PICKUP_REWARD_TYPE",
+        "jhash": "0xA7E936FD",
+        "comment": "enum ePickupRewardType\n{\n    PICKUP_REWARD_TYPE_AMMO = (1 << 0),\n    PICKUP_REWARD_TYPE_BULLET_MP = (1 << 1),\n    PICKUP_REWARD_TYPE_MISSILE_MP = (1 << 2),\n    PICKUP_REWARD_TYPE_GRENADE_LAUNCHER_MP = (1 << 3),\n    PICKUP_REWARD_TYPE_ARMOUR = (1 << 4),\n    PICKUP_REWARD_TYPE_HEALTH = (1 << 5),\n    PICKUP_REWARD_TYPE_HEALTH_VARIABLE = PICKUP_REWARD_TYPE_HEALTH,\n    PICKUP_REWARD_TYPE_MONEY_FIXED = (1 << 6),\n    PICKUP_REWARD_TYPE_MONEY_VARIABLE = PICKUP_REWARD_TYPE_MONEY_FIXED,\n    PICKUP_REWARD_TYPE_WEAPON = (1 << 7),\n    PICKUP_REWARD_TYPE_STAT = (1 << 8),\n    PICKUP_REWARD_TYPE_STAT_VARIABLE = PICKUP_REWARD_TYPE_STAT,\n    PICKUP_REWARD_TYPE_VEHICLE_FIX = (1 << 9),\n    PICKUP_REWARD_TYPE_FIREWORK_MP = (1 << 10),\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "rewardType"
+            },
+            {
+                "type": "BOOL",
+                "name": "suppress"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

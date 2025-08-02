@@ -1,0 +1,19 @@
+{
+    "0xBC0ED94165A48BC2": {
+        "name": "SET_PED_GET_OUT_UPSIDE_DOWN_VEHICLE",
+        "jhash": "0x89AD49FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

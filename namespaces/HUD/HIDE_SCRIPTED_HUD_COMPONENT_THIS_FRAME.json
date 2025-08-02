@@ -1,0 +1,15 @@
+{
+    "0xE374C498D8BADC14": {
+        "name": "HIDE_SCRIPTED_HUD_COMPONENT_THIS_FRAME",
+        "jhash": "0x31ABA127",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

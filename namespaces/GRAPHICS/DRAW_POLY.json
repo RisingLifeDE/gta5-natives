@@ -1,0 +1,63 @@
+{
+    "0xAC26716048436851": {
+        "name": "DRAW_POLY",
+        "jhash": "0xABD19253",
+        "comment": "x/y/z - Location of a vertex (in world coords), presumably.\n----------------\nx1, y1, z1     : Coordinates for the first point\nx2, y2, z2     : Coordinates for the second point\nx3, y3, z3     : Coordinates for the third point\nr, g, b, alpha : Color with RGBA-Values\n\nKeep in mind that only one side of the drawn triangle is visible: It's the side, in which the vector-product of the vectors heads to: (b-a)x(c-a) Or (b-a)x(c-b).\nBut be aware: The function seems to work somehow differently. I have trouble having them drawn in rotated orientation. Try it yourself and if you somehow succeed, please edit this and post your solution.\nI recommend using a predefined function to call this.\n[VB.NET]\nPublic Sub DrawPoly(a As Vector3, b As Vector3, c As Vector3, col As Color)\n    [Function].Call(Hash.DRAW_POLY, a.X, a.Y, a.Z, b.X, b.Y, b.Z, c.X, c.Y, c.Z, col.R, col.G, col.B, col.A)\nEnd Sub\n\n[C#]\npublic void DrawPoly(Vector3 a, Vector3 b, Vector3 c, Color col)\n{\n    Function.Call(Hash.DRAW_POLY, a.X, a.Y, a.Z, b.X, b.Y, b.Z, c.X, c.Y, c.Z, col.R, col.G, col.B, col.A);\n}\nBTW: Intersecting triangles are not supported: They overlap in the order they were called.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

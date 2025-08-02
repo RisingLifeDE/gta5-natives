@@ -1,0 +1,26 @@
+{
+    "0x8BCB27A057DF7B7F": {
+        "name": "NETWORK_EARN_SELL_PRIZE_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_SELLING_VEHICLE"
+        ]
+    }
+}

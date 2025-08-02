@@ -1,0 +1,47 @@
+{
+    "0xA4822F1CF23F4810": {
+        "name": "GENERATE_VEHICLE_CREATION_POS_FROM_PATHS",
+        "jhash": "0x34E02FCD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "outVec"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outVec1"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xFF300C7649724A0B": {
+        "name": "SET_PLAYER_LEAVE_PED_BEHIND",
+        "jhash": "0xAD8383FA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

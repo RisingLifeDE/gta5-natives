@@ -1,0 +1,23 @@
+{
+    "0x2D343D2219CD027A": {
+        "name": "HAS_PED_BEEN_DAMAGED_BY_WEAPON",
+        "jhash": "0xCDFBBCC6",
+        "comment": "It determines what weapons caused damage:\n\nIf you want to define only a specific weapon, second parameter=weapon hash code, third parameter=0\nIf you want to define any melee weapon, second parameter=0, third parameter=1.\nIf you want to identify any weapon (firearms, melee, rockets, etc.), second parameter=0, third parameter=2.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

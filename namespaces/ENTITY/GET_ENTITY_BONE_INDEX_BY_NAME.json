@@ -1,0 +1,19 @@
+{
+    "0xFB71170B7E76ACBA": {
+        "name": "GET_ENTITY_BONE_INDEX_BY_NAME",
+        "jhash": "0xE4ECAC22",
+        "comment": "Returns the index of the bone. If the bone was not found, -1 will be returned. \n\nlist:\nhttps://pastebin.com/D7JMnX1g\n\nBoneNames:\n  chassis,\n  windscreen,\n   seat_pside_r,\n seat_dside_r,\n bodyshell,\n    suspension_lm,\n    suspension_lr,\n    platelight,\n   attach_female,\n    attach_male,\n  bonnet,\n   boot,\n chassis_dummy,  //Center of the dummy\n chassis_Control,    //Not found yet\n   door_dside_f,   //Door left, front\n    door_dside_r,   //Door left, back\n door_pside_f,   //Door right, front\n   door_pside_r,   //Door right, back\n    Gun_GripR,\n    windscreen_f,\n platelight, //Position where the light above the numberplate is located\n   VFX_Emitter,\n  window_lf,  //Window left, front\n  window_lr,  //Window left, back\n   window_rf,  //Window right, front\n window_rr,  //Window right, back\n  engine, //Position of the engine\n  gun_ammo,\n ROPE_ATTATCH,   //Not misspelled. In script \"finale_heist2b.c4\".\n    wheel_lf,   //Wheel left, front\n   wheel_lr,   //Wheel left, back\n    wheel_rf,   //Wheel right, front\n  wheel_rr,   //Wheel right, back\n   exhaust,    //Exhaust. shows only the position of the stock-exhaust\n   overheat,   //A position on the engine(not exactly sure, how to name it)\n  misc_e, //Not a car-bone.\n seat_dside_f,   //Driver-seat\n seat_pside_f,   //Seat next to driver\n Gun_Nuzzle,\n   seat_r\n\nI doubt that the function is case-sensitive, since I found a \"Chassis\" and a \"chassis\". - Just tested: Definitely not case-sensitive.\n\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

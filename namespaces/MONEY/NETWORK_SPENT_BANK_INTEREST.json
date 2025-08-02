@@ -1,0 +1,24 @@
+{
+    "0xCA230C9682556CF1": {
+        "name": "NETWORK_SPENT_BANK_INTEREST",
+        "jhash": "0xF02E92D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

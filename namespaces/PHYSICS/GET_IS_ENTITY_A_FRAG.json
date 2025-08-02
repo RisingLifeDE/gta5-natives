@@ -1,0 +1,19 @@
+{
+    "0x0C112765300C7E1E": {
+        "name": "GET_IS_ENTITY_A_FRAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "_DOES_ENTITY_HAVE_FRAG_INST",
+            "_GET_HAS_OBJECT_FRAG_INST"
+        ]
+    }
+}

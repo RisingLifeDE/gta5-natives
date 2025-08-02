@@ -1,0 +1,19 @@
+{
+    "0x24AC0137444F9FD5": {
+        "name": "SET_BLIP_AS_MISSION_CREATOR_BLIP",
+        "jhash": "0x802FB686",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x0DF606929C105BE1": {
+        "name": "DRAW_SCALEFORM_MOVIE_FULLSCREEN",
+        "jhash": "0x7B48E696",
+        "comment": "unk is not used so no need",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

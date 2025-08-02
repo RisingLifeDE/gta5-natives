@@ -1,0 +1,23 @@
+{
+    "0x7D7D2B47FA788E85": {
+        "name": "WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "jhash": "0x23E6BA96",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

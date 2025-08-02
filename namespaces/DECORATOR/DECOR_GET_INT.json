@@ -1,0 +1,19 @@
+{
+    "0xA06C969B02A97298": {
+        "name": "DECOR_GET_INT",
+        "jhash": "0xDDDE59B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

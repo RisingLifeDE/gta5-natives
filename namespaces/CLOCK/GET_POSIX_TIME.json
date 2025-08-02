@@ -1,0 +1,35 @@
+{
+    "0xDA488F299A5B164E": {
+        "name": "GET_POSIX_TIME",
+        "jhash": "0xE15A5281",
+        "comment": "Gets system time as year, month, day, hour, minute and second.\n\nExample usage:\n\n    int year;\n int month;\n    int day;\n  int hour;\n int minute;\n   int second;\n\n TIME::GET_POSIX_TIME(&year, &month, &day, &hour, &minute, &second);\n",
+        "params": [
+            {
+                "type": "int*",
+                "name": "year"
+            },
+            {
+                "type": "int*",
+                "name": "month"
+            },
+            {
+                "type": "int*",
+                "name": "day"
+            },
+            {
+                "type": "int*",
+                "name": "hour"
+            },
+            {
+                "type": "int*",
+                "name": "minute"
+            },
+            {
+                "type": "int*",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

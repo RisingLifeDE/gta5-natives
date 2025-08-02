@@ -1,0 +1,15 @@
+{
+    "0x2A7776C709904AB0": {
+        "name": "GET_COMMERCE_ITEM_NUM_CATS",
+        "jhash": "0x1CF89DA5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

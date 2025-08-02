@@ -1,0 +1,19 @@
+{
+    "0x601736CFE536B0A0": {
+        "name": "TASK_SKY_DIVE",
+        "jhash": "0xD3874AFA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "instant"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xE3DD5F2A84B42281": {
+        "name": "GET_PED_PALETTE_VARIATION",
+        "jhash": "0xEF1BC082",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

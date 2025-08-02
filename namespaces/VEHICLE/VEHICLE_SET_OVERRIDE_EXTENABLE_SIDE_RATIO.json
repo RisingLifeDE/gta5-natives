@@ -1,0 +1,19 @@
+{
+    "0x0419B167EE128F33": {
+        "name": "VEHICLE_SET_OVERRIDE_EXTENABLE_SIDE_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103"
+    }
+}

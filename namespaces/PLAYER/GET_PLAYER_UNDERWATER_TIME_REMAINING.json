@@ -1,0 +1,15 @@
+{
+    "0xA1FCF8E6AF40B731": {
+        "name": "GET_PLAYER_UNDERWATER_TIME_REMAINING",
+        "jhash": "0x1317125A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x65499865FCA6E5EC": {
+        "name": "DOOR_SYSTEM_GET_OPEN_RATIO",
+        "jhash": "0xB74C3BD7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

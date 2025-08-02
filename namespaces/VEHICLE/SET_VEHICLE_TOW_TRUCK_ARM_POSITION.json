@@ -1,0 +1,23 @@
+{
+    "0xFE54B92A344583CA": {
+        "name": "SET_VEHICLE_TOW_TRUCK_ARM_POSITION",
+        "jhash": "0x88236E22",
+        "comment": "Sets how much the crane on the tow truck is raised, where 0.0 is fully lowered and 1.0 is fully raised.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "position"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TOW_TRUCK_CRANE_RAISED",
+            "_SET_TOW_TRUCK_CRANE_HEIGHT"
+        ]
+    }
+}

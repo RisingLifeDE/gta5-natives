@@ -1,0 +1,35 @@
+{
+    "0x308F96458B7087CC": {
+        "name": "UGC_TEXTURE_DOWNLOAD_REQUEST",
+        "jhash": "0x68C9AF69",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

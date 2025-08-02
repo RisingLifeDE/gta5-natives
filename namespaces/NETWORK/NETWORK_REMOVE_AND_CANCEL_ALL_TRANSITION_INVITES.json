@@ -1,0 +1,10 @@
+{
+    "0xF083835B70BA9BFE": {
+        "name": "NETWORK_REMOVE_AND_CANCEL_ALL_TRANSITION_INVITES",
+        "jhash": "0xC47352E7",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

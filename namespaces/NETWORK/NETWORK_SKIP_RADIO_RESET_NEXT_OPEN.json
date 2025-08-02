@@ -1,0 +1,10 @@
+{
+    "0xCA59CCAE5D01E4CE": {
+        "name": "NETWORK_SKIP_RADIO_RESET_NEXT_OPEN",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

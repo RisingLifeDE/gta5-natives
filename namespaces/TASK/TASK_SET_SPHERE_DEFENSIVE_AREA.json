@@ -1,0 +1,31 @@
+{
+    "0x933C06518B52A9A4": {
+        "name": "TASK_SET_SPHERE_DEFENSIVE_AREA",
+        "jhash": "0x9F3C5D6A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

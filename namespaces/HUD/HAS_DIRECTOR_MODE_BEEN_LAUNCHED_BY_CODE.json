@@ -1,0 +1,13 @@
+{
+    "0xA277800A9EAE340E": {
+        "name": "HAS_DIRECTOR_MODE_BEEN_LAUNCHED_BY_CODE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_DIRECTOR_MODE_BEEN_TRIGGERED"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x2BC338A7B21F4608": {
+        "name": "REQUEST_PED_VEHICLE_VISIBILITY_TRACKING",
+        "jhash": "0x31C31DAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "GET_PED_FLOOD_INVINCIBILITY"
+        ]
+    }
+}

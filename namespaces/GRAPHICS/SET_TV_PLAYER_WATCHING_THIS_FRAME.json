@@ -1,0 +1,15 @@
+{
+    "0xD1C55B110E4DF534": {
+        "name": "SET_TV_PLAYER_WATCHING_THIS_FRAME",
+        "jhash": "0xD99EC000",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

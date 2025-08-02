@@ -1,0 +1,15 @@
+{
+    "0xC61B86C9F61EB404": {
+        "name": "SET_PAD_CAN_SHAKE_DURING_CUTSCENE",
+        "jhash": "0x35721A08",
+        "comment": "Toggles a value (bool) for cutscenes.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

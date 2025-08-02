@@ -1,0 +1,15 @@
+{
+    "0x20C6C7E4EB082A7F": {
+        "name": "SET_SRL_LONG_JUMP_MODE",
+        "jhash": "0xA6459CAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x48F069265A0E4BEC": {
+        "name": "REGISTER_TEXT_LABEL_23_TO_SAVE",
+        "jhash": "0xF91B8C33",
+        "comment": "Only found 3 times in decompiled scripts.\n\nMISC::REGISTER_TEXT_LABEL_23_TO_SAVE(a_0, \"Movie_Name_For_This_Player\");\nMISC::REGISTER_TEXT_LABEL_23_TO_SAVE(&a_0._fB, \"Ringtone_For_This_Player\");\nMISC::REGISTER_TEXT_LABEL_23_TO_SAVE(&a_0._f1EC4._f12[v_A/*6*/], &v_13); // where v_13 is \"MPATMLOGSCRS0\" thru \"MPATMLOGSCRS15\"",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

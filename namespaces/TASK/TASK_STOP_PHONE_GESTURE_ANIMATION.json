@@ -1,0 +1,22 @@
+{
+    "0x3FA00D4F4641BFAE": {
+        "name": "TASK_STOP_PHONE_GESTURE_ANIMATION",
+        "jhash": "0x5A32D4B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "blendOutOverride"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_TASK_STOP_PHONE_GESTURE_ANIMATION"
+        ]
+    }
+}

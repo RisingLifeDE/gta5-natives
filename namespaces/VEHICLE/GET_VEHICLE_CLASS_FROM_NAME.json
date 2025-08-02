@@ -1,0 +1,15 @@
+{
+    "0xDEDF1C8BD47C2200": {
+        "name": "GET_VEHICLE_CLASS_FROM_NAME",
+        "jhash": "0xEA469980",
+        "comment": "char buffer[128];\nstd::sprintf(buffer, \"VEH_CLASS_%i\", VEHICLE::GET_VEHICLE_CLASS_FROM_NAME (hash));\n\nconst char* className = HUD::GET_FILENAME_FOR_AUDIO_CONVERSATION(buffer);\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

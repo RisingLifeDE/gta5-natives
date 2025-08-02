@@ -1,0 +1,15 @@
+{
+    "0xC0416B061F2B7E5E": {
+        "name": "GOLF_TRAIL_SET_FIXED_CONTROL_POINT_ENABLE",
+        "jhash": "0x1A1A72EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

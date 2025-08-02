@@ -1,0 +1,15 @@
+{
+    "0xDDC635D5B3262C56": {
+        "name": "DEACTIVATE_AUDIO_SLOWMO_MODE",
+        "jhash": "0x0E387BFE",
+        "comment": "see ACTIVATE_AUDIO_SLOWMO_MODE for modes",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

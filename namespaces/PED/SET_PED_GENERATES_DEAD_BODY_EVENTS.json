@@ -1,0 +1,19 @@
+{
+    "0x7FB17BA2E7DECA5B": {
+        "name": "SET_PED_GENERATES_DEAD_BODY_EVENTS",
+        "jhash": "0xE9B97A2B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

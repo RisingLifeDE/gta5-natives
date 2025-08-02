@@ -1,0 +1,15 @@
+{
+    "0x539E0AE3E6634B9F": {
+        "name": "DELETE_OBJECT",
+        "jhash": "0xD6EF9DA7",
+        "comment": "Deletes the specified object, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "const Object*",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

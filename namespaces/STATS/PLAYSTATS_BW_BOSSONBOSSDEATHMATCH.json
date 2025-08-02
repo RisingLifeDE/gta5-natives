@@ -1,0 +1,18 @@
+{
+    "0x8D8ADB562F09A245": {
+        "name": "PLAYSTATS_BW_BOSSONBOSSDEATHMATCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PLAYSTATS_BW_BOSS_ON_BOSS_DEATH_MATCH"
+        ]
+    }
+}

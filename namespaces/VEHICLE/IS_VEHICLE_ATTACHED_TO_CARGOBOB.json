@@ -1,0 +1,19 @@
+{
+    "0xD40148F22E81A1D9": {
+        "name": "IS_VEHICLE_ATTACHED_TO_CARGOBOB",
+        "jhash": "0x5DEEC76C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicleAttached"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

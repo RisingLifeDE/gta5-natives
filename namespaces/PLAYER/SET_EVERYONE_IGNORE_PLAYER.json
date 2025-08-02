@@ -1,0 +1,19 @@
+{
+    "0x8EEDA153AD141BA4": {
+        "name": "SET_EVERYONE_IGNORE_PLAYER",
+        "jhash": "0xC915285E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xA87B2335D12531D7": {
+        "name": "STAT_SET_STRING",
+        "jhash": "0xB1EF2E21",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1514FB24C02C2322": {
+        "name": "APP_GET_FLOAT",
+        "jhash": "0xD87F3A1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

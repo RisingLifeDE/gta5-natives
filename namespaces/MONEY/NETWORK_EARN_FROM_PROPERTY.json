@@ -1,0 +1,19 @@
+{
+    "0x849648349D77F5C5": {
+        "name": "NETWORK_EARN_FROM_PROPERTY",
+        "jhash": "0x9BE4F7E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

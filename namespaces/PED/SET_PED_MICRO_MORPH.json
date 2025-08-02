@@ -1,0 +1,27 @@
+{
+    "0x71A5C1DBA060049E": {
+        "name": "SET_PED_MICRO_MORPH",
+        "jhash": "",
+        "comment": "Sets the various freemode face features, e.g. nose length, chin shape. Scale ranges from -1.0 to 1.0.\n\n\n\n0 - Nose Width (Thin/Wide)\n\n1 - Nose Peak (Up/Down)\n\n2 - Nose Length (Long/Short)\n\n3 - Nose Bone Curveness (Crooked/Curved)\n\n4 - Nose Tip (Up/Down)\n\n5 - Nose Bone Twist (Left/Right)\n\n6 - Eyebrow (Up/Down)\n\n7 - Eyebrow (In/Out)\n\n8 - Cheek Bones (Up/Down)\n\n9 - Cheek Sideways Bone Size (In/Out)\n\n10 - Cheek Bones Width (Puffed/Gaunt)\n\n11 - Eye Opening (Both) (Wide/Squinted)\n\n12 - Lip Thickness (Both) (Fat/Thin)\n\n13 - Jaw Bone Width (Narrow/Wide)\n\n14 - Jaw Bone Shape (Round/Square)\n\n15 - Chin Bone (Up/Down)\n\n16 - Chin Bone Length (In/Out or Backward/Forward)\n\n17 - Chin Bone Shape (Pointed/Square)\n\n18 - Chin Hole (Chin Bum)\n\n19 - Neck Thickness (Thin/Thick)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_FACE_FEATURE",
+            "_SET_PED_MICRO_MORPH_VALUE"
+        ]
+    }
+}

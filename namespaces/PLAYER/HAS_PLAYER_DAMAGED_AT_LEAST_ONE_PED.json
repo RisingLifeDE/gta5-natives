@@ -1,0 +1,15 @@
+{
+    "0x20CE80B0C2BF4ACC": {
+        "name": "HAS_PLAYER_DAMAGED_AT_LEAST_ONE_PED",
+        "jhash": "0x14F52453",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

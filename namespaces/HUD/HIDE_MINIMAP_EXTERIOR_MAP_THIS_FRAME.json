@@ -1,0 +1,13 @@
+{
+    "0x5FBAE526203990C9": {
+        "name": "HIDE_MINIMAP_EXTERIOR_MAP_THIS_FRAME",
+        "jhash": "0x1A4318F7",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_RADAR_THIS_FRAME"
+        ]
+    }
+}

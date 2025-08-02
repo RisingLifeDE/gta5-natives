@@ -1,0 +1,19 @@
+{
+    "0x791EDB5803B2F468": {
+        "name": "NETWORK_REMOVE_INVALID_OBJECT_MODEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_REMOVE_INVALID_MODEL"
+        ]
+    }
+}

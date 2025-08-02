@@ -1,0 +1,19 @@
+{
+    "0x399D2D3B33F1B8EB": {
+        "name": "SET_STATIC_EMITTER_ENABLED",
+        "jhash": "0x91F72E92",
+        "comment": "Example:\nAUDIO::SET_STATIC_EMITTER_ENABLED((Any*)\"LOS_SANTOS_VANILLA_UNICORN_01_STAGE\", false);    AUDIO::SET_STATIC_EMITTER_ENABLED((Any*)\"LOS_SANTOS_VANILLA_UNICORN_02_MAIN_ROOM\", false);    AUDIO::SET_STATIC_EMITTER_ENABLED((Any*)\"LOS_SANTOS_VANILLA_UNICORN_03_BACK_ROOM\", false);\n\nThis turns off surrounding sounds not connected directly to peds.\n\nFull list of static emitters by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/staticEmitters.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "emitterName"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

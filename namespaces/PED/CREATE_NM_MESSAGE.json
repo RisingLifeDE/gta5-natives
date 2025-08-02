@@ -1,0 +1,19 @@
+{
+    "0x418EF2A1BCE56685": {
+        "name": "CREATE_NM_MESSAGE",
+        "jhash": "0x1CFBFD4B",
+        "comment": "Creates a new NaturalMotion message.\n\nstartImmediately: If set to true, the character will perform the message the moment it receives it by GIVE_PED_NM_MESSAGE. If false, the Ped will get the message but won't perform it yet. While it's a boolean value, if negative, the message will not be initialized.\nmessageId: The ID of the NaturalMotion message.\n\nIf a message already exists, this function does nothing. A message exists until the point it has been successfully dispatched by GIVE_PED_NM_MESSAGE.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "startImmediately"
+            },
+            {
+                "type": "int",
+                "name": "messageId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

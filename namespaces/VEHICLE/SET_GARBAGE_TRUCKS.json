@@ -1,0 +1,15 @@
+{
+    "0x2AFD795EEAC8D30D": {
+        "name": "SET_GARBAGE_TRUCKS",
+        "jhash": "0xD9ABB0FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

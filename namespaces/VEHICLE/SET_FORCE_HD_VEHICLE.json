@@ -1,0 +1,19 @@
+{
+    "0x97CE68CB032583F0": {
+        "name": "SET_FORCE_HD_VEHICLE",
+        "jhash": "0xE0FC6A32",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

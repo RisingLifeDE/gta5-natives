@@ -1,0 +1,15 @@
+{
+    "0x5AAB586FFEC0FD96": {
+        "name": "RELEASE_PED_PRELOAD_VARIATION_DATA",
+        "jhash": "0x6435F67F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

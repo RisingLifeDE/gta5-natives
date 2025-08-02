@@ -1,0 +1,14 @@
+{
+    "0xA65568121DF2EA26": {
+        "name": "NET_GAMESERVER_BASKET_IS_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_BASKET_END",
+            "NET_GAMESERVER_BASKET_END"
+        ]
+    }
+}

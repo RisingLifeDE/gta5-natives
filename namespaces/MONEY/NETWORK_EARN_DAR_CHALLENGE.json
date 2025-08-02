@@ -1,0 +1,23 @@
+{
+    "0xCAC672087B4A24AB": {
+        "name": "NETWORK_EARN_DAR_CHALLENGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_DAR_CHALLENGE"
+        ]
+    }
+}

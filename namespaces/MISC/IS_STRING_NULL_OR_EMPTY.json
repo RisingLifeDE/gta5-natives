@@ -1,0 +1,15 @@
+{
+    "0xCA042B6957743895": {
+        "name": "IS_STRING_NULL_OR_EMPTY",
+        "jhash": "0x42E9F2CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

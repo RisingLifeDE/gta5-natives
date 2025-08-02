@@ -1,0 +1,23 @@
+{
+    "0x17695002FD8B2AE0": {
+        "name": "STAT_SET_GXT_LABEL",
+        "jhash": "0xC1224AA7",
+        "comment": "The following values have been found in the decompiled scripts:\n\"RC_ABI1\"\n\"RC_ABI2\"\n\"RC_BA1\"\n\"RC_BA2\"\n\"RC_BA3\"\n\"RC_BA3A\"\n\"RC_BA3C\"\n\"RC_BA4\"\n\"RC_DRE1\"\n\"RC_EPS1\"\n\"RC_EPS2\"\n\"RC_EPS3\"\n\"RC_EPS4\"\n\"RC_EPS5\"\n\"RC_EPS6\"\n\"RC_EPS7\"\n\"RC_EPS8\"\n\"RC_EXT1\"\n\"RC_EXT2\"\n\"RC_EXT3\"\n\"RC_EXT4\"\n\"RC_FAN1\"\n\"RC_FAN2\"\n\"RC_FAN3\"\n\"RC_HAO1\"\n\"RC_HUN1\"\n\"RC_HUN2\"\n\"RC_JOS1\"\n\"RC_JOS2\"\n\"RC_JOS3\"\n\"RC_JOS4\"\n\"RC_MAU1\"\n\"RC_MIN1\"\n\"RC_MIN2\"\n\"RC_MIN3\"\n\"RC_MRS1\"\n\"RC_MRS2\"\n\"RC_NI1\"\n\"RC_NI1A\"\n\"RC_NI1B\"\n\"RC_NI1C\"\n\"RC_NI1D\"\n\"RC_NI2\"\n\"RC_NI3\"\n\"RC_OME1\"\n\"RC_OME2\"\n\"RC_PA1\"\n\"RC_PA2\"\n\"RC_PA3\"\n\"RC_PA3A\"\n\"RC_PA3B\"\n\"RC_PA4\"\n\"RC_RAM1\"\n\"RC_RAM2\"\n\"RC_RAM3\"\n\"RC_RAM4\"\n\"RC_RAM5\"\n\"RC_SAS1\"\n\"RC_TON1\"\n\"RC_TON2\"\n\"RC_TON3\"\n\"RC_TON4\"\n\"RC_TON5\"",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

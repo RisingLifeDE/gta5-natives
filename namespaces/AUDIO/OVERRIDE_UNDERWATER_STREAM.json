@@ -1,0 +1,19 @@
+{
+    "0xF2A9CDABCEA04BD6": {
+        "name": "OVERRIDE_UNDERWATER_STREAM",
+        "jhash": "0x9A083B7E",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

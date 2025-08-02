@@ -1,0 +1,10 @@
+{
+    "0x0A123435A26C36CD": {
+        "name": "END_PETROL_TRAIL_DECALS",
+        "jhash": "0xCCCA6855",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

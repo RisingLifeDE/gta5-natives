@@ -1,0 +1,15 @@
+{
+    "0x0145F696AAAAD2E4": {
+        "name": "HAS_STREAMED_TEXTURE_DICT_LOADED",
+        "jhash": "0x3F436EEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

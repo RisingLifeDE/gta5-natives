@@ -1,0 +1,19 @@
+{
+    "0xEBA5AD3A0EAF7121": {
+        "name": "GET_RELATIONSHIP_BETWEEN_PEDS",
+        "jhash": "0xE254C39C",
+        "comment": "Gets the relationship between two peds. This should be called twice (once for each ped).\n\nRelationship types:\n0 = Companion\n1 = Respect\n2 = Like\n3 = Neutral\n4 = Dislike\n5 = Hate\n255 = Pedestrians\n(Credits: Inco)\n\nExample:\nPED::GET_RELATIONSHIP_BETWEEN_PEDS(2, l_1017, 0xA49E591C);\nPED::GET_RELATIONSHIP_BETWEEN_PEDS(2, 0xA49E591C, l_1017);",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x2C96CDB04FCA358E": {
+        "name": "SET_RADIO_FRONTEND_FADE_TIME",
+        "jhash": "0xC8B514E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fadeTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

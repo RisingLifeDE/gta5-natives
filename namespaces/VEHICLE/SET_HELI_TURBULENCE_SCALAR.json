@@ -1,0 +1,19 @@
+{
+    "0xE6F13851780394DA": {
+        "name": "SET_HELI_TURBULENCE_SCALAR",
+        "jhash": "0xCCB41A55",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

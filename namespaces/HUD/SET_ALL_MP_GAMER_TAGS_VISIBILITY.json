@@ -1,0 +1,24 @@
+{
+    "0xEE76FF7E6A0166B0": {
+        "name": "SET_ALL_MP_GAMER_TAGS_VISIBILITY",
+        "jhash": "0x767DED29",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MP_GAMER_TAG_",
+            "_SET_MP_GAMER_TAG",
+            "_SET_MP_GAMER_TAG_ENABLED"
+        ]
+    }
+}

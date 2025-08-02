@@ -1,0 +1,19 @@
+{
+    "0x2F3C3D9F50681DE4": {
+        "name": "SET_TREAT_AS_AMBIENT_PED_FOR_DRIVER_LOCKON",
+        "jhash": "0xCC9D7F1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

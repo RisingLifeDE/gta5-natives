@@ -1,0 +1,18 @@
+{
+    "0x6CE177D014502E8A": {
+        "name": "ENABLE_ENTITY_BULLET_COLLISION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_ENABLE_ENTITY_UNK"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xECA658CE2A4E5A72": {
+        "name": "NETWORK_EARN_FROM_CONTRABAND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_NETWORK_EARN_FROM_CONTRABAND"
+        ]
+    }
+}

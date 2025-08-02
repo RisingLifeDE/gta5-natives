@@ -1,0 +1,15 @@
+{
+    "0x8C044C5C84505B6A": {
+        "name": "GET_VEHICLE_MODEL_ACCELERATION",
+        "jhash": "0x29CB3537",
+        "comment": "Returns the acceleration of the specified model.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

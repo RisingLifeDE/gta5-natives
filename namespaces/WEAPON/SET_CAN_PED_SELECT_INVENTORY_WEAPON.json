@@ -1,0 +1,27 @@
+{
+    "0xB4771B9AAF4E68E4": {
+        "name": "SET_CAN_PED_SELECT_INVENTORY_WEAPON",
+        "jhash": "",
+        "comment": "Disables selecting the given weapon. Ped isn't forced to put the gun away. However you can't reselect the weapon if you holster then unholster. Weapon is also grayed out on the weapon wheel.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_CAN_PED_SELECT_WEAPON",
+            "_SET_CAN_PED_EQUIP_WEAPON"
+        ]
+    }
+}

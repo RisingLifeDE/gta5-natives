@@ -1,0 +1,10 @@
+{
+    "0x48AF36444B965238": {
+        "name": "IS_PC_VERSION",
+        "jhash": "0x4D5D9EE3",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

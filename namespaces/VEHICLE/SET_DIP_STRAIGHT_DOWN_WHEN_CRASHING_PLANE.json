@@ -1,0 +1,19 @@
+{
+    "0xAA653AE61924B0A0": {
+        "name": "SET_DIP_STRAIGHT_DOWN_WHEN_CRASHING_PLANE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

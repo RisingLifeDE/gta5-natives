@@ -1,0 +1,15 @@
+{
+    "0x57E4C39DE5EE8470": {
+        "name": "DOES_VEHICLE_HAVE_STUCK_VEHICLE_CHECK",
+        "jhash": "0x5D91D9AC",
+        "comment": "Maximum amount of vehicles with vehicle stuck check appears to be 16.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

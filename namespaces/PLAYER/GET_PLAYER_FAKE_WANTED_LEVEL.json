@@ -1,0 +1,15 @@
+{
+    "0x56105E599CAB0EFA": {
+        "name": "GET_PLAYER_FAKE_WANTED_LEVEL",
+        "jhash": "0x0098D244",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

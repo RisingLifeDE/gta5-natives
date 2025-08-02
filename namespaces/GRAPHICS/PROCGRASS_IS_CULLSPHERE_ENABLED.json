@@ -1,0 +1,15 @@
+{
+    "0x2C42340F916C5930": {
+        "name": "PROCGRASS_IS_CULLSPHERE_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

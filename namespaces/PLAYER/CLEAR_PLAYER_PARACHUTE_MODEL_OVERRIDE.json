@@ -1,0 +1,15 @@
+{
+    "0x8753997EB5F6EE3F": {
+        "name": "CLEAR_PLAYER_PARACHUTE_MODEL_OVERRIDE",
+        "jhash": "0x6FF034BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

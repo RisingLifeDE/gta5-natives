@@ -1,0 +1,19 @@
+{
+    "0x9133955F1A2DA957": {
+        "name": "SET_MINIMAP_IN_PROLOGUE",
+        "jhash": "0x02F5F1D1",
+        "comment": "Toggles the North Yankton map",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DRAW_MAP_VISIBLE",
+            "_SET_NORTH_YANKTON_MAP"
+        ]
+    }
+}

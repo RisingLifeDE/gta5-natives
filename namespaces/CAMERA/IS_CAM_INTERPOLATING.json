@@ -1,0 +1,15 @@
+{
+    "0x036F97C908C2B52C": {
+        "name": "IS_CAM_INTERPOLATING",
+        "jhash": "0x7159CB5D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

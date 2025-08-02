@@ -1,0 +1,23 @@
+{
+    "0xE679E3E06E363892": {
+        "name": "NETWORK_OVERRIDE_CLOCK_TIME",
+        "jhash": "0xC077BCD6",
+        "comment": "Works in Singleplayer too.\nPassing wrong data (e.g. hours above 23) will cause the game to crash.",
+        "params": [
+            {
+                "type": "int",
+                "name": "hours"
+            },
+            {
+                "type": "int",
+                "name": "minutes"
+            },
+            {
+                "type": "int",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

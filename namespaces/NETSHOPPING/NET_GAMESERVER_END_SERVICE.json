@@ -1,0 +1,19 @@
+{
+    "0xE2A99A9B524BEFFF": {
+        "name": "NET_GAMESERVER_END_SERVICE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_END_SERVICE",
+            "_NETWORK_SHOP_TERMINATE_SERVICE"
+        ]
+    }
+}

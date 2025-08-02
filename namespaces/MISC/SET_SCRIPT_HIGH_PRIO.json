@@ -1,0 +1,15 @@
+{
+    "0x65D2EBB47E1CEC21": {
+        "name": "SET_SCRIPT_HIGH_PRIO",
+        "jhash": "",
+        "comment": "Sets GtaThread+0x14A",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

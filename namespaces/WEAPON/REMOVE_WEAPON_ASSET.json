@@ -1,0 +1,15 @@
+{
+    "0xAA08EF13F341C8FC": {
+        "name": "REMOVE_WEAPON_ASSET",
+        "jhash": "0x2C0DFE3C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xAAB3200ED59016BC": {
+        "name": "SWITCH_TO_MULTI_FIRSTPART",
+        "jhash": "0xFB4D062D",
+        "comment": "doesn't act normally when used on mount chilliad\nFlags is a bitflag:\n2^n - Enabled Functionality:\n0 - Skip camera rotate up\n3 - Wait for SET_PLAYER_SWITCH_ESTABLISHING_SHOT / hang at last step. You will still need to run 0x74DE2E8739086740 to exit \"properly\" and then STOP_PLAYER_SWITCH\n6 - Invert Switch Direction (false = out, true = in)\n8 - Hang above ped\n\nswitchType: 0 - 3\n0: 1 step towards ped\n1: 3 steps out from ped\n2: 1 step out from ped\n3: 1 step towards ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "switchType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SWITCH_OUT_PLAYER"
+        ]
+    }
+}

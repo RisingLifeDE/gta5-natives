@@ -1,0 +1,13 @@
+{
+    "0xDFFA5BE8381C3314": {
+        "name": "NETWORK_SESSION_GET_HOST_AIM_PREFERENCE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_NETWORK_GET_TARGETING_MODE"
+        ]
+    }
+}

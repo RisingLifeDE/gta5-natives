@@ -1,0 +1,19 @@
+{
+    "0x607E8E3D3E4F9611": {
+        "name": "APP_SET_INT",
+        "jhash": "0x1B509C32",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

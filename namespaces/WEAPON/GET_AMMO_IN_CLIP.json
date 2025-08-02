@@ -1,0 +1,23 @@
+{
+    "0x2E1202248937775C": {
+        "name": "GET_AMMO_IN_CLIP",
+        "jhash": "0x73C100C3",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

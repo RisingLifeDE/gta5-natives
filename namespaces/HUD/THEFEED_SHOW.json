@@ -1,0 +1,14 @@
+{
+    "0x15CFA549788D35EF": {
+        "name": "THEFEED_SHOW",
+        "jhash": "",
+        "comment": "Displays loading screen tips, requires `THEFEED_AUTO_POST_GAMETIPS_ON` to be called beforehand.",
+        "params": [],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_THEFEED_ENABLE",
+            "_THEFEED_DISPLAY_LOADING_SCREEN_TIPS"
+        ]
+    }
+}

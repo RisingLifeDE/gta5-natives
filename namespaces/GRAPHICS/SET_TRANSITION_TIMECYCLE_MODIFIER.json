@@ -1,0 +1,19 @@
+{
+    "0x3BCF567485E1971C": {
+        "name": "SET_TRANSITION_TIMECYCLE_MODIFIER",
+        "jhash": "0xBB2BA72A",
+        "comment": "Full list of timecycle modifiers by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/timecycleModifiers.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            },
+            {
+                "type": "float",
+                "name": "transition"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

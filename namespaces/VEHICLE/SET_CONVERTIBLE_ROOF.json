@@ -1,0 +1,19 @@
+{
+    "0xF39C4F538B5124C2": {
+        "name": "SET_CONVERTIBLE_ROOF",
+        "jhash": "0xC87B6A51",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

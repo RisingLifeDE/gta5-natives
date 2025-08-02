@@ -1,0 +1,15 @@
+{
+    "0xB45EFF719D8427A6": {
+        "name": "SET_LAW_RESPONSE_DELAY_OVERRIDE",
+        "jhash": "0xBF6993C7",
+        "comment": "PLAYER::SET_LAW_RESPONSE_DELAY_OVERRIDE(rPtr((&l_122) + 71)); // Found in decompilation\n\n***\n\nIn \"am_hold_up.ysc\" used once:\n\nl_8d._f47 = MISC::GET_RANDOM_FLOAT_IN_RANGE(18.0, 28.0);\nPLAYER::SET_LAW_RESPONSE_DELAY_OVERRIDE((l_8d._f47));",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF33AB75780BA57DE": {
+        "name": "STOP_CAM_POINTING",
+        "jhash": "0x5435F6A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

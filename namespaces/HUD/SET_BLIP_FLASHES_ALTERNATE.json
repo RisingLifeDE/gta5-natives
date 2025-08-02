@@ -1,0 +1,19 @@
+{
+    "0x2E8D9498C56DD0D1": {
+        "name": "SET_BLIP_FLASHES_ALTERNATE",
+        "jhash": "0x1A81202B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

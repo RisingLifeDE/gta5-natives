@@ -1,0 +1,15 @@
+{
+    "0x8DFCED7A656F8802": {
+        "name": "CLEAR_HELP",
+        "jhash": "0xE6D85741",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

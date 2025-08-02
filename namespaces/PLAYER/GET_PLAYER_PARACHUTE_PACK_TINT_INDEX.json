@@ -1,0 +1,19 @@
+{
+    "0x6E9C742F340CE5A2": {
+        "name": "GET_PLAYER_PARACHUTE_PACK_TINT_INDEX",
+        "jhash": "0x4E418E13",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int*",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

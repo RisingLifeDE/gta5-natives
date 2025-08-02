@@ -1,0 +1,10 @@
+{
+    "0xB9CF1F793A9F1BF1": {
+        "name": "GET_IS_USING_FPS_THIRD_PERSON_COVER",
+        "jhash": "",
+        "comment": "Returns profile setting 237.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

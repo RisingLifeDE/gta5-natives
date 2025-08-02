@@ -1,0 +1,15 @@
+{
+    "0x117C70D1F5730B5E": {
+        "name": "IS_PED_VAULTING",
+        "jhash": "0xC3169BDA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

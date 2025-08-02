@@ -1,0 +1,15 @@
+{
+    "0x014A73449675121D": {
+        "name": "_NETWORK_SET_TUNABLES_REGISTRATION_CONTEXTS",
+        "jhash": "",
+        "comment": "Sets up tunable contexts for _NETWORK_GET_TUNABLES_REGISTRATION_{BOOL|INT|FLOAT}",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "tunableContextData"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

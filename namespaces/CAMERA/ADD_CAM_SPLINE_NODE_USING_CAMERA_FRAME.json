@@ -1,0 +1,27 @@
+{
+    "0x0A9F2A468B328E74": {
+        "name": "ADD_CAM_SPLINE_NODE_USING_CAMERA_FRAME",
+        "jhash": "0x30510511",
+        "comment": "p0 is the spline camera to which the node is being added.\np1 is the camera used to create the node.\np3 is always 3 in scripts. It might be smoothing style or rotation order.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Cam",
+                "name": "cam2"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

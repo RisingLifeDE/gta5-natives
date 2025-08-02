@@ -1,0 +1,38 @@
+{
+    "0x9769F811D1785B03": {
+        "name": "NETWORK_LEAVE_PED_BEHIND_BEFORE_WARP",
+        "jhash": "0xBE6A30C3",
+        "comment": "p4 and p5 are always 0 in scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_RESPAWN_COORDS"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x405591EC8FD9096D": {
+        "name": "WATER_OVERRIDE_SET_OCEANWAVEAMPLITUDE",
+        "jhash": "0x584E9C59",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

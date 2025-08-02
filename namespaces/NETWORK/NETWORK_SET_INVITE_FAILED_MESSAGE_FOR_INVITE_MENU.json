@@ -1,0 +1,19 @@
+{
+    "0x0D77A82DC2D0DA59": {
+        "name": "NETWORK_SET_INVITE_FAILED_MESSAGE_FOR_INVITE_MENU",
+        "jhash": "0x0808D4CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

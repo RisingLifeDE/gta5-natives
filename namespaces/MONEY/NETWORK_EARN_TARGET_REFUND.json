@@ -1,0 +1,22 @@
+{
+    "0x5B669CF2299A271F": {
+        "name": "NETWORK_EARN_TARGET_REFUND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_TARGET_REFUND"
+        ]
+    }
+}

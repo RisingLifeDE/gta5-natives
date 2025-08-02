@@ -1,0 +1,23 @@
+{
+    "0xC38DC1E90D22547C": {
+        "name": "LEADERBOARDS2_READ_RANK_PREDICTION",
+        "jhash": "0x9BEC3401",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

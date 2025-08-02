@@ -1,0 +1,39 @@
+{
+    "0x4C8872D8CDBE1B8B": {
+        "name": "DISABLE_NAVMESH_IN_AREA",
+        "jhash": "0x6E37F132",
+        "comment": "Set toggle true to disable navmesh.\nSet toggle false to enable navmesh.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

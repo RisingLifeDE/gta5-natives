@@ -1,0 +1,13 @@
+{
+    "0x643ED62D5EA3BEBD": {
+        "name": "SHUTDOWN_PC_SCRIPTED_CONTROLS",
+        "jhash": "0x42140FF9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_INPUT_MAPPING_SCHEME"
+        ]
+    }
+}

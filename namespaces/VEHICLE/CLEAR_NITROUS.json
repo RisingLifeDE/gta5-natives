@@ -1,0 +1,15 @@
+{
+    "0xC889AE921400E1ED": {
+        "name": "CLEAR_NITROUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

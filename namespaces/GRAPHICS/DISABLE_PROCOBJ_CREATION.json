@@ -1,0 +1,10 @@
+{
+    "0x1612C45F9E3E0D44": {
+        "name": "DISABLE_PROCOBJ_CREATION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

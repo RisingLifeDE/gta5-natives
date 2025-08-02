@@ -1,0 +1,19 @@
+{
+    "0xB9562064627FF9DB": {
+        "name": "SET_CARJACK_MISSION_REMOVAL_PARAMETERS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

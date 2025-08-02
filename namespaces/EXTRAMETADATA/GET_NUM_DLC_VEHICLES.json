@@ -1,0 +1,10 @@
+{
+    "0xA7A866D21CD2329B": {
+        "name": "GET_NUM_DLC_VEHICLES",
+        "jhash": "0x8EAF9CF6",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x6638C0F19DE692FE": {
+        "name": "_IS_VEHICLE_GEN9_EXCLUSIVE_MODEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

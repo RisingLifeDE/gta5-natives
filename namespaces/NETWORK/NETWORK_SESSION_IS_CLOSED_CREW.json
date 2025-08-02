@@ -1,0 +1,10 @@
+{
+    "0x74732C6CA90DA2B4": {
+        "name": "NETWORK_SESSION_IS_CLOSED_CREW",
+        "jhash": "0xA95299B9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

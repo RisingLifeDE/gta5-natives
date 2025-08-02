@@ -1,0 +1,15 @@
+{
+    "0x39DAC362EE65FA28": {
+        "name": "IS_THIS_MODEL_A_QUADBIKE",
+        "jhash": "0xC1625277",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

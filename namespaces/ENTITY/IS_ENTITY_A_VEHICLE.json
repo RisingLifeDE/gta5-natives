@@ -1,0 +1,15 @@
+{
+    "0x6AC7003FA6E5575E": {
+        "name": "IS_ENTITY_A_VEHICLE",
+        "jhash": "0xBE800B01",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

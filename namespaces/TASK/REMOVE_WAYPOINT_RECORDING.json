@@ -1,0 +1,15 @@
+{
+    "0xFF1B8B4AA1C25DC8": {
+        "name": "REMOVE_WAYPOINT_RECORDING",
+        "jhash": "0x624530B0",
+        "comment": "Full list of waypoint recordings by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/waypointRecordings.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

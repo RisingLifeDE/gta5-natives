@@ -1,0 +1,13 @@
+{
+    "0xC6796A8FFA375E53": {
+        "name": "END_SCALEFORM_MOVIE_METHOD",
+        "jhash": "0x02DBF2D7",
+        "comment": "Pops and calls the Scaleform function on the stack",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_POP_SCALEFORM_MOVIE_FUNCTION_VOID"
+        ]
+    }
+}

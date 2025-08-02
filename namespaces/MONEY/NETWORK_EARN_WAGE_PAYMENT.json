@@ -1,0 +1,22 @@
+{
+    "0x35F8DA0E8A31EF1B": {
+        "name": "NETWORK_EARN_WAGE_PAYMENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_NETWORK_EARN_FROM_WAGE_PAYMENT"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x82E0AC411E41A5B4": {
+        "name": "SET_VEHICLE_DETONATION_MODE",
+        "jhash": "",
+        "comment": "Does nothing. It's a nullsub.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

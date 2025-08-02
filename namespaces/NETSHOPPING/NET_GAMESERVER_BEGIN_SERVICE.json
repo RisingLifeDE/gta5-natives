@@ -1,0 +1,38 @@
+{
+    "0x3C5FD37B5499582E": {
+        "name": "NET_GAMESERVER_BEGIN_SERVICE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "transactionId"
+            },
+            {
+                "type": "Hash",
+                "name": "categoryHash"
+            },
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            },
+            {
+                "type": "Hash",
+                "name": "actionTypeHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_BEGIN_SERVICE"
+        ]
+    }
+}

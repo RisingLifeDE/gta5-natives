@@ -1,0 +1,27 @@
+{
+    "0x3F878F92B3A7A071": {
+        "name": "START_PLAYBACK_RECORDED_VEHICLE",
+        "jhash": "0xCF614CA8",
+        "comment": "p3 is some flag related to 'trailers' (invokes CVehicle::GetTrailer).\n\nSee REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

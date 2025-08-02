@@ -1,0 +1,15 @@
+{
+    "0xDC459CFA0CCE245B": {
+        "name": "FORCE_RENDER_IN_GAME_UI",
+        "jhash": "0x7E946E87",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

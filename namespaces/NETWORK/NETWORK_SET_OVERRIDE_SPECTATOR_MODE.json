@@ -1,0 +1,15 @@
+{
+    "0x70DA3BF8DACD3210": {
+        "name": "NETWORK_SET_OVERRIDE_SPECTATOR_MODE",
+        "jhash": "0xA0FD42D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x99BFDC94A603E541": {
+        "name": "OBJ_TO_NET",
+        "jhash": "0x1E05F29F",
+        "comment": "Lets objects spawn online simply do it like this:\n\nint createdObject = OBJ_TO_NET(CREATE_OBJECT_NO_OFFSET(oball, pCoords.x, pCoords.y, pCoords.z, 1, 0, 0));",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

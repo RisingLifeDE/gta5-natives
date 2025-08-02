@@ -1,0 +1,27 @@
+{
+    "0xF75497BB865F0803": {
+        "name": "POINT_CAM_AT_COORD",
+        "jhash": "0x914BC21A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

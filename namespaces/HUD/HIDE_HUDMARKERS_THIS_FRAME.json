@@ -1,0 +1,10 @@
+{
+    "0x243296A510B562B6": {
+        "name": "HIDE_HUDMARKERS_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2060"
+    }
+}

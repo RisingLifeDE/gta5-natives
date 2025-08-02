@@ -1,0 +1,15 @@
+{
+    "0x5549EE11FA22FCF2": {
+        "name": "GET_DLC_VEHICLE_FLAGS",
+        "jhash": "0xAB12738C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcVehicleIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

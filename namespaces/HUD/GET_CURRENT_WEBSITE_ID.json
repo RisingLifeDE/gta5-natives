@@ -1,0 +1,10 @@
+{
+    "0x97D47996FC48CBAD": {
+        "name": "GET_CURRENT_WEBSITE_ID",
+        "jhash": "0x42A55B14",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

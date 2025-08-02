@@ -1,0 +1,27 @@
+{
+    "0x71862B1D855F32E1": {
+        "name": "PLAYSTATS_RANDOM_MISSION_DONE",
+        "jhash": "0xAC2C7C63",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

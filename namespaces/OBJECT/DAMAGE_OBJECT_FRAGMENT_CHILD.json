@@ -1,0 +1,23 @@
+{
+    "0xE05F6AEEFEB0BB02": {
+        "name": "DAMAGE_OBJECT_FRAGMENT_CHILD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

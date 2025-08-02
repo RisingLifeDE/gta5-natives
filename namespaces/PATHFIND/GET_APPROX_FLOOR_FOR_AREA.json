@@ -1,0 +1,30 @@
+{
+    "0x3599D741C9AC6310": {
+        "name": "GET_APPROX_FLOOR_FOR_AREA",
+        "jhash": "0x76751DD4",
+        "comment": "Returns CGameWorldHeightMap's minimum Z among all grid nodes that intersect with the specified rectangle.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_HEIGHTMAP_BOTTOM_Z_FOR_AREA"
+        ]
+    }
+}

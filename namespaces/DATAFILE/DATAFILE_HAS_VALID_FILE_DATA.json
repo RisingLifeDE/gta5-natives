@@ -1,0 +1,15 @@
+{
+    "0xF8CC1EBE0B62E29F": {
+        "name": "DATAFILE_HAS_VALID_FILE_DATA",
+        "jhash": "0x2A9411DA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

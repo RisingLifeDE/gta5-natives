@@ -1,0 +1,15 @@
+{
+    "0xE9F6FFE837354DD4": {
+        "name": "RELEASE_NAMED_RENDERTARGET",
+        "jhash": "0xD3F6C892",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

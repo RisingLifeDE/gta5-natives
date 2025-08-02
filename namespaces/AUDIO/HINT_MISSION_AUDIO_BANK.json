@@ -1,0 +1,23 @@
+{
+    "0x40763EA7B9B783E7": {
+        "name": "HINT_MISSION_AUDIO_BANK",
+        "jhash": "",
+        "comment": "p2 is always -1",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573"
+    }
+}

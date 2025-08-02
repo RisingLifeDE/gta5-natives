@@ -1,0 +1,23 @@
+{
+    "0x8A7391690F5AFD81": {
+        "name": "SET_OBJECT_TARGETTABLE",
+        "jhash": "0x3F88CD86",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "targettable"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

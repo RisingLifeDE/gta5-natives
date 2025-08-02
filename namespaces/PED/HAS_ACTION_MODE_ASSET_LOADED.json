@@ -1,0 +1,15 @@
+{
+    "0xE4B5F4BF2CB24E65": {
+        "name": "HAS_ACTION_MODE_ASSET_LOADED",
+        "jhash": "0xF7EB2BF1",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

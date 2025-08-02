@@ -1,0 +1,27 @@
+{
+    "0xB094BC1DB4018240": {
+        "name": "SET_FLOATING_HELP_TEXT_TO_ENTITY",
+        "jhash": "0x18B012B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudIndex"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

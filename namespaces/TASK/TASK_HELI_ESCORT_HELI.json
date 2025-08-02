@@ -1,0 +1,35 @@
+{
+    "0xB385523325077210": {
+        "name": "TASK_HELI_ESCORT_HELI",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Vehicle",
+                "name": "heli1"
+            },
+            {
+                "type": "Vehicle",
+                "name": "heli2"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

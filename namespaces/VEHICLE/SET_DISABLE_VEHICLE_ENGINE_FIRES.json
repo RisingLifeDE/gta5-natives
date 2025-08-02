@@ -1,0 +1,19 @@
+{
+    "0x91A0BD635321F145": {
+        "name": "SET_DISABLE_VEHICLE_ENGINE_FIRES",
+        "jhash": "0x1784BA1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

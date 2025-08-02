@@ -1,0 +1,31 @@
+{
+    "0xBDA5DF49D080FE4E": {
+        "name": "TASK_PATROL",
+        "jhash": "0xB92E5AF6",
+        "comment": "After looking at some scripts the second parameter seems to be an id of some kind. Here are some I found from some R* scripts:\n\n\"miss_Tower_01\" (this went from 01 - 10)\n\"miss_Ass0\" (0, 4, 6, 3)\n\"MISS_PATROL_8\"\n\nI think they're patrol routes, but I'm not sure. And I believe the 3rd parameter is a BOOL, but I can't confirm other than only seeing 0 and 1 being passed.\n\n\nAs far as I can see the patrol routes names such as \"miss_Ass0\" have been defined earlier in the scripts. This leads me to believe we can defined our own new patrol routes by following the same approach. \nFrom the scripts\n\n    TASK::OPEN_PATROL_ROUTE(\"miss_Ass0\");\n    TASK::ADD_PATROL_ROUTE_NODE(0, \"WORLD_HUMAN_GUARD_STAND\", l_738[0/*3*/], -139.4076690673828, -993.4732055664062, 26.2754, MISC::GET_RANDOM_INT_IN_RANGE(5000, 10000));\n    TASK::ADD_PATROL_ROUTE_NODE(1, \"WORLD_HUMAN_GUARD_STAND\", l_738[1/*3*/], -116.1391830444336, -987.4984130859375, 26.38541030883789, MISC::GET_RANDOM_INT_IN_RANGE(5000, 10000));\n    TASK::ADD_PATROL_ROUTE_NODE(2, \"WORLD_HUMAN_GUARD_STAND\", l_738[2/*3*/], -128.46847534179688, -979.0340576171875, 26.2754, MISC::GET_RANDOM_INT_IN_RANGE(5000, 10000));\n    TASK::ADD_PATROL_ROUTE_LINK(0, 1);\n    TASK::ADD_PATROL_ROUTE_LINK(1, 2);\n    TASK::ADD_PATROL_ROUTE_LINK(2, 0);\n    TASK::CLOSE_PATROL_ROUTE();\n    TASK::CREATE_PATROL_ROUTE();\n\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "patrolRouteName"
+            },
+            {
+                "type": "int",
+                "name": "alertState"
+            },
+            {
+                "type": "BOOL",
+                "name": "canChatToPeds"
+            },
+            {
+                "type": "BOOL",
+                "name": "useHeadLookAt"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

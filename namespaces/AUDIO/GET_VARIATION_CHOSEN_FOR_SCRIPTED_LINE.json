@@ -1,0 +1,15 @@
+{
+    "0xAA19F5572C38B564": {
+        "name": "GET_VARIATION_CHOSEN_FOR_SCRIPTED_LINE",
+        "jhash": "0xB58B8FF3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

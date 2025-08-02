@@ -1,0 +1,23 @@
+{
+    "0x758F49C24925568A": {
+        "name": "PRELOAD_VEHICLE_MOD",
+        "jhash": "0x6EA5F4A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "int",
+                "name": "modIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

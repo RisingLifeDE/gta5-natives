@@ -1,0 +1,19 @@
+{
+    "0xD66C9E72B3CC4982": {
+        "name": "NETWORK_DISPLAYNAMES_FROM_HANDLES_START",
+        "jhash": "",
+        "comment": "Hardcoded to return -1.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

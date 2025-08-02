@@ -1,0 +1,23 @@
+{
+    "0x8F7156A3142A6BAD": {
+        "name": "GET_NUMBER_OF_PED_TEXTURE_VARIATIONS",
+        "jhash": "0x83D9FBE7",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

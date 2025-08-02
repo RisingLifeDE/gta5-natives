@@ -1,0 +1,15 @@
+{
+    "0x82E7FFCD5B2326B3": {
+        "name": "SET_TIMECYCLE_MODIFIER_STRENGTH",
+        "jhash": "0x458F4F45",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

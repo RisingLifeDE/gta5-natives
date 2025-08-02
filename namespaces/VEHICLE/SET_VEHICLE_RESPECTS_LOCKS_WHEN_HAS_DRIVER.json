@@ -1,0 +1,19 @@
+{
+    "0x2311DD7159F00582": {
+        "name": "SET_VEHICLE_RESPECTS_LOCKS_WHEN_HAS_DRIVER",
+        "jhash": "0x758C5E2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

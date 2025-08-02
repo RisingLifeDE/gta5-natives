@@ -1,0 +1,15 @@
+{
+    "0xAF348AFCB575A441": {
+        "name": "SET_ROOM_FOR_GAME_VIEWPORT_BY_NAME",
+        "jhash": "0x1F6B4B13",
+        "comment": "Example of use (carmod_shop)\nINTERIOR::SET_ROOM_FOR_GAME_VIEWPORT_BY_NAME(\"V_CarModRoom\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "roomName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

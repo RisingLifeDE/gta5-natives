@@ -1,0 +1,19 @@
+{
+    "0x834344A414C7C85D": {
+        "name": "ALLOW_PICKUP_ARROW_MARKER_WHEN_UNCOLLECTABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6A973569BA094650": {
+        "name": "SET_VEHICLE_IMPATIENCE_TIMER",
+        "jhash": "",
+        "comment": "Seems to copy some values in vehicle",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

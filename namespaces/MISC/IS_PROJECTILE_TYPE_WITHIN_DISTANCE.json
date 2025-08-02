@@ -1,0 +1,38 @@
+{
+    "0x34318593248C8FB2": {
+        "name": "IS_PROJECTILE_TYPE_WITHIN_DISTANCE",
+        "jhash": "0xBE81F1E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "projectileHash"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PROJECTILE_TYPE_IN_RADIUS"
+        ]
+    }
+}

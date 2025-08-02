@@ -1,0 +1,71 @@
+{
+    "0x11315AB3385B8AC0": {
+        "name": "TASK_GO_TO_COORD_WHILE_AIMING_AT_COORD",
+        "jhash": "0x1552DC91",
+        "comment": "movement_speed: mostly 2f, but also 1/1.2f, etc.\np8: always false\np9: 2f\np10: 0.5f\np11: true\np12: 0 / 512 / 513, etc.\np13: 0\nfiring_pattern: ${firing_pattern_full_auto}, 0xC6EE6B4C",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "aimAtX"
+            },
+            {
+                "type": "float",
+                "name": "aimAtY"
+            },
+            {
+                "type": "float",
+                "name": "aimAtZ"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "BOOL",
+                "name": "shoot"
+            },
+            {
+                "type": "float",
+                "name": "targetRadius"
+            },
+            {
+                "type": "float",
+                "name": "slowDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "useNavMesh"
+            },
+            {
+                "type": "int",
+                "name": "navFlags"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantBlendToAim"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

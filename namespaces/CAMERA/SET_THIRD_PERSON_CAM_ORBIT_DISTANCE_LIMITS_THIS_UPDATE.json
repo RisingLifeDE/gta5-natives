@@ -1,0 +1,22 @@
+{
+    "0xDF2E1F7742402E81": {
+        "name": "SET_THIRD_PERSON_CAM_ORBIT_DISTANCE_LIMITS_THIS_UPDATE",
+        "jhash": "0x77340650",
+        "comment": "Seems to animate the gameplay camera zoom.\n\nEg. SET_THIRD_PERSON_CAM_ORBIT_DISTANCE_LIMITS_THIS_UPDATE(1f, 1000f);\nwill animate the camera zooming in from 1000 meters away.\n\nGame scripts use it like this:\n\n// Setting this to 1 prevents V key from changing zoom\nPLAYER::SET_PLAYER_FORCED_ZOOM(PLAYER::PLAYER_ID(), 1);\n\n// These restrict how far you can move cam up/down left/right\nCAM::SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(-20f, 50f);\nCAM::SET_THIRD_PERSON_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE(-60f, 0f);\n\nCAM::SET_THIRD_PERSON_CAM_ORBIT_DISTANCE_LIMITS_THIS_UPDATE(1f, 1f);",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ANIMATE_GAMEPLAY_CAM_ZOOM"
+        ]
+    }
+}

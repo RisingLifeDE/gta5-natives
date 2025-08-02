@@ -1,0 +1,15 @@
+{
+    "0x4319E335B71FFF34": {
+        "name": "IS_VEHICLE_ALARM_ACTIVATED",
+        "jhash": "0xF2630A4C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

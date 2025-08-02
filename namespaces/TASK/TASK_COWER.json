@@ -1,0 +1,19 @@
+{
+    "0x3EB1FE9E8E908E15": {
+        "name": "TASK_COWER",
+        "jhash": "0x9CF1C19B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

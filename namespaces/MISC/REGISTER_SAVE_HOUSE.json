@@ -1,0 +1,39 @@
+{
+    "0xC0714D0A7EEECA54": {
+        "name": "REGISTER_SAVE_HOUSE",
+        "jhash": "0x39C1849A",
+        "comment": "returns savehouseHandle",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x742B58F723233ED9": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_INDEX_BY_ID",
+        "jhash": "0x5E832444",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

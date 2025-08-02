@@ -1,0 +1,19 @@
+{
+    "0xD93DB43B82BC0D00": {
+        "name": "SET_CAM_SHAKE_AMPLITUDE",
+        "jhash": "0x60FF6382",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

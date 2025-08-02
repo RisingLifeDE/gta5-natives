@@ -1,0 +1,15 @@
+{
+    "0x2330C12A7A605D16": {
+        "name": "SC_EMAIL_MESSAGE_PUSH_GAMER_TO_RECIP_LIST",
+        "jhash": "0x9A703A2B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

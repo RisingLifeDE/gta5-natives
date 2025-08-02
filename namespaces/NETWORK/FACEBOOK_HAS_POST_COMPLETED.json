@@ -1,0 +1,13 @@
+{
+    "0x62B9FEC9A11F10EF": {
+        "name": "FACEBOOK_HAS_POST_COMPLETED",
+        "jhash": "0x37A28C26",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_FACEBOOK_IS_SENDING_DATA"
+        ]
+    }
+}

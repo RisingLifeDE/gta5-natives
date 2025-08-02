@@ -1,0 +1,10 @@
+{
+    "0x9D1224004B3A6707": {
+        "name": "GET_NUM_VEHICLE_WINDOW_TINTS",
+        "jhash": "0x625C7B66",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

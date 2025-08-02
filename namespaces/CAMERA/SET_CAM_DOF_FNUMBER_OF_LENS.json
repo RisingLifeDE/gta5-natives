@@ -1,0 +1,22 @@
+{
+    "0x7DD234D6F3914C5B": {
+        "name": "SET_CAM_DOF_FNUMBER_OF_LENS",
+        "jhash": "",
+        "comment": "This native has its name defined inside its codE\n",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CAM_DOF_FNUMBER_OF_LENS"
+        ]
+    }
+}

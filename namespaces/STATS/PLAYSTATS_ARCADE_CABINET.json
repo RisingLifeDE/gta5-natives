@@ -1,0 +1,18 @@
+{
+    "0xF9096193DF1F99D4": {
+        "name": "PLAYSTATS_ARCADE_CABINET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_PLAYSTATS_ARCADE_CABINET"
+        ]
+    }
+}

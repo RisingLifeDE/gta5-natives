@@ -1,0 +1,15 @@
+{
+    "0x007FDE5A7897E426": {
+        "name": "RESET_FACIAL_IDLE_ANIM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

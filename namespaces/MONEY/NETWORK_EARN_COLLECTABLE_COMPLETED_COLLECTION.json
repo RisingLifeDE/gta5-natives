@@ -1,0 +1,22 @@
+{
+    "0x5C9B198AF5A54FA6": {
+        "name": "NETWORK_EARN_COLLECTABLE_COMPLETED_COLLECTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_NETWORK_EARN_COLLECTABLE_COMPLETED_COLLECTION"
+        ]
+    }
+}

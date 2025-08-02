@@ -1,0 +1,39 @@
+{
+    "0xD0BC1C6FB18EE154": {
+        "name": "SET_GPS_DISABLED_ZONE_AT_INDEX",
+        "jhash": "0x98BDB311",
+        "comment": "Disables the GPS route displayed on the minimap while within a certain zone (area). When in a disabled zone and creating a waypoint, the GPS route is not shown on the minimap until you are outside of the zone. When disabled, the direct distance is shown on minimap opposed to distance to travel. Seems to only work before setting a waypoint.\nYou can clear the disabled zone with CLEAR_GPS_DISABLED_ZONE_AT_INDEX.\n\n**Setting a waypoint at the same coordinate:**\nDisabled Zone: https://i.imgur.com/P9VUuxM.png\nEnabled Zone (normal): https://i.imgur.com/BPi24aw.png",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

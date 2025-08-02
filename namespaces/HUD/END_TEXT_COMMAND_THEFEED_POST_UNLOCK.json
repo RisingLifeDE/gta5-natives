@@ -1,0 +1,23 @@
+{
+    "0x33EE12743CCD6343": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_UNLOCK",
+        "jhash": "0xE05E7052",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxtLabel1"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "gxtLabel2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

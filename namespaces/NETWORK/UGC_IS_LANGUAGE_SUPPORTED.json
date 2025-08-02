@@ -1,0 +1,15 @@
+{
+    "0xF53E48461B71EECB": {
+        "name": "UGC_IS_LANGUAGE_SUPPORTED",
+        "jhash": "0xB4668B23",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

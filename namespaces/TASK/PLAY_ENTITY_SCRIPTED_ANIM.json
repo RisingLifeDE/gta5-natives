@@ -1,0 +1,35 @@
+{
+    "0x77A1EEC547E7FCF1": {
+        "name": "PLAY_ENTITY_SCRIPTED_ANIM",
+        "jhash": "0x02F72AE5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int*",
+                "name": "priorityLowData"
+            },
+            {
+                "type": "int*",
+                "name": "priorityMidData"
+            },
+            {
+                "type": "int*",
+                "name": "priorityHighData"
+            },
+            {
+                "type": "float",
+                "name": "blendInDelta"
+            },
+            {
+                "type": "float",
+                "name": "blendOutDelta"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

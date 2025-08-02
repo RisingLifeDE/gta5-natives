@@ -1,0 +1,15 @@
+{
+    "0x451D05012CCEC234": {
+        "name": "IS_PED_DOING_A_BEAST_JUMP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573"
+    }
+}

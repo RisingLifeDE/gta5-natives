@@ -1,0 +1,19 @@
+{
+    "0x715135F4B82AC90D": {
+        "name": "REMOVE_ALL_STICKY_BOMBS_FROM_ENTITY",
+        "jhash": "0xCEAE5AFC",
+        "comment": "entity must be a valid entity; ped can be NULL",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

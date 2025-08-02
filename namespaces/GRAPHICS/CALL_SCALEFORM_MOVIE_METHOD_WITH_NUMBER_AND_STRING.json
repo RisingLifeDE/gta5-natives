@@ -1,0 +1,62 @@
+{
+    "0xEF662D8D57E290B1": {
+        "name": "CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER_AND_STRING",
+        "jhash": "0x6EAF56DE",
+        "comment": "Calls the Scaleform function and passes both float and string parameters (in their respective order).\n\nThe number of parameters passed to the function varies, so the end of the float parameters is represented by -1.0, and the end of the string parameters is represented by 0 (NULL).\n\nNOTE: The order of parameters in the function prototype is important! All float parameters must come first, followed by the string parameters.\n\nExamples:\n// function MY_FUNCTION(floatParam1, floatParam2, stringParam)\nGRAPHICS::CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER_AND_STRING(scaleform, \"MY_FUNCTION\", 10.0, 20.0, -1.0, -1.0, -1.0, \"String param\", 0, 0, 0, 0);\n\n// function MY_FUNCTION_2(floatParam, stringParam1, stringParam2)\nGRAPHICS::CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER_AND_STRING(scaleform, \"MY_FUNCTION_2\", 10.0, -1.0, -1.0, -1.0, -1.0, \"String param #1\", \"String param #2\", 0, 0, 0);",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "const char*",
+                "name": "methodName"
+            },
+            {
+                "type": "float",
+                "name": "floatParam1"
+            },
+            {
+                "type": "float",
+                "name": "floatParam2"
+            },
+            {
+                "type": "float",
+                "name": "floatParam3"
+            },
+            {
+                "type": "float",
+                "name": "floatParam4"
+            },
+            {
+                "type": "float",
+                "name": "floatParam5"
+            },
+            {
+                "type": "const char*",
+                "name": "stringParam1"
+            },
+            {
+                "type": "const char*",
+                "name": "stringParam2"
+            },
+            {
+                "type": "const char*",
+                "name": "stringParam3"
+            },
+            {
+                "type": "const char*",
+                "name": "stringParam4"
+            },
+            {
+                "type": "const char*",
+                "name": "stringParam5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CALL_SCALEFORM_MOVIE_FUNCTION_MIXED_PARAMS"
+        ]
+    }
+}

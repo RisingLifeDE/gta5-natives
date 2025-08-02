@@ -1,0 +1,23 @@
+{
+    "0x3364AA97340CA215": {
+        "name": "NETWORK_REGISTER_PLAYER_BROADCAST_VARIABLES",
+        "jhash": "0xBE3D32B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "vars"
+            },
+            {
+                "type": "int",
+                "name": "numVars"
+            },
+            {
+                "type": "const char*",
+                "name": "debugName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

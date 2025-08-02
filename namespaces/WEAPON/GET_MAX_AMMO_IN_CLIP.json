@@ -1,0 +1,23 @@
+{
+    "0xA38DCFFCEA8962FA": {
+        "name": "GET_MAX_AMMO_IN_CLIP",
+        "jhash": "0x6961E2A4",
+        "comment": "p2 is mostly 1 in the scripts.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

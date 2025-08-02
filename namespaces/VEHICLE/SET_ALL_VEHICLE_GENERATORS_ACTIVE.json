@@ -1,0 +1,10 @@
+{
+    "0x34AD89078831A4BC": {
+        "name": "SET_ALL_VEHICLE_GENERATORS_ACTIVE",
+        "jhash": "0xAB1FDD76",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

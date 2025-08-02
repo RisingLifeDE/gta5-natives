@@ -1,0 +1,15 @@
+{
+    "0xE0A0AEC214B1FABA": {
+        "name": "IS_CONVERSATION_PED_DEAD",
+        "jhash": "0x1FA39EFE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

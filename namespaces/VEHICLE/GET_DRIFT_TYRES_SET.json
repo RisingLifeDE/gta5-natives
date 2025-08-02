@@ -1,0 +1,18 @@
+{
+    "0x2F5A72430E78C8D3": {
+        "name": "GET_DRIFT_TYRES_SET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2372",
+        "old_names": [
+            "_GET_DRIFT_TYRES_ENABLED"
+        ]
+    }
+}

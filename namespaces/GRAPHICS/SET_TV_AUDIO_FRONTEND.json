@@ -1,0 +1,15 @@
+{
+    "0x113D2C5DC57E1774": {
+        "name": "SET_TV_AUDIO_FRONTEND",
+        "jhash": "0x2E0DFA35",
+        "comment": "Probably changes tvs from being a 3d audio to being \"global\" audio",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xC449EDED9D73009C": {
+        "name": "STOP_PLAYER_TELEPORT",
+        "jhash": "0x86AB8DBB",
+        "comment": "Disables the player's teleportation",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

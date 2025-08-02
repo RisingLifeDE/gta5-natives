@@ -1,0 +1,26 @@
+{
+    "0x31D5E073B6F93CDC": {
+        "name": "GET_DLC_WEAPON_COMPONENT_DATA_SP",
+        "jhash": "",
+        "comment": "Same as GET_DLC_WEAPON_COMPONENT_DATA but only works for DLC components that are available in SP.",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcWeaponIndex"
+            },
+            {
+                "type": "int",
+                "name": "dlcWeapCompIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "ComponentDataPtr"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2060",
+        "old_names": [
+            "_GET_DLC_WEAPON_COMPONENT_DATA_SP"
+        ]
+    }
+}

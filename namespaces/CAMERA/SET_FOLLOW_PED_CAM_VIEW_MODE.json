@@ -1,0 +1,15 @@
+{
+    "0x5A4F9EDF1673F704": {
+        "name": "SET_FOLLOW_PED_CAM_VIEW_MODE",
+        "jhash": "0x495DBE8D",
+        "comment": "Sets the type of Player camera:\n\n0 - Third Person Close\n1 - Third Person Mid\n2 - Third Person Far\n4 - First Person",
+        "params": [
+            {
+                "type": "int",
+                "name": "viewMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

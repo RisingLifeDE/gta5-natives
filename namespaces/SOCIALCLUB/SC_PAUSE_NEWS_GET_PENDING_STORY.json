@@ -1,0 +1,15 @@
+{
+    "0x8A4416C0DB05FA66": {
+        "name": "SC_PAUSE_NEWS_GET_PENDING_STORY",
+        "jhash": "",
+        "comment": "Fills some 0x30 sized struct",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1290"
+    }
+}

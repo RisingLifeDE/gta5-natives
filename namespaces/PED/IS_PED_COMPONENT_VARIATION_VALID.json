@@ -1,0 +1,27 @@
+{
+    "0xE825F6B6CEA7671D": {
+        "name": "IS_PED_COMPONENT_VARIATION_VALID",
+        "jhash": "0x952ABD9A",
+        "comment": "Checks if the component variation is valid, this works great for randomizing components using loops.\n\nList of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html\n\nFull list of ped components by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedComponentVariations.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x152D90E4C1B4738A": {
+        "name": "UGC_COPY_CONTENT",
+        "jhash": "0x08243B79",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

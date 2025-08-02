@@ -1,0 +1,15 @@
+{
+    "0xF1B9F16E89E2C93A": {
+        "name": "SET_NEXT_DESIRED_MOVE_STATE",
+        "jhash": "0x4E937D57",
+        "comment": "This native does absolutely nothing, just a nullsub\n\nR* Comment:\nSET_NEXT_DESIRED_MOVE_STATE - Function is deprecated - do not use anymore",
+        "params": [
+            {
+                "type": "float",
+                "name": "nextMoveState"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1885BC9B108B4C99": {
+        "name": "GET_PLAYER_SPRINT_TIME_REMAINING",
+        "jhash": "0x40E80543",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

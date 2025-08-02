@@ -1,0 +1,15 @@
+{
+    "0x76B02E21ED27A469": {
+        "name": "RESERVE_NETWORK_MISSION_VEHICLES",
+        "jhash": "0x5062875E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

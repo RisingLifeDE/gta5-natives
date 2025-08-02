@@ -1,0 +1,19 @@
+{
+    "0x0819DB99FD2FBBD8": {
+        "name": "NETWORK_EARN_CASINO_TIME_TRIAL_WIN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_TIME_TRIAL_WIN"
+        ]
+    }
+}

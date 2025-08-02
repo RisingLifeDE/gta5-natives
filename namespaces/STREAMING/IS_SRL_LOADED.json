@@ -1,0 +1,10 @@
+{
+    "0xD0263801A4C5B0BB": {
+        "name": "IS_SRL_LOADED",
+        "jhash": "0x670FA2A6",
+        "comment": "Returns true when the srl from BEGIN_SRL is loaded.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

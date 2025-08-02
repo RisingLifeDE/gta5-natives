@@ -1,0 +1,15 @@
+{
+    "0x1E77FA7A62EE6C4C": {
+        "name": "GET_FM_MALE_SHOP_PED_APPAREL_ITEM_INDEX",
+        "jhash": "0x021F5B36",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

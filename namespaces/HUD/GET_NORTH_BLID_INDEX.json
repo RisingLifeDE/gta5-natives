@@ -1,0 +1,13 @@
+{
+    "0x3F0CF9CB7E589B88": {
+        "name": "GET_NORTH_BLID_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Blip",
+        "build": "463",
+        "old_names": [
+            "_GET_NORTH_RADAR_BLIP"
+        ]
+    }
+}

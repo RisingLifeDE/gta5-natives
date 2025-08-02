@@ -1,0 +1,15 @@
+{
+    "0xEBFA8D50ADDC54C4": {
+        "name": "UGC_HAS_DESCRIPTION_REQUEST_FINISHED",
+        "jhash": "0xF50BC67A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

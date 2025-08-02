@@ -1,0 +1,18 @@
+{
+    "0x103991D4A307D472": {
+        "name": "SET_FIRST_PERSON_SHOOTER_CAMERA_HEADING",
+        "jhash": "",
+        "comment": "Does nothing",
+        "params": [
+            {
+                "type": "float",
+                "name": "yaw"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_RAW_YAW"
+        ]
+    }
+}

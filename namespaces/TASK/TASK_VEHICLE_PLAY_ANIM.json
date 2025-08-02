@@ -1,0 +1,23 @@
+{
+    "0x69F5C3BD0F3EBD89": {
+        "name": "TASK_VEHICLE_PLAY_ANIM",
+        "jhash": "0x2B28F598",
+        "comment": "Most probably plays a specific animation on vehicle. For example getting chop out of van etc...\n\nHere's how its used - \n\nTASK::TASK_VEHICLE_PLAY_ANIM(l_325, \"rcmnigel1b\", \"idle_speedo\");\n\nTASK::TASK_VEHICLE_PLAY_ANIM(l_556[0/*1*/], \"missfra0_chop_drhome\", \"InCar_GetOutofBack_Speedo\");\n\nFYI : Speedo is the name of van in which chop was put in the mission.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "animationSet"
+            },
+            {
+                "type": "const char*",
+                "name": "animationName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

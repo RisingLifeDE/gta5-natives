@@ -1,0 +1,23 @@
+{
+    "0xEC9553A178E8F1D1": {
+        "name": "_PLAYSTATS_IDLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

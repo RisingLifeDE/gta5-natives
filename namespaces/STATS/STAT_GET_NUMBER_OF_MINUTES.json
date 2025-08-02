@@ -1,0 +1,15 @@
+{
+    "0x7583B4BE4C5A41B5": {
+        "name": "STAT_GET_NUMBER_OF_MINUTES",
+        "jhash": "0x347B4436",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x34616828CD07F1A1": {
+        "name": "IS_PED_SHOOTING",
+        "jhash": "0xE7C3405E",
+        "comment": "Returns whether the specified ped is shooting.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

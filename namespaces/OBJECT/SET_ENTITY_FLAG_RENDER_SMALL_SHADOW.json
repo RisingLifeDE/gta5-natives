@@ -1,0 +1,19 @@
+{
+    "0xB2D0BDE54F0E8E5A": {
+        "name": "SET_ENTITY_FLAG_RENDER_SMALL_SHADOW",
+        "jhash": "0x132B6D92",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

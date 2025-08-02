@@ -1,0 +1,19 @@
+{
+    "0x16CFBC5E7EB32861": {
+        "name": "_SET_MINIMUM_TIME_BETWEEN_GEAR_SHIFTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

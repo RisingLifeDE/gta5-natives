@@ -1,0 +1,34 @@
+{
+    "0xC24075310A8B9CD1": {
+        "name": "SET_HYDRAULIC_WHEEL_STATE",
+        "jhash": "",
+        "comment": "Sets vehicle wheel hydraulic states transition. Known states:\n0 - reset\n1 - raise wheel (uses value arg, works just like _SET_VEHICLE_HYDRAULIC_WHEEL_VALUE)\n2 - jump using wheel",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelId"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_HYDRAULIC_WHEEL_STATE_TRANSITION"
+        ]
+    }
+}

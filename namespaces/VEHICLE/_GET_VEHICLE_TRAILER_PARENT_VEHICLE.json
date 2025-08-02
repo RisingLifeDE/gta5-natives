@@ -1,0 +1,15 @@
+{
+    "0x80D9D32636369C92": {
+        "name": "_GET_VEHICLE_TRAILER_PARENT_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "trailer"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "2802"
+    }
+}

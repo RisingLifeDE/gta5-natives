@@ -1,0 +1,15 @@
+{
+    "0xBF66ACD9AE81A99F": {
+        "name": "_NETWORK_GET_COMMUNICATION_GROUP_VALUE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "communicationType"
+            }
+        ],
+        "return_type": "int",
+        "build": "3570"
+    }
+}

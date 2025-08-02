@@ -1,0 +1,15 @@
+{
+    "0x298B91AE825E5705": {
+        "name": "IS_PED_IN_ANY_HELI",
+        "jhash": "0x7AB5523B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

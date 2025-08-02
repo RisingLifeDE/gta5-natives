@@ -1,0 +1,23 @@
+{
+    "0x1A9205C1B9EE827F": {
+        "name": "SET_ENTITY_COLLISION",
+        "jhash": "0x139FD37D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "keepPhysics"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

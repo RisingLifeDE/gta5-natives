@@ -1,0 +1,10 @@
+{
+    "0xB7B873520C84C118": {
+        "name": "SET_COP_BLIP_SPRITE_AS_STANDARD",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

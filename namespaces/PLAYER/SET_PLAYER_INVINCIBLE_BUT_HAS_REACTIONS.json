@@ -1,0 +1,22 @@
+{
+    "0x6BC97F4F4BB3C04B": {
+        "name": "SET_PLAYER_INVINCIBLE_BUT_HAS_REACTIONS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_PLAYER_INVINCIBLE_KEEP_RAGDOLL_ENABLED"
+        ]
+    }
+}

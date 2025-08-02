@@ -1,0 +1,31 @@
+{
+    "0x9CFDD90B2B844BF7": {
+        "name": "GOLF_TRAIL_SET_SHADER_PARAMS",
+        "jhash": "0x4EA70FB4",
+        "comment": "Only appeared in Golf & Golf_mp. Parameters were all ptrs",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

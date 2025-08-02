@@ -1,0 +1,10 @@
+{
+    "0x3442775428FD2DAA": {
+        "name": "NETWORK_SESSION_LEAVE_SINGLE_PLAYER",
+        "jhash": "0xC692F86A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

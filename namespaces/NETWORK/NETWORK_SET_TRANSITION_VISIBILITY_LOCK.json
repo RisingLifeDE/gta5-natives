@@ -1,0 +1,19 @@
+{
+    "0x0C978FDA19692C2C": {
+        "name": "NETWORK_SET_TRANSITION_VISIBILITY_LOCK",
+        "jhash": "0x4AF0ADF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x68F01422BE1D838F": {
+        "name": "STAT_SET_PROFILE_SETTING_VALUE",
+        "jhash": "0x24DD4929",
+        "comment": "Does not take effect immediately, unfortunately.\n\nprofileSetting seems to only be 936, 937 and 938 in scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "profileSetting"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_STAT_SET_PROFILE_SETTING"
+        ]
+    }
+}

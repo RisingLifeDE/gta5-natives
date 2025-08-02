@@ -1,0 +1,19 @@
+{
+    "0x8DC39368BDD57755": {
+        "name": "ATTACH_PORTABLE_PICKUP_TO_PED",
+        "jhash": "0x184F6AB3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

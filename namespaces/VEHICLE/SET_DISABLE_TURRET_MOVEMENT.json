@@ -1,0 +1,23 @@
+{
+    "0xE615BB7A7752C76A": {
+        "name": "SET_DISABLE_TURRET_MOVEMENT",
+        "jhash": "",
+        "comment": "Disables turret movement when called in a loop. You can still fire and aim. You cannot shoot backwards though.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "turretId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_DISABLE_TURRET_MOVEMENT",
+            "_SET_DISABLE_TURRET_MOVEMENT_THIS_FRAME"
+        ]
+    }
+}

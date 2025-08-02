@@ -1,0 +1,15 @@
+{
+    "0xE1EF3C1216AFF2CD": {
+        "name": "CLEAR_PED_TASKS",
+        "jhash": "0xDE3316AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

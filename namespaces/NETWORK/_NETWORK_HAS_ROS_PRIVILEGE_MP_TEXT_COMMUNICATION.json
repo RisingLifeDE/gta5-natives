@@ -1,0 +1,10 @@
+{
+    "0xD9719341663C385F": {
+        "name": "_NETWORK_HAS_ROS_PRIVILEGE_MP_TEXT_COMMUNICATION",
+        "jhash": "",
+        "comment": "Checks for privilege 29",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

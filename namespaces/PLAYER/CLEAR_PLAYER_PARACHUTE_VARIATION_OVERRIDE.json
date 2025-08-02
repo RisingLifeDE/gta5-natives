@@ -1,0 +1,15 @@
+{
+    "0x0F4CC924CF8C7B21": {
+        "name": "CLEAR_PLAYER_PARACHUTE_VARIATION_OVERRIDE",
+        "jhash": "0xFD60F5AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

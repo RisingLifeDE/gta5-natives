@@ -1,0 +1,19 @@
+{
+    "0x51455483CF23ED97": {
+        "name": "GET_PED_AS_GROUP_MEMBER",
+        "jhash": "0x9AA3CC8C",
+        "comment": "from fm_mission_controller.c4 (variable names changed for clarity):\n\nint groupID = PLAYER::GET_PLAYER_GROUP(PLAYER::PLAYER_ID());\nPED::GET_GROUP_SIZE(group, &unused, &groupSize);\nif (groupSize >= 1) {\n. . . . for (int memberNumber = 0; memberNumber < groupSize; memberNumber++) {\n. . . . . . . . Ped ped1 = PED::GET_PED_AS_GROUP_MEMBER(groupID, memberNumber);\n. . . . . . . . //and so on",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupID"
+            },
+            {
+                "type": "int",
+                "name": "memberNumber"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

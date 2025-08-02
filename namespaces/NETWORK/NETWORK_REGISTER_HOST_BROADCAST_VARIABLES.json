@@ -1,0 +1,23 @@
+{
+    "0x3E9B2F01C50DF595": {
+        "name": "NETWORK_REGISTER_HOST_BROADCAST_VARIABLES",
+        "jhash": "0xDAF3B0AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "vars"
+            },
+            {
+                "type": "int",
+                "name": "numVars"
+            },
+            {
+                "type": "const char*",
+                "name": "debugName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

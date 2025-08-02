@@ -1,0 +1,23 @@
+{
+    "0xB3B1CB349FF9C75D": {
+        "name": "SET_CAN_ATTACK_FRIENDLY",
+        "jhash": "0x47C60963",
+        "comment": "Setting ped to true allows the ped to shoot \"friendlies\".\n\np2 set to true when toggle is also true seams to make peds permanently unable to aim at, even if you set p2 back to false.\n\np1 = false & p2 = false for unable to aim at.\np1 = true & p2 = false for able to aim at. ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

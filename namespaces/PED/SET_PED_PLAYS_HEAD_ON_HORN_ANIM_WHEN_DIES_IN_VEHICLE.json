@@ -1,0 +1,19 @@
+{
+    "0x94D94BF1A75AED3D": {
+        "name": "SET_PED_PLAYS_HEAD_ON_HORN_ANIM_WHEN_DIES_IN_VEHICLE",
+        "jhash": "0x7C563CD2",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

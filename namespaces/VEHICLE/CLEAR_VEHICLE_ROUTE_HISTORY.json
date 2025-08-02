@@ -1,0 +1,15 @@
+{
+    "0x6D6AF961B72728AE": {
+        "name": "CLEAR_VEHICLE_ROUTE_HISTORY",
+        "jhash": "0x8DD9AA0C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

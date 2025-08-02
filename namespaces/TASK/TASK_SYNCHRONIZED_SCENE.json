@@ -1,0 +1,51 @@
+{
+    "0xEEA929141F699854": {
+        "name": "TASK_SYNCHRONIZED_SCENE",
+        "jhash": "0x4F217E7B",
+        "comment": " TASK::TASK_SYNCHRONIZED_SCENE(ped, scene, \"creatures@rottweiler@in_vehicle@std_car\", \"get_in\", 1000.0, -8.0, 4, 0, 0x447a0000, 0);\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scene"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "blendIn"
+            },
+            {
+                "type": "float",
+                "name": "blendOut"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "ragdollBlockingFlags"
+            },
+            {
+                "type": "float",
+                "name": "moverBlendDelta"
+            },
+            {
+                "type": "int",
+                "name": "ikFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

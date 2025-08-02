@@ -1,0 +1,15 @@
+{
+    "0xC6ED9D5092438D91": {
+        "name": "REGISTER_SCRIPT_WITH_AUDIO",
+        "jhash": "0xA6203643",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

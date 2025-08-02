@@ -1,0 +1,15 @@
+{
+    "0xF14878FC50BEC6EE": {
+        "name": "USING_MISSION_CREATOR",
+        "jhash": "0x20AB0B6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "0x1EE7063B80FFC77C": {
+        "name": "SET_ROADS_BACK_TO_ORIGINAL",
+        "jhash": "0x86AC4A85",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

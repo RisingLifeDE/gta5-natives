@@ -1,0 +1,15 @@
+{
+    "0x4D86CD31E8976ECE": {
+        "name": "NETWORK_HAS_INVITED_GAMER",
+        "jhash": "0xEC651BC0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

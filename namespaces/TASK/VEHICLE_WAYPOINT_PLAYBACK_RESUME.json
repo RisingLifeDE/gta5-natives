@@ -1,0 +1,15 @@
+{
+    "0xDC04FCAA7839D492": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_RESUME",
+        "jhash": "0xBEB14C82",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

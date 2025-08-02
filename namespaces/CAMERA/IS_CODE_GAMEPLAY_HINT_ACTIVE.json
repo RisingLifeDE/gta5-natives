@@ -1,0 +1,10 @@
+{
+    "0xBF72910D0F26F025": {
+        "name": "IS_CODE_GAMEPLAY_HINT_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

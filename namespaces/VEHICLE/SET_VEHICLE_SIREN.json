@@ -1,0 +1,19 @@
+{
+    "0xF4924635A19EB37D": {
+        "name": "SET_VEHICLE_SIREN",
+        "jhash": "0x4AC1EFC7",
+        "comment": "Activate siren on vehicle (Only works if the vehicle has a siren).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x1312DDD8385AEE4E": {
+        "name": "SET_WHEELIE_ENABLED",
+        "jhash": "",
+        "comment": "Enables/disables the ability to wheelie on motorcycles.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

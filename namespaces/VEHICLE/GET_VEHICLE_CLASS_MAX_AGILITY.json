@@ -1,0 +1,15 @@
+{
+    "0x4F930AD022D6DE3B": {
+        "name": "GET_VEHICLE_CLASS_MAX_AGILITY",
+        "jhash": "0x45F2BD83",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleClass"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xAA059C615DE9DD03": {
+        "name": "ALLOW_PICKUP_BY_NONE_PARTICIPANT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

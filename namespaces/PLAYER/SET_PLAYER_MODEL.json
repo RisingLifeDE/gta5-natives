@@ -1,0 +1,19 @@
+{
+    "0x00A1CADD00108836": {
+        "name": "SET_PLAYER_MODEL",
+        "jhash": "0x774A4C54",
+        "comment": "Set the model for a specific Player. Be aware that this will destroy the current Ped for the Player and create a new one, any reference to the old ped should be reset\nMake sure to request the model first and wait until it has loaded.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

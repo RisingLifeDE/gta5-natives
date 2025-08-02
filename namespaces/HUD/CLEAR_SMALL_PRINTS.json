@@ -1,0 +1,10 @@
+{
+    "0x2CEA2839313C09AC": {
+        "name": "CLEAR_SMALL_PRINTS",
+        "jhash": "0xA869A238",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

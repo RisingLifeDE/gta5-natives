@@ -1,0 +1,10 @@
+{
+    "0x483ACA1176CA93F1": {
+        "name": "ACTIVATE_INTERIOR_GROUPS_USING_CAMERA",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

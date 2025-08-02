@@ -1,0 +1,19 @@
+{
+    "0xF3F776ADA161E47D": {
+        "name": "SET_ARENA_THEME_AND_VARIATION_FOR_TAKEN_PHOTO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

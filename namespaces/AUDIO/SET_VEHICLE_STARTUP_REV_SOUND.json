@@ -1,0 +1,23 @@
+{
+    "0xF1F8157B8C3F171C": {
+        "name": "SET_VEHICLE_STARTUP_REV_SOUND",
+        "jhash": "0x1C0C5E4C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x83AD64F53F4E9483": {
+        "name": "NETWORK_EARN_CASINO_COLLECTABLE_COMPLETED_COLLECTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_COMPLETE_COLLECTION"
+        ]
+    }
+}

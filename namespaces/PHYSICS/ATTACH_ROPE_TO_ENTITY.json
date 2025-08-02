@@ -1,0 +1,35 @@
+{
+    "0x4B490A6832559A65": {
+        "name": "ATTACH_ROPE_TO_ENTITY",
+        "jhash": "0xB25D9536",
+        "comment": "The position supplied can be anywhere, and the entity should anchor relative to that point from it's origin.",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

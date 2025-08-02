@@ -1,0 +1,19 @@
+{
+    "0xC30650FA74A19D02": {
+        "name": "_NETWORK_EARN_AWARD_DAILY_STASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x1DD1F58F493F1DA5": {
+        "name": "IS_WAYPOINT_ACTIVE",
+        "jhash": "0x5E4DF47B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

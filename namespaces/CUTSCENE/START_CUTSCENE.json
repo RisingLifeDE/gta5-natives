@@ -1,0 +1,15 @@
+{
+    "0x186D5CB5E7B0FF7B": {
+        "name": "START_CUTSCENE",
+        "jhash": "0x210106F6",
+        "comment": "flags: Usually 0.",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

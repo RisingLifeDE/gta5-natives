@@ -1,0 +1,18 @@
+{
+    "0x55AA95F481D694D2": {
+        "name": "UGC_GET_CONTENT_ID",
+        "jhash": "0x331AEABF",
+        "comment": "Return the mission id of a job.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_CONTENT_ID"
+        ]
+    }
+}

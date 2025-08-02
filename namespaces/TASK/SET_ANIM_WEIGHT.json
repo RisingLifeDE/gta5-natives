@@ -1,0 +1,31 @@
+{
+    "0x207F1A47C0342F48": {
+        "name": "SET_ANIM_WEIGHT",
+        "jhash": "0x17229D98",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "weight"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "secondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

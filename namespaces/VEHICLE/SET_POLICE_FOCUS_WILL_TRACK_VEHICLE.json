@@ -1,0 +1,19 @@
+{
+    "0x4E74E62E0A97E901": {
+        "name": "SET_POLICE_FOCUS_WILL_TRACK_VEHICLE",
+        "jhash": "0x5690F6C3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

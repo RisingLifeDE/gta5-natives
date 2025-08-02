@@ -1,0 +1,23 @@
+{
+    "0x374706271354CB18": {
+        "name": "STABILISE_ENTITY_ATTACHED_TO_HELI",
+        "jhash": "0x40C4763F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x2C2E3DC128F44309": {
+        "name": "SET_ENTITY_NOWEAPONDECALS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_ENTITY_DECALS_DISABLED"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xD261BA3E7E998072": {
+        "name": "SET_IDEAL_SPAWN_DISTANCE_FOR_INCIDENT",
+        "jhash": "0x1F38102E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_INCIDENT_UNK"
+        ]
+    }
+}

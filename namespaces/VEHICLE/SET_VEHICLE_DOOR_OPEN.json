@@ -1,0 +1,27 @@
+{
+    "0x7C65DAC73C35C862": {
+        "name": "SET_VEHICLE_DOOR_OPEN",
+        "jhash": "0xBB75D38B",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "loose"
+            },
+            {
+                "type": "BOOL",
+                "name": "openInstantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

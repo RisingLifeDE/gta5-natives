@@ -1,0 +1,19 @@
+{
+    "0x120364DE2845DAF8": {
+        "name": "NETWORK_GET_PLATFORM_PARTY_MEMBERS",
+        "jhash": "0xF30E5814",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataSize"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

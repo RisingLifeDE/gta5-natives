@@ -1,0 +1,43 @@
+{
+    "0x8605AF0DE8B3A5AC": {
+        "name": "TASK_AIM_GUN_SCRIPTED_WITH_TARGET",
+        "jhash": "0xFD517CE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "gunTaskType"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableBlockingClip"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceAim"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

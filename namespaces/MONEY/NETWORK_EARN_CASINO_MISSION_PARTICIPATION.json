@@ -1,0 +1,19 @@
+{
+    "0x09E8F18641BE2575": {
+        "name": "NETWORK_EARN_CASINO_MISSION_PARTICIPATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_CASINO_MISSION_PARTICIPATION"
+        ]
+    }
+}

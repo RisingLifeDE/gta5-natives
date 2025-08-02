@@ -1,0 +1,22 @@
+{
+    "0x81E1552E35DC3839": {
+        "name": "SET_ROCKET_BOOST_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_ROCKET_BOOST_ACTIVE"
+        ]
+    }
+}

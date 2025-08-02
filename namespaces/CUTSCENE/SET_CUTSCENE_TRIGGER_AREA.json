@@ -1,0 +1,35 @@
+{
+    "0x9896CE4721BE84BA": {
+        "name": "SET_CUTSCENE_TRIGGER_AREA",
+        "jhash": "0x9D76D9DE",
+        "comment": "Only used twice in R* scripts",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

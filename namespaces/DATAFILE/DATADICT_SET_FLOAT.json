@@ -1,0 +1,26 @@
+{
+    "0xC27E1CC2D795105E": {
+        "name": "DATADICT_SET_FLOAT",
+        "jhash": "0xE972CACF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_FLOAT"
+        ]
+    }
+}

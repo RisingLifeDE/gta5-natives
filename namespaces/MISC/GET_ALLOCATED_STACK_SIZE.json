@@ -1,0 +1,10 @@
+{
+    "0x8B3CA62B1EF19B62": {
+        "name": "GET_ALLOCATED_STACK_SIZE",
+        "jhash": "0x4E9CA30A",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

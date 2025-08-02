@@ -1,0 +1,19 @@
+{
+    "0x4F14F9F870D6FBC8": {
+        "name": "DECOR_IS_REGISTERED_AS_TYPE",
+        "jhash": "0x7CF0971D",
+        "comment": "type: see DECOR_REGISTER",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

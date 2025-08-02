@@ -1,0 +1,15 @@
+{
+    "0x4B53F92932ADFAC0": {
+        "name": "GET_VEHICLE_INDEX_FROM_ENTITY_INDEX",
+        "jhash": "0xC69CF43D",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

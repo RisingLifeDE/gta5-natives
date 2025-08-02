@@ -1,0 +1,22 @@
+{
+    "0x4E20D2A627011E8E": {
+        "name": "SET_VEHICLE_DAMAGE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757",
+        "old_names": [
+            "_SET_VEHICLE_DAMAGE_MODIFIER"
+        ]
+    }
+}

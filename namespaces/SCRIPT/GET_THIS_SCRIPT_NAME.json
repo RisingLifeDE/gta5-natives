@@ -1,0 +1,10 @@
+{
+    "0x442E0A7EDE4A738A": {
+        "name": "GET_THIS_SCRIPT_NAME",
+        "jhash": "0xA40FD5D9",
+        "comment": "",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x774BD811F656A122": {
+        "name": "SET_RADIO_STATION_MUSIC_ONLY",
+        "jhash": "0xB1FF7137",
+        "comment": "6 calls in the b617d scripts, removed identical lines:\n\nAUDIO::SET_RADIO_STATION_MUSIC_ONLY(\"RADIO_01_CLASS_ROCK\", 1);\nAUDIO::SET_RADIO_STATION_MUSIC_ONLY(AUDIO::GET_RADIO_STATION_NAME(10), 0);\nAUDIO::SET_RADIO_STATION_MUSIC_ONLY(AUDIO::GET_RADIO_STATION_NAME(10), 1);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

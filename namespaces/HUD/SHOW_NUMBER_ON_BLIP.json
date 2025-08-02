@@ -1,0 +1,19 @@
+{
+    "0xA3C0B359DCB848B6": {
+        "name": "SHOW_NUMBER_ON_BLIP",
+        "jhash": "0x7BFC66C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "number"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

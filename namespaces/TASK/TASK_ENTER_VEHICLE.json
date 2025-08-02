@@ -1,0 +1,39 @@
+{
+    "0xC20E50AA46D09CA8": {
+        "name": "TASK_ENTER_VEHICLE",
+        "jhash": "0xB8689B4E",
+        "comment": "speed 1.0 = walk, 2.0 = run\np5 1 = normal, 3 = teleport to vehicle, 16 = teleport directly into vehicle\np6 is always 0\n\nUsage of seat \n-1 = driver\n0 = passenger\n1 = left back seat\n2 = right back seat\n3 = outside left\n4 = outside right",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "const char*",
+                "name": "overrideEntryClipsetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

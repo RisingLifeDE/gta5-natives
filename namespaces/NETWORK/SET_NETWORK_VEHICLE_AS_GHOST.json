@@ -1,0 +1,22 @@
+{
+    "0x6274C4712850841E": {
+        "name": "SET_NETWORK_VEHICLE_AS_GHOST",
+        "jhash": "0xEA235081",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_NETWORK_OBJECT_NON_CONTACT"
+        ]
+    }
+}

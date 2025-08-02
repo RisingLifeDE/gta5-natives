@@ -1,0 +1,15 @@
+{
+    "0x0FDE9DBFC0A6BC65": {
+        "name": "SET_PLAYER_SWITCH_ESTABLISHING_SHOT",
+        "jhash": "0x279077B0",
+        "comment": "All names can be found in playerswitchestablishingshots.meta",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

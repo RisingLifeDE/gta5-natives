@@ -1,0 +1,10 @@
+{
+    "0x4B0311D3CDC4648F": {
+        "name": "HIDE_LOADING_ON_FADE_THIS_FRAME",
+        "jhash": "0x35087963",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

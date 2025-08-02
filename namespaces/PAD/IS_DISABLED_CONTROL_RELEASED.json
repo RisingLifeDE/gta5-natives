@@ -1,0 +1,19 @@
+{
+    "0xFB6C4072E9A32E92": {
+        "name": "IS_DISABLED_CONTROL_RELEASED",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757"
+    }
+}

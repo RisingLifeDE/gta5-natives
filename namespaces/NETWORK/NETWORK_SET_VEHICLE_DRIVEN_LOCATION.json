@@ -1,0 +1,15 @@
+{
+    "0xA0CE91E47531D3BB": {
+        "name": "NETWORK_SET_VEHICLE_DRIVEN_LOCATION",
+        "jhash": "",
+        "comment": "Sets 'loc' variable used in MetricVEHICLE_DIST_DRIVEN",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "location"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

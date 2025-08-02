@@ -1,0 +1,15 @@
+{
+    "0xDAF87174BE7454FF": {
+        "name": "SET_WARNING_MESSAGE_OPTION_HIGHLIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

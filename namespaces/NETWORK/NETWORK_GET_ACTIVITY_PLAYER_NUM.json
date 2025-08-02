@@ -1,0 +1,15 @@
+{
+    "0x73E2B500410DA5A2": {
+        "name": "NETWORK_GET_ACTIVITY_PLAYER_NUM",
+        "jhash": "0x31F951FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

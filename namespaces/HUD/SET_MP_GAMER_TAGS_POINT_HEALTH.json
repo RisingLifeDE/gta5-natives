@@ -1,0 +1,26 @@
+{
+    "0x1563FE35E9928E67": {
+        "name": "SET_MP_GAMER_TAGS_POINT_HEALTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "maximumValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_MP_GAMER_HEALTH_BAR_MAX"
+        ]
+    }
+}

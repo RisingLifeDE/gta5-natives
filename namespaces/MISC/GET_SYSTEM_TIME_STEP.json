@@ -1,0 +1,13 @@
+{
+    "0xE599A503B3837E1B": {
+        "name": "GET_SYSTEM_TIME_STEP",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_BENCHMARK_TIME"
+        ]
+    }
+}

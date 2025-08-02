@@ -1,0 +1,18 @@
+{
+    "0xF8DEE0A5600CBB93": {
+        "name": "SET_MINIMAP_HIDE_FOW",
+        "jhash": "0xD8D77733",
+        "comment": "If true, the entire map will be revealed.\n\nFOW = Fog of War",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MINIMAP_REVEALED"
+        ]
+    }
+}

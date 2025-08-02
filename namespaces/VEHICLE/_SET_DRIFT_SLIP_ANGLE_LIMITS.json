@@ -1,0 +1,27 @@
+{
+    "0xDAF4C98C18AC6F06": {
+        "name": "_SET_DRIFT_SLIP_ANGLE_LIMITS",
+        "jhash": "",
+        "comment": "First two floats relate to rumble, the last is a threshold",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "durationScalar"
+            },
+            {
+                "type": "float",
+                "name": "amplitudeScalar"
+            },
+            {
+                "type": "float",
+                "name": "slipAngleLimit"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

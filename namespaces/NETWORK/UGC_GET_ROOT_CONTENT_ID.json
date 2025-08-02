@@ -1,0 +1,18 @@
+{
+    "0xC0173D6BFF4E0348": {
+        "name": "UGC_GET_ROOT_CONTENT_ID",
+        "jhash": "0x0E5E8E5C",
+        "comment": "Return the root content id of a job.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_ROOT_CONTENT_ID"
+        ]
+    }
+}

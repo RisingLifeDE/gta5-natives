@@ -1,0 +1,31 @@
+{
+    "0x6E11F282F11863B6": {
+        "name": "GET_VARIANT_COMPONENT",
+        "jhash": "0xE4FF7103",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "variantComponentIndex"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            },
+            {
+                "type": "int*",
+                "name": "enumValue"
+            },
+            {
+                "type": "int*",
+                "name": "componentType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

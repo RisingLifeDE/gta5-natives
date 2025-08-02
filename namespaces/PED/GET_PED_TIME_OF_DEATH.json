@@ -1,0 +1,18 @@
+{
+    "0x1E98817B311AE98A": {
+        "name": "GET_PED_TIME_OF_DEATH",
+        "jhash": "0xDF6D5D54",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_PED_TIME_OF_DEATH"
+        ]
+    }
+}

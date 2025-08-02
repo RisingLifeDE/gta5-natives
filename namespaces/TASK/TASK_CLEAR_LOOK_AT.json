@@ -1,0 +1,15 @@
+{
+    "0x0F804F1DB19B9689": {
+        "name": "TASK_CLEAR_LOOK_AT",
+        "jhash": "0x60EB4054",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

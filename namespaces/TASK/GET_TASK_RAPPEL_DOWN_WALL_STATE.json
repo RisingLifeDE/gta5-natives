@@ -1,0 +1,15 @@
+{
+    "0x9D252648778160DF": {
+        "name": "GET_TASK_RAPPEL_DOWN_WALL_STATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1868"
+    }
+}

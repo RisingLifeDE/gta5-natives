@@ -1,0 +1,31 @@
+{
+    "0xCC9682B8951C5229": {
+        "name": "SET_HEAD_BLEND_PALETTE_COLOR",
+        "jhash": "0x57E5B3F9",
+        "comment": "p4 seems to vary from 0 to 3.\nPreview: https://gfycat.com/MaleRareAmazonparrot",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

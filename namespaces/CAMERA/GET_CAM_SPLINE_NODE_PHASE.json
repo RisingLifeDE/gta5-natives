@@ -1,0 +1,15 @@
+{
+    "0xD9D0E694C8282C96": {
+        "name": "GET_CAM_SPLINE_NODE_PHASE",
+        "jhash": "0x7B9522F6",
+        "comment": "I'm pretty sure the parameter is the camera as usual, but I am not certain so I'm going to leave it as is.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

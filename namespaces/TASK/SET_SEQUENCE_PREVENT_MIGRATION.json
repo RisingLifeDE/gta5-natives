@@ -1,0 +1,15 @@
+{
+    "0xF5D1F489147CB683": {
+        "name": "SET_SEQUENCE_PREVENT_MIGRATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

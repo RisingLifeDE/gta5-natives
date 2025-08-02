@@ -1,0 +1,19 @@
+{
+    "0xB6C987F9285A3814": {
+        "name": "TASK_CLIMB_LADDER",
+        "jhash": "0x35BB4EE0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "fast"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

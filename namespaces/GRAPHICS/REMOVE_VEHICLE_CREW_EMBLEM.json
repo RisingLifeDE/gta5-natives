@@ -1,0 +1,19 @@
+{
+    "0xD2300034310557E4": {
+        "name": "REMOVE_VEHICLE_CREW_EMBLEM",
+        "jhash": "0x667046A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

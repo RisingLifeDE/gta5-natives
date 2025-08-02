@@ -1,0 +1,30 @@
+{
+    "0x1DC9B749E7AE282B": {
+        "name": "NETWORK_SPENT_UPGRADE_NIGHTCLUB_AND_WAREHOUSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_NETWORK_SPENT_UPGRADE_NIGHTCLUB"
+        ]
+    }
+}

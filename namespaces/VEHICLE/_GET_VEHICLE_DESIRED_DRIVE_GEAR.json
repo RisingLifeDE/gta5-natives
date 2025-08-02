@@ -1,0 +1,15 @@
+{
+    "0xFD8CE53356B5D745": {
+        "name": "_GET_VEHICLE_DESIRED_DRIVE_GEAR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "3095"
+    }
+}

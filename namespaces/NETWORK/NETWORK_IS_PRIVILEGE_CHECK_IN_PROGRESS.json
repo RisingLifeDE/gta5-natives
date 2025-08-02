@@ -1,0 +1,10 @@
+{
+    "0x64E5C4CC82847B73": {
+        "name": "NETWORK_IS_PRIVILEGE_CHECK_IN_PROGRESS",
+        "jhash": "",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1734"
+    }
+}

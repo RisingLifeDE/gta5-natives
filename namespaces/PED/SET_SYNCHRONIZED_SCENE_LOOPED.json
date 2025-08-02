@@ -1,0 +1,19 @@
+{
+    "0xD9A897A4C6C2974F": {
+        "name": "SET_SYNCHRONIZED_SCENE_LOOPED",
+        "jhash": "0x32ED9F82",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

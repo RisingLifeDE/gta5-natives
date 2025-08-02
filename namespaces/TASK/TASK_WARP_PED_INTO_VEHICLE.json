@@ -1,0 +1,23 @@
+{
+    "0x9A7D091411C5F684": {
+        "name": "TASK_WARP_PED_INTO_VEHICLE",
+        "jhash": "0x65D4A35D",
+        "comment": "Seat Numbers\n-------------------------------\nDriver = -1\nAny = -2\nLeft-Rear = 1\nRight-Front = 0\nRight-Rear = 2\nExtra seats = 3-14(This may differ from vehicle type e.g. Firetruck Rear Stand, Ambulance Rear)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

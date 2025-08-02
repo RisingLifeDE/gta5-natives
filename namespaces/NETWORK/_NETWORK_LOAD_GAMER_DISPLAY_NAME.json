@@ -1,0 +1,15 @@
+{
+    "0x338ECE3637937BC2": {
+        "name": "_NETWORK_LOAD_GAMER_DISPLAY_NAME",
+        "jhash": "",
+        "comment": "Returns the name from given friend gamer handle.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "3258"
+    }
+}

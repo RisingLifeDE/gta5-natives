@@ -1,0 +1,19 @@
+{
+    "0x0E46A3FCBDE2A1B1": {
+        "name": "SET_ENTITY_MAX_SPEED",
+        "jhash": "0x46AFFED3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

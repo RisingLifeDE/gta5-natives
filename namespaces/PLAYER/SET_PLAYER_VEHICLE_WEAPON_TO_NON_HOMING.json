@@ -1,0 +1,15 @@
+{
+    "0x237440E46D918649": {
+        "name": "SET_PLAYER_VEHICLE_WEAPON_TO_NON_HOMING",
+        "jhash": "",
+        "comment": "Unsets playerPed+330 if the current weapon has certain flags.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x8509B634FBE7DA11": {
+        "name": "BEGIN_TEXT_COMMAND_DISPLAY_HELP",
+        "jhash": "0xB245FC10",
+        "comment": "Used to be known as _SET_TEXT_COMPONENT_FORMAT",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "inputType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TEXT_COMPONENT_FORMAT"
+        ]
+    }
+}

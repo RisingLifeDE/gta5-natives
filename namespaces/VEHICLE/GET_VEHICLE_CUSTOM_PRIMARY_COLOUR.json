@@ -1,0 +1,27 @@
+{
+    "0xB64CF2CCA9D95F52": {
+        "name": "GET_VEHICLE_CUSTOM_PRIMARY_COLOUR",
+        "jhash": "0x1C2B9FEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

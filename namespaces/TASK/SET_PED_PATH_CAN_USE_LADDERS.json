@@ -1,0 +1,19 @@
+{
+    "0x77A5B103C87F476E": {
+        "name": "SET_PED_PATH_CAN_USE_LADDERS",
+        "jhash": "0x53A879EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "Toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

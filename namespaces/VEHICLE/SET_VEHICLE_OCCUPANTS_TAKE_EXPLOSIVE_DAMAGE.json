@@ -1,0 +1,19 @@
+{
+    "0x35BB21DE06784373": {
+        "name": "SET_VEHICLE_OCCUPANTS_TAKE_EXPLOSIVE_DAMAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

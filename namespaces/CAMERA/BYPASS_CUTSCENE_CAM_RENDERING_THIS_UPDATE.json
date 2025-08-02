@@ -1,0 +1,13 @@
+{
+    "0xDB629FFD9285FA06": {
+        "name": "BYPASS_CUTSCENE_CAM_RENDERING_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "STOP_CUTSCENE_CAM_SHAKING"
+        ]
+    }
+}

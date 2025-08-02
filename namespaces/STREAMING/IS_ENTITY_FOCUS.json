@@ -1,0 +1,15 @@
+{
+    "0x2DDFF3FB9075D747": {
+        "name": "IS_ENTITY_FOCUS",
+        "jhash": "0xB456D707",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

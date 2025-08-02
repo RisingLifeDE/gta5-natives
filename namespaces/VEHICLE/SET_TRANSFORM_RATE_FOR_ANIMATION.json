@@ -1,0 +1,22 @@
+{
+    "0x498218259FB7C72D": {
+        "name": "SET_TRANSFORM_RATE_FOR_ANIMATION",
+        "jhash": "",
+        "comment": "Affects the playback speed of the submarine car conversion animations. Does not affect hardcoded animations such as the wheels being retracted.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "transformRate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_UNK_FLOAT_FOR_SUBMARINE_VEHICLE_TASK"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x9DCFF2AFB68B3476": {
+        "name": "NETWORK_GET_FOUND_GAMER",
+        "jhash": "0xA08C9141",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

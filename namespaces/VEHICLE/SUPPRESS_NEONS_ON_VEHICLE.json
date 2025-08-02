@@ -1,0 +1,22 @@
+{
+    "0x83F813570FF519DE": {
+        "name": "SUPPRESS_NEONS_ON_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_DISABLE_VEHICLE_NEON_LIGHTS"
+        ]
+    }
+}

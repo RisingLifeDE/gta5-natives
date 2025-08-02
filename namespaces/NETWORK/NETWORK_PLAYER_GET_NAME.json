@@ -1,0 +1,15 @@
+{
+    "0x7718D2E2060837D2": {
+        "name": "NETWORK_PLAYER_GET_NAME",
+        "jhash": "0xCE48F260",
+        "comment": "Returns the name of a given player. Returns \"**Invalid**\" if rlGamerInfo of the given player cannot be retrieved or the player doesn't exist.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

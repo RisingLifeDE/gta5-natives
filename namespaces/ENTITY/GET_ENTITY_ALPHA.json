@@ -1,0 +1,15 @@
+{
+    "0x5A47B3B5E63E94C6": {
+        "name": "GET_ENTITY_ALPHA",
+        "jhash": "0x1560B017",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

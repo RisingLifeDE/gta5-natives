@@ -1,0 +1,15 @@
+{
+    "0x06A3524161C502BA": {
+        "name": "REQUEST_CUT_FILE",
+        "jhash": "0x0D732CD6",
+        "comment": "Simply loads the cutscene and doesn't do extra stuff that REQUEST_CUTSCENE does.\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

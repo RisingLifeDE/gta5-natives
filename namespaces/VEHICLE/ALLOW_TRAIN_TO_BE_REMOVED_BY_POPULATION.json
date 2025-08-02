@@ -1,0 +1,15 @@
+{
+    "0x2310A8F9421EBF43": {
+        "name": "ALLOW_TRAIN_TO_BE_REMOVED_BY_POPULATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372"
+    }
+}

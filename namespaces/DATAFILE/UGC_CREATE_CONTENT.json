@@ -1,0 +1,43 @@
+{
+    "0xC84527E235FCA219": {
+        "name": "UGC_CREATE_CONTENT",
+        "jhash": "0xF09157B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataCount"
+            },
+            {
+                "type": "const char*",
+                "name": "contentName"
+            },
+            {
+                "type": "const char*",
+                "name": "description"
+            },
+            {
+                "type": "const char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "BOOL",
+                "name": "publish"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

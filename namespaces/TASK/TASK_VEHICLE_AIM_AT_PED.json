@@ -1,0 +1,19 @@
+{
+    "0xE41885592B08B097": {
+        "name": "TASK_VEHICLE_AIM_AT_PED",
+        "jhash": "0x920AE6DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x814C9D19DFD69679": {
+        "name": "GET_MAX_RANGE_OF_CURRENT_PED_WEAPON",
+        "jhash": "0xB2B2BBAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

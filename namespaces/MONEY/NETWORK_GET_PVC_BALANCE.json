@@ -1,0 +1,11 @@
+{
+    "0x4F54F3B6C202FB4E": {
+        "name": "NETWORK_GET_PVC_BALANCE",
+        "jhash": "0x56485B56",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "unused": true
+    }
+}

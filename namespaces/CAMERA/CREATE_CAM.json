@@ -1,0 +1,19 @@
+{
+    "0xC3981DCE61D9E13F": {
+        "name": "CREATE_CAM",
+        "jhash": "0xE9BF2A7D",
+        "comment": "\"DEFAULT_SCRIPTED_CAMERA\"\n\"DEFAULT_ANIMATED_CAMERA\"\n\"DEFAULT_SPLINE_CAMERA\"\n\"DEFAULT_SCRIPTED_FLY_CAMERA\"\n\"TIMED_SPLINE_CAMERA\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "323"
+    }
+}

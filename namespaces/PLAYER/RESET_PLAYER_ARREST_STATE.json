@@ -1,0 +1,15 @@
+{
+    "0x2D03E13C460760D6": {
+        "name": "RESET_PLAYER_ARREST_STATE",
+        "jhash": "0x453C7CAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

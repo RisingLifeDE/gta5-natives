@@ -1,0 +1,10 @@
+{
+    "0x3A48AB4445D499BE": {
+        "name": "GET_MUSIC_VOL_SLIDER",
+        "jhash": "0x93A44A1F",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xFA91550DF9318B22": {
+        "name": "NETWORK_ACCEPT_PRESENCE_INVITE",
+        "jhash": "0xE5DA4CED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

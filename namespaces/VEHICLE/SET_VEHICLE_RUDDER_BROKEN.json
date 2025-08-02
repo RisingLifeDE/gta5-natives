@@ -1,0 +1,19 @@
+{
+    "0x09606148B6C71DEF": {
+        "name": "SET_VEHICLE_RUDDER_BROKEN",
+        "jhash": "0x3FAC3CD4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x1897CA71995A90B4": {
+        "name": "IS_REPLAY_RECORDING",
+        "jhash": "",
+        "comment": "Checks if you're recording, returns TRUE when you start recording (F1) or turn on action replay (F2)\n\nmov al, cs:g_bIsRecordingGameplay // byte_141DD0CD0 in b944\nretn",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_RECORDING"
+        ]
+    }
+}

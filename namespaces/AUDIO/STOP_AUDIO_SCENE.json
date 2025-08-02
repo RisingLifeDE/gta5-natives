@@ -1,0 +1,15 @@
+{
+    "0xDFE8422B3B94E688": {
+        "name": "STOP_AUDIO_SCENE",
+        "jhash": "0xA08D8C58",
+        "comment": "Full list of audio scene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/audioSceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x95C5D356CDA6E85F": {
+        "name": "APP_SAVE_DATA",
+        "jhash": "0x84A3918D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

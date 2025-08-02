@@ -1,0 +1,15 @@
+{
+    "0x013A80FC08F6E4F2": {
+        "name": "START_AUDIO_SCENE",
+        "jhash": "0xE48D757B",
+        "comment": "Used to prepare a scene where the surrounding sound is muted or a bit changed. This does not play any sound.\n\nList of all usable scene names found in b617d. Sorted alphabetically and identical names removed: https://pastebin.com/MtM9N9CC\nFull list of audio scene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/audioSceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

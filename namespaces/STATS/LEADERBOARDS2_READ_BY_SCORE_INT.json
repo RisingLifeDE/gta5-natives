@@ -1,0 +1,23 @@
+{
+    "0x7EEC7E4F6984A16A": {
+        "name": "LEADERBOARDS2_READ_BY_SCORE_INT",
+        "jhash": "0xAC020C18",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

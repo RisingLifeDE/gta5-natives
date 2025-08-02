@@ -1,0 +1,23 @@
+{
+    "0xFB380A29641EC31A": {
+        "name": "HINT_SCRIPT_AUDIO_BANK",
+        "jhash": "0x41FA0E51",
+        "comment": "p2 is always -1",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

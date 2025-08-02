@@ -1,0 +1,15 @@
+{
+    "0x444D98F98C11F3EC": {
+        "name": "SET_RANDOM_SEED",
+        "jhash": "0xDB3FEB5C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "seed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

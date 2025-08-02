@@ -1,0 +1,15 @@
+{
+    "0xAC678E40BE7C74D2": {
+        "name": "CLEAR_ENTITY_LAST_WEAPON_DAMAGE",
+        "jhash": "0xCEC2732B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xCD183314F7CD2E57": {
+        "name": "GET_WEAPON_OBJECT_TINT_INDEX",
+        "jhash": "0xD91D9576",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weapon"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB1D200FE26AEF3CB": {
+        "name": "IS_SPECIAL_ABILITY_ENABLED",
+        "jhash": "0xC01238CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

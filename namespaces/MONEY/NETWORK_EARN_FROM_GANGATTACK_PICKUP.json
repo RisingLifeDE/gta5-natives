@@ -1,0 +1,15 @@
+{
+    "0xA03D4ACE0A3284CE": {
+        "name": "NETWORK_EARN_FROM_GANGATTACK_PICKUP",
+        "jhash": "0x33C20BC4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

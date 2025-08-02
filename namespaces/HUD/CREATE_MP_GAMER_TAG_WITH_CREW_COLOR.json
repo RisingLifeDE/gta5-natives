@@ -1,0 +1,52 @@
+{
+    "0x6DD05E9D83EFA4C9": {
+        "name": "CREATE_MP_GAMER_TAG_WITH_CREW_COLOR",
+        "jhash": "0xC969F2D0",
+        "comment": "clanFlag: takes a number 0-5",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "username"
+            },
+            {
+                "type": "BOOL",
+                "name": "pointedClanTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRockstarClan"
+            },
+            {
+                "type": "const char*",
+                "name": "clanTag"
+            },
+            {
+                "type": "int",
+                "name": "clanFlag"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CREATE_MP_GAMER_TAG_COLOR",
+            "_SET_MP_GAMER_TAG_COLOR",
+            "_CREATE_MP_GAMER_TAG_FOR_NET_PLAYER"
+        ]
+    }
+}

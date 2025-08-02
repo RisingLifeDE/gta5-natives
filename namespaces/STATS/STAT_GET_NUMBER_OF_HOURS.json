@@ -1,0 +1,15 @@
+{
+    "0xF2D4B2FE415AAFC3": {
+        "name": "STAT_GET_NUMBER_OF_HOURS",
+        "jhash": "0x9B431236",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

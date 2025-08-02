@@ -1,0 +1,10 @@
+{
+    "0xD83C2B94E7508980": {
+        "name": "NETWORK_IS_SESSION_ACTIVE",
+        "jhash": "0x715CB8C4",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

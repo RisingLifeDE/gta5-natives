@@ -1,0 +1,23 @@
+{
+    "0x3BC4245933A166F7": {
+        "name": "GET_VEHICLE_EXTRA_COLOURS",
+        "jhash": "0x80E4659B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "pearlescentColor"
+            },
+            {
+                "type": "int*",
+                "name": "wheelColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x7F96F23FA9B73327": {
+        "name": "SET_VEHICLE_MODEL_PLAYER_WILL_EXIT_SCENE",
+        "jhash": "",
+        "comment": "Full list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

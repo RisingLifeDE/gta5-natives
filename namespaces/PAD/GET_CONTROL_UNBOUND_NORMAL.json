@@ -1,0 +1,19 @@
+{
+    "0x5B84D09CEC5209C5": {
+        "name": "GET_CONTROL_UNBOUND_NORMAL",
+        "jhash": "0xC49343BB",
+        "comment": "Seems to return values between -1 and 1 for controls like gas and steering.\n\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

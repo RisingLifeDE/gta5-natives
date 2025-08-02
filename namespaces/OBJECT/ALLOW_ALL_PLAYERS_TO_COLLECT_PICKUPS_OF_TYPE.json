@@ -1,0 +1,15 @@
+{
+    "0xFDC07C58E8AAB715": {
+        "name": "ALLOW_ALL_PLAYERS_TO_COLLECT_PICKUPS_OF_TYPE",
+        "jhash": "",
+        "comment": "Full list of pickup types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pickupTypes.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF62F6D9528358FE4": {
+        "name": "NETWORK_CASINO_CAN_BET_AMOUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1734",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_CASINO_CAN_GAMBLE"
+        ]
+    }
+}

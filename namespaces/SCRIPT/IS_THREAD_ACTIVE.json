@@ -1,0 +1,15 @@
+{
+    "0x46E9AE36D8FA6417": {
+        "name": "IS_THREAD_ACTIVE",
+        "jhash": "0x78D7A5A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

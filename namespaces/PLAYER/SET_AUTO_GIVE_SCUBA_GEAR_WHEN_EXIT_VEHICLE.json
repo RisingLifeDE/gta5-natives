@@ -1,0 +1,19 @@
+{
+    "0xD2B315B6689D537D": {
+        "name": "SET_AUTO_GIVE_SCUBA_GEAR_WHEN_EXIT_VEHICLE",
+        "jhash": "0xA25D767E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3E38E28A1D80DDF6": {
+        "name": "IS_CONTROLLED_VEHICLE_UNABLE_TO_GET_TO_ROAD",
+        "jhash": "0x54856309",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

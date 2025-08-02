@@ -1,0 +1,19 @@
+{
+    "0x826D1EE4D1CAFC78": {
+        "name": "SET_CUSTOM_PICKUP_WEAPON_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

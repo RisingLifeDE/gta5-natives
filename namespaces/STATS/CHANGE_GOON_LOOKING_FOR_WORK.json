@@ -1,0 +1,18 @@
+{
+    "0x44919CC079BB60BF": {
+        "name": "CHANGE_GOON_LOOKING_FOR_WORK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PLAYSTATS_CHANGE_GOON_LOOKING_FOR_WORK"
+        ]
+    }
+}

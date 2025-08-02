@@ -1,0 +1,10 @@
+{
+    "0x12782CE0A636E9F0": {
+        "name": "RESET_RETICULE_VALUES",
+        "jhash": "0xBE27AA3F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

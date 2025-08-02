@@ -1,0 +1,22 @@
+{
+    "0xBAA045B4E42F3C06": {
+        "name": "SET_VEHICLE_MAX_SPEED",
+        "jhash": "",
+        "comment": "To reset the max speed, set the `speed` value to `0.0` or lower.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_VEHICLE_MAX_SPEED"
+        ]
+    }
+}

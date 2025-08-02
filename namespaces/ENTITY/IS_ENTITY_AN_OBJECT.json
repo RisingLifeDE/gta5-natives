@@ -1,0 +1,15 @@
+{
+    "0x8D68C8FD0FACA94E": {
+        "name": "IS_ENTITY_AN_OBJECT",
+        "jhash": "0x3F52E561",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

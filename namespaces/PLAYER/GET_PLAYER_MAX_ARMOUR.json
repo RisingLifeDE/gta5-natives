@@ -1,0 +1,15 @@
+{
+    "0x92659B4CE1863CB3": {
+        "name": "GET_PLAYER_MAX_ARMOUR",
+        "jhash": "0x02A50657",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

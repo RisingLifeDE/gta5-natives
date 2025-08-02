@@ -1,0 +1,10 @@
+{
+    "0x77B612531280010D": {
+        "name": "IS_LOOK_INVERTED",
+        "jhash": "0x313434B2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

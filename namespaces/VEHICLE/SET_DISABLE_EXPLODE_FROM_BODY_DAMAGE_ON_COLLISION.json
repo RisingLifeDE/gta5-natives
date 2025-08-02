@@ -1,0 +1,19 @@
+{
+    "0x26E13D440E7F6064": {
+        "name": "SET_DISABLE_EXPLODE_FROM_BODY_DAMAGE_ON_COLLISION",
+        "jhash": "",
+        "comment": "Prevents the vehicle from exploding when taking body damage if it was caused by a collision. Only works for planes.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

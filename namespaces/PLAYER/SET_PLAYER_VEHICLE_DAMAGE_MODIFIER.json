@@ -1,0 +1,19 @@
+{
+    "0xA50E117CDDF82F0C": {
+        "name": "SET_PLAYER_VEHICLE_DAMAGE_MODIFIER",
+        "jhash": "0x823ECA63",
+        "comment": "modifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

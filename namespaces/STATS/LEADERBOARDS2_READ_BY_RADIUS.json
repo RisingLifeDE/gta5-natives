@@ -1,0 +1,23 @@
+{
+    "0x5CE587FB5A42C8C4": {
+        "name": "LEADERBOARDS2_READ_BY_RADIUS",
+        "jhash": "0xC5B7E685",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

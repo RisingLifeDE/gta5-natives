@@ -1,0 +1,39 @@
+{
+    "0x61A3DBA14AB7F411": {
+        "name": "ATTACH_CAM_TO_PED_BONE",
+        "jhash": "0x506BB35C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

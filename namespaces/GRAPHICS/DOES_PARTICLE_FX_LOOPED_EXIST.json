@@ -1,0 +1,15 @@
+{
+    "0x74AFEF0D2E1E409B": {
+        "name": "DOES_PARTICLE_FX_LOOPED_EXIST",
+        "jhash": "0xCBF91D2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

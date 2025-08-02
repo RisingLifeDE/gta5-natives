@@ -1,0 +1,22 @@
+{
+    "0x815E5E3073DA1D67": {
+        "name": "UGC_GET_GET_BY_CONTENT_ID",
+        "jhash": "0xE123C7AC",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_BALANCE_ADD_MACHINE"
+        ]
+    }
+}

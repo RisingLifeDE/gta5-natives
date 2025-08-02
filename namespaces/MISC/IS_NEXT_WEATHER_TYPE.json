@@ -1,0 +1,15 @@
+{
+    "0x2FAA3A30BEC0F25D": {
+        "name": "IS_NEXT_WEATHER_TYPE",
+        "jhash": "0x99CB167F",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

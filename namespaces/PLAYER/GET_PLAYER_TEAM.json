@@ -1,0 +1,15 @@
+{
+    "0x37039302F4E0A008": {
+        "name": "GET_PLAYER_TEAM",
+        "jhash": "0x9873E404",
+        "comment": "Gets the player's team.\nDoes nothing in singleplayer.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

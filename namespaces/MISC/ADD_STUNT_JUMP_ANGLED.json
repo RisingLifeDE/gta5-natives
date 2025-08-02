@@ -1,0 +1,91 @@
+{
+    "0xBBE5D803A5360CBF": {
+        "name": "ADD_STUNT_JUMP_ANGLED",
+        "jhash": "0xB9B7E777",
+        "comment": "Creates a new stunt jump.\n\nThe radius1 and radius2 might actually not be a radius at all, but that's what it seems to me testing them in-game. But they may be 'angle' floats instead, considering this native is named ADD_STUNT_JUMP_**ANGLED**.\n\nInfo about the specific 'parameter sections':\n\n\n**x1, y1, z1, x2, y2, z2 and radius1:**\n\nFirst coordinates are for the jump entry area, and the radius that will be checked around that area. So if you're not exactly within the coordinates, but you are within the outter radius limit then it will still register as entering the stunt jump. Note as mentioned above, the radius is just a guess, I'm not really sure about it's exact purpose.\n\n\n**x3, y3, z3, x4, y4, z4 and radius2:**\n\nNext part is the landing area, again starting with the left bottom (nearest to the stunt jump entry zone) coordinate, and the second one being the top right furthest away part of the landing area. Followed by another (most likely) radius float, this is usually slightly larger than the entry zone 'radius' float value, just because you have quite a lot of places where you can land (I'm guessing).\n\n\n**camX, camY and camZ:**\n\nThe final coordinate in this native is the Camera position. Rotation and zoom/FOV is managed by the game itself, you just need to provide the camera location.\n\n\n**unk1, unk2 and unk3:**\n\nNot sure what these are for, but they're always `150, 0, 0` in decompiled scripts.\n\nHere is a list of almost all of the stunt jumps from GTA V (taken from decompiled scripts): https://pastebin.com/EW1jBPkY",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius1"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "x4"
+            },
+            {
+                "type": "float",
+                "name": "y4"
+            },
+            {
+                "type": "float",
+                "name": "z4"
+            },
+            {
+                "type": "float",
+                "name": "radius2"
+            },
+            {
+                "type": "float",
+                "name": "camX"
+            },
+            {
+                "type": "float",
+                "name": "camY"
+            },
+            {
+                "type": "float",
+                "name": "camZ"
+            },
+            {
+                "type": "int",
+                "name": "p17"
+            },
+            {
+                "type": "int",
+                "name": "p18"
+            },
+            {
+                "type": "int",
+                "name": "p19"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

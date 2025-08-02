@@ -1,0 +1,23 @@
+{
+    "0x0943E5B8E078E76E": {
+        "name": "CLEAR_PED_PROP",
+        "jhash": "0x2D23D743",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "propId"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

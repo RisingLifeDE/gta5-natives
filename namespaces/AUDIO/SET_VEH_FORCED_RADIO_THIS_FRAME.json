@@ -1,0 +1,15 @@
+{
+    "0xC1805D05E6D4FE10": {
+        "name": "SET_VEH_FORCED_RADIO_THIS_FRAME",
+        "jhash": "0x7ABB89D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

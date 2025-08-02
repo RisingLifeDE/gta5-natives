@@ -1,0 +1,15 @@
+{
+    "0x7E08924259E08CE0": {
+        "name": "SET_SEETHROUGH",
+        "jhash": "0x74D4995C",
+        "comment": "Toggles Heatvision on/off.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

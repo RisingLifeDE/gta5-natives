@@ -1,0 +1,27 @@
+{
+    "0x9346E14F2AF74D46": {
+        "name": "NETWORK_PAY_MATCH_ENTRY_FEE",
+        "jhash": "0x224A3488",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "matchId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

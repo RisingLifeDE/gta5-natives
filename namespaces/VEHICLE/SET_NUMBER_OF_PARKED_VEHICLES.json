@@ -1,0 +1,15 @@
+{
+    "0xCAA15F13EBD417FF": {
+        "name": "SET_NUMBER_OF_PARKED_VEHICLES",
+        "jhash": "0x206A58E8",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4669B3ED80F24B4E": {
+        "name": "SUPPRESS_LOSING_WANTED_LEVEL_IF_HIDDEN_THIS_FRAME",
+        "jhash": "0xB9FB142F",
+        "comment": "This has been found in use in the decompiled files.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

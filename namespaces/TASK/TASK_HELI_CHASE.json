@@ -1,0 +1,31 @@
+{
+    "0xAC83B1DB38D0ADA0": {
+        "name": "TASK_HELI_CHASE",
+        "jhash": "0xAC290A21",
+        "comment": "Ped pilot should be in a heli.\nEntityToFollow can be a vehicle or Ped.\n\nx,y,z appear to be how close to the EntityToFollow the heli should be. Scripts use 0.0, 0.0, 80.0. Then the heli tries to position itself 80 units above the EntityToFollow. If you reduce it to -5.0, it tries to go below (if the EntityToFollow is a heli or plane)\n\n\nNOTE: If the pilot finds enemies, it will engage them, then remain there idle, not continuing to chase the Entity given.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToFollow"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

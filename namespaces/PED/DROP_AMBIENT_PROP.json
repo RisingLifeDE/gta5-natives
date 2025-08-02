@@ -1,0 +1,15 @@
+{
+    "0xAFF4710E2A0A6C12": {
+        "name": "DROP_AMBIENT_PROP",
+        "jhash": "0x728D3D53",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

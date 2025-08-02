@@ -1,0 +1,19 @@
+{
+    "0xE86051786B66CD8E": {
+        "name": "NETWORK_GET_LOCAL_HANDLE",
+        "jhash": "0x08023B16",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "gamerHandleSize"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

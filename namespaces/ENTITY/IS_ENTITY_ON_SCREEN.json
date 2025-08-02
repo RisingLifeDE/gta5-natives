@@ -1,0 +1,15 @@
+{
+    "0xE659E47AF827484B": {
+        "name": "IS_ENTITY_ON_SCREEN",
+        "jhash": "0xC1FEC5ED",
+        "comment": "Returns true if the entity is in between the minimum and maximum values for the 2d screen coords. \nThis means that it will return true even if the entity is behind a wall for example, as long as you're looking at their location. \nChipping",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

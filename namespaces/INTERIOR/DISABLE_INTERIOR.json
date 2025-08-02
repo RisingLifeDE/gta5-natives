@@ -1,0 +1,19 @@
+{
+    "0x6170941419D7D8EC": {
+        "name": "DISABLE_INTERIOR",
+        "jhash": "0x093ADEA5",
+        "comment": "Example: \nThis removes the interior from the strip club and when trying to walk inside the player just falls:\n\nINTERIOR::DISABLE_INTERIOR(118018, true);",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

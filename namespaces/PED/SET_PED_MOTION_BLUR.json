@@ -1,0 +1,19 @@
+{
+    "0x0A986918B102B448": {
+        "name": "SET_PED_MOTION_BLUR",
+        "jhash": "0xA211A128",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xDE03620F8703A9DF": {
+        "name": "PAUSE_MENU_GET_HAIR_COLOUR_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

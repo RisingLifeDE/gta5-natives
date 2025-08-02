@@ -1,0 +1,15 @@
+{
+    "0x24A2AD74FA9814E2": {
+        "name": "IS_MOVE_BLEND_RATIO_SPRINTING",
+        "jhash": "0xDD616893",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

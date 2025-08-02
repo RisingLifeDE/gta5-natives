@@ -1,0 +1,10 @@
+{
+    "0xE2BCD0EFAE90D1F4": {
+        "name": "_IS_XBOXPC_VERSION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3504"
+    }
+}

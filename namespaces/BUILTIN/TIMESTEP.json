@@ -1,0 +1,10 @@
+{
+    "0x0000000050597EE2": {
+        "name": "TIMESTEP",
+        "jhash": "0x50597EE2",
+        "comment": "Gets the current frame time.",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

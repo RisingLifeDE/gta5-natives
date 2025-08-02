@@ -1,0 +1,19 @@
+{
+    "0x1AD0F63A94E10EFF": {
+        "name": "_SET_REMAINING_NITROUS_DURATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

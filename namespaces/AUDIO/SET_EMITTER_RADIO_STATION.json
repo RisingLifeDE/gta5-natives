@@ -1,0 +1,23 @@
+{
+    "0xACF57305B12AF907": {
+        "name": "SET_EMITTER_RADIO_STATION",
+        "jhash": "0x87431585",
+        "comment": "Full list of static emitters by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/staticEmitters.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "emitterName"
+            },
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

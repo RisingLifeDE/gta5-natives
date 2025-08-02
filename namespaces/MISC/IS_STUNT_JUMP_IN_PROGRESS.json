@@ -1,0 +1,10 @@
+{
+    "0x7A3F19700A4D0525": {
+        "name": "IS_STUNT_JUMP_IN_PROGRESS",
+        "jhash": "0xF477D0B1",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

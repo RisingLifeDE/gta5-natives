@@ -1,0 +1,18 @@
+{
+    "0x278F76C3B0A8F109": {
+        "name": "GET_NUM_TATTOO_SHOP_DLC_ITEMS",
+        "jhash": "0x71D0CF3E",
+        "comment": "Character types:\n0 = Michael, \n1 = Franklin, \n2 = Trevor, \n3 = MPMale, \n4 = MPFemale",
+        "params": [
+            {
+                "type": "int",
+                "name": "character"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUM_DECORATIONS"
+        ]
+    }
+}

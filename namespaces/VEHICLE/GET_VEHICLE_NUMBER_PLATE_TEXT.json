@@ -1,0 +1,15 @@
+{
+    "0x7CE1CCB9B293020E": {
+        "name": "GET_VEHICLE_NUMBER_PLATE_TEXT",
+        "jhash": "0xE8522D58",
+        "comment": "Returns the license plate text from a vehicle. 8 chars maximum.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

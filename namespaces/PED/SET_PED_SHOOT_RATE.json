@@ -1,0 +1,19 @@
+{
+    "0x614DA022990752DC": {
+        "name": "SET_PED_SHOOT_RATE",
+        "jhash": "0xFB301746",
+        "comment": "shootRate 0-1000",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "shootRate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

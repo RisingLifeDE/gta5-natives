@@ -1,0 +1,23 @@
+{
+    "0x4665F51EFED00034": {
+        "name": "NETWORK_DO_TRANSITION_TO_NEW_GAME",
+        "jhash": "0x58AFBE63",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "maxPlayers"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

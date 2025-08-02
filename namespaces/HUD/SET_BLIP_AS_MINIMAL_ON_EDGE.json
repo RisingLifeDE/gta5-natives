@@ -1,0 +1,22 @@
+{
+    "0x2B6D467DAB714E8D": {
+        "name": "SET_BLIP_AS_MINIMAL_ON_EDGE",
+        "jhash": "0xC575F0BC",
+        "comment": "Makes a blip go small when off the minimap.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BLIP_SHRINK"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0A50A1EEDAD01E65": {
+        "name": "SET_ENTITY_RECORDS_COLLISIONS",
+        "jhash": "0x6B189A1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

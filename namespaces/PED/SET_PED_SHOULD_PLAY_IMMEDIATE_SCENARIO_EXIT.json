@@ -1,0 +1,15 @@
+{
+    "0xF1C03A5352243A30": {
+        "name": "SET_PED_SHOULD_PLAY_IMMEDIATE_SCENARIO_EXIT",
+        "jhash": "0x4C684C81",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF36199225D6D8C86": {
+        "name": "SET_CLOUDS_ALPHA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "opacity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CLOUD_HAT_OPACITY"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE59343E9E96529E7": {
+        "name": "GET_MOTIONBLUR_MAX_VEL_SCALER",
+        "jhash": "0xD906A3A9",
+        "comment": "Getter for SET_MOTIONBLUR_MAX_VEL_SCALER",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

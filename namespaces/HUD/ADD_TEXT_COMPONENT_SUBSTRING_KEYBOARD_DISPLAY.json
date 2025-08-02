@@ -1,0 +1,19 @@
+{
+    "0x5F68520888E69014": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_KEYBOARD_DISPLAY",
+        "jhash": "0x0829A799",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_TEXT_COMPONENT_STRING3",
+            "_ADD_TEXT_COMPONENT_SCALEFORM"
+        ]
+    }
+}

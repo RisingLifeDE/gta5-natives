@@ -1,0 +1,15 @@
+{
+    "0x29439776AAA00A62": {
+        "name": "GET_VEHICLE_CLASS",
+        "jhash": "0xC025338E",
+        "comment": "Returns an int\n\nVehicle Classes:\n0: Compacts\n1: Sedans\n2: SUVs\n3: Coupes\n4: Muscle\n5: Sports Classics\n6: Sports\n7: Super\n8: Motorcycles\n9: Off-road\n10: Industrial\n11: Utility\n12: Vans\n13: Cycles\n14: Boats\n15: Helicopters\n16: Planes\n17: Service\n18: Emergency\n19: Military\n20: Commercial\n21: Trains\n\nchar buffer[128];\nstd::sprintf(buffer, \"VEH_CLASS_%i\", VEHICLE::GET_VEHICLE_CLASS(vehicle));\n\nconst char* className = HUD::GET_FILENAME_FOR_AUDIO_CONVERSATION(buffer);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "0x51210CED3DA1C78A": {
+        "name": "IS_ENTITY_IN_ANGLED_AREA",
+        "jhash": "0x883622FA",
+        "comment": "`p8` is a debug flag invoking functions in the same path as ``DRAW_MARKER``\n`p10` is some entity flag check, also used in `IS_ENTITY_AT_ENTITY`, `IS_ENTITY_IN_AREA`, and `IS_ENTITY_AT_COORD`.\nSee IS_POINT_IN_ANGLED_AREA for the definition of an angled area.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "BOOL",
+                "name": "debug"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeZ"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

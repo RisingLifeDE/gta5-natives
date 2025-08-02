@@ -1,0 +1,10 @@
+{
+    "0x6DDBBDD98E2E9C25": {
+        "name": "SKIP_RADIO_FORWARD",
+        "jhash": "0x10D36630",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

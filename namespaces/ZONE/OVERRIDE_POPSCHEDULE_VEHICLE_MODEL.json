@@ -1,0 +1,19 @@
+{
+    "0x5F7D596BAC2E7777": {
+        "name": "OVERRIDE_POPSCHEDULE_VEHICLE_MODEL",
+        "jhash": "0x3F0A3680",
+        "comment": "Only used once in the decompiled scripts. Seems to be related to scripted vehicle generators.\n\nModified example from \"am_imp_exp.c4\", line 6406:\n/* popSchedules[0] = ZONE::GET_ZONE_POPSCHEDULE(ZONE::GET_ZONE_AT_COORDS(891.3, 807.9, 188.1));\netc.\n*/\nZONE::OVERRIDE_POPSCHEDULE_VEHICLE_MODEL(popSchedules[index], vehicleHash);\nSTREAMING::REQUEST_MODEL(vehicleHash);",
+        "params": [
+            {
+                "type": "int",
+                "name": "scheduleId"
+            },
+            {
+                "type": "Hash",
+                "name": "vehicleHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

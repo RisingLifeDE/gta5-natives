@@ -1,0 +1,19 @@
+{
+    "0xAC0BB4D87777CAE2": {
+        "name": "SET_PED_WETNESS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "wetLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

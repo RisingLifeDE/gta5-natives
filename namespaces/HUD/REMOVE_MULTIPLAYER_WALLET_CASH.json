@@ -1,0 +1,10 @@
+{
+    "0x95CF81BD06EE1887": {
+        "name": "REMOVE_MULTIPLAYER_WALLET_CASH",
+        "jhash": "0x7BFFE82F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

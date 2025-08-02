@@ -1,0 +1,63 @@
+{
+    "0x0E7E72961BA18619": {
+        "name": "START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE",
+        "jhash": "0x53DAEF4E",
+        "comment": "GRAPHICS::START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(\"scr_sh_bong_smoke\", PLAYER::PLAYER_PED_ID(), -0.025f, 0.13f, 0f, 0f, 0f, 0f, 31086, 0x3F800000, 0, 0, 0);\n\nAxis - Invert Axis Flags\n\nFull list of particle effect dictionaries and effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/particleEffectsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisX"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisY"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

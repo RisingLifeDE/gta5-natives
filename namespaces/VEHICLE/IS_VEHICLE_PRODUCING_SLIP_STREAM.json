@@ -1,0 +1,18 @@
+{
+    "0x48C633E94A8142A7": {
+        "name": "IS_VEHICLE_PRODUCING_SLIP_STREAM",
+        "jhash": "",
+        "comment": "Returns true if the vehicle is being slipstreamed by another vehicle",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "877",
+        "old_names": [
+            "_IS_VEHICLE_SLIPSTREAM_LEADER"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x604E810189EE3A59": {
+        "name": "IS_PED_BLUSH_TINT_FOR_BARBER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_BLUSH_COLOR_VALID",
+            "_IS_PED_BLUSH_VALID_BARBER_COLOR"
+        ]
+    }
+}

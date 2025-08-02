@@ -1,0 +1,15 @@
+{
+    "0x47D6F43D77935C75": {
+        "name": "IS_ENTITY_VISIBLE",
+        "jhash": "0x120B4ED5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x1989C6E6F67E76A8": {
+        "name": "SC_LICENSEPLATE_ADD",
+        "jhash": "0xEEDE7FAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "plateText"
+            },
+            {
+                "type": "Any*",
+                "name": "plateData"
+            },
+            {
+                "type": "int*",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

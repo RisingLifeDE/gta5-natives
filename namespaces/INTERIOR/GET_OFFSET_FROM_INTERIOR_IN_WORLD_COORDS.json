@@ -1,0 +1,27 @@
+{
+    "0x9E3B3E6D66F6E22F": {
+        "name": "GET_OFFSET_FROM_INTERIOR_IN_WORLD_COORDS",
+        "jhash": "0x7D8F26A1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

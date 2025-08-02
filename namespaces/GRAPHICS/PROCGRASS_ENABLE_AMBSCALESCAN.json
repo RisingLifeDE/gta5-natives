@@ -1,0 +1,10 @@
+{
+    "0x14FC5833464340A8": {
+        "name": "PROCGRASS_ENABLE_AMBSCALESCAN",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

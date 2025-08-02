@@ -1,0 +1,27 @@
+{
+    "0x2707AAE9D9297D89": {
+        "name": "SET_CHECKPOINT_CYLINDER_HEIGHT",
+        "jhash": "0xFF0F9B22",
+        "comment": "Sets the cylinder height of the checkpoint.\n\nParameters:\n* nearHeight - The height of the checkpoint when inside of the radius.\n* farHeight - The height of the checkpoint when outside of the radius.\n* radius - The radius of the checkpoint.",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "nearHeight"
+            },
+            {
+                "type": "float",
+                "name": "farHeight"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

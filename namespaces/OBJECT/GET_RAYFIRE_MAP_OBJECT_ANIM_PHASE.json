@@ -1,0 +1,18 @@
+{
+    "0x260EE4FDBDF4DB01": {
+        "name": "GET_RAYFIRE_MAP_OBJECT_ANIM_PHASE",
+        "jhash": "0x020497DE",
+        "comment": "`object`: The des-object handle to get the animation progress from.\nReturn value is a float between 0.0 and 1.0, 0.0 is the beginning of the animation, 1.0 is the end. Value resets to 0.0 instantly after reaching 1.0.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_DES_OBJECT_ANIM_PROGRESS"
+        ]
+    }
+}

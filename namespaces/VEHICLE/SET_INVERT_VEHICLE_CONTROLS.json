@@ -1,0 +1,22 @@
+{
+    "0x5B91B229243351A8": {
+        "name": "SET_INVERT_VEHICLE_CONTROLS",
+        "jhash": "",
+        "comment": "Inverts vehicle's controls. So INPUT_VEH_ACCELERATE will be INPUT_VEH_BRAKE and vise versa (same for A/D controls)\nDoesn't work for planes/helis.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_VEHICLE_CONTROLS_INVERTED"
+        ]
+    }
+}

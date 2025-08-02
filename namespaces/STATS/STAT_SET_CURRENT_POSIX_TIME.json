@@ -1,0 +1,19 @@
+{
+    "0xC2F84B7F9C4D0C61": {
+        "name": "STAT_SET_CURRENT_POSIX_TIME",
+        "jhash": "0xA286F015",
+        "comment": "p1 always true.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

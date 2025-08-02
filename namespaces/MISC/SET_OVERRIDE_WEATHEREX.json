@@ -1,0 +1,19 @@
+{
+    "0x1178E104409FE58C": {
+        "name": "SET_OVERRIDE_WEATHEREX",
+        "jhash": "",
+        "comment": "Identical to SET_OVERRIDE_WEATHER but has an additional BOOL param that sets some weather var to 0 if true",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

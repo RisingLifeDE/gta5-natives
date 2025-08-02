@@ -1,0 +1,35 @@
+{
+    "0x9724FB59A3E72AD0": {
+        "name": "UPDATE_TASK_AIM_GUN_SCRIPTED_TARGET",
+        "jhash": "0x67E73525",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableBlockingClip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

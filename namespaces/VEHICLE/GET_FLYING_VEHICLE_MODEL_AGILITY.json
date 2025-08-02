@@ -1,0 +1,18 @@
+{
+    "0xC6AD107DDC9054CC": {
+        "name": "GET_FLYING_VEHICLE_MODEL_AGILITY",
+        "jhash": "0x95BB67EB",
+        "comment": "Full list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_MAX_KNOTS"
+        ]
+    }
+}

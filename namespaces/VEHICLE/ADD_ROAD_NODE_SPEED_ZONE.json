@@ -1,0 +1,38 @@
+{
+    "0x2CE544C68FB812A0": {
+        "name": "ADD_ROAD_NODE_SPEED_ZONE",
+        "jhash": "0xD6685803",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_ADD_SPEED_ZONE_FOR_COORD"
+        ]
+    }
+}

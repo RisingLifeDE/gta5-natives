@@ -1,0 +1,23 @@
+{
+    "0x7D6F9A3EF26136A0": {
+        "name": "SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON",
+        "jhash": "0xBB54ECCA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

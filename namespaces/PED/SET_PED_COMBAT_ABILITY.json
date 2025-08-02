@@ -1,0 +1,19 @@
+{
+    "0xC7622C0D36B2FDA8": {
+        "name": "SET_PED_COMBAT_ABILITY",
+        "jhash": "0x6C23D329",
+        "comment": "enum eCombatAbility // 0xE793438C\n{\n\tCA_Poor,\n\tCA_Average,\n\tCA_Professional,\n\tCA_NumTypes\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "abilityLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

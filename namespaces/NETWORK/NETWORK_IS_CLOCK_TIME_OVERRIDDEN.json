@@ -1,0 +1,10 @@
+{
+    "0xD7C95D322FF57522": {
+        "name": "NETWORK_IS_CLOCK_TIME_OVERRIDDEN",
+        "jhash": "0x2465296D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

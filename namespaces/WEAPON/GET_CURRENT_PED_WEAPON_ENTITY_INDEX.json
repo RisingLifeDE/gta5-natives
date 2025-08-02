@@ -1,0 +1,19 @@
+{
+    "0x3B390A939AF0B5FC": {
+        "name": "GET_CURRENT_PED_WEAPON_ENTITY_INDEX",
+        "jhash": "0x5D73CD20",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x2CC848A861D01493": {
+        "name": "NETWORK_GET_GAMER_STATUS_FROM_QUEUE",
+        "jhash": "0xBEB98840",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

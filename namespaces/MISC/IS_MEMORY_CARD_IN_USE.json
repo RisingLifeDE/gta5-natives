@@ -1,0 +1,10 @@
+{
+    "0x8A75CE2956274ADD": {
+        "name": "IS_MEMORY_CARD_IN_USE",
+        "jhash": "0x40CE4DFD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x57B192B4D4AD23D5": {
+        "name": "NETWORK_OVERRIDE_SEND_RESTRICTIONS_ALL",
+        "jhash": "0x2F98B405",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_CHAT_MUTE"
+        ]
+    }
+}

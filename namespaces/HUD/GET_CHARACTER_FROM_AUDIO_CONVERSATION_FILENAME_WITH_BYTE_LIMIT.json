@@ -1,0 +1,30 @@
+{
+    "0xB2798643312205C5": {
+        "name": "GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_WITH_BYTE_LIMIT",
+        "jhash": "0x0183A66C",
+        "comment": "Returns a substring of a specified length starting at a specified position. The result is guaranteed not to exceed the specified max length.\n\nNOTE: The 'maxLength' parameter might actually be the size of the buffer that is returned. More research is needed. -CL69\n\nExample:\n// Condensed example of how Rockstar uses this function\nstrLen = HUD::GET_LENGTH_OF_LITERAL_STRING(MISC::GET_ONSCREEN_KEYBOARD_RESULT());\nsubStr = HUD::GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_WITH_BYTE_LIMIT(MISC::GET_ONSCREEN_KEYBOARD_RESULT(), 0, strLen, 63);\n\n--\n\n\"fm_race_creator.ysc\", line 85115:\n// parameters modified for clarity\nBOOL sub_8e5aa(char *text, int length) {\n    for (i = 0; i <= (length - 2); i += 1) {\n        if (!MISC::ARE_STRINGS_EQUAL(HUD::GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_WITH_BYTE_LIMIT(text, i, i + 1, 1), \" \")) {\n            return FALSE;\n        }\n    }\n    return TRUE;\n}",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "position"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "maxLength"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_TEXT_SUBSTRING_SAFE"
+        ]
+    }
+}

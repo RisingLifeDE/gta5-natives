@@ -1,0 +1,19 @@
+{
+    "0x75DBEC174AEEAD10": {
+        "name": "SET_BOAT_ANCHOR",
+        "jhash": "0xA3906284",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x23083260DEC3A551": {
+        "name": "ADD_PATROL_ROUTE_LINK",
+        "jhash": "0xD8761BB3",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeId1"
+            },
+            {
+                "type": "int",
+                "name": "nodeId2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x11E019C8F43ACC8A": {
+        "name": "CEIL",
+        "jhash": "0xD536A1DF",
+        "comment": "I'm guessing this rounds a float value up to the next whole number, and FLOOR rounds it down",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

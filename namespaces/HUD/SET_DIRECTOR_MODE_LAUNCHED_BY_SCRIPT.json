@@ -1,0 +1,13 @@
+{
+    "0x2632482FD6B9AB87": {
+        "name": "SET_DIRECTOR_MODE_LAUNCHED_BY_SCRIPT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DIRECTOR_MODE_CLEAR_TRIGGERED_FLAG"
+        ]
+    }
+}

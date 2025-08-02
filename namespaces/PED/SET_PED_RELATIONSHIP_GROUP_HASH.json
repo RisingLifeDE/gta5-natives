@@ -1,0 +1,19 @@
+{
+    "0xC80A74AC829DDD92": {
+        "name": "SET_PED_RELATIONSHIP_GROUP_HASH",
+        "jhash": "0x79F8C18C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

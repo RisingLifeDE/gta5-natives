@@ -1,0 +1,18 @@
+{
+    "0xD80A80346A45D761": {
+        "name": "GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_BOOL",
+        "jhash": "",
+        "comment": "methodReturn: The return value of this native: END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE",
+        "params": [
+            {
+                "type": "int",
+                "name": "methodReturn"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757",
+        "old_names": [
+            "_GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_BOOL"
+        ]
+    }
+}

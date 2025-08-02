@@ -1,0 +1,14 @@
+{
+    "0x2B2A2CC86778B619": {
+        "name": "GET_DEEP_OCEAN_SCALER",
+        "jhash": "0xBD0A67FB",
+        "comment": "Gets the aggressiveness factor of the ocean waves.",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_WAVES_INTENSITY",
+            "_GET_CURRENT_INTENSITY"
+        ]
+    }
+}

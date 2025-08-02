@@ -1,0 +1,18 @@
+{
+    "0x6CDD58146A436083": {
+        "name": "SET_USE_SET_DESTINATION_IN_PAUSE_MAP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SET_USE_WAYPOINT_AS_DESTINATION"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x3A6867B4845BEDA2": {
+        "name": "GET_GAMEPLAY_CAM_RELATIVE_PITCH",
+        "jhash": "0xFC5A4946",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

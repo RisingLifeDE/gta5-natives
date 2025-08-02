@@ -1,0 +1,15 @@
+{
+    "0x367A09DED4E05B99": {
+        "name": "IS_SCENARIO_GROUP_ENABLED",
+        "jhash": "0x90991122",
+        "comment": "Full list of scenario groups used in scripts by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenarioGroupNames.json\nOccurrences in the b617d scripts: \n\n \"ARMY_GUARD\",\n \"ARMY_HELI\",\n \"BLIMP\",\n \"Cinema_Downtown\",\n \"Cinema_Morningwood\",\n \"Cinema_Textile\",\n \"City_Banks\",\n \"Countryside_Banks\",\n \"DEALERSHIP\",\n \"KORTZ_SECURITY\",\n \"LSA_Planes\",\n \"MP_POLICE\",\n \"Observatory_Bikers\",\n \"POLICE_POUND1\",\n \"POLICE_POUND2\",\n \"POLICE_POUND3\",\n \"POLICE_POUND4\",\n \"POLICE_POUND5\",\n \"Rampage1\",\n \"SANDY_PLANES\",\n \"SCRAP_SECURITY\",\n \"SEW_MACHINE\",\n \"SOLOMON_GATE\"\n\nSometimes used with DOES_SCENARIO_GROUP_EXIST:\nif (TASK::DOES_SCENARIO_GROUP_EXIST(\"Observatory_Bikers\") &&   (!TASK::IS_SCENARIO_GROUP_ENABLED(\"Observatory_Bikers\"))) {\nelse if (TASK::IS_SCENARIO_GROUP_ENABLED(\"BLIMP\")) {",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

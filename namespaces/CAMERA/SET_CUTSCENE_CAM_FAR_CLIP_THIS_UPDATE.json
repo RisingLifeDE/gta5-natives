@@ -1,0 +1,15 @@
+{
+    "0x12DED8CA53D47EA5": {
+        "name": "SET_CUTSCENE_CAM_FAR_CLIP_THIS_UPDATE",
+        "jhash": "0x067BA6F5",
+        "comment": "Hardcoded to only work in multiplayer.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

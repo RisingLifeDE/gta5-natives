@@ -1,0 +1,10 @@
+{
+    "0x24E4E51FC16305F9": {
+        "name": "UGC_DID_CREATE_SUCCEED",
+        "jhash": "0x742075FE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

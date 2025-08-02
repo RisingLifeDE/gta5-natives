@@ -1,0 +1,27 @@
+{
+    "0xE8D65CA700C9A693": {
+        "name": "GET_VEHICLE_MOD_COLOR_1",
+        "jhash": "0xE625510A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "paintType"
+            },
+            {
+                "type": "int*",
+                "name": "color"
+            },
+            {
+                "type": "int*",
+                "name": "pearlescentColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

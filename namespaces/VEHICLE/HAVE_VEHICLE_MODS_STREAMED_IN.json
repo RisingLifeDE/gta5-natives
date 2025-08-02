@@ -1,0 +1,18 @@
+{
+    "0x9A83F5F9963775EF": {
+        "name": "HAVE_VEHICLE_MODS_STREAMED_IN",
+        "jhash": "0x112D637A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_MOD_LOAD_DONE"
+        ]
+    }
+}

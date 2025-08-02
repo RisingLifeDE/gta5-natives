@@ -1,0 +1,22 @@
+{
+    "0xEFF296097FF1E509": {
+        "name": "SET_CAN_PED_SELECT_ALL_WEAPONS",
+        "jhash": "",
+        "comment": "Disable all weapons. Does the same as 0xB4771B9AAF4E68E4 except for all weapons.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_CAN_PED_EQUIP_ALL_WEAPONS"
+        ]
+    }
+}

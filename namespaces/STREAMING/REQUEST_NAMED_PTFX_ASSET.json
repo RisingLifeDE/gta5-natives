@@ -1,0 +1,15 @@
+{
+    "0xB80D8756B4668AB6": {
+        "name": "REQUEST_NAMED_PTFX_ASSET",
+        "jhash": "0xCFEA19A9",
+        "comment": " From the b678d decompiled scripts:\n\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"core_snow\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"fm_mission_controler\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"proj_xmas_firework\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_apartment_mp\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_biolab_heist\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_indep_fireworks\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_indep_parachute\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_indep_wheelsmoke\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_mp_cig_plane\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_mp_creator\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_mp_tankbattle\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_ornate_heist\");\n STREAMING::REQUEST_NAMED_PTFX_ASSET(\"scr_prison_break_heist_station\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

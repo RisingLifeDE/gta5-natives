@@ -1,0 +1,13 @@
+{
+    "0x5896F2BD5683A4E1": {
+        "name": "RESET_DISPATCH_SPAWN_LOCATION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_RESET_DISPATCH_SPAWN_LOCATION"
+        ]
+    }
+}

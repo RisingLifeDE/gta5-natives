@@ -1,0 +1,39 @@
+{
+    "0x63C6CCA8E68AE8C8": {
+        "name": "CREATE_MISSION_TRAIN",
+        "jhash": "0xD4C2EAFD",
+        "comment": "Train models HAVE TO be loaded (requested) before you use this.\nFor variation 15 - request:\n\nfreight\nfreightcar\nfreightgrain\nfreightcont1\nfreightcont2\nfreighttrailer\n\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "variation"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "direction"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

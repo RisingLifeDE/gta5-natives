@@ -1,0 +1,19 @@
+{
+    "0x97A790315D3831FD": {
+        "name": "SET_PED_ENABLE_WEAPON_BLOCKING",
+        "jhash": "0x4CAD1A4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

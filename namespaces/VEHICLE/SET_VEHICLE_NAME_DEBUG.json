@@ -1,0 +1,19 @@
+{
+    "0xBFDF984E2C22B94F": {
+        "name": "SET_VEHICLE_NAME_DEBUG",
+        "jhash": "0xA712FF5C",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

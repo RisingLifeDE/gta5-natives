@@ -1,0 +1,31 @@
+{
+    "0xD16C2AD6B8E32854": {
+        "name": "GET_PACKED_TU_INT_STAT_KEY",
+        "jhash": "0xFB93C5A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "spStat"
+            },
+            {
+                "type": "BOOL",
+                "name": "charStat"
+            },
+            {
+                "type": "int",
+                "name": "character"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_TUPSTAT_INT_HASH",
+            "_GET_PACKED_TITLE_UPDATE_INT_STAT_KEY"
+        ]
+    }
+}

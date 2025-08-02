@@ -1,0 +1,22 @@
+{
+    "0x950A154B8DAB6185": {
+        "name": "INIT_SYNCH_SCENE_AUDIO_WITH_ENTITY",
+        "jhash": "0xA17F9AB0",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioEvent"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SYNCHRONIZED_AUDIO_EVENT_POSITION_THIS_FRAME"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x8F993D26E0CA5E8E": {
+        "name": "SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE",
+        "jhash": "0x749909AC",
+        "comment": "minimum: Degrees between -180f and 180f.\nmaximum: Degrees between -180f and 180f.\n\nClamps the gameplay camera's current yaw.\n\nEg. SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(0.0f, 0.0f) will set the horizontal angle directly behind the player.",
+        "params": [
+            {
+                "type": "float",
+                "name": "minimum"
+            },
+            {
+                "type": "float",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLAMP_GAMEPLAY_CAM_YAW"
+        ]
+    }
+}

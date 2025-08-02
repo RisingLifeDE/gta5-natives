@@ -1,0 +1,10 @@
+{
+    "0xBAC7FC81A75EC1A1": {
+        "name": "STOP_AUDIO_SCENES",
+        "jhash": "0xF6C7342A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

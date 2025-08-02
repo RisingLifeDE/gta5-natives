@@ -1,0 +1,10 @@
+{
+    "0x67FC09BC554A75E5": {
+        "name": "GET_IS_LIVE_AREA_LAUNCH_WITH_CONTENT",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

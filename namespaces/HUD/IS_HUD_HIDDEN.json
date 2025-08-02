@@ -1,0 +1,10 @@
+{
+    "0xA86478C6958735C5": {
+        "name": "IS_HUD_HIDDEN",
+        "jhash": "0x40BADA1D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

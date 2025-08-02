@@ -1,0 +1,23 @@
+{
+    "0x0F342546AA06FED5": {
+        "name": "WAYPOINT_PLAYBACK_PAUSE",
+        "jhash": "0xFE39ECF8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

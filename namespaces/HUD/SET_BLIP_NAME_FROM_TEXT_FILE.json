@@ -1,0 +1,19 @@
+{
+    "0xEAA0FFE120D92784": {
+        "name": "SET_BLIP_NAME_FROM_TEXT_FILE",
+        "jhash": "0xAC8A5461",
+        "comment": "Doesn't work if the label text of gxtEntry is >= 80.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "const char*",
+                "name": "gxtEntry"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

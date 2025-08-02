@@ -1,0 +1,19 @@
+{
+    "0x5ABA3986D90D8A3B": {
+        "name": "TASK_PERFORM_SEQUENCE",
+        "jhash": "0x4D9FBD11",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

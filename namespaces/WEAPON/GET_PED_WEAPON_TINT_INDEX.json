@@ -1,0 +1,19 @@
+{
+    "0x2B9EEDC07BD06B9F": {
+        "name": "GET_PED_WEAPON_TINT_INDEX",
+        "jhash": "0x3F9C90A7",
+        "comment": "Full list of weapons, components & tint indexes by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

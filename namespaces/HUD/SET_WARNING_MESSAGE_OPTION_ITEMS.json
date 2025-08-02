@@ -1,0 +1,38 @@
+{
+    "0x0C5A80A9E096D529": {
+        "name": "SET_WARNING_MESSAGE_OPTION_ITEMS",
+        "jhash": "",
+        "comment": "Some sort of list displayed in a warning message. Yet unknown how to prevent repeating.\nParam names copied from the corresponding scaleform function \"SET_LIST_ROW\".\nExample: https://i.imgur.com/arKvOYx.png",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "cash"
+            },
+            {
+                "type": "int",
+                "name": "rp"
+            },
+            {
+                "type": "int",
+                "name": "lvl"
+            },
+            {
+                "type": "int",
+                "name": "colour"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SET_WARNING_MESSAGE_LIST_ROW"
+        ]
+    }
+}

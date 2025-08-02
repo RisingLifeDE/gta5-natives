@@ -1,0 +1,27 @@
+{
+    "0x650A08A280870AF6": {
+        "name": "NETWORK_BUY_PROPERTY",
+        "jhash": "0x7D479AAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cost"
+            },
+            {
+                "type": "Hash",
+                "name": "propertyName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

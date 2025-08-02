@@ -1,0 +1,19 @@
+{
+    "0xB28B1FE5BFADD7F5": {
+        "name": "SET_FORCE_LOW_LOD_ANCHOR_MODE",
+        "jhash": "0xA739012A",
+        "comment": "No observed effect.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

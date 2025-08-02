@@ -1,0 +1,19 @@
+{
+    "0x9BB01E3834671191": {
+        "name": "IS_PED_GROUP_MEMBER",
+        "jhash": "0x876D5363",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

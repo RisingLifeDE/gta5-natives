@@ -1,0 +1,15 @@
+{
+    "0xA1750FFAFA181661": {
+        "name": "STAT_LOAD_PENDING",
+        "jhash": "0x4E9AC983",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "statSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

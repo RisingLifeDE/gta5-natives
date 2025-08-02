@@ -1,0 +1,10 @@
+{
+    "0x90A78ECAA4E78453": {
+        "name": "GET_STATUS_OF_TAKE_MISSION_CREATOR_PHOTO",
+        "jhash": "0xADBBA287",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

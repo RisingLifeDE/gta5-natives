@@ -1,0 +1,19 @@
+{
+    "0xDCE97BDF8A0EABC8": {
+        "name": "SET_VEHICLE_STEER_FOR_BUILDINGS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

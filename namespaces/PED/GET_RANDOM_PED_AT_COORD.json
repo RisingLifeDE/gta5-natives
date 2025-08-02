@@ -1,0 +1,39 @@
+{
+    "0x876046A8E3A4B71C": {
+        "name": "GET_RANDOM_PED_AT_COORD",
+        "jhash": "0xDC8239EB",
+        "comment": "Gets a random ped in the x/y/zRadius near the x/y/z coordinates passed. \n\nPed Types:\nAny = -1\nPlayer = 1\nMale = 4 \nFemale = 5 \nCop = 6\nHuman = 26\nSWAT = 27 \nAnimal = 28\nArmy = 29",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRadius"
+            },
+            {
+                "type": "float",
+                "name": "yRadius"
+            },
+            {
+                "type": "float",
+                "name": "zRadius"
+            },
+            {
+                "type": "int",
+                "name": "pedType"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xD80958FC74E988A6": {
+        "name": "PLAYER_PED_ID",
+        "jhash": "0xFA92E226",
+        "comment": "Returns current player ped",
+        "params": [],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

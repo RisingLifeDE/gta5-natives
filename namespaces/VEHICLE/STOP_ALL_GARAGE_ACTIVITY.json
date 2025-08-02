@@ -1,0 +1,10 @@
+{
+    "0x0F87E938BDF29D66": {
+        "name": "STOP_ALL_GARAGE_ACTIVITY",
+        "jhash": "0x17A0BCE5",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC11C18092C5530DC": {
+        "name": "SET_PED_CAN_HEAD_IK",
+        "jhash": "0xD3B04476",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x2DE7EFA66B906036": {
+        "name": "GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_INT",
+        "jhash": "0x2CFB0E6D",
+        "comment": "methodReturn: The return value of this native: END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE\nUsed to get a return value from a scaleform function. Returns an int in the same way GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_STRING returns a string.",
+        "params": [
+            {
+                "type": "int",
+                "name": "methodReturn"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_INT"
+        ]
+    }
+}

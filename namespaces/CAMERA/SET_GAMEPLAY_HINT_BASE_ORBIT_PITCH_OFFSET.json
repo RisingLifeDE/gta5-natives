@@ -1,0 +1,18 @@
+{
+    "0xD1F8363DFAD03848": {
+        "name": "SET_GAMEPLAY_HINT_BASE_ORBIT_PITCH_OFFSET",
+        "jhash": "0x79472AE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_HINT_ANGLE"
+        ]
+    }
+}

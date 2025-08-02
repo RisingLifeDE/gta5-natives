@@ -1,0 +1,15 @@
+{
+    "0xE7E11B8DCBED1058": {
+        "name": "GET_MOUNT",
+        "jhash": "0xDD31EC4E",
+        "comment": "\nFunction just returns 0\nvoid __fastcall ped__get_mount(NativeContext *a1)\n{\n  NativeContext *v1; // rbx@1\n\n  v1 = a1;\n  GetAddressOfPedFromScriptHandle(a1->Args->Arg1);\n  v1->Returns->Item1= 0;\n}",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0xDF269BE2909E181A": {
+        "name": "_START_VEHICLE_PARTICLE_FX_LOOPED",
+        "jhash": "",
+        "comment": "Returns ptfxHandle\neffectName: scr_sv_drag_burnout",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "BOOL",
+                "name": "frontBack"
+            },
+            {
+                "type": "BOOL",
+                "name": "leftRight"
+            },
+            {
+                "type": "BOOL",
+                "name": "localOnly"
+            }
+        ],
+        "return_type": "int",
+        "build": "3095"
+    }
+}

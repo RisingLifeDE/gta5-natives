@@ -1,0 +1,54 @@
+{
+    "0xDC38CC1E35B6A5D7": {
+        "name": "SET_WARNING_MESSAGE_WITH_HEADER",
+        "jhash": "0x2DB9EAB5",
+        "comment": "Shows a warning message on screen with a header.\nNote: You can only use text entries. No custom text. You can recreate this easily with scaleforms.\nExample: https://i.imgur.com/ITJt8bJ.png",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "entryHeader"
+            },
+            {
+                "type": "const char*",
+                "name": "entryLine1"
+            },
+            {
+                "type": "int",
+                "name": "instructionalKey"
+            },
+            {
+                "type": "const char*",
+                "name": "entryLine2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any*",
+                "name": "showBackground"
+            },
+            {
+                "type": "Any*",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_WARNING_MESSAGE_2"
+        ]
+    }
+}

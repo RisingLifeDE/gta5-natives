@@ -1,0 +1,15 @@
+{
+    "0x3F9990BF5F22759C": {
+        "name": "NETWORK_HAS_TRANSITION_INVITE_BEEN_ACKED",
+        "jhash": "0x00F26CDC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

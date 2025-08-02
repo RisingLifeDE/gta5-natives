@@ -1,0 +1,13 @@
+{
+    "0xA200EB1EE790F448": {
+        "name": "GET_FINAL_RENDERED_CAM_COORD",
+        "jhash": "0x9C84BDA0",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_COORDS"
+        ]
+    }
+}

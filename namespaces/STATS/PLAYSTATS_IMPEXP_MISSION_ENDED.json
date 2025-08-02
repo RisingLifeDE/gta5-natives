@@ -1,0 +1,18 @@
+{
+    "0x7D8BA05688AD64C7": {
+        "name": "PLAYSTATS_IMPEXP_MISSION_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_PLAYSTATS_IMPEXP_MISSION_ENDED"
+        ]
+    }
+}

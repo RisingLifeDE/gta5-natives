@@ -1,0 +1,19 @@
+{
+    "0xCE86D8191B762107": {
+        "name": "NETWORK_GET_PRIMARY_CLAN_DATA_START",
+        "jhash": "0x89DB0EC7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

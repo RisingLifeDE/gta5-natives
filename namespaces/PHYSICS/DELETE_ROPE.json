@@ -1,0 +1,15 @@
+{
+    "0x52B4829281364649": {
+        "name": "DELETE_ROPE",
+        "jhash": "0x748D72AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "const int*",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

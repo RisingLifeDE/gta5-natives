@@ -1,0 +1,19 @@
+{
+    "0x5BA68A0840D546AC": {
+        "name": "HAS_VEHICLE_PETROLTANK_SET_ON_FIRE_BY_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463"
+    }
+}

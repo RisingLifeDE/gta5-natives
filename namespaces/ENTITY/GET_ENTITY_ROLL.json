@@ -1,0 +1,15 @@
+{
+    "0x831E0242595560DF": {
+        "name": "GET_ENTITY_ROLL",
+        "jhash": "0x36610842",
+        "comment": "Displays the current ROLL axis of the entity [-180.0000/180.0000+]\n(Sideways Roll) such as a vehicle tipped on its side",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

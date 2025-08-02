@@ -1,0 +1,19 @@
+{
+    "0xD414BE129BB81B32": {
+        "name": "NETWORK_GET_AVERAGE_LATENCY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_AVERAGE_LATENCY_FOR_PLAYER"
+        ]
+    }
+}

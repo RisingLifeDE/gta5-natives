@@ -1,0 +1,42 @@
+{
+    "0x6D955F6A9E0295B1": {
+        "name": "GRASSBATCH_ENABLE_FLATTENING_IN_SPHERE",
+        "jhash": "",
+        "comment": "Wraps 0xAAE9BE70EC7C69AB with FLT_MAX as p7",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GRASS_LOD_SHRINK_SCRIPT_AREAS"
+        ]
+    }
+}

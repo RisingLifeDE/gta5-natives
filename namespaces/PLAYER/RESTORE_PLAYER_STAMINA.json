@@ -1,0 +1,19 @@
+{
+    "0xA352C1B864CAFD33": {
+        "name": "RESTORE_PLAYER_STAMINA",
+        "jhash": "0x62A93608",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

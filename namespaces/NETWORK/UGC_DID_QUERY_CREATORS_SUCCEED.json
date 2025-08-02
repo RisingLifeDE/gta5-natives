@@ -1,0 +1,10 @@
+{
+    "0x4D02279C83BE69FE": {
+        "name": "UGC_DID_QUERY_CREATORS_SUCCEED",
+        "jhash": "0xA7F3F82B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x7A1ADEEF01740A24": {
+        "name": "NETWORK_GET_DESTROYER_OF_NETWORK_ID",
+        "jhash": "0x4FCA6436",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

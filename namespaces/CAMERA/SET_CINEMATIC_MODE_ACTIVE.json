@@ -1,0 +1,15 @@
+{
+    "0xDCF0754AC3D6FD4E": {
+        "name": "SET_CINEMATIC_MODE_ACTIVE",
+        "jhash": "0x2009E747",
+        "comment": "Toggles the vehicle cinematic cam; requires the player ped to be in a vehicle to work.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

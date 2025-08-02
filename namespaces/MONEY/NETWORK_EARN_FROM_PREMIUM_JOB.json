@@ -1,0 +1,22 @@
+{
+    "0xC8407624CEF2354B": {
+        "name": "NETWORK_EARN_FROM_PREMIUM_JOB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_NETWORK_EARN_FROM_PREMIUM_JOB"
+        ]
+    }
+}

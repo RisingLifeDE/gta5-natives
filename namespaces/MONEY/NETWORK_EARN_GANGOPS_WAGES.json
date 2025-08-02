@@ -1,0 +1,22 @@
+{
+    "0x2DCB19ABAB0380A8": {
+        "name": "NETWORK_EARN_GANGOPS_WAGES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_GANGOPS_WAGES"
+        ]
+    }
+}

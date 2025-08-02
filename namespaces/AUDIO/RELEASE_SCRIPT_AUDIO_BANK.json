@@ -1,0 +1,10 @@
+{
+    "0x7A2D8AD0A9EB9C3F": {
+        "name": "RELEASE_SCRIPT_AUDIO_BANK",
+        "jhash": "0x22F865E5",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

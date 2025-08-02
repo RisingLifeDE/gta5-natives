@@ -1,0 +1,15 @@
+{
+    "0x632106CC96E82E91": {
+        "name": "TAN",
+        "jhash": "0xD320CE5E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

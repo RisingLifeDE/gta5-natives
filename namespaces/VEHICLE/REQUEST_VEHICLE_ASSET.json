@@ -1,0 +1,19 @@
+{
+    "0x81A15811460FAB3A": {
+        "name": "REQUEST_VEHICLE_ASSET",
+        "jhash": "0x902B4F06",
+        "comment": "REQUEST_VEHICLE_ASSET(GET_HASH_KEY(cargobob3), 3);\n\nvehicle found that have asset's:\ncargobob3\nsubmersible\nblazer",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleHash"
+            },
+            {
+                "type": "int",
+                "name": "vehicleAsset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

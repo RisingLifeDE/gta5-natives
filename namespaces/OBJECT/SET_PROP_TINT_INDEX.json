@@ -1,0 +1,19 @@
+{
+    "0x31574B1B41268673": {
+        "name": "SET_PROP_TINT_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x50BD2730B191E360": {
+        "name": "GET_ENTITY_ANIM_TOTAL_TIME",
+        "jhash": "0x433A9D18",
+        "comment": "Returns a float value representing animation's total playtime in milliseconds.\n\nExample:\nGET_ENTITY_ANIM_TOTAL_TIME(PLAYER_ID(),\"amb@world_human_yoga@female@base\",\"base_b\") \nreturn 20800.000000\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

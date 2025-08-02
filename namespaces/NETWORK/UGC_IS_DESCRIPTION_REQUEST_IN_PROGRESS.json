@@ -1,0 +1,15 @@
+{
+    "0x2D5DC831176D0114": {
+        "name": "UGC_IS_DESCRIPTION_REQUEST_IN_PROGRESS",
+        "jhash": "0xA69AE16C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

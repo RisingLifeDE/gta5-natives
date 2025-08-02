@@ -1,0 +1,19 @@
+{
+    "0x42B2DAA6B596F5F8": {
+        "name": "NETWORK_GET_ENTITY_KILLER_OF_PLAYER",
+        "jhash": "0xA7E7E04F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "0x95812F9B26074726": {
+        "name": "DRAW_SPRITE_ARX_WITH_UV",
+        "jhash": "",
+        "comment": "Similar to DRAW_SPRITE, but allows to specify the texture coordinates used to draw the sprite.\n\nu1, v1 - texture coordinates for the top-left corner\nu2, v2 - texture coordinates for the bottom-right corner",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "u1"
+            },
+            {
+                "type": "float",
+                "name": "v1"
+            },
+            {
+                "type": "float",
+                "name": "u2"
+            },
+            {
+                "type": "float",
+                "name": "v2"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "Any",
+                "name": "p15"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_DRAW_SPRITE_UV"
+        ]
+    }
+}

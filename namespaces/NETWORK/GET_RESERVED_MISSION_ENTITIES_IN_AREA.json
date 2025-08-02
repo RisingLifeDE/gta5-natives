@@ -1,0 +1,42 @@
+{
+    "0xE42D626EEC94E5D9": {
+        "name": "GET_RESERVED_MISSION_ENTITIES_IN_AREA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "out1"
+            },
+            {
+                "type": "Any*",
+                "name": "out2"
+            },
+            {
+                "type": "Any*",
+                "name": "out3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_GET_RESERVATIONS_FOR_SLOT_WORLD_POSITION"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xDEBBF584665411D0": {
+        "name": "NETWORK_EARN_FROM_JOBX2",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_JOB_X2"
+        ]
+    }
+}

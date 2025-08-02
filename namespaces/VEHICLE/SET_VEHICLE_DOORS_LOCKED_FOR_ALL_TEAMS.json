@@ -1,0 +1,22 @@
+{
+    "0x203B527D1B77904C": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_ALL_TEAMS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_VEHICLE_DOORS_LOCKED_FOR_UNK"
+        ]
+    }
+}

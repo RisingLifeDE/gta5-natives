@@ -1,0 +1,18 @@
+{
+    "0x0BC254FF3A911501": {
+        "name": "PLAYSTATS_DAR_CHECKPOINT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_PLAYSTATS_DAR_MISSION_END"
+        ]
+    }
+}

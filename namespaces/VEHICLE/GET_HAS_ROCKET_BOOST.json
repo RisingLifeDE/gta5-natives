@@ -1,0 +1,20 @@
+{
+    "0x36D782F68B309BDA": {
+        "name": "GET_HAS_ROCKET_BOOST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_HAS_VEHICLE_ROCKET_BOOST",
+            "_DOES_VEHICLE_HAVE_ROCKET_BOOST",
+            "_GET_HAS_ROCKET_BOOST"
+        ]
+    }
+}

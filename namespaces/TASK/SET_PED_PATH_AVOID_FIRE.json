@@ -1,0 +1,19 @@
+{
+    "0x4455517B28441E60": {
+        "name": "SET_PED_PATH_AVOID_FIRE",
+        "jhash": "0xDCC5B934",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "avoidFire"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0xE023E8AC4EF7C117": {
+        "name": "SET_VEHICLE_USE_CUTSCENE_WHEEL_COMPRESSION",
+        "jhash": "0xA0909ADB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_ALL_VEHICLES_SPAWN"
+        ]
+    }
+}

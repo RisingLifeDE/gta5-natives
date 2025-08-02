@@ -1,0 +1,10 @@
+{
+    "0xA72BC0B675B1519E": {
+        "name": "IS_ORBIS_VERSION",
+        "jhash": "0x40282018",
+        "comment": "PS4",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

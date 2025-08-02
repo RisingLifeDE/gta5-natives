@@ -1,0 +1,10 @@
+{
+    "0x1D4DC17C38FEAFF0": {
+        "name": "IS_COMMERCE_DATA_FETCH_IN_PROGRESS",
+        "jhash": "0xED4A272F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x6B3C4650BC8BEE47": {
+        "name": "SET_TEXT_RIGHT_JUSTIFY",
+        "jhash": "0x45B60520",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

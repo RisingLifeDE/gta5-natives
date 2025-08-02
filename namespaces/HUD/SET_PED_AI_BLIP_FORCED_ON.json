@@ -1,0 +1,22 @@
+{
+    "0x0C4BBF625CA98C4E": {
+        "name": "SET_PED_AI_BLIP_FORCED_ON",
+        "jhash": "0xFFDF46F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_IS_AI_BLIP_ALWAYS_SHOWN"
+        ]
+    }
+}

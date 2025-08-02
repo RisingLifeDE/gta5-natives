@@ -1,0 +1,10 @@
+{
+    "0xBA416D68C631496A": {
+        "name": "NETWORK_SESSION_IS_VISIBLE",
+        "jhash": "0x4977AC28",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xB59E4BD37AE292DB": {
+        "name": "SET_VEHICLE_CHEAT_POWER_INCREASE",
+        "jhash": "0x642DA5AA",
+        "comment": "<1.0 - Decreased torque\n=1.0 - Default torque\n>1.0 - Increased torque\n\nNegative values will cause the vehicle to go backwards instead of forwards while accelerating.\n\nvalue - is between 0.2 and 1.8 in the decompiled scripts. \n\nThis needs to be called every frame to take effect.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_ENGINE_TORQUE_MULTIPLIER"
+        ]
+    }
+}

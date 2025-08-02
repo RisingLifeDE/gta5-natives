@@ -1,0 +1,18 @@
+{
+    "0xC63CD5D2920ACBE7": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL",
+        "jhash": "0xDCE05406",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "labelName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_TEXT_COMPONENT_ITEM_STRING"
+        ]
+    }
+}

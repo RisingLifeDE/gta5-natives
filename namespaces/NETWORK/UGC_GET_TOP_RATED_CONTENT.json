@@ -1,0 +1,27 @@
+{
+    "0x5324A0E3E4CE3570": {
+        "name": "UGC_GET_TOP_RATED_CONTENT",
+        "jhash": "0x87D1E6BD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

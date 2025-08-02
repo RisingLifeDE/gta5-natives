@@ -1,0 +1,13 @@
+{
+    "0x43DBAE39626CE83F": {
+        "name": "SEETHROUGH_GET_MAX_THICKNESS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1290",
+        "old_names": [
+            "_SEETHROUGH_GET_MAX_THICKNESS"
+        ]
+    }
+}

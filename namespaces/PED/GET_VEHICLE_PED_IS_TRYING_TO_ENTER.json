@@ -1,0 +1,15 @@
+{
+    "0x814FA8BE5449445D": {
+        "name": "GET_VEHICLE_PED_IS_TRYING_TO_ENTER",
+        "jhash": "0x99968B37",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

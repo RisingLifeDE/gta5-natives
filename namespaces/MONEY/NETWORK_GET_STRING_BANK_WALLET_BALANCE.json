@@ -1,0 +1,16 @@
+{
+    "0x700AF71AE615E6DD": {
+        "name": "NETWORK_GET_STRING_BANK_WALLET_BALANCE",
+        "jhash": "0x7D4FD28C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "character"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "unused": true
+    }
+}

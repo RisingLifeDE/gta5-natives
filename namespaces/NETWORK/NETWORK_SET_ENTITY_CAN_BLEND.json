@@ -1,0 +1,19 @@
+{
+    "0xD830567D88A1E873": {
+        "name": "NETWORK_SET_ENTITY_CAN_BLEND",
+        "jhash": "0xDE8C0DB8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

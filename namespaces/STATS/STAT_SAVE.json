@@ -1,0 +1,27 @@
+{
+    "0xE07BCA305B82D2FD": {
+        "name": "STAT_SAVE",
+        "jhash": "0xE10A7CA4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

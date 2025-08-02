@@ -1,0 +1,26 @@
+{
+    "0xF0E4BA16D1DB546C": {
+        "name": "DISABLE_VEHCILE_DYNAMIC_AMBIENT_SCALES",
+        "jhash": "0x5BD8D82D",
+        "comment": "Adds some kind of shadow to the vehicle.\n\np1 and p2 use values from 0-255 and both make the shadow darker the lower the value is. -1 disables the effect.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_SHADOW_EFFECT"
+        ]
+    }
+}

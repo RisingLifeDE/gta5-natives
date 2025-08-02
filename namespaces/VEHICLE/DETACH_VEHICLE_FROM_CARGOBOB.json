@@ -1,0 +1,19 @@
+{
+    "0x0E21D3DF1051399D": {
+        "name": "DETACH_VEHICLE_FROM_CARGOBOB",
+        "jhash": "0x83D3D331",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

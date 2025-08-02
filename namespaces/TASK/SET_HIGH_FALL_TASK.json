@@ -1,0 +1,27 @@
+{
+    "0x8C825BDC7741D37C": {
+        "name": "SET_HIGH_FALL_TASK",
+        "jhash": "0xBBB26172",
+        "comment": "Makes the ped ragdoll like when falling from a great height",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "minTime"
+            },
+            {
+                "type": "int",
+                "name": "maxTime"
+            },
+            {
+                "type": "int",
+                "name": "entryType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

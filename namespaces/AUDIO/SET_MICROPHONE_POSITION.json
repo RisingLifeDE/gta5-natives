@@ -1,0 +1,51 @@
+{
+    "0xB6AE90EDDE95C762": {
+        "name": "SET_MICROPHONE_POSITION",
+        "jhash": "0xAD7BB191",
+        "comment": "This native controls where the game plays audio from. By default the microphone is positioned on the player.\nWhen p0 is true the game will play audio from the 3 positions inputted.\nIt is recommended to set all 3 positions to the same value as mixing different positions doesn't seem to work well.\nThe scripts mostly use it with only one position such as in fbi3.c: \nAUDIO::SET_MICROPHONE_POSITION(true, ENTITY::GET_ENTITY_COORDS(iLocal_3091, true), ENTITY::GET_ENTITY_COORDS(iLocal_3091, true), ENTITY::GET_ENTITY_COORDS(iLocal_3091, true));",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

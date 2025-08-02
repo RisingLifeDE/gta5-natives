@@ -1,0 +1,15 @@
+{
+    "0x5DD35C8D074E57AE": {
+        "name": "GET_VEHICLE_ACCELERATION",
+        "jhash": "0x00478321",
+        "comment": "static - max acceleration",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

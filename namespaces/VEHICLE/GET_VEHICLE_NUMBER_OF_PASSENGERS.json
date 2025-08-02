@@ -1,0 +1,23 @@
+{
+    "0x24CB2137731FFE89": {
+        "name": "GET_VEHICLE_NUMBER_OF_PASSENGERS",
+        "jhash": "0x1EF20849",
+        "comment": "Gets the number of passengers.\n\nThis native was modified in b2545 to take two additional parameters, allowing you to include the driver or exclude dead passengers.\n\nTo keep it working like before b2545, set includeDriver to false and includeDeadOccupants to true.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeDriver"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeDeadOccupants"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

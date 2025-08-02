@@ -1,0 +1,15 @@
+{
+    "0xBDCD95FC216A8B3E": {
+        "name": "NET_TO_PED",
+        "jhash": "0x87717DD4",
+        "comment": "gets the ped id of a network id",
+        "params": [
+            {
+                "type": "int",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

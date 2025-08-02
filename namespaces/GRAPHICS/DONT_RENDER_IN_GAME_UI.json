@@ -1,0 +1,15 @@
+{
+    "0x22A249A53034450A": {
+        "name": "DONT_RENDER_IN_GAME_UI",
+        "jhash": "0x932FDB81",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

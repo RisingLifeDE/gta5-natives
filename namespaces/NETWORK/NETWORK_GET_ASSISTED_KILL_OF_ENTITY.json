@@ -1,0 +1,26 @@
+{
+    "0x83660B734994124D": {
+        "name": "NETWORK_GET_ASSISTED_KILL_OF_ENTITY",
+        "jhash": "",
+        "comment": "NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY that ensures the entity is dead (IS_ENTITY_DEAD)",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_NETWORK_GET_ASSISTED_DAMAGE_OF_DEAD_ENTITY"
+        ]
+    }
+}

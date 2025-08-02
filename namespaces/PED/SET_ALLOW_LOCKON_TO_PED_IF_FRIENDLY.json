@@ -1,0 +1,19 @@
+{
+    "0x061CB768363D6424": {
+        "name": "SET_ALLOW_LOCKON_TO_PED_IF_FRIENDLY",
+        "jhash": "0x7DA12905",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

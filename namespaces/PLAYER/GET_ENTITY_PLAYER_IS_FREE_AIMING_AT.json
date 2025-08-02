@@ -1,0 +1,19 @@
+{
+    "0x2975C866E6713290": {
+        "name": "GET_ENTITY_PLAYER_IS_FREE_AIMING_AT",
+        "jhash": "0x8866D9D0",
+        "comment": "Returns TRUE if it found an entity in your crosshair within range of your weapon. Assigns the handle of the target to the *entity that you pass it.\nReturns false if no entity found.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

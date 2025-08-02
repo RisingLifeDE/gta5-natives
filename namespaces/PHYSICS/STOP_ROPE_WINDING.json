@@ -1,0 +1,15 @@
+{
+    "0xCB2D4AB84A19AA7C": {
+        "name": "STOP_ROPE_WINDING",
+        "jhash": "0x46826B53",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

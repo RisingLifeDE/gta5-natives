@@ -1,0 +1,22 @@
+{
+    "0xC669EEA5D031B7DE": {
+        "name": "SET_CAM_DOF_FOCUS_DISTANCE_BIAS",
+        "jhash": "",
+        "comment": "This native has a name defined inside its code",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CAM_DOF_FOCUS_DISTANCE_BIAS"
+        ]
+    }
+}

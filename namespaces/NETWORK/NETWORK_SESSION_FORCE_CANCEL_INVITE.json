@@ -1,0 +1,10 @@
+{
+    "0xA29177F7703B5644": {
+        "name": "NETWORK_SESSION_FORCE_CANCEL_INVITE",
+        "jhash": "0x3FD49D3B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x6ADAABD3068C5235": {
+        "name": "HAS_VEHICLE_PHONE_EXPLOSIVE_DEVICE",
+        "jhash": "0xA4E69134",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

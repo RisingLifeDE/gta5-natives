@@ -1,0 +1,15 @@
+{
+    "0x8D8ACD8388CD99CE": {
+        "name": "REVIVE_INJURED_PED",
+        "jhash": "0x14D3E6E3",
+        "comment": "It will revive/cure the injured ped. The condition is ped must not be dead.\n\nUpon setting and converting the health int, found, if health falls below 5, the ped will lay on the ground in pain(Maximum default health is 100).\n\nThis function is well suited there.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

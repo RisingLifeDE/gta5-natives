@@ -1,0 +1,22 @@
+{
+    "0x37025B27D9B658B1": {
+        "name": "UGC_GET_CONTENT_FILE_VERSION",
+        "jhash": "0xFF7D44E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_CONTENT_FILE_VERSION"
+        ]
+    }
+}

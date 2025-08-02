@@ -1,0 +1,10 @@
+{
+    "0xA0FE76168A189DDB": {
+        "name": "IS_MULTIHEAD_FADE_UP",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

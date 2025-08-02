@@ -1,0 +1,35 @@
+{
+    "0x7C4BB33A8CED7324": {
+        "name": "PLAYSTATS_MISSION_OVER",
+        "jhash": "0x5B90B5FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

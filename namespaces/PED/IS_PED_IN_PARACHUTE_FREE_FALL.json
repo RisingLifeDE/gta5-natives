@@ -1,0 +1,15 @@
+{
+    "0x7DCE8BDA0F1C1200": {
+        "name": "IS_PED_IN_PARACHUTE_FREE_FALL",
+        "jhash": "0xCD71F11B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

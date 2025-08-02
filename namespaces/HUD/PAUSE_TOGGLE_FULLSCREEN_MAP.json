@@ -1,0 +1,15 @@
+{
+    "0x2DE6C5E2E996F178": {
+        "name": "PAUSE_TOGGLE_FULLSCREEN_MAP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "372"
+    }
+}

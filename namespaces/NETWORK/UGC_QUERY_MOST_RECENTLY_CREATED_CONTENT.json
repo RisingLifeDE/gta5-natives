@@ -1,0 +1,30 @@
+{
+    "0x6D4CB481FAC835E8": {
+        "name": "UGC_QUERY_MOST_RECENTLY_CREATED_CONTENT",
+        "jhash": "0x40CF0783",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "offset"
+            },
+            {
+                "type": "int",
+                "name": "count"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_UGC_QUERY_RECENTLY_CREATED_CONTENT"
+        ]
+    }
+}

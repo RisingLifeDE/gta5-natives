@@ -1,0 +1,31 @@
+{
+    "0x6FD7816A36615F48": {
+        "name": "KNOCK_OFF_PED_PROP",
+        "jhash": "0x08D8B180",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

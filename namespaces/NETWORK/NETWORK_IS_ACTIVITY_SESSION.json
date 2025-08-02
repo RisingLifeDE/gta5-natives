@@ -1,0 +1,10 @@
+{
+    "0x05095437424397FA": {
+        "name": "NETWORK_IS_ACTIVITY_SESSION",
+        "jhash": "0x577DAA8A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

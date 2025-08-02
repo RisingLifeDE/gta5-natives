@@ -1,0 +1,10 @@
+{
+    "0x35EDD5B2E3FF01C0": {
+        "name": "SET_MINIMAP_GOLF_COURSE_OFF",
+        "jhash": "0x20FD3E87",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

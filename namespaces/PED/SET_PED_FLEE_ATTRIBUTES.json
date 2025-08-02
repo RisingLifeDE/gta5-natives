@@ -1,0 +1,23 @@
+{
+    "0x70A2D1137C8ED7C9": {
+        "name": "SET_PED_FLEE_ATTRIBUTES",
+        "jhash": "0xA717A875",
+        "comment": "bit 1 (0x2) = use vehicle\nbit 15 (0x8000) = force cower",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeFlags"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

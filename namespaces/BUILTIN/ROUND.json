@@ -1,0 +1,15 @@
+{
+    "0xF2DB717A73826179": {
+        "name": "ROUND",
+        "jhash": "0x323B0E24",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

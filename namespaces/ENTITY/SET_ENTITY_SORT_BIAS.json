@@ -1,0 +1,19 @@
+{
+    "0x5C3B791D580E0BC2": {
+        "name": "SET_ENTITY_SORT_BIAS",
+        "jhash": "",
+        "comment": "Only called once in the scripts.\n\nRelated to weapon objects.\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

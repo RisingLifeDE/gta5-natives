@@ -1,0 +1,19 @@
+{
+    "0xAF12610C644A35C9": {
+        "name": "SET_MAPDATACULLBOX_ENABLED",
+        "jhash": "0x403CD434",
+        "comment": "Possible p0 values:\n\n\"prologue\"\n\"Prologue_Main\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

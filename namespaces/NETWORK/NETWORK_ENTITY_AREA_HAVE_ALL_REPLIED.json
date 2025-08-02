@@ -1,0 +1,15 @@
+{
+    "0x4DF7CFFF471A7FB1": {
+        "name": "NETWORK_ENTITY_AREA_HAVE_ALL_REPLIED",
+        "jhash": "0xCB1CD6D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "areaHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

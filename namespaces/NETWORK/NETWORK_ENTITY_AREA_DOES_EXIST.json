@@ -1,0 +1,15 @@
+{
+    "0xE64A3CA08DFA37A9": {
+        "name": "NETWORK_ENTITY_AREA_DOES_EXIST",
+        "jhash": "0x69956127",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "areaHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

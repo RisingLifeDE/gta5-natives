@@ -1,0 +1,18 @@
+{
+    "0x98215325A695E78A": {
+        "name": "SET_MOUSE_CURSOR_VISIBLE",
+        "jhash": "",
+        "comment": "Shows/hides the frontend cursor on the pause menu or similar menus.\nClicking off and then on the game window will show it again.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MOUSE_CURSOR_VISIBLE_IN_MENUS"
+        ]
+    }
+}

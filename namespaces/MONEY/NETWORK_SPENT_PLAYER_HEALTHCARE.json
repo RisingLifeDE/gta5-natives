@@ -1,0 +1,28 @@
+{
+    "0x7C99101F7FCE2EE5": {
+        "name": "NETWORK_SPENT_PLAYER_HEALTHCARE",
+        "jhash": "0x3D96A21C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

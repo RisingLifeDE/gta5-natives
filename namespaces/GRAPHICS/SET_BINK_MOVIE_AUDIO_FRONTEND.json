@@ -1,0 +1,22 @@
+{
+    "0xF816F2933752322D": {
+        "name": "SET_BINK_MOVIE_AUDIO_FRONTEND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "binkMovie"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_SET_BINK_MOVIE_UNK_2"
+        ]
+    }
+}

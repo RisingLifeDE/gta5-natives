@@ -1,0 +1,47 @@
+{
+    "0x817B86108EB94E51": {
+        "name": "SET_DESCRIPTION_FOR_UGC_MISSION_EIGHT_STRINGS",
+        "jhash": "0xD2161E77",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "p5"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "const char*",
+                "name": "p7"
+            },
+            {
+                "type": "const char*",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

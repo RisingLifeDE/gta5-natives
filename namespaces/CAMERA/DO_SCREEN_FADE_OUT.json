@@ -1,0 +1,15 @@
+{
+    "0x891B5B39AC6302AF": {
+        "name": "DO_SCREEN_FADE_OUT",
+        "jhash": "0x89D01805",
+        "comment": "Fades the screen out.\n\nduration: The time the fade should take, in milliseconds.",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

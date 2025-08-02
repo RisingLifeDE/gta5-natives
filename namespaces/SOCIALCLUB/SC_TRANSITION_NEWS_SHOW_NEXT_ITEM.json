@@ -1,0 +1,10 @@
+{
+    "0xD8122C407663B995": {
+        "name": "SC_TRANSITION_NEWS_SHOW_NEXT_ITEM",
+        "jhash": "0x1C65B038",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

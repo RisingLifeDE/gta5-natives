@@ -1,0 +1,27 @@
+{
+    "0xB5BA80F839791C0F": {
+        "name": "SET_VEHICLE_TYRE_SMOKE_COLOR",
+        "jhash": "0x3EDEC0DB",
+        "comment": "Sets the tire smoke's color of this vehicle.\n\nvehicle: The vehicle that is the target of this method.\nr: The red level in the RGB color code.\ng: The green level in the RGB color code.\nb: The blue level in the RGB color code.\n\nNote: setting r,g,b to 0 will give the car the \"Patriot\" tire smoke.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

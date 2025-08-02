@@ -1,0 +1,22 @@
+{
+    "0xA17BAD153B51547E": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_FALLOFF",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_CARGOBOB_PICKUP_MAGNET_EFFECT_RADIUS"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4BA4E2553AFEDC2C": {
+        "name": "GET_BLIP_INFO_ID_ENTITY_INDEX",
+        "jhash": "0xA068C40B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323"
+    }
+}

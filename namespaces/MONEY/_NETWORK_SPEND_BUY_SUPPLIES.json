@@ -1,0 +1,28 @@
+{
+    "0xB48185C0CA67B16B": {
+        "name": "_NETWORK_SPEND_BUY_SUPPLIES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802",
+        "unused": true
+    }
+}

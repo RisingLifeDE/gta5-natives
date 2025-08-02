@@ -1,0 +1,19 @@
+{
+    "0xC1F6EBF9A3D55538": {
+        "name": "SET_PED_HEATSCALE_OVERRIDE",
+        "jhash": "0xEF9142DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heatScale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

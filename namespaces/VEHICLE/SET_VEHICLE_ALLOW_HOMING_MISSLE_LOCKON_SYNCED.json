@@ -1,0 +1,26 @@
+{
+    "0x1DDA078D12879EEE": {
+        "name": "SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON_SYNCED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "canBeLockedOn"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_VEHICLE_CAN_BE_LOCKED_ON"
+        ]
+    }
+}

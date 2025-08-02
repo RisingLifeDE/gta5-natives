@@ -1,0 +1,19 @@
+{
+    "0xE66377CDDADA4810": {
+        "name": "SET_ENTITY_MIRROR_REFLECTION_FLAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

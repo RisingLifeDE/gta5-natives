@@ -1,0 +1,19 @@
+{
+    "0x97841634EF7DF1D6": {
+        "name": "SET_DISABLE_AUTOMATIC_CRASH_TASK",
+        "jhash": "",
+        "comment": "Sets a flag on heli and another vehicle type.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

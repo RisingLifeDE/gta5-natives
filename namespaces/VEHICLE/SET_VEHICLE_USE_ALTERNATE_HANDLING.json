@@ -1,0 +1,19 @@
+{
+    "0x1D97D1E3A70A649F": {
+        "name": "SET_VEHICLE_USE_ALTERNATE_HANDLING",
+        "jhash": "0xA03E42DF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB8FEAEEBCC127425": {
+        "name": "REMOVE_PARTICLE_FX_FROM_ENTITY",
+        "jhash": "0xCEDE52E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

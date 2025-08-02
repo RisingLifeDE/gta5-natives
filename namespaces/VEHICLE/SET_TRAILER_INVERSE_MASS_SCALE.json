@@ -1,0 +1,19 @@
+{
+    "0x2A8F319B392E7B3F": {
+        "name": "SET_TRAILER_INVERSE_MASS_SCALE",
+        "jhash": "0xE74E85CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

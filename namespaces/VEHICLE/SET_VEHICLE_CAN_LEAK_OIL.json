@@ -1,0 +1,19 @@
+{
+    "0x51BB2D88D31A914B": {
+        "name": "SET_VEHICLE_CAN_LEAK_OIL",
+        "jhash": "0x88F0F7E7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

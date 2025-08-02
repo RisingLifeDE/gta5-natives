@@ -1,0 +1,19 @@
+{
+    "0xE50384ACC2C3DB74": {
+        "name": "STAT_GET_STRING",
+        "jhash": "0x10CE4BDE",
+        "comment": "p1 is always -1 in the script files",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

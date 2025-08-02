@@ -1,0 +1,39 @@
+{
+    "0xE4723DB6E736CCFF": {
+        "name": "SET_PED_DEFENSIVE_SPHERE_ATTACHED_TO_VEHICLE",
+        "jhash": "0x4763B2C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

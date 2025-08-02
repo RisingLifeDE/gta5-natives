@@ -1,0 +1,19 @@
+{
+    "0x423DE3854BB50894": {
+        "name": "NETWORK_SET_IN_SPECTATOR_MODE",
+        "jhash": "0x5C4C8458",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Ped",
+                "name": "playerPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

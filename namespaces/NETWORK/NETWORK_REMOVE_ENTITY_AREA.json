@@ -1,0 +1,15 @@
+{
+    "0x93CF869BAA0C4874": {
+        "name": "NETWORK_REMOVE_ENTITY_AREA",
+        "jhash": "0xEAB97F25",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "areaHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

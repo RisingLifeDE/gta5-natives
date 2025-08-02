@@ -1,0 +1,15 @@
+{
+    "0x32DD916F3F7C9672": {
+        "name": "UGC_GET_CONTENT_LANGUAGE",
+        "jhash": "0xA2C5BD9D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xD46923FC481CA285": {
+        "name": "HIDE_HELP_TEXT_THIS_FRAME",
+        "jhash": "0xF3807BED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

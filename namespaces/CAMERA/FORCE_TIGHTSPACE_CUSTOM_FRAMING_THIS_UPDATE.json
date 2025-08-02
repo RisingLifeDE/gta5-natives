@@ -1,0 +1,10 @@
+{
+    "0x380B4968D1E09E55": {
+        "name": "FORCE_TIGHTSPACE_CUSTOM_FRAMING_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

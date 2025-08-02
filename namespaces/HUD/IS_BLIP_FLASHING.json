@@ -1,0 +1,15 @@
+{
+    "0xA5E41FD83AD6CEF0": {
+        "name": "IS_BLIP_FLASHING",
+        "jhash": "0x52E111D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

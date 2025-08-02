@@ -1,0 +1,15 @@
+{
+    "0xDEB2B99A1AF1A2A6": {
+        "name": "NETWORK_START_USER_CONTENT_PERMISSIONS_CHECK",
+        "jhash": "",
+        "comment": "Always returns -1. Seems to be XB1 specific.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

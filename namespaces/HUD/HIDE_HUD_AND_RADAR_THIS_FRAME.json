@@ -1,0 +1,10 @@
+{
+    "0x719FF505F097FD20": {
+        "name": "HIDE_HUD_AND_RADAR_THIS_FRAME",
+        "jhash": "0xB75D4AD2",
+        "comment": "Hides HUD and radar this frame and prohibits switching to other weapons (or accessing the weapon wheel)",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x70A252F60A3E036B": {
+        "name": "SET_HOVER_MODE_WING_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "ratio"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_SPECIALFLIGHT_WING_RATIO"
+        ]
+    }
+}

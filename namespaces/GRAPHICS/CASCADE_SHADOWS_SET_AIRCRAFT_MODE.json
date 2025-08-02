@@ -1,0 +1,15 @@
+{
+    "0x6DDBF9DFFC4AC080": {
+        "name": "CASCADE_SHADOWS_SET_AIRCRAFT_MODE",
+        "jhash": "0x9F470BE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x46818D79B1F7499A": {
+        "name": "ADD_BLIP_FOR_RADIUS",
+        "jhash": "0x4626756C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

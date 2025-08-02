@@ -1,0 +1,10 @@
+{
+    "0xB1577667C3708F9B": {
+        "name": "COMMIT_TO_LOADINGSCREEN_SELCTION",
+        "jhash": "0xB03BCCDF",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

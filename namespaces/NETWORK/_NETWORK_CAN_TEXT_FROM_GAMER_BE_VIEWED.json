@@ -1,0 +1,15 @@
+{
+    "0x9F633448E4C73207": {
+        "name": "_NETWORK_CAN_TEXT_FROM_GAMER_BE_VIEWED",
+        "jhash": "",
+        "comment": "NETWORK_CAN_*",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

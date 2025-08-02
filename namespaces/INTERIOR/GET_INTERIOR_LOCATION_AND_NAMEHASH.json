@@ -1,0 +1,26 @@
+{
+    "0x252BDC06B73FA6EA": {
+        "name": "GET_INTERIOR_LOCATION_AND_NAMEHASH",
+        "jhash": "0x75885CB3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_GET_INTERIOR_INFO"
+        ]
+    }
+}

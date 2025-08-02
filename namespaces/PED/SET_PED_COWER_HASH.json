@@ -1,0 +1,19 @@
+{
+    "0xA549131166868ED3": {
+        "name": "SET_PED_COWER_HASH",
+        "jhash": "0x16F30DF4",
+        "comment": "p1: Only \"CODE_HUMAN_STAND_COWER\" found in the b617d scripts.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

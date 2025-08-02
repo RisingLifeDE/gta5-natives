@@ -1,0 +1,10 @@
+{
+    "0x0EC92A1BF0857187": {
+        "name": "RELEASE_MISSION_AUDIO_BANK",
+        "jhash": "0x8E8824C7",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x1930DFA731813EC4": {
+        "name": "IS_HUD_PREFERENCE_SWITCHED_ON",
+        "jhash": "0xC3BC1B4F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

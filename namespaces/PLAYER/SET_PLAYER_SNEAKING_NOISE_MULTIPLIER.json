@@ -1,0 +1,19 @@
+{
+    "0xB2C1A29588A9F47C": {
+        "name": "SET_PLAYER_SNEAKING_NOISE_MULTIPLIER",
+        "jhash": "0x8D2D89C4",
+        "comment": "Values around 1.0f to 2.0f used in game scripts.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

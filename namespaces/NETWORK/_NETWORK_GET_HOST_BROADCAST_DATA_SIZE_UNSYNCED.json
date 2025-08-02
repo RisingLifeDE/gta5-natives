@@ -1,0 +1,28 @@
+{
+    "0x72C8588ABE22C972": {
+        "name": "_NETWORK_GET_HOST_BROADCAST_DATA_SIZE_UNSYNCED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptNameHash"
+            },
+            {
+                "type": "int",
+                "name": "instance"
+            },
+            {
+                "type": "Hash",
+                "name": "positionHash"
+            },
+            {
+                "type": "int",
+                "name": "handlerNum"
+            }
+        ],
+        "return_type": "int",
+        "build": "3586",
+        "unused": true
+    }
+}

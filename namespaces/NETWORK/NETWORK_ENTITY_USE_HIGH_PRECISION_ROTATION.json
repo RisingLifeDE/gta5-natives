@@ -1,0 +1,19 @@
+{
+    "0x95BAF97C82464629": {
+        "name": "NETWORK_ENTITY_USE_HIGH_PRECISION_ROTATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

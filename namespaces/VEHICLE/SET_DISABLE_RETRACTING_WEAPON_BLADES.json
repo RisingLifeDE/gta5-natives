@@ -1,0 +1,15 @@
+{
+    "0x8F0D5BA1C2CC91D7": {
+        "name": "SET_DISABLE_RETRACTING_WEAPON_BLADES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

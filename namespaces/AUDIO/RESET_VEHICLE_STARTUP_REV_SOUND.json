@@ -1,0 +1,18 @@
+{
+    "0xD2DCCD8E16E20997": {
+        "name": "RESET_VEHICLE_STARTUP_REV_SOUND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_VEHICLE_STARTUP_REV_SOUND"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x8EF07E15701D61ED": {
+        "name": "SET_BITS_IN_RANGE",
+        "jhash": "0x32094719",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "var"
+            },
+            {
+                "type": "int",
+                "name": "rangeStart"
+            },
+            {
+                "type": "int",
+                "name": "rangeEnd"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

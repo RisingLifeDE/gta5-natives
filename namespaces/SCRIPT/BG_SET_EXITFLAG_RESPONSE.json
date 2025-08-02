@@ -1,0 +1,11 @@
+{
+    "0x760910B49D2B98EA": {
+        "name": "BG_SET_EXITFLAG_RESPONSE",
+        "jhash": "0x5C95B670",
+        "comment": "Sets bit 1 in GtaThread+0x154",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

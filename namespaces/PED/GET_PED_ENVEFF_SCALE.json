@@ -1,0 +1,15 @@
+{
+    "0x9C14D30395A51A3C": {
+        "name": "GET_PED_ENVEFF_SCALE",
+        "jhash": "0xA3421E39",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

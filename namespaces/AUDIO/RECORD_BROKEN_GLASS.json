@@ -1,0 +1,27 @@
+{
+    "0xFBE20329593DEC9D": {
+        "name": "RECORD_BROKEN_GLASS",
+        "jhash": "0x53FC3FEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

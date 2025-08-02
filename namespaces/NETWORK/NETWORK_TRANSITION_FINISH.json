@@ -1,0 +1,23 @@
+{
+    "0x04918A41BC9B8157": {
+        "name": "NETWORK_TRANSITION_FINISH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "617"
+    }
+}

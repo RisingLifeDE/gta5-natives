@@ -1,0 +1,19 @@
+{
+    "0x79B656937DF6DF5D": {
+        "name": "_NETWORK_EARN_SELL_ACID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

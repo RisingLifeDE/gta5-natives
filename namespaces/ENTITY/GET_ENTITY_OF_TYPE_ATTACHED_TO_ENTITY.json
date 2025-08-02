@@ -1,0 +1,22 @@
+{
+    "0x1F922734E259BD26": {
+        "name": "GET_ENTITY_OF_TYPE_ATTACHED_TO_ENTITY",
+        "jhash": "",
+        "comment": "Gets the handle of an entity with a specific model hash attached to another entity, such as an object attached to a ped.\n This native does not appear to have anything to do with pickups as in scripts it is used with objects.\n\nExample from fm_mission_controller_2020.c:\n\niVar8 = ENTITY::GET_ENTITY_OF_TYPE_ATTACHED_TO_ENTITY(bParam0->f_9, joaat(\"p_cs_clipboard\"));",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1180",
+        "old_names": [
+            "_GET_ENTITY_ATTACHED_TO_WITH_HASH"
+        ]
+    }
+}

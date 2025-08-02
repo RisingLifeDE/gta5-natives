@@ -1,0 +1,15 @@
+{
+    "0xA921DED15FDF28F5": {
+        "name": "NETWORK_CLEAR_CHARACTER_WALLET",
+        "jhash": "0x19F0C471",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "0xF7F9DCCA89E7505B": {
+        "name": "TASK_PLANE_GOTO_PRECISE_VTOL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "flightHeight"
+            },
+            {
+                "type": "int",
+                "name": "minHeightAboveTerrain"
+            },
+            {
+                "type": "BOOL",
+                "name": "useDesiredOrientation"
+            },
+            {
+                "type": "float",
+                "name": "desiredOrientation"
+            },
+            {
+                "type": "BOOL",
+                "name": "autopilot"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

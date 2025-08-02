@@ -1,0 +1,15 @@
+{
+    "0x0C92BA89F1AF26F8": {
+        "name": "GET_PLAYER_WANTED_CENTRE_POSITION",
+        "jhash": "0x821F2D2C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

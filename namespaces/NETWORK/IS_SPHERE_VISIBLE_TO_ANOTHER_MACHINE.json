@@ -1,0 +1,27 @@
+{
+    "0xD82CF8E64C8729D8": {
+        "name": "IS_SPHERE_VISIBLE_TO_ANOTHER_MACHINE",
+        "jhash": "0x23C5274E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

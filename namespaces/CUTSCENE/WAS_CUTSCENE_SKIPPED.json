@@ -1,0 +1,10 @@
+{
+    "0x40C8656EDAEDD569": {
+        "name": "WAS_CUTSCENE_SKIPPED",
+        "jhash": "0xC9B6949D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

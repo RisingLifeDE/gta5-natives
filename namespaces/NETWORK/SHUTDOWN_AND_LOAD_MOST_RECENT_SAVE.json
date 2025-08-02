@@ -1,0 +1,13 @@
+{
+    "0x9ECA15ADFE141431": {
+        "name": "SHUTDOWN_AND_LOAD_MOST_RECENT_SAVE",
+        "jhash": "",
+        "comment": "In singleplayer this will re-load your game.\n\nIn FiveM / GTA:Online this disconnects you from the session, and starts loading single player, however you still remain connected to the server (only if you're the host, if you're not then you also (most likely) get disconnected from the server) and other players will not be able to join until you exit the game.\n\nYou might need to DoScreenFadeIn and ShutdownLoadingScreen otherwise you probably won't end up loading into SP at all.\n\nSomewhat related note: opening the pause menu after loading into this 'singleplayer' mode crashes the game.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "_SHUTDOWN_AND_LOAD_MOST_RECENT_SAVE"
+        ]
+    }
+}

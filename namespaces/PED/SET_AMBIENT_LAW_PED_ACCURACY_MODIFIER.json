@@ -1,0 +1,15 @@
+{
+    "0x87DDEB611B329A9C": {
+        "name": "SET_AMBIENT_LAW_PED_ACCURACY_MODIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

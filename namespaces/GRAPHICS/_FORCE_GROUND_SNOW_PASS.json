@@ -1,0 +1,15 @@
+{
+    "0x6E9EF3A33C8899F8": {
+        "name": "_FORCE_GROUND_SNOW_PASS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

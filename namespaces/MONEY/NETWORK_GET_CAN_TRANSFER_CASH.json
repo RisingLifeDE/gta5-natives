@@ -1,0 +1,16 @@
+{
+    "0x08E8EEADFD0DC4A0": {
+        "name": "NETWORK_GET_CAN_TRANSFER_CASH",
+        "jhash": "0x03461981",
+        "comment": "Returns false if amount > wallet balance or daily transfer limit has been hit.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

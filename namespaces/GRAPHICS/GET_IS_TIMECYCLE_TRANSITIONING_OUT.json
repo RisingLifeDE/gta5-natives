@@ -1,0 +1,10 @@
+{
+    "0x98D18905BF723B99": {
+        "name": "GET_IS_TIMECYCLE_TRANSITIONING_OUT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1493"
+    }
+}

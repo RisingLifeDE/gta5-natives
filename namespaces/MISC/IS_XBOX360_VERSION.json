@@ -1,0 +1,10 @@
+{
+    "0xF6201B4DAF662A9D": {
+        "name": "IS_XBOX360_VERSION",
+        "jhash": "0x24005CC8",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

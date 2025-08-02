@@ -1,0 +1,59 @@
+{
+    "0xE184F4F0DC5910E7": {
+        "name": "START_PARTICLE_FX_LOOPED_AT_COORD",
+        "jhash": "0xD348E3E6",
+        "comment": "GRAPHICS::START_PARTICLE_FX_LOOPED_AT_COORD(\"scr_fbi_falling_debris\", 93.7743f, -749.4572f, 70.86904f, 0f, 0f, 0f, 0x3F800000, 0, 0, 0, 0)\n\n\np11 seems to be always 0\n\nFull list of particle effect dictionaries and effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/particleEffectsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

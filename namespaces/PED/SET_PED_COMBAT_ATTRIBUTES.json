@@ -1,0 +1,23 @@
+{
+    "0x9F7794730795E019": {
+        "name": "SET_PED_COMBAT_ATTRIBUTES",
+        "jhash": "0x81D64248",
+        "comment": "enum eCombatAttributes // 0x0E8E7201\n{\n\tBF_CanUseCover = 0,\n\tBF_CanUseVehicles = 1,\n\tBF_CanDoDrivebys = 2,\n\tBF_CanLeaveVehicle = 3,\n\tBF_CanUseDynamicStrafeDecisions = 4,\n\tBF_AlwaysFight = 5,\n\tBF_0x66BB9FCC = 6,\n\tBF_0x6837DA41 = 7,\n\tBF_0xB4A13A5A = 8,\n\tBF_0xEE326AAD = 9,\n\tBF_0x7DF2CCFA = 10,\n\tBF_0x0036D422 = 11,\n\tBF_BlindFireWhenInCover = 12,\n\tBF_Aggressive = 13,\n\tBF_CanInvestigate = 14,\n\tBF_HasRadio = 15,\n\tBF_0x6BDE28D1 = 16,\n\tBF_AlwaysFlee = 17,\n\tBF_0x7852797D = 18,\n\tBF_0x33497B95 = 19,\n\tBF_CanTauntInVehicle = 20,\n\tBF_CanChaseTargetOnFoot = 21,\n\tBF_WillDragInjuredPedsToSafety = 22,\n\tBF_0xCD7168B8 = 23,\n\tBF_UseProximityFiringRate = 24,\n\tBF_0x48F914F8 = 25,\n\tBF_0x2EA543D0 = 26,\n\tBF_PerfectAccuracy = 27,\n\tBF_CanUseFrustratedAdvance = 28,\n\tBF_0x3D131AC1 = 29,\n\tBF_0x3AD95F27 = 30,\n\tBF_MaintainMinDistanceToTarget = 31,\n\tBF_0xEAD68AD2 = 32,\n\tBF_0xA206C2E0 = 33,\n\tBF_CanUsePeekingVariations = 34,\n\tBF_0xA5715184 = 35,\n\tBF_0xD5265533 = 36,\n\tBF_0x2B84C2BF = 37,\n\tBF_DisableBulletReactions = 38,\n\tBF_CanBust = 39,\n\tBF_0xAA525726 = 40,\n\tBF_CanCommandeerVehicles = 41,\n\tBF_CanFlank = 42,\n\tBF_SwitchToAdvanceIfCantFindCover = 43,\n\tBF_SwitchToDefensiveIfInCover = 44,\n\tBF_0xEB4786A0 = 45,\n\tBF_CanFightArmedPedsWhenNotArmed = 46,\n\tBF_0xA08E9402 = 47,\n\tBF_0x952EAD7D = 48,\n\tBF_UseEnemyAccuracyScaling = 49,\n\tBF_CanCharge = 50,\n\tBF_0xDA8C2BD3 = 51,\n\tBF_0x6562F017 = 52,\n\tBF_0xA2C3D53B = 53,\n\tBF_AlwaysEquipBestWeapon = 54,\n\tBF_CanSeeUnderwaterPeds = 55,\n\tBF_0xF619486B = 56,\n\tBF_0x61EB63A3 = 57,\n\tBF_DisableFleeFromCombat = 58,\n\tBF_0x8976D12B = 59,\n\tBF_CanThrowSmokeGrenade = 60,\n\tBF_NonMissionPedsFleeFromThisPedUnlessArmed = 61,\n\tBF_0x5452A10C = 62,\n\tBF_FleesFromInvincibleOpponents = 63,\n\tBF_DisableBlockFromPursueDuringVehicleChase = 64,\n\tBF_DisableSpinOutDuringVehicleChase = 65,\n\tBF_DisableCruiseInFrontDuringBlockDuringVehicleChase = 66,\n\tBF_0x0B404731 = 67,\n\tBF_DisableReactToBuddyShot = 68,\n\tBF_0x7FFD6AEB = 69,\n\tBF_0x51F4AEF8 = 70,\n\tBF_PermitChargeBeyondDefensiveArea = 71,\n\tBF_0x63E0A8E2 = 72,\n\tBF_0xDF974436 = 73,\n\tBF_0x556C080B = 74,\n\tBF_0xA4D50035 = 75,\n\tBF_SetDisableShoutTargetPositionOnCombatStart = 76,\n\tBF_DisableRespondedToThreatBroadcast = 77,\n\tBF_0xCBB01765 = 78,\n\tBF_0x4F862ED4 = 79,\n\tBF_0xEF9C7C40 = 80,\n\tBF_0xE51B494F = 81,\n\tBF_0x054D0199 = 82,\n\tBF_0xD36BCE94 = 83,\n\tBF_0xFB11F690 = 84,\n\tBF_0xD208A9AD = 85,\n\tBF_AllowDogFighting = 86,\n\tBF_0x07A6E531 = 87,\n\tBF_0x34F9317B = 88,\n\tBF_0x4240F5A9 = 89,\n\tBF_0xEE129DBD = 90,\n\tBF_0x053AEAD9 = 91\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

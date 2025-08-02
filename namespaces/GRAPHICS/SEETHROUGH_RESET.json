@@ -1,0 +1,10 @@
+{
+    "0x70A64C0234EF522C": {
+        "name": "SEETHROUGH_RESET",
+        "jhash": "0x310E9B67",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

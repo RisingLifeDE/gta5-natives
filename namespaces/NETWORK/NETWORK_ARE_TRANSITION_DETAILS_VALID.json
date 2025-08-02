@@ -1,0 +1,15 @@
+{
+    "0x2615AA2A695930C1": {
+        "name": "NETWORK_ARE_TRANSITION_DETAILS_VALID",
+        "jhash": "0xCDEBCCE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x8C7E8D6F96C9E948": {
+        "name": "_NETWORK_SPENT_AIR_FREIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hangarCargoSourcingPrice"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBankAndWallet"
+            },
+            {
+                "type": "int",
+                "name": "cost"
+            },
+            {
+                "type": "int",
+                "name": "warehouseId"
+            },
+            {
+                "type": "int",
+                "name": "warehouseSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

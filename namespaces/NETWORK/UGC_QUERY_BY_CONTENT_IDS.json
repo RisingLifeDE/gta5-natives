@@ -1,0 +1,27 @@
+{
+    "0xC7397A83F7A2A462": {
+        "name": "UGC_QUERY_BY_CONTENT_IDS",
+        "jhash": "0x47B3C35E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "count"
+            },
+            {
+                "type": "BOOL",
+                "name": "latestVersion"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

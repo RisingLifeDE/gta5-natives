@@ -1,0 +1,10 @@
+{
+    "0xE6DE0561D9232A64": {
+        "name": "CLEAR_GPS_CUSTOM_ROUTE",
+        "jhash": "0xCF2E3E24",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

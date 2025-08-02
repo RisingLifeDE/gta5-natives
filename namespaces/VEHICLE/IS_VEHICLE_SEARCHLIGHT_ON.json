@@ -1,0 +1,15 @@
+{
+    "0xC0F97FCE55094987": {
+        "name": "IS_VEHICLE_SEARCHLIGHT_ON",
+        "jhash": "0xADAF3513",
+        "comment": "Possibly: Returns whether the searchlight (found on police vehicles) is toggled on.\n\n@Author Nac",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

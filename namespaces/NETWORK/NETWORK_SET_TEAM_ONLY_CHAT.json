@@ -1,0 +1,15 @@
+{
+    "0xD5B4883AC32F24C3": {
+        "name": "NETWORK_SET_TEAM_ONLY_CHAT",
+        "jhash": "0x3813019A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

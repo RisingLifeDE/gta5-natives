@@ -1,0 +1,15 @@
+{
+    "0x973D76AA760A6CB6": {
+        "name": "NETWORK_TRANSITION_BLOCK_JOIN_REQUESTS",
+        "jhash": "0x0532DDD2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1DBD58820FA61D71": {
+        "name": "IS_ENTITY_UPSIDEDOWN",
+        "jhash": "0x5ACAA48F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

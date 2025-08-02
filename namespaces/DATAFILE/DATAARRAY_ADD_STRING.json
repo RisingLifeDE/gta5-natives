@@ -1,0 +1,22 @@
+{
+    "0x2F0661C155AEEEAA": {
+        "name": "DATAARRAY_ADD_STRING",
+        "jhash": "0xF3C01350",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_ADD_STRING"
+        ]
+    }
+}

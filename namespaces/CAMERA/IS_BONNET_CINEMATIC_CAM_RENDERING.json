@@ -1,0 +1,10 @@
+{
+    "0xD7360051C885628B": {
+        "name": "IS_BONNET_CINEMATIC_CAM_RENDERING",
+        "jhash": "0x1DD55F13",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "372"
+    }
+}

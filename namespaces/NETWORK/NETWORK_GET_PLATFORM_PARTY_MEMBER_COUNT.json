@@ -1,0 +1,13 @@
+{
+    "0x01ABCE5E7CBDA196": {
+        "name": "NETWORK_GET_PLATFORM_PARTY_MEMBER_COUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_PLATFORM_PARTY_UNK"
+        ]
+    }
+}

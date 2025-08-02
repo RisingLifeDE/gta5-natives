@@ -1,0 +1,23 @@
+{
+    "0xBA291848A0815CA9": {
+        "name": "IS_VEHICLE_TYRE_BURST",
+        "jhash": "0x48C80210",
+        "comment": "wheelID used for 4 wheelers seem to be (0, 1, 4, 5)\ncompletely - is to check if tire completely gone from rim.\n\n'0 = wheel_lf / bike, plane or jet front\n'1 = wheel_rf\n'2 = wheel_lm / in 6 wheels trailer, plane or jet is first one on left\n'3 = wheel_rm / in 6 wheels trailer, plane or jet is first one on right\n'4 = wheel_lr / bike rear / in 6 wheels trailer, plane or jet is last one on left\n'5 = wheel_rr / in 6 wheels trailer, plane or jet is last one on right\n'45 = 6 wheels trailer mid wheel left\n'47 = 6 wheels trailer mid wheel right",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelID"
+            },
+            {
+                "type": "BOOL",
+                "name": "completely"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

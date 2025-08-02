@@ -1,0 +1,19 @@
+{
+    "0x2B5F9D2AF1F1722D": {
+        "name": "SET_VEHICLE_HAS_BEEN_OWNED_BY_PLAYER",
+        "jhash": "0xB4D3DBFB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "owned"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

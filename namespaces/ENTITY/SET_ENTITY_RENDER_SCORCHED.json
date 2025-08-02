@@ -1,0 +1,19 @@
+{
+    "0x730F5F8D3F0F2050": {
+        "name": "SET_ENTITY_RENDER_SCORCHED",
+        "jhash": "0xAAC9317B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

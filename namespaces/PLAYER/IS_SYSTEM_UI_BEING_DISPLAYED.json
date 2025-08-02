@@ -1,0 +1,10 @@
+{
+    "0x5D511E3867C87139": {
+        "name": "IS_SYSTEM_UI_BEING_DISPLAYED",
+        "jhash": "0xE495B6DA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

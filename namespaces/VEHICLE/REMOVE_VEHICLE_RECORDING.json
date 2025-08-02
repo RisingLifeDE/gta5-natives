@@ -1,0 +1,19 @@
+{
+    "0xF1160ACCF98A3FC8": {
+        "name": "REMOVE_VEHICLE_RECORDING",
+        "jhash": "0xD3C05B00",
+        "comment": "See REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

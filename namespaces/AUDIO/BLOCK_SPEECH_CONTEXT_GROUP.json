@@ -1,0 +1,19 @@
+{
+    "0xA8A7D434AFB4B97B": {
+        "name": "BLOCK_SPEECH_CONTEXT_GROUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493"
+    }
+}

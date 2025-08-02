@@ -1,0 +1,19 @@
+{
+    "0x85F462BADC7DA47F": {
+        "name": "ADD_VEHICLE_SUBTASK_ATTACK_PED",
+        "jhash": "0x80461113",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

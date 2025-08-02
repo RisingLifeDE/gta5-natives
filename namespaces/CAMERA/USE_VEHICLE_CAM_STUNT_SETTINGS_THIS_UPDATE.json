@@ -1,0 +1,13 @@
+{
+    "0x6493CF69859B116A": {
+        "name": "USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_USE_STUNT_CAMERA_THIS_FRAME"
+        ]
+    }
+}

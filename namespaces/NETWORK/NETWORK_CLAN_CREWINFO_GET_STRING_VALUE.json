@@ -1,0 +1,22 @@
+{
+    "0x729E3401F0430686": {
+        "name": "NETWORK_CLAN_CREWINFO_GET_STRING_VALUE",
+        "jhash": "0xBDA90BAC",
+        "comment": "Only documented...\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_CLAN_ANIMATION"
+        ]
+    }
+}

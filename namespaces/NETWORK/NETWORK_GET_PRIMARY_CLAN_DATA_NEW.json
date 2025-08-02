@@ -1,0 +1,19 @@
+{
+    "0xC080FF658B2E41DA": {
+        "name": "NETWORK_GET_PRIMARY_CLAN_DATA_NEW",
+        "jhash": "0x9B8631EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

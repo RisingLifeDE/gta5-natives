@@ -1,0 +1,10 @@
+{
+    "0x1A31FE0049E542F6": {
+        "name": "DISABLE_AIM_CAM_THIS_UPDATE",
+        "jhash": "0x1BAA7182",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

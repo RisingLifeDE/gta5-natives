@@ -1,0 +1,19 @@
+{
+    "0x32C62AA929C2DA6A": {
+        "name": "SET_POLICE_IGNORE_PLAYER",
+        "jhash": "0xE6DE71B7",
+        "comment": "The player will be ignored by the police if toggle is set to true",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

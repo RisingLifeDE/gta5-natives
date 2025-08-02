@@ -1,0 +1,10 @@
+{
+    "0xBC456FB703431785": {
+        "name": "_GET_THIRD_PERSON_CAM_MIN_ORBIT_DISTANCE_SPRING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "3095"
+    }
+}

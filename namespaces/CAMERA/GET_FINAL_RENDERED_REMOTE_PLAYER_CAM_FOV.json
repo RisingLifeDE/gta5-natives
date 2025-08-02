@@ -1,0 +1,18 @@
+{
+    "0x5F35F6732C3FBBA0": {
+        "name": "GET_FINAL_RENDERED_REMOTE_PLAYER_CAM_FOV",
+        "jhash": "0x23E3F106",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "GET_FINAL_RENDERED_IN_WHEN_FRIENDLY_FOV"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x265635150FB0D82E": {
+        "name": "DELAY_MP_STORE_OPEN",
+        "jhash": "0xA7FA70AE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

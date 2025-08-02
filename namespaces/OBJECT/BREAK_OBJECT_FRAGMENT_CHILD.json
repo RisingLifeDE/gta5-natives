@@ -1,0 +1,23 @@
+{
+    "0xE7E4C198B0185900": {
+        "name": "BREAK_OBJECT_FRAGMENT_CHILD",
+        "jhash": "0x1E82C2AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

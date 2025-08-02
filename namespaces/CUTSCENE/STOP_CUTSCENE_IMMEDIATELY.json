@@ -1,0 +1,10 @@
+{
+    "0xD220BDD222AC4A1E": {
+        "name": "STOP_CUTSCENE_IMMEDIATELY",
+        "jhash": "0xF528A2AD",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

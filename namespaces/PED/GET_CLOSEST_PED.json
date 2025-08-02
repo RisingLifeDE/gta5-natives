@@ -1,0 +1,51 @@
+{
+    "0xC33AB876A77F8164": {
+        "name": "GET_CLOSEST_PED",
+        "jhash": "0x8F6C1F55",
+        "comment": "Gets the closest ped in a radius.\n\nPed Types:\nAny ped = -1\nPlayer = 1\nMale = 4 \nFemale = 5 \nCop = 6\nHuman = 26\nSWAT = 27 \nAnimal = 28\nArmy = 29\n\n------------------\nP4 P5 P7 P8\n1  0  x  x  = return nearest walking Ped\n1  x  0  x  = return nearest walking Ped\nx  1  1  x  = return Ped you are using\n0  0  x  x  = no effect\n0  x  0  x  = no effect\n\nx = can be 1 or 0. Does not have any obvious changes.\n\nThis function does not return ped who is:\n1. Standing still\n2. Driving\n3. Fleeing\n4. Attacking\n\nThis function only work if the ped is:\n1. walking normally.\n2. waiting to cross a road.\n\nNote: PED::GET_PED_NEARBY_PEDS works for more peds.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "Ped*",
+                "name": "outPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "pedType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

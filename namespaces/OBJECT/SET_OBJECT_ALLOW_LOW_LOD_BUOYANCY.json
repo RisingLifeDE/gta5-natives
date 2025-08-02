@@ -1,0 +1,22 @@
+{
+    "0x4D89D607CB3DD1D2": {
+        "name": "SET_OBJECT_ALLOW_LOW_LOD_BUOYANCY",
+        "jhash": "0x19B17769",
+        "comment": "Overrides the climbing/blocking flags of the object, used in the native scripts mostly for \"prop_dock_bouy_*\"",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_OBJECT_CAN_CLIMB_ON"
+        ]
+    }
+}

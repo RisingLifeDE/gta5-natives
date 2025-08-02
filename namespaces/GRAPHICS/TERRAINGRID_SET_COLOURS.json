@@ -1,0 +1,59 @@
+{
+    "0x5CE62918F8D703C7": {
+        "name": "TERRAINGRID_SET_COLOURS",
+        "jhash": "0xDF552973",
+        "comment": "This native is used along with these two natives: `TERRAINGRID_ACTIVATE` and `TERRAINGRID_SET_PARAMS`.\nThis native sets the colors for the golf putting grid. the 'min...' values are for the lower areas that the grid covers, the 'max...' values are for the higher areas that the grid covers, all remaining values are for the 'normal' ground height.\nAll those natives combined they will output something like this: https://i.imgur.com/TC6cku6.png",
+        "params": [
+            {
+                "type": "int",
+                "name": "lowR"
+            },
+            {
+                "type": "int",
+                "name": "lowG"
+            },
+            {
+                "type": "int",
+                "name": "lowB"
+            },
+            {
+                "type": "int",
+                "name": "lowAlpha"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "highR"
+            },
+            {
+                "type": "int",
+                "name": "highG"
+            },
+            {
+                "type": "int",
+                "name": "highB"
+            },
+            {
+                "type": "int",
+                "name": "highAlpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

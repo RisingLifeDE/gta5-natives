@@ -1,0 +1,19 @@
+{
+    "0xB195FFA8042FC5C3": {
+        "name": "SET_DRIVER_ABILITY",
+        "jhash": "0xAAD4012C",
+        "comment": "The function specifically verifies the value is equal to, or less than 1.0f. If it is greater than 1.0f, the function does nothing at all.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "ability"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

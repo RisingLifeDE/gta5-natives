@@ -1,0 +1,26 @@
+{
+    "0x394BDE2A7BBA031E": {
+        "name": "HAS_ENTITY_CLEAR_LOS_TO_ENTITY_ADJUST_FOR_COVER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "traceType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1868",
+        "old_names": [
+            "_HAS_ENTITY_CLEAR_LOS_TO_ENTITY_2"
+        ]
+    }
+}

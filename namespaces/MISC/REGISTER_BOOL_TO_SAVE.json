@@ -1,0 +1,19 @@
+{
+    "0xC8F4131414C835A1": {
+        "name": "REGISTER_BOOL_TO_SAVE",
+        "jhash": "0x5417E0E0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

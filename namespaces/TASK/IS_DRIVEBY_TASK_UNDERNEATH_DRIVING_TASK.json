@@ -1,0 +1,15 @@
+{
+    "0x8785E6E40C7A8818": {
+        "name": "IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK",
+        "jhash": "0xB23F46E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

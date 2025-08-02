@@ -1,0 +1,19 @@
+{
+    "0xA98FCAFD7893C834": {
+        "name": "UPDATE_TASK_HANDS_UP_DURATION",
+        "jhash": "0x3AA39BE9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x5D583F71C901F2A3": {
+        "name": "GET_CUTSCENE_PLAY_DURATION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2802"
+    }
+}

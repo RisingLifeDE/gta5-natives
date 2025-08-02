@@ -1,0 +1,22 @@
+{
+    "0xFC695459D4D0E219": {
+        "name": "SET_CURSOR_POSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SET_CURSOR_LOCATION"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0AD973CA1E077B60": {
+        "name": "IS_TVSHOW_CURRENTLY_PLAYING",
+        "jhash": "0x4D1EB0FB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "videoCliphash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_LOAD_TV_CHANNEL",
+            "_IS_TV_PLAYLIST_ITEM_PLAYING"
+        ]
+    }
+}

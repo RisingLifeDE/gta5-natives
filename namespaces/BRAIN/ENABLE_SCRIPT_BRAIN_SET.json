@@ -1,0 +1,15 @@
+{
+    "0x67AA4D73F0CFA86B": {
+        "name": "ENABLE_SCRIPT_BRAIN_SET",
+        "jhash": "0x2765919F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "brainSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

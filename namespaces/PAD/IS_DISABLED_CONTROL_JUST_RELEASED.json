@@ -1,0 +1,19 @@
+{
+    "0x305C8DCD79DA8B0F": {
+        "name": "IS_DISABLED_CONTROL_JUST_RELEASED",
+        "jhash": "0xD6A679E1",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

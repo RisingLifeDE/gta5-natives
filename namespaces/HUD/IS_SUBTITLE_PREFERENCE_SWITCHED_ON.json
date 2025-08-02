@@ -1,0 +1,10 @@
+{
+    "0xAD6DACA4BA53E0A4": {
+        "name": "IS_SUBTITLE_PREFERENCE_SWITCHED_ON",
+        "jhash": "0x63BA19F5",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

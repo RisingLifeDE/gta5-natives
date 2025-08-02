@@ -1,0 +1,19 @@
+{
+    "0xF145F3BE2EFA9A3B": {
+        "name": "SPECIAL_ABILITY_UNLOCK",
+        "jhash": "0x1FDB2919",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "playerModel"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

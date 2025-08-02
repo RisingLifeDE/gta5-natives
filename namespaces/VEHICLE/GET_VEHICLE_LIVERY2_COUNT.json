@@ -1,0 +1,18 @@
+{
+    "0x5ECB40269053C0D4": {
+        "name": "GET_VEHICLE_LIVERY2_COUNT",
+        "jhash": "",
+        "comment": "Returns a number of available secondary liveries, or -1 if vehicle has no secondary liveries available.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "505",
+        "old_names": [
+            "_GET_VEHICLE_ROOF_LIVERY_COUNT"
+        ]
+    }
+}

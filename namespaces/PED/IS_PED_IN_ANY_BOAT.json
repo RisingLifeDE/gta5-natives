@@ -1,0 +1,15 @@
+{
+    "0x2E0E1C2B4F6CB339": {
+        "name": "IS_PED_IN_ANY_BOAT",
+        "jhash": "0x1118A947",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

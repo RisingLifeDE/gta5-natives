@@ -1,0 +1,10 @@
+{
+    "0xFBC5E768C7A77A6A": {
+        "name": "UGC_GET_CREATE_RESULT",
+        "jhash": "0xCE569932",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

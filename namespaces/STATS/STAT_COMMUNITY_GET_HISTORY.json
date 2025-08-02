@@ -1,0 +1,23 @@
+{
+    "0xBED9F5693F34ED17": {
+        "name": "STAT_COMMUNITY_GET_HISTORY",
+        "jhash": "0xC4110917",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float*",
+                "name": "outValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

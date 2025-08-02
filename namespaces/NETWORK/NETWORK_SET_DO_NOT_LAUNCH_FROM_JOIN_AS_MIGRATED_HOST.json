@@ -1,0 +1,15 @@
+{
+    "0xA2E9C1AB8A92E8CD": {
+        "name": "NETWORK_SET_DO_NOT_LAUNCH_FROM_JOIN_AS_MIGRATED_HOST",
+        "jhash": "0x8D014B23",
+        "comment": "Appears to set whether a transition should be started when the session is migrating.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

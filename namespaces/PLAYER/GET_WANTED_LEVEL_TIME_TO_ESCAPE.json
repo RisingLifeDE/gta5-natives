@@ -1,0 +1,13 @@
+{
+    "0xA72200F51875FEA4": {
+        "name": "GET_WANTED_LEVEL_TIME_TO_ESCAPE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2372",
+        "old_names": [
+            "_GET_WANTED_LEVEL_PAROLE_DURATION"
+        ]
+    }
+}

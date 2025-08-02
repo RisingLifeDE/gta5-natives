@@ -1,0 +1,19 @@
+{
+    "0xF8B49F5BA7F850E7": {
+        "name": "SET_AIRCRAFT_IGNORE_HIGHTMAP_OPTIMISATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060"
+    }
+}

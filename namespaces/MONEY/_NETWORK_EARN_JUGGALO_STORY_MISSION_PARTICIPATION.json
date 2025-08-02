@@ -1,0 +1,20 @@
+{
+    "0x40FF6CCCC476185C": {
+        "name": "_NETWORK_EARN_JUGGALO_STORY_MISSION_PARTICIPATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802",
+        "unused": true
+    }
+}

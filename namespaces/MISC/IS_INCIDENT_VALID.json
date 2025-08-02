@@ -1,0 +1,15 @@
+{
+    "0xC8BC6461E629BEAA": {
+        "name": "IS_INCIDENT_VALID",
+        "jhash": "0x31FD0BA4",
+        "comment": "=======================================================\nCorrection, I have change this to int, instead of int*\nas it doesn't use a pointer to the createdIncident.\nIf you try it you will crash (or) freeze.\n=======================================================",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3288D8ACAECD2AB2": {
+        "name": "REMOVE_PICKUP",
+        "jhash": "0x64A7A0E0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xEB709A36958ABE0D": {
+        "name": "IS_UPDATING_MP_GAMER_TAG_NAME_AND_CREW_DETAILS",
+        "jhash": "0xF11414C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_MP_GAMER_TAG_2",
+            "_HAS_MP_GAMER_TAG_CREW_FLAGS_SET",
+            "_IS_VALID_MP_GAMER_TAG_MOVIE"
+        ]
+    }
+}

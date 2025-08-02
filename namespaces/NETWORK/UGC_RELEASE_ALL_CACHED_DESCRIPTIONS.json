@@ -1,0 +1,10 @@
+{
+    "0x68103E2247887242": {
+        "name": "UGC_RELEASE_ALL_CACHED_DESCRIPTIONS",
+        "jhash": "0x0095DB71",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

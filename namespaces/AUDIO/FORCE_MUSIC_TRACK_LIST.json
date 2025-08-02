@@ -1,0 +1,26 @@
+{
+    "0x4E0AF9114608257C": {
+        "name": "FORCE_MUSIC_TRACK_LIST",
+        "jhash": "",
+        "comment": "Changes start time of a tracklist (milliseconds)\nR* uses a random int: MISC::GET_RANDOM_INT_IN_RANGE(0, 13) * 60000)",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "const char*",
+                "name": "trackListName"
+            },
+            {
+                "type": "int",
+                "name": "milliseconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_FORCE_RADIO_TRACK_LIST_POSITION"
+        ]
+    }
+}

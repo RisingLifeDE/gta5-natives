@@ -1,0 +1,18 @@
+{
+    "0x56176892826A4FE8": {
+        "name": "GET_AI_PED_VEHICLE_BLIP_INDEX",
+        "jhash": "0xCA52CF43",
+        "comment": "Returns the current AI BLIP for the specified ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323",
+        "old_names": [
+            "_GET_AI_BLIP"
+        ]
+    }
+}

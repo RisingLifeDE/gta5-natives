@@ -1,0 +1,19 @@
+{
+    "0x3DA5ECD1A56CBA6D": {
+        "name": "NETWORK_INITIALIZE_CASH",
+        "jhash": "0x66DA9935",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "wallet"
+            },
+            {
+                "type": "int",
+                "name": "bank"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

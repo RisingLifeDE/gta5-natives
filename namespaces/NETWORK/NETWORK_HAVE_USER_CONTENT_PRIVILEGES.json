@@ -1,0 +1,15 @@
+{
+    "0x72D918C99BCACC54": {
+        "name": "NETWORK_HAVE_USER_CONTENT_PRIVILEGES",
+        "jhash": "0x1F88819D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

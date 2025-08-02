@@ -1,0 +1,15 @@
+{
+    "0x9D6BFC12B05C6121": {
+        "name": "IS_HORN_ACTIVE",
+        "jhash": "0x20E2BDD0",
+        "comment": "Checks whether the horn of a vehicle is currently played.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

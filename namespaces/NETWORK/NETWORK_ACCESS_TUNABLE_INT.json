@@ -1,0 +1,23 @@
+{
+    "0x8BE1146DFD5D4468": {
+        "name": "NETWORK_ACCESS_TUNABLE_INT",
+        "jhash": "0xE4B3726A",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "const char*",
+                "name": "tunableName"
+            },
+            {
+                "type": "int*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

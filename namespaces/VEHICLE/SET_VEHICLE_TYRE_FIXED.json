@@ -1,0 +1,19 @@
+{
+    "0x6E13FC662B882D1D": {
+        "name": "SET_VEHICLE_TYRE_FIXED",
+        "jhash": "0xA42EFA6B",
+        "comment": "tyreIndex = 0 to 4 on normal vehicles\n\n'0 = wheel_lf / bike, plane or jet front\n'1 = wheel_rf\n'2 = wheel_lm / in 6 wheels trailer, plane or jet is first one on left\n'3 = wheel_rm / in 6 wheels trailer, plane or jet is first one on right\n'4 = wheel_lr / bike rear / in 6 wheels trailer, plane or jet is last one on left\n'5 = wheel_rr / in 6 wheels trailer, plane or jet is last one on right\n'45 = 6 wheels trailer mid wheel left\n'47 = 6 wheels trailer mid wheel right",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "tyreIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

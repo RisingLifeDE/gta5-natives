@@ -1,0 +1,22 @@
+{
+    "0xCA4AC3EAAE46EC7B": {
+        "name": "GET_VEHICLE_INDIVIDUAL_DOOR_LOCK_STATUS",
+        "jhash": "",
+        "comment": "Returns vehicle door lock state previously set with SET_VEHICLE_INDIVIDUAL_DOORS_LOCKED",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103",
+        "old_names": [
+            "_GET_VEHICLE_DOOR_DESTROY_TYPE"
+        ]
+    }
+}

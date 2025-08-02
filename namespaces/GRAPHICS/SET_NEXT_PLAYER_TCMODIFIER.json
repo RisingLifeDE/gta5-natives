@@ -1,0 +1,15 @@
+{
+    "0xBF59707B3E5ED531": {
+        "name": "SET_NEXT_PLAYER_TCMODIFIER",
+        "jhash": "0x554BA16E",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

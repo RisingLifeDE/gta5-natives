@@ -1,0 +1,23 @@
+{
+    "0x3CDC1E622CCE0356": {
+        "name": "OVERRIDE_VEH_HORN",
+        "jhash": "0x2ACAB783",
+        "comment": "Overrides the vehicle's horn hash.\nWhen changing this hash on a vehicle, it will not return the 'overwritten' hash. It will still always return the default horn hash (same as GET_VEHICLE_DEFAULT_HORN)\n\nvehicle - the vehicle whose horn should be overwritten",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "override"
+            },
+            {
+                "type": "int",
+                "name": "hornHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

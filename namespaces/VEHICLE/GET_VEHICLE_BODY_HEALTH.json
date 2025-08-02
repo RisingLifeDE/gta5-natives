@@ -1,0 +1,15 @@
+{
+    "0xF271147EB7B40F12": {
+        "name": "GET_VEHICLE_BODY_HEALTH",
+        "jhash": "0x2B2FCC28",
+        "comment": "Seems related to vehicle health, like the one in IV.\nMax 1000, min 0.\nVehicle does not necessarily explode or become undrivable at 0.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

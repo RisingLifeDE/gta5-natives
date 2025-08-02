@@ -1,0 +1,19 @@
+{
+    "0x239528EACDC3E7DE": {
+        "name": "SET_PLAYER_INVINCIBLE",
+        "jhash": "0xDFB9A2A2",
+        "comment": "Simply sets you as invincible (Health will not deplete).\n\nUse 0x733A643B5B0C53C1 instead if you want Ragdoll enabled, which is equal to:\n*(DWORD *)(playerPedAddress + 0x188) |= (1 << 9);",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

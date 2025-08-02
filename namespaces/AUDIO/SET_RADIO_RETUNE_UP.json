@@ -1,0 +1,10 @@
+{
+    "0xFF266D1D0EB1195D": {
+        "name": "SET_RADIO_RETUNE_UP",
+        "jhash": "0x53DB6994",
+        "comment": "Tune Forward...",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

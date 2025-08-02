@@ -1,0 +1,15 @@
+{
+    "0x749B023950D2311C": {
+        "name": "APP_GET_STRING",
+        "jhash": "0x849CEB80",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

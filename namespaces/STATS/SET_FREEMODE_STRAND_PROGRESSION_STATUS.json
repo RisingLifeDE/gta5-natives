@@ -1,0 +1,19 @@
+{
+    "0x79D310A861697CC9": {
+        "name": "SET_FREEMODE_STRAND_PROGRESSION_STATUS",
+        "jhash": "",
+        "comment": "Sets profile setting 940 and 941",
+        "params": [
+            {
+                "type": "int",
+                "name": "profileSetting"
+            },
+            {
+                "type": "int",
+                "name": "settingValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xC1F1920BAF281317": {
+        "name": "SET_INTERIOR_ENTITY_SET_TINT_INDEX",
+        "jhash": "",
+        "comment": "Full list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            },
+            {
+                "type": "int",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_INTERIOR_PROP_COLOR",
+            "_SET_INTERIOR_ENTITY_SET_COLOR"
+        ]
+    }
+}

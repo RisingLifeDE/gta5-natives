@@ -1,0 +1,19 @@
+{
+    "0x5AFEEDD9BB2899D7": {
+        "name": "SET_VEHICLE_PROVIDES_COVER",
+        "jhash": "0xEFC01CA9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

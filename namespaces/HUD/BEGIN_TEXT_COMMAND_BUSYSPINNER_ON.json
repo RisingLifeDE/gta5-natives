@@ -1,0 +1,19 @@
+{
+    "0xABA17D7CE615ADBF": {
+        "name": "BEGIN_TEXT_COMMAND_BUSYSPINNER_ON",
+        "jhash": "0xCB7C8994",
+        "comment": "Initializes the text entry for the the text next to a loading prompt. All natives for building UI texts can be used here\n\n\ne.g\nvoid StartLoadingMessage(char *text, int spinnerType = 3)\n  {\n     BEGIN_TEXT_COMMAND_BUSYSPINNER_ON(\"STRING\");\n       ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n       END_TEXT_COMMAND_BUSYSPINNER_ON(spinnerType);\n    }\n/*OR*/\n void ShowLoadingMessage(char *text, int spinnerType = 3, int timeMs = 10000)\n  {\n     BEGIN_TEXT_COMMAND_BUSYSPINNER_ON(\"STRING\");\n       ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n       END_TEXT_COMMAND_BUSYSPINNER_ON(spinnerType);\n        WAIT(timeMs);\n     BUSYSPINNER_OFF();\n }\n\n\nThese are some localized strings used in the loading spinner.\n\"PM_WAIT\"                   = Please Wait\n\"CELEB_WPLYRS\"              = Waiting For Players.\n\"CELL_SPINNER2\"             = Scanning storage.\n\"ERROR_CHECKYACHTNAME\" = Registering your yacht's name. Please wait.\n\"ERROR_CHECKPROFANITY\"   = Checking your text for profanity. Please wait.\n\"FM_COR_AUTOD\"                        = Just spinner no text\n\"FM_IHELP_WAT2\"                        = Waiting for other players\n\"FM_JIP_WAITO\"                            = Game options are being set\n\"FMMC_DOWNLOAD\"                    = Downloading\n\"FMMC_PLYLOAD\"                         = Loading\n\"FMMC_STARTTRAN\"                    = Launching session\n\"HUD_QUITTING\"                           =  Quiting session\n\"KILL_STRIP_IDM\"                         = Waiting for to accept\n\"MP_SPINLOADING\"                      = Loading",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_LOADING_PROMPT_TEXT_ENTRY",
+            "_BEGIN_TEXT_COMMAND_BUSY_STRING"
+        ]
+    }
+}

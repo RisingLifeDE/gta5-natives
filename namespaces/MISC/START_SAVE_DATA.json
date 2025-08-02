@@ -1,0 +1,23 @@
+{
+    "0xA9575F812C6A7997": {
+        "name": "START_SAVE_DATA",
+        "jhash": "0x881A694D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

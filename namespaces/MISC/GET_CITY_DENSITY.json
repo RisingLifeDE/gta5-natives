@@ -1,0 +1,10 @@
+{
+    "0xD10282B6E3751BA0": {
+        "name": "GET_CITY_DENSITY",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

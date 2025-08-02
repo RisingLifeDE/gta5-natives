@@ -1,0 +1,10 @@
+{
+    "0x6FA9825D0B5A721B": {
+        "name": "NETWORK_CHECK_CAN_ACCESS_AND_ALERT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3570"
+    }
+}

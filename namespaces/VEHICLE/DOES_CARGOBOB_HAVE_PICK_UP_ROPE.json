@@ -1,0 +1,18 @@
+{
+    "0x1821D91AD4B56108": {
+        "name": "DOES_CARGOBOB_HAVE_PICK_UP_ROPE",
+        "jhash": "0xAF769B81",
+        "comment": "Returns true only when the hook is active, will return false if the magnet is active",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_CARGOBOB_HOOK_ACTIVE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1BBE0523B8DB9A21": {
+        "name": "HAS_VEHICLE_ASSET_LOADED",
+        "jhash": "0x8DAAC3CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleAsset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

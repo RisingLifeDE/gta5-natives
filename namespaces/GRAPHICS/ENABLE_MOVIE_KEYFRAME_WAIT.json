@@ -1,0 +1,15 @@
+{
+    "0x74C180030FDE4B69": {
+        "name": "ENABLE_MOVIE_KEYFRAME_WAIT",
+        "jhash": "0x796DE696",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

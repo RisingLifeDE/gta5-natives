@@ -1,0 +1,19 @@
+{
+    "0xD7D0B00177485411": {
+        "name": "SEETHROUGH_SET_HEATSCALE",
+        "jhash": "0x654F0287",
+        "comment": "min: 0.0\nmax: 0.75",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "heatScale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

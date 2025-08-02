@@ -1,0 +1,18 @@
+{
+    "0xF74B1FFA4A15FBEA": {
+        "name": "SET_ALLOW_STREAM_HEIST_ISLAND_NODES",
+        "jhash": "",
+        "comment": "Activates Cayo Perico path nodes if passed `1`. GPS navigation will start working, maybe more stuff will change, not sure. It seems if you try to unload (pass `0`) when close to the island, your game might crash.",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_SET_AI_GLOBAL_PATH_NODES_TYPE"
+        ]
+    }
+}

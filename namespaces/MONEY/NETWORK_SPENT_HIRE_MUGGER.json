@@ -1,0 +1,27 @@
+{
+    "0xE404BFB981665BF0": {
+        "name": "NETWORK_SPENT_HIRE_MUGGER",
+        "jhash": "0xE792C4A5",
+        "comment": "Only used once in a script (am_contact_requests)\np1 = 0\np2 = 1",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

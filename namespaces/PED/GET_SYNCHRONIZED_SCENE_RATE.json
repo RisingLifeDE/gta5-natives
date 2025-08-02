@@ -1,0 +1,15 @@
+{
+    "0xD80932D577274D40": {
+        "name": "GET_SYNCHRONIZED_SCENE_RATE",
+        "jhash": "0x89365F0D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

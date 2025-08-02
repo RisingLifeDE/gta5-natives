@@ -1,0 +1,26 @@
+{
+    "0xC56FBF2F228E1DAC": {
+        "name": "GET_TINT_INDEX_FOR_LAST_GEN_HAIR_TEXTURE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_TINT_OF_HAIR_COMPONENT_VARIATION"
+        ]
+    }
+}

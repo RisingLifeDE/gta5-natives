@@ -1,0 +1,15 @@
+{
+    "0xAC3A74E8384A9919": {
+        "name": "SET_WIND",
+        "jhash": "0xC6294698",
+        "comment": "Sets the the normalized wind speed value. The wind speed clamps always at 12.0, SET_WIND sets the wind in a percentage, 0.0 is 0 and 1.0 is 12.0. Setting this value to a negative number resumes the random wind speed changes provided by the game.",
+        "params": [
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

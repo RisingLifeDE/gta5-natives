@@ -1,0 +1,27 @@
+{
+    "0xE70BA7B90F8390DC": {
+        "name": "WAYPOINT_PLAYBACK_START_SHOOTING_AT_PED",
+        "jhash": "0xBD5F0EB8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

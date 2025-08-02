@@ -1,0 +1,10 @@
+{
+    "0x0A27B2B6282F7169": {
+        "name": "IS_STEAM_VERSION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2545"
+    }
+}

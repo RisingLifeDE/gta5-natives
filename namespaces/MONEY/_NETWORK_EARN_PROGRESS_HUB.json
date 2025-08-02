@@ -1,0 +1,20 @@
+{
+    "0xF8332B06F0EECC9C": {
+        "name": "_NETWORK_EARN_PROGRESS_HUB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944",
+        "unused": true
+    }
+}

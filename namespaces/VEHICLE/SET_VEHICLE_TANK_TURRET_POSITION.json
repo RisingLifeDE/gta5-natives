@@ -1,0 +1,23 @@
+{
+    "0x56B94C6D7127DFBA": {
+        "name": "SET_VEHICLE_TANK_TURRET_POSITION",
+        "jhash": "0xB1A52EF7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "position"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

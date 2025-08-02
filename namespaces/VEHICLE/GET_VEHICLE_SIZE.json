@@ -1,0 +1,26 @@
+{
+    "0xDF7E3EEB29642C38": {
+        "name": "GET_VEHICLE_SIZE",
+        "jhash": "",
+        "comment": "Outputs 2 Vector3's.\nScripts check if out2.x - out1.x > someshit.x\nCould be suspension related, as in max suspension height and min suspension height, considering the natives location.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vector3*",
+                "name": "out1"
+            },
+            {
+                "type": "Vector3*",
+                "name": "out2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_SUSPENSION_BOUNDS"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0x72E7C7B9615FA3C3": {
+        "name": "NETWORK_EARN_CASINO_HEIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_NETWORK_EARN_CASINO_HEIST"
+        ]
+    }
+}

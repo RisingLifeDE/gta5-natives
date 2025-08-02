@@ -1,0 +1,13 @@
+{
+    "0xDF649C4E9AFDD788": {
+        "name": "SC_GET_NEW_ROCKSTAR_MSG",
+        "jhash": "0x468668F0",
+        "comment": "",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_ROCKSTAR_MESSAGE_GET_STRING"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xB08B85D860E7BA3C": {
+        "name": "SET_INCIDENT_REQUESTED_UNITS",
+        "jhash": "0x0242D88E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            },
+            {
+                "type": "int",
+                "name": "dispatchService"
+            },
+            {
+                "type": "int",
+                "name": "numUnits"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

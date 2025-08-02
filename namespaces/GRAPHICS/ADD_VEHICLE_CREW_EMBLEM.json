@@ -1,0 +1,74 @@
+{
+    "0x428BDCB9DA58DA53": {
+        "name": "ADD_VEHICLE_CREW_EMBLEM",
+        "jhash": "0x12077738",
+        "comment": "boneIndex is always chassis_dummy in the scripts. The x/y/z params are location relative to the chassis bone.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "Any",
+                "name": "p13"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_ADD_CLAN_DECAL_TO_VEHICLE"
+        ]
+    }
+}

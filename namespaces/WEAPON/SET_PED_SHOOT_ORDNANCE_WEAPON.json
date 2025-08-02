@@ -1,0 +1,19 @@
+{
+    "0xB4C8D77C80C0421E": {
+        "name": "SET_PED_SHOOT_ORDNANCE_WEAPON",
+        "jhash": "0xEC2E5304",
+        "comment": "Returns handle of the projectile.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Object",
+        "build": "323"
+    }
+}

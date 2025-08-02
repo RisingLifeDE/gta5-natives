@@ -1,0 +1,26 @@
+{
+    "0xE29F3D5FA63B1B82": {
+        "name": "NETWORK_EARN_AGENCY_PHONE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_EARN_FROM_AGENCY_PHONE_HIT"
+        ]
+    }
+}

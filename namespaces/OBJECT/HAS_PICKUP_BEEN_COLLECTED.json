@@ -1,0 +1,15 @@
+{
+    "0x80EC48E6679313F9": {
+        "name": "HAS_PICKUP_BEEN_COLLECTED",
+        "jhash": "0x0BE5CCED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

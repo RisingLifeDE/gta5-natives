@@ -1,0 +1,31 @@
+{
+    "0x28F174A67B8D0C2F": {
+        "name": "NETWORK_SPENT_JOB_SKIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "matchId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_JOB_SKIP"
+        ]
+    }
+}

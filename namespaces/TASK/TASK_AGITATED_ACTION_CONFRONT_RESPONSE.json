@@ -1,0 +1,22 @@
+{
+    "0x19D1B791CB3670FE": {
+        "name": "TASK_AGITATED_ACTION_CONFRONT_RESPONSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "TASK_AGITATED_ACTION"
+        ]
+    }
+}

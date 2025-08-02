@@ -1,0 +1,19 @@
+{
+    "0xCE07B9F7817AADA3": {
+        "name": "SET_PLAYER_WEAPON_DAMAGE_MODIFIER",
+        "jhash": "0xB02C2F39",
+        "comment": "This modifies the damage value of your weapon. Whether it is a multiplier or base damage is unknown. \n\nBased on tests, it is unlikely to be a multiplier.\n\nmodifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

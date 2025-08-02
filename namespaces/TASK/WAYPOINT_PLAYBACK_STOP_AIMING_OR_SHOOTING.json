@@ -1,0 +1,15 @@
+{
+    "0x47EFA040EBB8E2EA": {
+        "name": "WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING",
+        "jhash": "0x6D7CF40C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

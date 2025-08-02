@@ -1,0 +1,19 @@
+{
+    "0x499EF20C5DB25C59": {
+        "name": "DOES_CUTSCENE_ENTITY_EXIST",
+        "jhash": "0x58E67409",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

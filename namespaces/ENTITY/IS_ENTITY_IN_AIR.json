@@ -1,0 +1,15 @@
+{
+    "0x886E37EC497200B6": {
+        "name": "IS_ENTITY_IN_AIR",
+        "jhash": "0xA4157987",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

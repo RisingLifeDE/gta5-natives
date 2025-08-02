@@ -1,0 +1,10 @@
+{
+    "0xEBCAB9E5048434F4": {
+        "name": "NETWORK_IS_NP_PENDING",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xDD7CEF5B3A4DA8A6": {
+        "name": "IS_NETWORK_VEHICLE_RUNNING_RESPOT_TIMER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "networkID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2802"
+    }
+}

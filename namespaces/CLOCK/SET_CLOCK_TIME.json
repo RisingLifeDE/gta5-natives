@@ -1,0 +1,23 @@
+{
+    "0x47C3B5848C3E45D8": {
+        "name": "SET_CLOCK_TIME",
+        "jhash": "0x26F6AF14",
+        "comment": "SET_CLOCK_TIME(12, 34, 56);",
+        "params": [
+            {
+                "type": "int",
+                "name": "hour"
+            },
+            {
+                "type": "int",
+                "name": "minute"
+            },
+            {
+                "type": "int",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

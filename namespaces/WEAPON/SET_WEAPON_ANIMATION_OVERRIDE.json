@@ -1,0 +1,19 @@
+{
+    "0x1055AC3A667F09D9": {
+        "name": "SET_WEAPON_ANIMATION_OVERRIDE",
+        "jhash": "0xA5DF7484",
+        "comment": "Changes the selected ped aiming animation style. \nNote : You must use GET_HASH_KEY!\n\nStrings to use with GET_HASH_KEY :\n\n    \"Ballistic\",\n    \"Default\",\n  \"Fat\",\n  \"Female\",\n   \"FirstPerson\",\n  \"FirstPersonAiming\",\n    \"FirstPersonFranklin\",\n  \"FirstPersonFranklinAiming\",\n    \"FirstPersonFranklinRNG\",\n   \"FirstPersonFranklinScope\",\n \"FirstPersonMPFemale\",\n  \"FirstPersonMichael\",\n   \"FirstPersonMichaelAiming\",\n \"FirstPersonMichaelRNG\",\n    \"FirstPersonMichaelScope\",\n  \"FirstPersonRNG\",\n   \"FirstPersonScope\",\n \"FirstPersonTrevor\",\n    \"FirstPersonTrevorAiming\",\n  \"FirstPersonTrevorRNG\",\n \"FirstPersonTrevorScope\",\n   \"Franklin\",\n \"Gang\",\n \"Gang1H\",\n   \"GangFemale\",\n   \"Hillbilly\",\n    \"MP_F_Freemode\",\n    \"Michael\",\n  \"SuperFat\",\n \"Trevor\"",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "animStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

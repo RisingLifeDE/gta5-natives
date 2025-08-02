@@ -1,0 +1,19 @@
+{
+    "0x781B3D62BB013EF5": {
+        "name": "SET_VEHICLE_DOORS_SHUT",
+        "jhash": "0xBB1FF6E7",
+        "comment": "Closes all doors of a vehicle:",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "closeInstantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

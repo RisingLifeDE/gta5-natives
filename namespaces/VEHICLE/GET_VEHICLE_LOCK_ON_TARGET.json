@@ -1,0 +1,22 @@
+{
+    "0x8F5EBAB1F260CFCE": {
+        "name": "GET_VEHICLE_LOCK_ON_TARGET",
+        "jhash": "0x4A557117",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_OWNER"
+        ]
+    }
+}

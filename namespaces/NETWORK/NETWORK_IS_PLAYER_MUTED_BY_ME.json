@@ -1,0 +1,15 @@
+{
+    "0x8C71288AE68EDE39": {
+        "name": "NETWORK_IS_PLAYER_MUTED_BY_ME",
+        "jhash": "0x7A21050E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

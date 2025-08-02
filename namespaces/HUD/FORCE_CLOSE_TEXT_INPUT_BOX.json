@@ -1,0 +1,13 @@
+{
+    "0x8817605C2BA76200": {
+        "name": "FORCE_CLOSE_TEXT_INPUT_BOX",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_FORCE_CLOSE_TEXT_INPUT_BOX"
+        ]
+    }
+}

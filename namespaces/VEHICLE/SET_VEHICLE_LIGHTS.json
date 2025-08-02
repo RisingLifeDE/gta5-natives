@@ -1,0 +1,19 @@
+{
+    "0x34E710FF01247C5A": {
+        "name": "SET_VEHICLE_LIGHTS",
+        "jhash": "0xE8930226",
+        "comment": "set's if the vehicle has lights or not.\nnot an on off toggle.\np1 = 0 ;vehicle normal lights, off then lowbeams, then highbeams\np1 = 1 ;vehicle doesn't have lights, always off\np1 = 2 ;vehicle has always on lights\np1 = 3 ;or even larger like 4,5,... normal lights like =1\nnote1: when using =2 on day it's lowbeam,highbeam\nbut at night it's lowbeam,lowbeam,highbeam\nnote2: when using =0 it's affected by day or night for highbeams don't exist in daytime.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

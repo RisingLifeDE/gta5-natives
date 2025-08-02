@@ -1,0 +1,18 @@
+{
+    "0xCE5AA445ABA8DEE0": {
+        "name": "STAT_GET_SAVE_MIGRATION_CONSUME_CONTENT_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_STAT_GET_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK_STATUS"
+        ]
+    }
+}

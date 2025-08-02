@@ -1,0 +1,19 @@
+{
+    "0x69D82604A1A5A254": {
+        "name": "SC_INBOX_MESSAGE_GET_UGCDATA",
+        "jhash": "0x88CA3BFC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

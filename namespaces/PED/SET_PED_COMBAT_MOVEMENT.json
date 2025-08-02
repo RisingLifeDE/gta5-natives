@@ -1,0 +1,19 @@
+{
+    "0x4D9CA1009AFBD057": {
+        "name": "SET_PED_COMBAT_MOVEMENT",
+        "jhash": "0x12E62F9E",
+        "comment": "enum eCombatMovement // 0x4F456B61\n{\n\tCM_Stationary,\n\tCM_Defensive,\n\tCM_WillAdvance,\n\tCM_WillRetreat\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "combatMovement"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

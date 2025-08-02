@@ -1,0 +1,13 @@
+{
+    "0x302C91AB2D477F7E": {
+        "name": "GRASSBATCH_DISABLE_FLATTENING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GRASS_LOD_RESET_SCRIPT_AREAS"
+        ]
+    }
+}

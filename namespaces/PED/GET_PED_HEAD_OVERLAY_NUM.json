@@ -1,0 +1,18 @@
+{
+    "0xCF1CE768BB43480E": {
+        "name": "GET_PED_HEAD_OVERLAY_NUM",
+        "jhash": "0xFF43C18D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "overlayID"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUM_HEAD_OVERLAY_VALUES"
+        ]
+    }
+}

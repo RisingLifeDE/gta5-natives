@@ -1,0 +1,15 @@
+{
+    "0xD9127E83ABF7C631": {
+        "name": "GET_ITEMSET_SIZE",
+        "jhash": "0x2B31F41A",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

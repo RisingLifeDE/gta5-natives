@@ -1,0 +1,19 @@
+{
+    "0xADB3F206518799E8": {
+        "name": "SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH",
+        "jhash": "0x423B7BA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

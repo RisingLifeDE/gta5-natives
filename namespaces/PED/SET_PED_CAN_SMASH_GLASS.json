@@ -1,0 +1,23 @@
+{
+    "0x1CCE141467FF42A2": {
+        "name": "SET_PED_CAN_SMASH_GLASS",
+        "jhash": "0x149C60A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

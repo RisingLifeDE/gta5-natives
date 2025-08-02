@@ -1,0 +1,10 @@
+{
+    "0x155467ACA0F55705": {
+        "name": "GET_USER_STARTER_ACCESS",
+        "jhash": "",
+        "comment": "Checks some commerce stuff",
+        "params": [],
+        "return_type": "int",
+        "build": "1290"
+    }
+}

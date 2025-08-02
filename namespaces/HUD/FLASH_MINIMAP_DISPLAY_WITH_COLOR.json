@@ -1,0 +1,15 @@
+{
+    "0x6B1DE27EE78E6A19": {
+        "name": "FLASH_MINIMAP_DISPLAY_WITH_COLOR",
+        "jhash": "0x79A6CAF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

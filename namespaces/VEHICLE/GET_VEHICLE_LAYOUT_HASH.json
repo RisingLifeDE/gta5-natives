@@ -1,0 +1,15 @@
+{
+    "0x28D37D4F71AC5C58": {
+        "name": "GET_VEHICLE_LAYOUT_HASH",
+        "jhash": "0xE0B35187",
+        "comment": "Full list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

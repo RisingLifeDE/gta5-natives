@@ -1,0 +1,10 @@
+{
+    "0x6CC86E78358D5119": {
+        "name": "DATAFILE_CLEAR_WATCH_LIST",
+        "jhash": "0x5B39D0AC",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

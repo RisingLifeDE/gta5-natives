@@ -1,0 +1,15 @@
+{
+    "0x6AFDFB93754950C7": {
+        "name": "TOGGLE_STEALTH_RADAR",
+        "jhash": "0xC68D47C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

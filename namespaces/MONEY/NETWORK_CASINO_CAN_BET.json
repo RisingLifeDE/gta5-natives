@@ -1,0 +1,18 @@
+{
+    "0x158C16F5E4CF41F8": {
+        "name": "NETWORK_CASINO_CAN_BET",
+        "jhash": "",
+        "comment": "GTAO_CASINO_HOUSE\nGTAO_CASINO_INSIDETRACK\nGTAO_CASINO_LUCKYWHEEL\nGTAO_CASINO_BLACKJACK\nGTAO_CASINO_ROULETTE\nGTAO_CASINO_SLOTS\nGTAO_CASINO_PURCHASE_CHIPS\n\nNETWORK_C*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_CASINO_CAN_USE_GAMBLING_TYPE"
+        ]
+    }
+}

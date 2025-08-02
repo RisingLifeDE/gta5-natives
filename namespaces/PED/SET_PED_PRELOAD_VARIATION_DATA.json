@@ -1,0 +1,27 @@
+{
+    "0x39D55A620FCB6A3A": {
+        "name": "SET_PED_PRELOAD_VARIATION_DATA",
+        "jhash": "0x45F3BDFB",
+        "comment": "from extreme3.c4\nPED::SET_PED_PRELOAD_VARIATION_DATA(PLAYER::PLAYER_PED_ID(), 8, PED::GET_PED_DRAWABLE_VARIATION(PLAYER::PLAYER_PED_ID(), 8), PED::GET_PED_TEXTURE_VARIATION(PLAYER::PLAYER_PED_ID(), 8));\n\np1 is probably componentId",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

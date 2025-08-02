@@ -1,0 +1,23 @@
+{
+    "0xA17784FCA9548D15": {
+        "name": "SET_FAKE_GPS_PLAYER_POSITION_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xBC1CC91205EC8D6E": {
+        "name": "SC_HAS_NEW_ROCKSTAR_MSG",
+        "jhash": "0x6C5738AB",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_ROCKSTAR_MESSAGE_READY_FOR_SCRIPT"
+        ]
+    }
+}

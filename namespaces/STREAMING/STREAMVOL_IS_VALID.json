@@ -1,0 +1,15 @@
+{
+    "0x07C313F94746702C": {
+        "name": "STREAMVOL_IS_VALID",
+        "jhash": "0x42CFE9C0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

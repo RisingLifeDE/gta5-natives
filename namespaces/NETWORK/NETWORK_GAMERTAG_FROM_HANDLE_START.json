@@ -1,0 +1,15 @@
+{
+    "0x9F0C0A981D73FA56": {
+        "name": "NETWORK_GAMERTAG_FROM_HANDLE_START",
+        "jhash": "0xEBA00C2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

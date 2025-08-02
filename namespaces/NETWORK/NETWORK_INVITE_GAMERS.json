@@ -1,0 +1,27 @@
+{
+    "0x9D80CD1D0E6327DE": {
+        "name": "NETWORK_INVITE_GAMERS",
+        "jhash": "0x52FB8074",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

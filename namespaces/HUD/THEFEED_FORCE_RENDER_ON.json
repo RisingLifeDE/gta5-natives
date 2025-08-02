@@ -1,0 +1,10 @@
+{
+    "0xA13C11E1B5C06BFC": {
+        "name": "THEFEED_FORCE_RENDER_ON",
+        "jhash": "0x520FCB6D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xE6D323A5E9EFFB76": {
+        "name": "_PLAYSTATS_PIMENU_NAV",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

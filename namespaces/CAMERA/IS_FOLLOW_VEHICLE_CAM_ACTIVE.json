@@ -1,0 +1,10 @@
+{
+    "0xCBBDE6D335D6D496": {
+        "name": "IS_FOLLOW_VEHICLE_CAM_ACTIVE",
+        "jhash": "0x8DD49B77",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xA03502FC581F7D9B": {
+        "name": "GET_FINAL_RENDERED_CAM_NEAR_DOF",
+        "jhash": "0x19297A7A",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_NEAR_DOF"
+        ]
+    }
+}

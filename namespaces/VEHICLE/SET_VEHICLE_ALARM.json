@@ -1,0 +1,19 @@
+{
+    "0xCDE5E70C1DDB954C": {
+        "name": "SET_VEHICLE_ALARM",
+        "jhash": "0x24877D84",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

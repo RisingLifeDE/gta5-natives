@@ -1,0 +1,10 @@
+{
+    "0xC6D3D26810C8E0F9": {
+        "name": "IS_FOLLOW_PED_CAM_ACTIVE",
+        "jhash": "0x9F9E856C",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

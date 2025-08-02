@@ -1,0 +1,15 @@
+{
+    "0xF6A9D9708F6F23DF": {
+        "name": "START_ENTITY_FIRE",
+        "jhash": "0x8928428E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "FireId",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xA2C9AC24B4061285": {
+        "name": "GET_PED_WEAPON_CAMO_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103"
+    }
+}

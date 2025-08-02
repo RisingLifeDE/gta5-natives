@@ -1,0 +1,19 @@
+{
+    "0xBEFB80290414FD4F": {
+        "name": "_ENABLE_DRAG_RACE_STATIONARY_WARNING_SOUNDS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

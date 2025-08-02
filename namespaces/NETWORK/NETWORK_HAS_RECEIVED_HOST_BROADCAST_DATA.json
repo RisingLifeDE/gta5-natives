@@ -1,0 +1,10 @@
+{
+    "0x5D10B3795F3FC886": {
+        "name": "NETWORK_HAS_RECEIVED_HOST_BROADCAST_DATA",
+        "jhash": "0x0B739F53",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

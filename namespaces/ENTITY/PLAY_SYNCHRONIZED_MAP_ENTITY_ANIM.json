@@ -1,0 +1,59 @@
+{
+    "0xB9C54555ED30FBC4": {
+        "name": "PLAY_SYNCHRONIZED_MAP_ENTITY_ANIM",
+        "jhash": "0xEB4CBA74",
+        "comment": "p6,p7 probably animname and animdict\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "Any",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "const char*",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

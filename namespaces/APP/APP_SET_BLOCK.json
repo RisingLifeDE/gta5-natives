@@ -1,0 +1,15 @@
+{
+    "0x262AB456A3D21F93": {
+        "name": "APP_SET_BLOCK",
+        "jhash": "0xC2D54DD9",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "blockName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

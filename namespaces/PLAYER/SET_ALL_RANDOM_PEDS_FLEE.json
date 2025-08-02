@@ -1,0 +1,19 @@
+{
+    "0x056E0FE8534C2949": {
+        "name": "SET_ALL_RANDOM_PEDS_FLEE",
+        "jhash": "0x49EAE968",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

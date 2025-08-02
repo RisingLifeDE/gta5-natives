@@ -1,0 +1,19 @@
+{
+    "0x76D683C108594D0E": {
+        "name": "SET_HORN_ENABLED",
+        "jhash": "0x6EB92D05",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

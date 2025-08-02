@@ -1,0 +1,19 @@
+{
+    "0xEAF5F7E5AE7C6C9D": {
+        "name": "GET_PED_PARACHUTE_TINT_INDEX",
+        "jhash": "0xE9E7FAC5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "outTintIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

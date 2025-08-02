@@ -1,0 +1,10 @@
+{
+    "0x04456F95153C6BE4": {
+        "name": "STOP_SAVE_ARRAY",
+        "jhash": "0x0CAD8217",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

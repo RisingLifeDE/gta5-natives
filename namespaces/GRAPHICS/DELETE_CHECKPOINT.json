@@ -1,0 +1,15 @@
+{
+    "0xF5ED37F54CD4D52E": {
+        "name": "DELETE_CHECKPOINT",
+        "jhash": "0xB66CF3CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

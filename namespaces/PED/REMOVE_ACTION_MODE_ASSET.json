@@ -1,0 +1,15 @@
+{
+    "0x13E940F88470FA51": {
+        "name": "REMOVE_ACTION_MODE_ASSET",
+        "jhash": "0x3F480F92",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

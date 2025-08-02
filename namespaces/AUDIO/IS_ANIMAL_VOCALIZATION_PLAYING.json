@@ -1,0 +1,15 @@
+{
+    "0xC265DF9FB44A9FBD": {
+        "name": "IS_ANIMAL_VOCALIZATION_PLAYING",
+        "jhash": "0x0CBAF2EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

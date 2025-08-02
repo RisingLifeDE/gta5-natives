@@ -1,0 +1,15 @@
+{
+    "0x8F5EA1C01D65A100": {
+        "name": "DATAFILE_DELETE_REQUESTED_FILE",
+        "jhash": "0x9DB63CFF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

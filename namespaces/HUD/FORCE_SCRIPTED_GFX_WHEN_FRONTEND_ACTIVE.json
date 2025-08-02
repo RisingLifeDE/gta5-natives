@@ -1,0 +1,18 @@
+{
+    "0x2162C446DFDF38FD": {
+        "name": "FORCE_SCRIPTED_GFX_WHEN_FRONTEND_ACTIVE",
+        "jhash": "0x2DFD35C7",
+        "comment": "Not present in retail version of the game, actual definiton seems to be\n_LOG_DEBUG_INFO(const char* category, const char* debugText);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_LOG_DEBUG_INFO"
+        ]
+    }
+}

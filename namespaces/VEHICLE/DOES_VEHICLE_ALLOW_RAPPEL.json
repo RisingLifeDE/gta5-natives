@@ -1,0 +1,18 @@
+{
+    "0x4E417C547182C84D": {
+        "name": "DOES_VEHICLE_ALLOW_RAPPEL",
+        "jhash": "",
+        "comment": "Returns true if the vehicle has the FLAG_ALLOWS_RAPPEL flag set.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757",
+        "old_names": [
+            "_DOES_VEHICLE_ALLOW_RAPPEL"
+        ]
+    }
+}

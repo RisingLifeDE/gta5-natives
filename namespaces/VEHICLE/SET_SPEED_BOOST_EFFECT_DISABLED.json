@@ -1,0 +1,15 @@
+{
+    "0x7BBE7FF626A591FE": {
+        "name": "SET_SPEED_BOOST_EFFECT_DISABLED",
+        "jhash": "",
+        "comment": "Disables the screen effects and sound effects when driving over a speed boost pad.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

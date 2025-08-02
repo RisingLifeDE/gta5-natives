@@ -1,0 +1,15 @@
+{
+    "0x79CFD9827CC979B6": {
+        "name": "GET_PED_PARACHUTE_STATE",
+        "jhash": "0x7D4BC475",
+        "comment": "Returns:\n\n-1: Normal\n0: Wearing parachute on back\n1: Parachute opening\n2: Parachute open\n3: Falling to doom (e.g. after exiting parachute)\n\nNormal means no parachute?",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

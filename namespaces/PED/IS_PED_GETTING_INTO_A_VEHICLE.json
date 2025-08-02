@@ -1,0 +1,15 @@
+{
+    "0xBB062B2B5722478E": {
+        "name": "IS_PED_GETTING_INTO_A_VEHICLE",
+        "jhash": "0x90E805AC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

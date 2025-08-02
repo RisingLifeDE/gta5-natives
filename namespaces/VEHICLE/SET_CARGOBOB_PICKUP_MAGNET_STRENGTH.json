@@ -1,0 +1,22 @@
+{
+    "0xBCBFCD9D1DAC19E2": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_STRENGTH",
+        "jhash": "0xCC3CF97D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CARGOBOB_PICKUP_MAGNET_STRENGTH"
+        ]
+    }
+}

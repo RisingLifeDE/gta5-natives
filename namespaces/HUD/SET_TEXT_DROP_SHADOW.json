@@ -1,0 +1,10 @@
+{
+    "0x1CA3E9EAC9D93E5E": {
+        "name": "SET_TEXT_DROP_SHADOW",
+        "jhash": "0xE2A11511",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

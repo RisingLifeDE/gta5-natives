@@ -1,0 +1,19 @@
+{
+    "0x977CA98939E82E4B": {
+        "name": "SET_WEAPON_OBJECT_CAMO_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

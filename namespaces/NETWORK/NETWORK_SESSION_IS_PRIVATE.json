@@ -1,0 +1,10 @@
+{
+    "0xCEF70AA5B3F89BA1": {
+        "name": "NETWORK_SESSION_IS_PRIVATE",
+        "jhash": "0xDB67785D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

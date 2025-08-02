@@ -1,0 +1,15 @@
+{
+    "0x5F15302936E07111": {
+        "name": "SET_TEXT_RENDER_ID",
+        "jhash": "0xC5C3B7F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "renderId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

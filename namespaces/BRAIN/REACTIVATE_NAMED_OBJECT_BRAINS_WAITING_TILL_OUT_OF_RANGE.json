@@ -1,0 +1,15 @@
+{
+    "0x6E91B04E08773030": {
+        "name": "REACTIVATE_NAMED_OBJECT_BRAINS_WAITING_TILL_OUT_OF_RANGE",
+        "jhash": "0x29CE8BAA",
+        "comment": "Looks like a cousin of above function _6D6840CEE8845831 as it was found among them. Must be similar\n\nHere are possible values of argument - \n\n\"ob_tv\"\n\"launcher_Darts\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

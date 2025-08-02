@@ -1,0 +1,19 @@
+{
+    "0x44A8FCB8ED227738": {
+        "name": "GET_WORLD_POSITION_OF_ENTITY_BONE",
+        "jhash": "0x7C6339DF",
+        "comment": "Returns the coordinates of an entity-bone.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

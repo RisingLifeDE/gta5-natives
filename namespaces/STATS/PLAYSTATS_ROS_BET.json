@@ -1,0 +1,27 @@
+{
+    "0x121FB4DDDC2D5291": {
+        "name": "PLAYSTATS_ROS_BET",
+        "jhash": "0x413539BC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "act"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "cm"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

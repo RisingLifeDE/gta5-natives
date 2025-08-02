@@ -1,0 +1,15 @@
+{
+    "0xD79185689F8FD5DF": {
+        "name": "SET_STUNT_JUMPS_CAN_TRIGGER",
+        "jhash": "0x3C806A2D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

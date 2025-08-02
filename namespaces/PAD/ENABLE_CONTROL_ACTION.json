@@ -1,0 +1,23 @@
+{
+    "0x351220255D64C155": {
+        "name": "ENABLE_CONTROL_ACTION",
+        "jhash": "0xD2753551",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            },
+            {
+                "type": "BOOL",
+                "name": "enableRelatedActions"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

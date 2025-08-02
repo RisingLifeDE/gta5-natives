@@ -1,0 +1,15 @@
+{
+    "0x4805D2B1D8CF94A9": {
+        "name": "GET_ENTITY_VELOCITY",
+        "jhash": "0xC14C9B6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

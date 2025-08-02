@@ -1,0 +1,10 @@
+{
+    "0x74E20C9145FB66FD": {
+        "name": "STOP_SAVE_DATA",
+        "jhash": "0x3B1C07C8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA11700682F3AD45C": {
+        "name": "NETWORK_GET_NETWORK_ID_FROM_ENTITY",
+        "jhash": "0x9E35DAB6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

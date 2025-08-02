@@ -1,0 +1,27 @@
+{
+    "0x6B76DC1F3AE6E6A3": {
+        "name": "SET_ENTITY_HEALTH",
+        "jhash": "0xFBCD1831",
+        "comment": "health >= 0\nmale ped ~= 100 - 200\nfemale ped ~= 0 - 100",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "health"
+            },
+            {
+                "type": "Entity",
+                "name": "instigator"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

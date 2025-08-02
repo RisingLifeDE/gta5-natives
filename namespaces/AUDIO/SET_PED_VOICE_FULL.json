@@ -1,0 +1,18 @@
+{
+    "0x40CF0D12D142A9E8": {
+        "name": "SET_PED_VOICE_FULL",
+        "jhash": "",
+        "comment": "Assigns some ambient voice to the ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_SCREAM"
+        ]
+    }
+}

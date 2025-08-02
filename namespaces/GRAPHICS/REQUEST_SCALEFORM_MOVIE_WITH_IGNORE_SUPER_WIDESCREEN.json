@@ -1,0 +1,18 @@
+{
+    "0x65E7E78842E74CDB": {
+        "name": "REQUEST_SCALEFORM_MOVIE_WITH_IGNORE_SUPER_WIDESCREEN",
+        "jhash": "",
+        "comment": "Another REQUEST_SCALEFORM_MOVIE equivalent.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "int",
+        "build": "372",
+        "old_names": [
+            "_REQUEST_SCALEFORM_MOVIE_2"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x1D9D45004C28C916": {
+        "name": "SET_GROUP_FORMATION_SPACING",
+        "jhash": "0xB1E086FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

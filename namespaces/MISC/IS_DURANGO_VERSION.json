@@ -1,0 +1,10 @@
+{
+    "0x4D982ADB1978442D": {
+        "name": "IS_DURANGO_VERSION",
+        "jhash": "0x46FB06A5",
+        "comment": "XBOX ONE",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA6F312FCCE9C1DFE": {
+        "name": "RESET_PLAYER_STAMINA",
+        "jhash": "0xC0445A9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

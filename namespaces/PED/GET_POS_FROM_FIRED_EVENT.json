@@ -1,0 +1,26 @@
+{
+    "0xBA656A3BB01BDEA3": {
+        "name": "GET_POS_FROM_FIRED_EVENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "eventType"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2189",
+        "old_names": [
+            "_GET_PED_EVENT_DATA"
+        ]
+    }
+}

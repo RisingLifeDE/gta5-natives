@@ -1,0 +1,15 @@
+{
+    "0x225798743970412B": {
+        "name": "SC_ACHIEVEMENT_INFO_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

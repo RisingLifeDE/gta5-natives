@@ -1,0 +1,27 @@
+{
+    "0xE902EF951DCE178F": {
+        "name": "GET_PLAYER_RGB_COLOUR",
+        "jhash": "0x6EF43BBB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0xF0F77ADB9F67E79D": {
+        "name": "GET_INTERIOR_AT_COORDS_WITH_TYPEHASH",
+        "jhash": "0x11718507",
+        "comment": "Hashed version of GET_INTERIOR_AT_COORDS_WITH_TYPE",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "typeHash"
+            }
+        ],
+        "return_type": "Interior",
+        "build": "323",
+        "old_names": [
+            "_UNK_GET_INTERIOR_AT_COORDS"
+        ]
+    }
+}

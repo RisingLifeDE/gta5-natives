@@ -1,0 +1,26 @@
+{
+    "0xD99DB210089617FE": {
+        "name": "NETWORK_SPENT_WAGER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_NETWORK_SPENT_WAGER"
+        ]
+    }
+}

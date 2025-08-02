@@ -1,0 +1,15 @@
+{
+    "0xADF084FB8F075D06": {
+        "name": "IS_PROP_LIGHT_OVERRIDEN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604"
+    }
+}

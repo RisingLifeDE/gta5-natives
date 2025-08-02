@@ -1,0 +1,19 @@
+{
+    "0x3FA4BF0A7AB7DE2C": {
+        "name": "SET_CAM_NEAR_DOF",
+        "jhash": "0xF28254DF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "nearDOF"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

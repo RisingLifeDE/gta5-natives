@@ -1,0 +1,15 @@
+{
+    "0x3DAD00265FBF356B": {
+        "name": "NETWORK_SET_CURRENT_CHAT_OPTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "newChatOption"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

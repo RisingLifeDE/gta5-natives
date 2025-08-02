@@ -1,0 +1,43 @@
+{
+    "0xFBA08C503DD5FA58": {
+        "name": "CREATE_PICKUP",
+        "jhash": "0x5E14DF68",
+        "comment": "Full list of pickup types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pickupTypes.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "Pickup",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x3AAD8B2FCA1E289F": {
+        "name": "NETWORK_DO_TRANSITION_TO_FREEMODE",
+        "jhash": "0xC7CB8ADF",
+        "comment": "p2 is true 3/4 of the occurrences I found.\n'players' is the number of players for a session. On PS3/360 it's always 18. On PC it's 32.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "players"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

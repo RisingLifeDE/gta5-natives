@@ -1,0 +1,15 @@
+{
+    "0x0E4F77F7B9D74D84": {
+        "name": "NETWORK_SET_ACTIVITY_PLAYER_MAX",
+        "jhash": "0x04CB2AB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

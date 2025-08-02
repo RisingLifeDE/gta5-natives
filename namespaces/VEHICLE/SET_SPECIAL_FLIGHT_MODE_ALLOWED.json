@@ -1,0 +1,22 @@
+{
+    "0xF1211889DF15A763": {
+        "name": "SET_SPECIAL_FLIGHT_MODE_ALLOWED",
+        "jhash": "",
+        "comment": "It will override the ability to transform deluxo. For oppressor it will work just like SET_DISABLE_HOVER_MODE_FLIGHT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_VEHICLE_HOVER_TRANSFORM_ENABLED"
+        ]
+    }
+}

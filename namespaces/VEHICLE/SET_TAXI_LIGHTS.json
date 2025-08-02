@@ -1,0 +1,19 @@
+{
+    "0x598803E85E8448D9": {
+        "name": "SET_TAXI_LIGHTS",
+        "jhash": "0x68639D85",
+        "comment": "This is not tested - it's just an assumption.\n- Nac\n\nDoesn't seem to work.  I'll try with an int instead. --JT\n\nRead the scripts, im dumpass. \n\n                            if (!VEHICLE::IS_TAXI_LIGHT_ON(l_115)) {\n                                VEHICLE::SET_TAXI_LIGHTS(l_115, 1);\n                            }",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

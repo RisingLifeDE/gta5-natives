@@ -1,0 +1,10 @@
+{
+    "0xDFA80CB25D0A19B3": {
+        "name": "IS_SWITCH_READY_FOR_DESCENT",
+        "jhash": "0x408F7148",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

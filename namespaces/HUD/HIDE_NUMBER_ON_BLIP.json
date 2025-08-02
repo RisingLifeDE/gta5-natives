@@ -1,0 +1,15 @@
+{
+    "0x532CFF637EF80148": {
+        "name": "HIDE_NUMBER_ON_BLIP",
+        "jhash": "0x0B6D610D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

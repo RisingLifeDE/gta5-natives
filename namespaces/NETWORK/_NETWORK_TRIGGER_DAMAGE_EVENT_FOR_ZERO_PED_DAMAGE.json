@@ -1,0 +1,19 @@
+{
+    "0xE9D0244ACBEE1BC4": {
+        "name": "_NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_PED_DAMAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "trigger"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

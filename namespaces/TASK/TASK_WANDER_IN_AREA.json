@@ -1,0 +1,39 @@
+{
+    "0xE054346CA3A0F315": {
+        "name": "TASK_WANDER_IN_AREA",
+        "jhash": "0xC6981FB9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "minimalLength"
+            },
+            {
+                "type": "float",
+                "name": "timeBetweenWalks"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

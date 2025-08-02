@@ -1,0 +1,19 @@
+{
+    "0x59BF8C3D52C92F66": {
+        "name": "SET_VEHICLE_CAN_BREAK",
+        "jhash": "0x90A810D1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

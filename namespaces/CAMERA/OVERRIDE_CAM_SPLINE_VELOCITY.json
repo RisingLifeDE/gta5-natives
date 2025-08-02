@@ -1,0 +1,27 @@
+{
+    "0x40B62FA033EB0346": {
+        "name": "OVERRIDE_CAM_SPLINE_VELOCITY",
+        "jhash": "0x326A17E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

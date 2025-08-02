@@ -1,0 +1,19 @@
+{
+    "0x05661B80A8C9165F": {
+        "name": "DECOR_EXIST_ON",
+        "jhash": "0x74EF9C40",
+        "comment": "Returns whether or not the specified property is set for the entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

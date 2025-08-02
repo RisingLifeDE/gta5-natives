@@ -1,0 +1,19 @@
+{
+    "0x26C10ECBDA5D043B": {
+        "name": "CAN_ANCHOR_BOAT_HERE",
+        "jhash": "0xE97A4F5E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_BOAT_ANCHOR",
+            "_CAN_BOAT_BE_ANCHORED"
+        ]
+    }
+}

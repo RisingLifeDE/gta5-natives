@@ -1,0 +1,27 @@
+{
+    "0x70033C3CC29A1FF4": {
+        "name": "SET_ANIM_LOOPED",
+        "jhash": "0x095D61A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "looped"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            },
+            {
+                "type": "BOOL",
+                "name": "secondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

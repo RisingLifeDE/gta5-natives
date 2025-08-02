@@ -1,0 +1,31 @@
+{
+    "0xBF7B5BB7ED890380": {
+        "name": "_NETWORK_EARN_GENERIC",
+        "jhash": "",
+        "comment": "_NETWORK_EARN_G*",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "earn"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

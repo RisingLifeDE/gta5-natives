@@ -1,0 +1,10 @@
+{
+    "0xC42DD763159F3461": {
+        "name": "NETWORK_HAS_CONFIRMED_INVITE",
+        "jhash": "0xFBBAC350",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

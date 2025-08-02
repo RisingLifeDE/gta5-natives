@@ -1,0 +1,10 @@
+{
+    "0x76BF03FADBF154F5": {
+        "name": "NETWORK_HAS_SOCIAL_NETWORKING_SHARING_PRIV",
+        "jhash": "0xEB864288",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xF4FC6A6F67D8D856": {
+        "name": "DISABLE_VEHICLE_WEAPON",
+        "jhash": "0xA688B7D1",
+        "comment": "Full list of weapons by DurtyFree (Search for VEHICLE_*): https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "owner"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

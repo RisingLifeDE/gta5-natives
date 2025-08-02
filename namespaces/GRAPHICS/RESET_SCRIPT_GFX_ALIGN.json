@@ -1,0 +1,13 @@
+{
+    "0xE3A3DB414A373DAB": {
+        "name": "RESET_SCRIPT_GFX_ALIGN",
+        "jhash": "0x3FE33BD6",
+        "comment": "This function resets the alignment set using SET_SCRIPT_GFX_ALIGN and SET_SCRIPT_GFX_ALIGN_PARAMS to the default values ('I', 'I'; 0, 0, 0, 0).\nThis should be used after having used the aforementioned functions in order to not affect any other scripts attempting to draw.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SCREEN_DRAW_POSITION_END"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xCFD778E7904C255E": {
+        "name": "LOCK_DOORS_WHEN_NO_LONGER_NEEDED",
+        "jhash": "0x3FBE904F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

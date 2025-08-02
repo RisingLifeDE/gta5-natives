@@ -1,0 +1,51 @@
+{
+    "0xD3A9971CADAC7252": {
+        "name": "DRAW_BOX",
+        "jhash": "0xCD4D9DD5",
+        "comment": "x,y,z = start pos\nx2,y2,z2 = end pos\n\nDraw's a 3D Box between the two x,y,z coords.\n--------------\nKeep in mind that the edges of the box do only align to the worlds base-vectors. Therefore something like rotation cannot be applied. That means this function is pretty much useless, unless you want a static unicolor box somewhere.\nI recommend using a predefined function to call this.\n[VB.NET]\nPublic Sub DrawBox(a As Vector3, b As Vector3, col As Color)\n    [Function].Call(Hash.DRAW_BOX,a.X, a.Y, a.Z,b.X, b.Y, b.Z,col.R, col.G, col.B, col.A)\nEnd Sub\n\n[C#]\npublic void DrawBox(Vector3 a, Vector3 b, Color col)\n{\n    Function.Call(Hash.DRAW_BOX,a.X, a.Y, a.Z,b.X, b.Y, b.Z,col.R, col.G, col.B, col.A);\n}",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

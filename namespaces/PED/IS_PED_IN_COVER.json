@@ -1,0 +1,19 @@
+{
+    "0x60DFD0691A170B88": {
+        "name": "IS_PED_IN_COVER",
+        "jhash": "0x972C5A8B",
+        "comment": "p1 is nearly always 0 in the scripts. ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "exceptUseWeapon"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

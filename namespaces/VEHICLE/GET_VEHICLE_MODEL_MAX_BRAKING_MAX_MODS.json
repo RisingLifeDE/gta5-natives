@@ -1,0 +1,18 @@
+{
+    "0xBFBA3BA79CFF7EBF": {
+        "name": "GET_VEHICLE_MODEL_MAX_BRAKING_MAX_MODS",
+        "jhash": "0xF3A7293F",
+        "comment": "Full list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_HAND_BRAKE"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xBCEDB009461DA156": {
+        "name": "PHONEPHOTOEDITOR_IS_ACTIVE",
+        "jhash": "0x5AB94128",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

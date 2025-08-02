@@ -1,0 +1,30 @@
+{
+    "0x14EAEA58F93B55AF": {
+        "name": "NETWORK_SPENT_ARENA_JOIN_SPECTATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_SPENT_ARENA_JOIN_SPECTATOR"
+        ]
+    }
+}

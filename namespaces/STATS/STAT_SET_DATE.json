@@ -1,0 +1,27 @@
+{
+    "0x2C29BFB64F4FCBE4": {
+        "name": "STAT_SET_DATE",
+        "jhash": "0x36BE807B",
+        "comment": "'value' is a structure to a structure, 'numFields' is how many fields there are in said structure (usually 7).\n\nThe structure looks like this:\n\nint year\nint month\nint day\nint hour\nint minute\nint second\nint millisecond\n\nThe decompiled scripts use TIME::GET_POSIX_TIME to fill this structure.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "Any*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "numFields"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

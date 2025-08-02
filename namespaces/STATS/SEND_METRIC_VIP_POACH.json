@@ -1,0 +1,26 @@
+{
+    "0xAA525DFF66BB82F5": {
+        "name": "SEND_METRIC_VIP_POACH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_VIP_POACH"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x9D277B76D1D12222": {
+        "name": "NETWORK_SET_ACTIVITY_SPECTATOR_MAX",
+        "jhash": "0x74E0BC0A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maxSpectators"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

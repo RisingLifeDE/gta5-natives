@@ -1,0 +1,13 @@
+{
+    "0x437138B6A830166A": {
+        "name": "RESET_END_USER_BENCHMARK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_BENCHMARK_RECORDING"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE8E3FCF72EAC0EF8": {
+        "name": "APP_CLOSE_BLOCK",
+        "jhash": "0xED97B202",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

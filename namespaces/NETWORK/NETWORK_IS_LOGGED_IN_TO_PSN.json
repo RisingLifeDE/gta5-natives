@@ -1,0 +1,10 @@
+{
+    "0xA0FA4EC6A05DA44E": {
+        "name": "NETWORK_IS_LOGGED_IN_TO_PSN",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

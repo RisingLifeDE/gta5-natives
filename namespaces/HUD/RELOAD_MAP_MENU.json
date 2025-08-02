@@ -1,0 +1,10 @@
+{
+    "0x2916A928514C9827": {
+        "name": "RELOAD_MAP_MENU",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "573"
+    }
+}

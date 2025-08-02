@@ -1,0 +1,10 @@
+{
+    "0xDC9274A7EF6B2867": {
+        "name": "GET_REPLAY_STAT_COUNT",
+        "jhash": "0xC7BD1AF0",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

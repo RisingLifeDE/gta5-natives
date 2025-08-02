@@ -1,0 +1,15 @@
+{
+    "0x5E9DAF5A20F15908": {
+        "name": "CASCADE_SHADOWS_SET_ENTITY_TRACKER_SCALE",
+        "jhash": "0xD2157428",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF22CA0FD74B80E7A": {
+        "name": "SC_LICENSEPLATE_GET_CHECK_IS_VALID",
+        "jhash": "0xF379DCE4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

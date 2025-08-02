@@ -1,0 +1,15 @@
+{
+    "0x5A34CD9C3C5BEC44": {
+        "name": "UGC_RELEASE_CACHED_DESCRIPTION",
+        "jhash": "0x346B506C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

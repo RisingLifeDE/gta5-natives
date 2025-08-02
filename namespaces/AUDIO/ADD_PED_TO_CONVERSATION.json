@@ -1,0 +1,23 @@
+{
+    "0x95D9F4BC443956E7": {
+        "name": "ADD_PED_TO_CONVERSATION",
+        "jhash": "0xF8D5EB86",
+        "comment": "4 calls in the b617d scripts. The only one with p0 and p2 in clear text:\n\nAUDIO::ADD_PED_TO_CONVERSATION(5, l_AF, \"DINAPOLI\");\n\n=================================================\nOne of the 2 calls in dialogue_handler.c p0 is in a while-loop, and so is determined to also possibly be 0 - 15.",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB264C4D2F2B0A78B": {
+        "name": "ALLOW_AMBIENT_VEHICLES_TO_AVOID_ADVERSE_CONDITIONS",
+        "jhash": "0x45F72495",
+        "comment": "This native doesn't seem to do anything, might be a debug-only native.\n\nConfirmed, it is a debug native.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

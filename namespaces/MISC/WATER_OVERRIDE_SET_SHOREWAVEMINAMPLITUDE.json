@@ -1,0 +1,15 @@
+{
+    "0xC3EAD29AB273ECE8": {
+        "name": "WATER_OVERRIDE_SET_SHOREWAVEMINAMPLITUDE",
+        "jhash": "0xBEBBFDC8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minAmplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

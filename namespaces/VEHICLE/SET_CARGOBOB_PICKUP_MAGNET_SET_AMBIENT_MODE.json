@@ -1,0 +1,23 @@
+{
+    "0x9BDDC73CC6A115D4": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_SET_AMBIENT_MODE",
+        "jhash": "0x50CDB295",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

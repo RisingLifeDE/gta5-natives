@@ -1,0 +1,18 @@
+{
+    "0xCB7CC0D58405AD41": {
+        "name": "SET_RADAR_ZOOM_TO_DISTANCE",
+        "jhash": "0x09CF1CE5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_RADAR_ZOOM_LEVEL_THIS_FRAME"
+        ]
+    }
+}

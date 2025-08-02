@@ -1,0 +1,10 @@
+{
+    "0xB885852C39CC265D": {
+        "name": "DISABLE_PLAYER_THROW_GRENADE_WHILE_USING_GUN",
+        "jhash": "",
+        "comment": "Used only once in R* scripts (freemode.ysc).",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

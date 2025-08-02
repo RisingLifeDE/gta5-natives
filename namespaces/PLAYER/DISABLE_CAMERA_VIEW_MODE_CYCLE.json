@@ -1,0 +1,15 @@
+{
+    "0x5501B7A5CDB79D37": {
+        "name": "DISABLE_CAMERA_VIEW_MODE_CYCLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

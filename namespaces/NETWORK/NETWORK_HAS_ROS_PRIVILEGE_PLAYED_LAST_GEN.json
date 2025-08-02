@@ -1,0 +1,13 @@
+{
+    "0x593570C289A77688": {
+        "name": "NETWORK_HAS_ROS_PRIVILEGE_PLAYED_LAST_GEN",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_ROS_PRIVILEGE_24"
+        ]
+    }
+}

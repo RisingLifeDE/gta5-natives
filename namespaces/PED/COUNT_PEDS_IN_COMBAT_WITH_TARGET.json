@@ -1,0 +1,15 @@
+{
+    "0x5407B7288D0478B7": {
+        "name": "COUNT_PEDS_IN_COMBAT_WITH_TARGET",
+        "jhash": "0xEF0B78E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

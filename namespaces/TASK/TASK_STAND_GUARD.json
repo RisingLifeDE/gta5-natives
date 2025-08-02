@@ -1,0 +1,35 @@
+{
+    "0xAE032F8BBA959E90": {
+        "name": "TASK_STAND_GUARD",
+        "jhash": "0xD130F636",
+        "comment": "scenarioName example: \"WORLD_HUMAN_GUARD_STAND\"",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "const char*",
+                "name": "scenarioName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

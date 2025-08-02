@@ -1,0 +1,15 @@
+{
+    "0x5F0F3F56635809EF": {
+        "name": "CASCADE_SHADOWS_SET_CASCADE_BOUNDS_SCALE",
+        "jhash": "0x13D4ABC0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

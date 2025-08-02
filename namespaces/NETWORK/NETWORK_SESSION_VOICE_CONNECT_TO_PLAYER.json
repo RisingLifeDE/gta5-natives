@@ -1,0 +1,18 @@
+{
+    "0xABD5E88B8A2D3DB2": {
+        "name": "NETWORK_SESSION_VOICE_CONNECT_TO_PLAYER",
+        "jhash": "0x9DFD89E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_VOICE_CONNECT_TO_PLAYER"
+        ]
+    }
+}

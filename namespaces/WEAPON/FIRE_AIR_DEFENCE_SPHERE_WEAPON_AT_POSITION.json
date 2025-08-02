@@ -1,0 +1,30 @@
+{
+    "0x44F1012B69313374": {
+        "name": "FIRE_AIR_DEFENCE_SPHERE_WEAPON_AT_POSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoneId"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_FIRE_AIR_DEFENSE_WEAPON"
+        ]
+    }
+}

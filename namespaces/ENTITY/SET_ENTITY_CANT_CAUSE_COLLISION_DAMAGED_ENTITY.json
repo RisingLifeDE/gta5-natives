@@ -1,0 +1,19 @@
+{
+    "0x68B562E124CC0AEF": {
+        "name": "SET_ENTITY_CANT_CAUSE_COLLISION_DAMAGED_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

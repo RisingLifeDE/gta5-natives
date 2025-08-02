@@ -1,0 +1,13 @@
+{
+    "0x8D30F648014A92B5": {
+        "name": "GET_EVER_HAD_BAD_PACK_ORDER",
+        "jhash": "0xF69B729C",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_EXTRA_CONTENT_PACK_HAS_BEEN_INSTALLED"
+        ]
+    }
+}

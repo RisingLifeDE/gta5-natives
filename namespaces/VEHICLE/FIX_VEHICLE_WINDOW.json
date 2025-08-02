@@ -1,0 +1,19 @@
+{
+    "0x772282EBEB95E682": {
+        "name": "FIX_VEHICLE_WINDOW",
+        "jhash": "0x6B8E990D",
+        "comment": "windowIndex:\n0 = Front Left Window\n1 = Front Right Window\n2 = Rear Left Window\n3 = Rear Right Window\n4 = Front Windscreen\n5 = Rear Windscreen\n6 = Mid Left\n7 = Mid Right\n8 = Invalid\n\nAdditional information: FIX_VEHICLE_WINDOW (0x140D0BB88) references an array of bone vehicle indices (0x141D4B3E0) { 2Ah, 2Bh, 2Ch, 2Dh, 2Eh, 2Fh, 28h, 29h } that correspond to: window_lf, window_rf, window_lr, window_rr, window_lm, window_rm, windscreen, windscreen_r. This array is used by most vehwindow natives.\n\nAlso, this function is coded to not work on vehicles of type: CBike, Bmx, CBoat, CTrain, and CSubmarine.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "windowIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

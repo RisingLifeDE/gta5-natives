@@ -1,0 +1,15 @@
+{
+    "0xA21C118553BBDF02": {
+        "name": "DISABLE_HEAD_BLEND_PALETTE_COLOR",
+        "jhash": "0xC6F36292",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

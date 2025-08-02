@@ -1,0 +1,23 @@
+{
+    "0xD6D7478CA62B8D41": {
+        "name": "NETWORK_REGISTER_HIGH_FREQUENCY_PLAYER_BROADCAST_VARIABLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

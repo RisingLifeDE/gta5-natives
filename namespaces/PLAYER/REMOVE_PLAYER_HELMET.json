@@ -1,0 +1,19 @@
+{
+    "0xF3AC26D3CC576528": {
+        "name": "REMOVE_PLAYER_HELMET",
+        "jhash": "0x6255F3B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x8E17DDD6B9D5BF29": {
+        "name": "GET_BINK_MOVIE_TIME",
+        "jhash": "",
+        "comment": "In percentage: 0.0 - 100.0",
+        "params": [
+            {
+                "type": "int",
+                "name": "binkMovie"
+            }
+        ],
+        "return_type": "float",
+        "build": "1734",
+        "old_names": [
+            "_GET_BINK_MOVIE_TIME"
+        ]
+    }
+}

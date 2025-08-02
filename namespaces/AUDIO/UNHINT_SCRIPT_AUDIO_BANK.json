@@ -1,0 +1,10 @@
+{
+    "0x9AC92EED5E4793AB": {
+        "name": "UNHINT_SCRIPT_AUDIO_BANK",
+        "jhash": "0xE67446E9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

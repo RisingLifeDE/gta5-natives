@@ -1,0 +1,19 @@
+{
+    "0x24C024BA8379A70A": {
+        "name": "SET_PED_STUN_GUN_FINITE_AMMO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

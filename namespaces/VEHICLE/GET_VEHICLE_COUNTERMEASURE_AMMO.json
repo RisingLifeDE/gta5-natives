@@ -1,0 +1,19 @@
+{
+    "0xF846AA63DF56B804": {
+        "name": "GET_VEHICLE_COUNTERMEASURE_AMMO",
+        "jhash": "",
+        "comment": "Similar to `GET_VEHICLE_BOMB_AMMO`, this gets the amount of countermeasures that are present on this vehicle.\nUse SET_VEHICLE_COUNTERMEASURE_AMMO to set the current amount.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1180",
+        "old_names": [
+            "_GET_AIRCRAFT_COUNTERMEASURE_COUNT",
+            "_GET_VEHICLE_COUNTERMEASURE_COUNT"
+        ]
+    }
+}

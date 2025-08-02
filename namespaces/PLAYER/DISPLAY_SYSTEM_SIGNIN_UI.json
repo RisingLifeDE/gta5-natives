@@ -1,0 +1,15 @@
+{
+    "0x94DD7888C10A979E": {
+        "name": "DISPLAY_SYSTEM_SIGNIN_UI",
+        "jhash": "0x4264CED2",
+        "comment": "Purpose of the BOOL currently unknown.\nBoth, true and false, work",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

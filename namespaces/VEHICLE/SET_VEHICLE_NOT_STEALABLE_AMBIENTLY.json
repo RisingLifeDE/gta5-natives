@@ -1,0 +1,19 @@
+{
+    "0xAB04325045427AAE": {
+        "name": "SET_VEHICLE_NOT_STEALABLE_AMBIENTLY",
+        "jhash": "0x1984F88D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

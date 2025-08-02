@@ -1,0 +1,10 @@
+{
+    "0xB32209EFFDC04913": {
+        "name": "CLEAR_ALL_BROKEN_GLASS",
+        "jhash": "0xE6B033BF",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

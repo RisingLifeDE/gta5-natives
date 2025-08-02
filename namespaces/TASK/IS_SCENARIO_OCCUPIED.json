@@ -1,0 +1,31 @@
+{
+    "0x788756D73AC2E07C": {
+        "name": "IS_SCENARIO_OCCUPIED",
+        "jhash": "0x697FC008",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "maxRange"
+            },
+            {
+                "type": "BOOL",
+                "name": "onlyUsersActuallyAtScenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

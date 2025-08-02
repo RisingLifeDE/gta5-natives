@@ -1,0 +1,27 @@
+{
+    "0xBC9AE166038A5CEC": {
+        "name": "PLAY_PAIN",
+        "jhash": "0x874BD6CB",
+        "comment": "Needs another parameter [int p2]. The signature is PED::PLAY_PAIN(Ped ped, int painID, int p1, int p2);\n\nLast 2 parameters always seem to be 0.\n\nEX: Function.Call(Hash.PLAY_PAIN, TestPed, 6, 0, 0);\n\nKnown Pain IDs\n________________________\n\n1 - Doesn't seem to do anything. Does NOT crash the game like previously said. (Latest patch)\n6 - Scream (Short)\n7 - Scared Scream (Kinda Long)\n8 - On Fire\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "painID"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

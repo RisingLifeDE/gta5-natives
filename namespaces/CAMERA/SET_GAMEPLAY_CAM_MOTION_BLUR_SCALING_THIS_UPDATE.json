@@ -1,0 +1,15 @@
+{
+    "0x487A82C650EB7799": {
+        "name": "SET_GAMEPLAY_CAM_MOTION_BLUR_SCALING_THIS_UPDATE",
+        "jhash": "0xA6E73135",
+        "comment": "some camera effect that is used in the drunk-cheat, and turned off (by setting it to 0.0) along with the shaking effects once the drunk cheat is disabled.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

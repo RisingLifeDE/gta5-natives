@@ -1,0 +1,15 @@
+{
+    "0x78E8E3A640178255": {
+        "name": "SET_ENTITY_IS_IN_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

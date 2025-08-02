@@ -1,0 +1,43 @@
+{
+    "0x8FBB6758B3B3E9EC": {
+        "name": "TASK_PLAY_PHONE_GESTURE_ANIMATION",
+        "jhash": "0x1582162C",
+        "comment": "Example from the scripts:\nTASK::TASK_PLAY_PHONE_GESTURE_ANIMATION(PLAYER::PLAYER_PED_ID(), v_3, v_2, v_4, 0.25, 0.25, 0, 0);\n\n=========================================================\n^^ No offense, but Idk how that would really help anyone.\n\nAs for the animDict & animation, they're both store in a global in all 5 scripts. So if anyone would be so kind as to read that global and comment what strings they use. Thanks.\n\nKnown boneMaskTypes'\n\"BONEMASK_HEADONLY\"\n\"BONEMASK_HEAD_NECK_AND_ARMS\"\n\"BONEMASK_HEAD_NECK_AND_L_ARM\"\n\"BONEMASK_HEAD_NECK_AND_R_ARM\"\n\np4 known args - 0.0f, 0.5f, 0.25f\np5 known args - 0.0f, 0.25f\np6 known args - 1 if a global if check is passed.\np7 known args - 1 if a global if check is passed.\n\nThe values found above, I found within the 5 scripts this is ever called in. (fmmc_launcher, fm_deathmatch_controller, fm_impromptu_dm_controller, fm_mission_controller, and freemode).\n=========================================================\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animation"
+            },
+            {
+                "type": "const char*",
+                "name": "boneMaskType"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "float",
+                "name": "blendOutDuration"
+            },
+            {
+                "type": "BOOL",
+                "name": "isLooping"
+            },
+            {
+                "type": "BOOL",
+                "name": "holdLastFrame"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

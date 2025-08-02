@@ -1,0 +1,15 @@
+{
+    "0x700569DBA175A77C": {
+        "name": "SC_LICENSEPLATE_GET_COUNT",
+        "jhash": "0x159FE39C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

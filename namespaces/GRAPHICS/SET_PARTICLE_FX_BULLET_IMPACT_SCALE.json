@@ -1,0 +1,15 @@
+{
+    "0x27E32866E9A5C416": {
+        "name": "SET_PARTICLE_FX_BULLET_IMPACT_SCALE",
+        "jhash": "0xC1AD5DDF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

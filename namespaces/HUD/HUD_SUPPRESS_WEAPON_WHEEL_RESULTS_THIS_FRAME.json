@@ -1,0 +1,14 @@
+{
+    "0x0AFC4AF510774B47": {
+        "name": "HUD_SUPPRESS_WEAPON_WHEEL_RESULTS_THIS_FRAME",
+        "jhash": "0xB26FED2B",
+        "comment": "Calling this each frame, stops the player from receiving a weapon via the weapon wheel.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_BLOCK_WEAPON_WHEEL_THIS_FRAME",
+            "_HUD_WEAPON_WHEEL_IGNORE_SELECTION"
+        ]
+    }
+}

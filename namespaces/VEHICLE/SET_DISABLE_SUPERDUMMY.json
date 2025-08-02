@@ -1,0 +1,22 @@
+{
+    "0xB088E9A47AE6EDD5": {
+        "name": "SET_DISABLE_SUPERDUMMY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DISABLE_SUPERDUMMY_MODE"
+        ]
+    }
+}

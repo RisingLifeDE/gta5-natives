@@ -1,0 +1,10 @@
+{
+    "0x16754C556D2EDE3D": {
+        "name": "IS_SCRIPTED_CONVERSATION_ONGOING",
+        "jhash": "0xCB8FD96F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x21D04D7BC538C146": {
+        "name": "IS_ENTITY_A_GHOST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_ENTITY_A_GHOST",
+            "_IS_ENTITY_GHOSTED_TO_LOCAL_PLAYER"
+        ]
+    }
+}

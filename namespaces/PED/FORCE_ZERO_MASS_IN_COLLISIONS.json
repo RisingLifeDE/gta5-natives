@@ -1,0 +1,15 @@
+{
+    "0xD33DAA36272177C4": {
+        "name": "FORCE_ZERO_MASS_IN_COLLISIONS",
+        "jhash": "0xA89A53F2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x2A74E1D5F2F00EEC": {
+        "name": "IS_PED_GETTING_UP",
+        "jhash": "0x320813E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

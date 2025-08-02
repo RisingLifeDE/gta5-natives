@@ -1,0 +1,19 @@
+{
+    "0xEC3C9B8D5327B563": {
+        "name": "GET_CONTROL_NORMAL",
+        "jhash": "0x5DE226A5",
+        "comment": "Returns the value of GET_CONTROL_VALUE normalized (i.e. a real number value between -1 and 1)\n\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

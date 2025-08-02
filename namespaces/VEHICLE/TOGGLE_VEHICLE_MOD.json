@@ -1,0 +1,23 @@
+{
+    "0x2A1F4F37F95BAD08": {
+        "name": "TOGGLE_VEHICLE_MOD",
+        "jhash": "0xD095F811",
+        "comment": "Toggles:\nUNK17 - 17\nTurbo - 18\nUNK19 - 19\nTire Smoke - 20\nUNK21 - 21\nXenon Headlights - 22",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

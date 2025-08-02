@@ -1,0 +1,10 @@
+{
+    "0x2BF66D2E7414F686": {
+        "name": "NETWORK_CAN_QUEUE_FOR_PREVIOUS_SESSION_JOIN",
+        "jhash": "0x9156EFC0",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

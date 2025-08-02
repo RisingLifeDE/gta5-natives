@@ -1,0 +1,10 @@
+{
+    "0xD4793DFF3AF2ABCD": {
+        "name": "ENABLE_SWITCH_PAUSE_BEFORE_DESCENT",
+        "jhash": "0x4062FF73",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

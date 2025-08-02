@@ -1,0 +1,22 @@
+{
+    "0xC1447451DDB512F0": {
+        "name": "NETWORK_UGC_NAV",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_UGC_NAV"
+        ]
+    }
+}

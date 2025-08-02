@@ -1,0 +1,15 @@
+{
+    "0xBE339365C863BD36": {
+        "name": "ADD_BLIP_FOR_PICKUP",
+        "jhash": "0x16693C3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

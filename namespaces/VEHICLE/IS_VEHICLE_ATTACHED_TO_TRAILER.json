@@ -1,0 +1,15 @@
+{
+    "0xE7CF3C4F9F489F0C": {
+        "name": "IS_VEHICLE_ATTACHED_TO_TRAILER",
+        "jhash": "0xE142BBCC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

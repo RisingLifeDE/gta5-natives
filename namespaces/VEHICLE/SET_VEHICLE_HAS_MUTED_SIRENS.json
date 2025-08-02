@@ -1,0 +1,23 @@
+{
+    "0xD8050E0EB60CF274": {
+        "name": "SET_VEHICLE_HAS_MUTED_SIRENS",
+        "jhash": "0xC54156A9",
+        "comment": "If set to true, prevents vehicle sirens from having sound, leaving only the lights.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "DISABLE_VEHICLE_IMPACT_EXPLOSION_ACTIVATION",
+            "_SET_DISABLE_VEHICLE_SIREN_SOUND"
+        ]
+    }
+}

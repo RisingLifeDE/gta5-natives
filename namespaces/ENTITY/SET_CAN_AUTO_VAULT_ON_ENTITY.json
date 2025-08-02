@@ -1,0 +1,19 @@
+{
+    "0xE12ABE5E3A389A6C": {
+        "name": "SET_CAN_AUTO_VAULT_ON_ENTITY",
+        "jhash": "0x44767B31",
+        "comment": "p1 always false.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

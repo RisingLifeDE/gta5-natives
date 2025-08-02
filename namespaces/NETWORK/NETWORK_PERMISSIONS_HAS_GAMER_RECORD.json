@@ -1,0 +1,15 @@
+{
+    "0x559EBF901A8C68E0": {
+        "name": "NETWORK_PERMISSIONS_HAS_GAMER_RECORD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699"
+    }
+}

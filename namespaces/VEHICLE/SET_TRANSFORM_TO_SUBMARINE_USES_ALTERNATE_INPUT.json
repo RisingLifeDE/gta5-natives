@@ -1,0 +1,22 @@
+{
+    "0x41B9FB92EDED32A6": {
+        "name": "SET_TRANSFORM_TO_SUBMARINE_USES_ALTERNATE_INPUT",
+        "jhash": "",
+        "comment": "When set to true, the key to transform a car to submarine mode changes from raise/lower convertible roof (hold H by default) to special vehicle transform (press X by default.)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_UNK_BOOL_FOR_SUBMARINE_VEHICLE_TASK"
+        ]
+    }
+}

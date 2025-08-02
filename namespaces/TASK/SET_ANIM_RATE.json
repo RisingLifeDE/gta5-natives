@@ -1,0 +1,27 @@
+{
+    "0x032D49C5E359C847": {
+        "name": "SET_ANIM_RATE",
+        "jhash": "0x6DB46584",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            },
+            {
+                "type": "BOOL",
+                "name": "secondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

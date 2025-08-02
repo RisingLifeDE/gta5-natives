@@ -1,0 +1,15 @@
+{
+    "0xB66064452270E8F1": {
+        "name": "LOAD_MOVIE_MESH_SET",
+        "jhash": "0x9627905C",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "movieMeshSetName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

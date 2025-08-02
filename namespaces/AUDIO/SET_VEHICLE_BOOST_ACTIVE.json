@@ -1,0 +1,19 @@
+{
+    "0x4A04DE7CAB2739A1": {
+        "name": "SET_VEHICLE_BOOST_ACTIVE",
+        "jhash": "0x072F15F2",
+        "comment": "SET_VEHICLE_BOOST_ACTIVE(vehicle, 1, 0);\nSET_VEHICLE_BOOST_ACTIVE(vehicle, 0, 0); \n\nWill give a boost-soundeffect.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

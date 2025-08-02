@@ -1,0 +1,15 @@
+{
+    "0xB1632E9A5F988D11": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_PED",
+        "jhash": "0x9D7A609C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

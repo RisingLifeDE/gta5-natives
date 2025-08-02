@@ -1,0 +1,22 @@
+{
+    "0xE952D6431689AD9A": {
+        "name": "CLONE_PED_TO_TARGET",
+        "jhash": "0xFC70EEC7",
+        "comment": "Copies ped's components and props to targetPed.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ASSIGN_PLAYER_TO_PED"
+        ]
+    }
+}

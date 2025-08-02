@@ -1,0 +1,19 @@
+{
+    "0xF4C8CF9E353AFECA": {
+        "name": "SHAKE_SCRIPT_GLOBAL",
+        "jhash": "0x2B0F05CD",
+        "comment": "CAM::SHAKE_SCRIPT_GLOBAL(\"HAND_SHAKE\", 0.2);\n\nFull list of cam shake types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/camShakeTypesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

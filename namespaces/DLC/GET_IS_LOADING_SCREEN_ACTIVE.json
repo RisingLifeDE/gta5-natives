@@ -1,0 +1,10 @@
+{
+    "0x10D0A8F259E93EC9": {
+        "name": "GET_IS_LOADING_SCREEN_ACTIVE",
+        "jhash": "0x517B601B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

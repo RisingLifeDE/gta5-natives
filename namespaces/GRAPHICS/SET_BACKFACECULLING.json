@@ -1,0 +1,15 @@
+{
+    "0x23BA6B0C2AD7B0D3": {
+        "name": "SET_BACKFACECULLING",
+        "jhash": "0xC44C2F44",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

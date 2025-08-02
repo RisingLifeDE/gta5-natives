@@ -1,0 +1,24 @@
+{
+    "0xE41033B25D003A07": {
+        "name": "SET_VEHICLE_XENON_LIGHT_COLOR_INDEX",
+        "jhash": "",
+        "comment": "`color`: is the paint index for the vehicle.\nPaint index goes from 0 to 12.\nBe aware that it only works on xenon lights. Example: https://i.imgur.com/yV3cpG9.png\nFull list of all vehicle xenon lights by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleColors.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "colorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_VEHICLE_HEADLIGHTS_COLOUR",
+            "_SET_VEHICLE_XENON_LIGHTS_COLOUR",
+            "_SET_VEHICLE_XENON_LIGHTS_COLOR"
+        ]
+    }
+}

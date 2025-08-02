@@ -1,0 +1,23 @@
+{
+    "0xF45352426FF3A4F0": {
+        "name": "NETWORK_CLAN_GET_UI_FORMATTED_TAG",
+        "jhash": "0xF633805A",
+        "comment": "bufferSize is 35 in the scripts.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "clanDesc"
+            },
+            {
+                "type": "int",
+                "name": "bufferSize"
+            },
+            {
+                "type": "char*",
+                "name": "formattedTag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

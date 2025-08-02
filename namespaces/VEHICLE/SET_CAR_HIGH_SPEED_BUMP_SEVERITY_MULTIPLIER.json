@@ -1,0 +1,18 @@
+{
+    "0x84FD40F56075E816": {
+        "name": "SET_CAR_HIGH_SPEED_BUMP_SEVERITY_MULTIPLIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CAR_HIGH_SPEED_BUMP_SEVERITY_MULTIPLIER"
+        ]
+    }
+}

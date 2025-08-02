@@ -1,0 +1,18 @@
+{
+    "0x340A36A700E99699": {
+        "name": "UNREGISTER_SCRIPT_VARIABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "variable"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_UNREGISTER_PROTECTED_VARIABLE"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x2F9D3834AEB9EF79": {
+        "name": "SET_VARIABLE_ON_STREAM",
+        "jhash": "0xF67BB44C",
+        "comment": "From the scripts, p0:\n\n\"ArmWrestlingIntensity\",\n\"INOUT\",\n\"Monkey_Stream\",\n\"ZoomLevel\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "variable"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

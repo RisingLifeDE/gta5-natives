@@ -1,0 +1,22 @@
+{
+    "0xD86D101FCFD00A4B": {
+        "name": "CLEAR_RAGDOLL_BLOCKING_FLAGS",
+        "jhash": "0x77CBA290",
+        "comment": "See SET_RAGDOLL_BLOCKING_FLAGS for flags",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "blockingFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_PED_RAGDOLL_BLOCKING_FLAGS"
+        ]
+    }
+}

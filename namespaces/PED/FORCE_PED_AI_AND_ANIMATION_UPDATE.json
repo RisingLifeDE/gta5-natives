@@ -1,0 +1,23 @@
+{
+    "0x2208438012482A1A": {
+        "name": "FORCE_PED_AI_AND_ANIMATION_UPDATE",
+        "jhash": "0x187B9070",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

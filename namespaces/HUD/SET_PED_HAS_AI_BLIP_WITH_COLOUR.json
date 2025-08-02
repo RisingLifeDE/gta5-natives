@@ -1,0 +1,26 @@
+{
+    "0xB13DCB4C6FAAD238": {
+        "name": "SET_PED_HAS_AI_BLIP_WITH_COLOUR",
+        "jhash": "",
+        "comment": "color: see SET_BLIP_COLOUR",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "hasCone"
+            },
+            {
+                "type": "int",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_PED_HAS_AI_BLIP_WITH_COLOR"
+        ]
+    }
+}

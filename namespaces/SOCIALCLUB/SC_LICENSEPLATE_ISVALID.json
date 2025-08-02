@@ -1,0 +1,19 @@
+{
+    "0x0F73393BAC7E6730": {
+        "name": "SC_LICENSEPLATE_ISVALID",
+        "jhash": "0x5298F472",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "plateText"
+            },
+            {
+                "type": "int*",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

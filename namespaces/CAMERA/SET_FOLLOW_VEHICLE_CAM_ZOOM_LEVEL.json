@@ -1,0 +1,15 @@
+{
+    "0x19464CB6E4078C8A": {
+        "name": "SET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL",
+        "jhash": "0x8F55EBBE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoomLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

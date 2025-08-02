@@ -1,0 +1,10 @@
+{
+    "0xD2D57F1D764117B1": {
+        "name": "GET_RANDOM_EVENT_FLAG",
+        "jhash": "0x794CC92C",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

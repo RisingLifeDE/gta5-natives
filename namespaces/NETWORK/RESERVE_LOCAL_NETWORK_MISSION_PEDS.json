@@ -1,0 +1,18 @@
+{
+    "0x2C8DF5D129595281": {
+        "name": "RESERVE_LOCAL_NETWORK_MISSION_PEDS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_RESERVE_NETWORK_LOCAL_PEDS"
+        ]
+    }
+}

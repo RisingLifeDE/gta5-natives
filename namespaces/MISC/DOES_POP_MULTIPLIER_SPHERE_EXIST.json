@@ -1,0 +1,15 @@
+{
+    "0x171BAFB3C60389F4": {
+        "name": "DOES_POP_MULTIPLIER_SPHERE_EXIST",
+        "jhash": "0xD2B7A5A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "791"
+    }
+}

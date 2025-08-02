@@ -1,0 +1,19 @@
+{
+    "0xB743F735C03D7810": {
+        "name": "ROPE_SET_REFFRAMEVELOCITY_COLLIDERORDER",
+        "jhash": "0x686672DD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

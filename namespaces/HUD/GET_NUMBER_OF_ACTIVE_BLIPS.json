@@ -1,0 +1,10 @@
+{
+    "0x9A3FF3DE163034E8": {
+        "name": "GET_NUMBER_OF_ACTIVE_BLIPS",
+        "jhash": "0x144020FA",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

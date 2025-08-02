@@ -1,0 +1,19 @@
+{
+    "0xCEA04D83135264CC": {
+        "name": "SET_PED_ARMOUR",
+        "jhash": "0x4E3A0CC4",
+        "comment": "Sets the armor of the specified ped.\n\nped: The Ped to set the armor of.\namount: A value between 0 and 100 indicating the value to set the Ped's armor to.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

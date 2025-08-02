@@ -1,0 +1,10 @@
+{
+    "0x89023FBBF9200E9F": {
+        "name": "GET_NETWORK_TIME_ACCURATE",
+        "jhash": "0x98AA48E5",
+        "comment": "Returns the same value as GET_NETWORK_TIME in freemode, but as opposed to `GET_NETWORK_TIME` it always gets the most recent time, instead of once per tick.\nCould be used for benchmarking since it can return times in ticks.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

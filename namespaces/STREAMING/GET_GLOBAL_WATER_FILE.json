@@ -1,0 +1,13 @@
+{
+    "0xF741BD853611592D": {
+        "name": "GET_GLOBAL_WATER_FILE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2189",
+        "old_names": [
+            "_GET_GLOBAL_WATER_TYPE"
+        ]
+    }
+}

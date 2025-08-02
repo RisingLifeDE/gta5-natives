@@ -1,0 +1,19 @@
+{
+    "0xA82959062361B259": {
+        "name": "NETWORK_EARN_ARENA_WAR_EVENT_CARGO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_EARN_FROM_BB_EVENT_CARGO"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xDFD5033FDBA0A9C8": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE",
+        "jhash": "0x878C2CE0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

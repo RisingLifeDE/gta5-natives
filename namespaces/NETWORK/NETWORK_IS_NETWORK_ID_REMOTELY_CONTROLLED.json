@@ -1,0 +1,18 @@
+{
+    "0x7242F8B741CE1086": {
+        "name": "NETWORK_IS_NETWORK_ID_REMOTELY_CONTROLLED",
+        "jhash": "",
+        "comment": "Returns true if the specified network id is controlled by someone else.",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_NETWORK_IS_NETWORK_ID_A_CLONE"
+        ]
+    }
+}

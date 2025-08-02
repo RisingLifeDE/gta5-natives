@@ -1,0 +1,13 @@
+{
+    "0xEB6891F03362FB12": {
+        "name": "QUIT_GAME",
+        "jhash": "",
+        "comment": "Exits the game and downloads a fresh social club update on next restart.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_FORCE_SOCIAL_CLUB_UPDATE"
+        ]
+    }
+}

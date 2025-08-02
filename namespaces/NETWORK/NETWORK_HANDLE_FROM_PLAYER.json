@@ -1,0 +1,23 @@
+{
+    "0x388EB2B86C73B6B3": {
+        "name": "NETWORK_HANDLE_FROM_PLAYER",
+        "jhash": "0xD3498917",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "gamerHandleSize"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

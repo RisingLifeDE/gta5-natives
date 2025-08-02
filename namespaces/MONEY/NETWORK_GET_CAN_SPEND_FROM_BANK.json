@@ -1,0 +1,19 @@
+{
+    "0xA31FD6A0865B6D14": {
+        "name": "NETWORK_GET_CAN_SPEND_FROM_BANK",
+        "jhash": "0xABED6020",
+        "comment": "Returns true if bank balance >= amount.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_VC_BANK_BALANCE_IS_NOT_LESS_THAN"
+        ]
+    }
+}

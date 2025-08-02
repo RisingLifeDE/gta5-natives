@@ -1,0 +1,19 @@
+{
+    "0x75BA1CB3B7D40CAF": {
+        "name": "REQUEST_PED_USE_SMALL_BBOX_VISIBILITY_TRACKING",
+        "jhash": "0x9194DB71",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

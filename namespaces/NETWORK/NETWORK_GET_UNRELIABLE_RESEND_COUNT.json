@@ -1,0 +1,19 @@
+{
+    "0x3765C3A3E8192E10": {
+        "name": "NETWORK_GET_UNRELIABLE_RESEND_COUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_UNRELIABLE_RESEND_COUNT_FOR_PLAYER"
+        ]
+    }
+}

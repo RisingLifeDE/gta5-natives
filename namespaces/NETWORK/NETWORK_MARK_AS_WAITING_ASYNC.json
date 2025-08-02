@@ -1,0 +1,15 @@
+{
+    "0x39917E1B4CB0F911": {
+        "name": "NETWORK_MARK_AS_WAITING_ASYNC",
+        "jhash": "0xF60986FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

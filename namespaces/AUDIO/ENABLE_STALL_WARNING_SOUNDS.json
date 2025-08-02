@@ -1,0 +1,19 @@
+{
+    "0xC15907D667F7CFB2": {
+        "name": "ENABLE_STALL_WARNING_SOUNDS",
+        "jhash": "0x563B635D",
+        "comment": "Works for planes only.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

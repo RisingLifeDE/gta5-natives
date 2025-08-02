@@ -1,0 +1,15 @@
+{
+    "0x20AE33F3AC9C0033": {
+        "name": "MAKE_PED_RELOAD",
+        "jhash": "0x515292C2",
+        "comment": "Forces a ped to reload only if they are able to; if they have a full magazine, they will not reload.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

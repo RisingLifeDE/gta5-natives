@@ -1,0 +1,43 @@
+{
+    "0x2DF9038C90AD5264": {
+        "name": "SPAWNPOINTS_START_SEARCH",
+        "jhash": "0x909A1D76",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "interiorFlags"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

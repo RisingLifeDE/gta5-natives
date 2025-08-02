@@ -1,0 +1,19 @@
+{
+    "0x2A179DF17CCF04CD": {
+        "name": "CLEAR_ADDITIONAL_TEXT",
+        "jhash": "0x518141E0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

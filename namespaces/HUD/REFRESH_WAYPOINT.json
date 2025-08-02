@@ -1,0 +1,10 @@
+{
+    "0x81FA173F170560D1": {
+        "name": "REFRESH_WAYPOINT",
+        "jhash": "0xB395D753",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

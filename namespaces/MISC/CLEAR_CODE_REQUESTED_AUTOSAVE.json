@@ -1,0 +1,10 @@
+{
+    "0x06462A961E94B67C": {
+        "name": "CLEAR_CODE_REQUESTED_AUTOSAVE",
+        "jhash": "0x5A45B11A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

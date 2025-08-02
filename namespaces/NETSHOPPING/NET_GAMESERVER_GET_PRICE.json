@@ -1,0 +1,26 @@
+{
+    "0xC27009422FCCA88D": {
+        "name": "NET_GAMESERVER_GET_PRICE",
+        "jhash": "",
+        "comment": "bool is always true in game scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            },
+            {
+                "type": "Hash",
+                "name": "categoryHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_GET_PRICE"
+        ]
+    }
+}

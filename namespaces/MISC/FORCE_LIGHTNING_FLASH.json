@@ -1,0 +1,13 @@
+{
+    "0xF6062E089251C898": {
+        "name": "FORCE_LIGHTNING_FLASH",
+        "jhash": "0xDF38165E",
+        "comment": "creates single lightning+thunder at random position",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CREATE_LIGHTNING_THUNDER"
+        ]
+    }
+}

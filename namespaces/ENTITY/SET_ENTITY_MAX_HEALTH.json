@@ -1,0 +1,19 @@
+{
+    "0x166E7CF68597D8B5": {
+        "name": "SET_ENTITY_MAX_HEALTH",
+        "jhash": "0x96F84DF8",
+        "comment": "For instance: ENTITY::SET_ENTITY_MAX_HEALTH(PLAYER::PLAYER_PED_ID(), 200); // director_mode.c4: 67849",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x641F272B52E2F0F8": {
+        "name": "ALLOW_PORTABLE_PICKUP_TO_MIGRATE_TO_NON_PARTICIPANTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

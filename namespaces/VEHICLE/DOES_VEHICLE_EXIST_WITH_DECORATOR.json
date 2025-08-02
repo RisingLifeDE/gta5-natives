@@ -1,0 +1,15 @@
+{
+    "0x956B409B984D9BF7": {
+        "name": "DOES_VEHICLE_EXIST_WITH_DECORATOR",
+        "jhash": "0x39E68EDD",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "decorator"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

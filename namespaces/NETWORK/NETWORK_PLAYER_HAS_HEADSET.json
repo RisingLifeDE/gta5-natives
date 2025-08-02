@@ -1,0 +1,15 @@
+{
+    "0x3FB99A8B08D18FD6": {
+        "name": "NETWORK_PLAYER_HAS_HEADSET",
+        "jhash": "0x451FB6B6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x816F6981C60BF53B": {
+        "name": "APPLY_PED_BLOOD_DAMAGE_BY_ZONE",
+        "jhash": "0x1E54DB12",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

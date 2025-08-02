@@ -1,0 +1,19 @@
+{
+    "0xA80AE305E0A3044F": {
+        "name": "SET_CAN_CLIMB_ON_ENTITY",
+        "jhash": "0xE224A6A5",
+        "comment": "p1 always false.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

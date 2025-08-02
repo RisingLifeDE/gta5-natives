@@ -1,0 +1,26 @@
+{
+    "0x52F734CEBE20DFBA": {
+        "name": "GET_PATROL_TASK_INFO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "timeLeftAtNode"
+            },
+            {
+                "type": "int*",
+                "name": "nodeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2545",
+        "old_names": [
+            "_GET_PATROL_TASK_STATUS"
+        ]
+    }
+}

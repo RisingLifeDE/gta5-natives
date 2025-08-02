@@ -1,0 +1,15 @@
+{
+    "0xB4BBFD9CD8B3922B": {
+        "name": "REMOVE_PORTAL_SETTINGS_OVERRIDE",
+        "jhash": "0xD24B4D0C",
+        "comment": " Found in the b617d scripts, duplicates removed: \n\n AUDIO::REMOVE_PORTAL_SETTINGS_OVERRIDE(\"V_CARSHOWROOM_PS_WINDOW_UNBROKEN\");\n AUDIO::REMOVE_PORTAL_SETTINGS_OVERRIDE(\"V_CIA_PS_WINDOW_UNBROKEN\");\n AUDIO::REMOVE_PORTAL_SETTINGS_OVERRIDE(\"V_DLC_HEIST_APARTMENT_DOOR_CLOSED\");\n AUDIO::REMOVE_PORTAL_SETTINGS_OVERRIDE(\"V_FINALEBANK_PS_VAULT_INTACT\");\n AUDIO::REMOVE_PORTAL_SETTINGS_OVERRIDE(\"V_MICHAEL_PS_BATHROOM_WITH_WINDOW\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

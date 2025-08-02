@@ -1,0 +1,22 @@
+{
+    "0x9DBA107B4937F809": {
+        "name": "SET_PED_MOTION_IN_COVER_CLIPSET_OVERRIDE",
+        "jhash": "",
+        "comment": "Found in the b617d scripts:\nPED::SET_PED_MOTION_IN_COVER_CLIPSET_OVERRIDE(v_7, \"trevor_heist_cover_2h\");",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_COVER_CLIPSET_OVERRIDE"
+        ]
+    }
+}

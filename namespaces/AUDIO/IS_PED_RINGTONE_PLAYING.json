@@ -1,0 +1,15 @@
+{
+    "0x1E8E5E20937E3137": {
+        "name": "IS_PED_RINGTONE_PLAYING",
+        "jhash": "0xFE576EE4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

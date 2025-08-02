@@ -1,0 +1,15 @@
+{
+    "0x1327E2FE9746BAEE": {
+        "name": "DOES_POP_MULTIPLIER_AREA_EXIST",
+        "jhash": "0xE933B34A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

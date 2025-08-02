@@ -1,0 +1,15 @@
+{
+    "0xF6DC48E56BE1243A": {
+        "name": "CLEAR_PED_SCRIPT_TASK_IF_RUNNING_THREAT_RESPONSE_NON_TEMP_TASK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

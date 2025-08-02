@@ -1,0 +1,10 @@
+{
+    "0x6D28DC1671E334FD": {
+        "name": "IS_GAME_IN_CONTROL_OF_MUSIC",
+        "jhash": "0x7643170D",
+        "comment": "Hardcoded to return 1",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "0x15C86013127CE63F": {
+        "name": "TASK_BOAT_MISSION",
+        "jhash": "0x5865B031",
+        "comment": "You need to call PED::SET_BLOCKING_OF_NON_TEMPORARY_EVENTS after TASK_BOAT_MISSION in order for the task to execute.\n\nWorking example\nfloat vehicleMaxSpeed = VEHICLE::GET_VEHICLE_ESTIMATED_MAX_SPEED(ENTITY::GET_ENTITY_MODEL(pedVehicle));\nTASK::TASK_BOAT_MISSION(pedDriver, pedVehicle, 0, 0, waypointCoord.x, waypointCoord.y, waypointCoord.z, 4, vehicleMaxSpeed, 786469, -1.0, 7);\nPED::SET_BLOCKING_OF_NON_TEMPORARY_EVENTS(pedDriver, 1);\n\nP8 appears to be driving style flag - see gtaforums.com/topic/822314-guide-driving-styles/ for documentation",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedDriver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "mission"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "targetReached"
+            },
+            {
+                "type": "Any",
+                "name": "boatFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

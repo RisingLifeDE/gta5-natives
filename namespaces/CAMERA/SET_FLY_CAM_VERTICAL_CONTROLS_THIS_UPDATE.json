@@ -1,0 +1,15 @@
+{
+    "0xC8B5C4A79CC18B94": {
+        "name": "SET_FLY_CAM_VERTICAL_CONTROLS_THIS_UPDATE",
+        "jhash": "0x44473EFC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x88BC673CA9E0AE99": {
+        "name": "SET_VEHICLE_USE_MORE_RESTRICTIVE_SPAWN_CHECKS",
+        "jhash": "0xF0E5C41D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

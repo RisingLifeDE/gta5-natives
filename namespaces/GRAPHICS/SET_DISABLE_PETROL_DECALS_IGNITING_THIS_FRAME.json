@@ -1,0 +1,10 @@
+{
+    "0xD9454B5752C857DC": {
+        "name": "SET_DISABLE_PETROL_DECALS_IGNITING_THIS_FRAME",
+        "jhash": "0xEAB6417C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

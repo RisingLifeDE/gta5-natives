@@ -1,0 +1,22 @@
+{
+    "0x310836EE7129BA33": {
+        "name": "GET_DLC_WEAPON_DATA_SP",
+        "jhash": "",
+        "comment": "Same as GET_DLC_WEAPON_DATA but only works for DLC weapons that are available in SP.",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcWeaponIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2060",
+        "old_names": [
+            "_GET_DLC_WEAPON_DATA_SP"
+        ]
+    }
+}

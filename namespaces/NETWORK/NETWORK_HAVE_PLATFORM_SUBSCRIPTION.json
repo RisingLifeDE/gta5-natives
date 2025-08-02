@@ -1,0 +1,13 @@
+{
+    "0x5EA784D197556507": {
+        "name": "NETWORK_HAVE_PLATFORM_SUBSCRIPTION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_HAVE_ONLINE_PRIVILEGE_2"
+        ]
+    }
+}

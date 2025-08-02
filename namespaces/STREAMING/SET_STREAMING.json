@@ -1,0 +1,15 @@
+{
+    "0x6E0C692677008888": {
+        "name": "SET_STREAMING",
+        "jhash": "0x27EF6CB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

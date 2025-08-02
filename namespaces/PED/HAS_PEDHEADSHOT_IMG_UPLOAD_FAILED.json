@@ -1,0 +1,10 @@
+{
+    "0x876928DDDFCCC9CD": {
+        "name": "HAS_PEDHEADSHOT_IMG_UPLOAD_FAILED",
+        "jhash": "0x05023F8F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

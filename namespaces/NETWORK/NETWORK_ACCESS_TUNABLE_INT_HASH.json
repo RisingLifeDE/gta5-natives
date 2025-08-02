@@ -1,0 +1,26 @@
+{
+    "0x40FCE03E50E8DBE8": {
+        "name": "NETWORK_ACCESS_TUNABLE_INT_HASH",
+        "jhash": "0xB2E83B75",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "int*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ACCESS_TUNABLE_INT_HASH"
+        ]
+    }
+}

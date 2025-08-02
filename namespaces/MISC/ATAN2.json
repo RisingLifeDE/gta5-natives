@@ -1,0 +1,19 @@
+{
+    "0x8927CBF9D22261A4": {
+        "name": "ATAN2",
+        "jhash": "0x2508AC81",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

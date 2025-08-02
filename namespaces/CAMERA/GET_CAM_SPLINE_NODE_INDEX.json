@@ -1,0 +1,15 @@
+{
+    "0xB22B17DF858716A6": {
+        "name": "GET_CAM_SPLINE_NODE_INDEX",
+        "jhash": "0xF8AEB6BD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

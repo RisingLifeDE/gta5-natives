@@ -1,0 +1,10 @@
+{
+    "0x327EDEEEAC55C369": {
+        "name": "IS_HELP_MESSAGE_FADING_OUT",
+        "jhash": "0x3E50AE92",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

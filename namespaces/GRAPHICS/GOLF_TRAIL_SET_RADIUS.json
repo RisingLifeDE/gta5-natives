@@ -1,0 +1,23 @@
+{
+    "0x2485D34E50A22E84": {
+        "name": "GOLF_TRAIL_SET_RADIUS",
+        "jhash": "0x72BA8A14",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

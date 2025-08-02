@@ -1,0 +1,19 @@
+{
+    "0xE131A28626F81AB2": {
+        "name": "GET_PED_PROP_TEXTURE_INDEX",
+        "jhash": "0x922A6653",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

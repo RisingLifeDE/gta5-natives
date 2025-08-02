@@ -1,0 +1,35 @@
+{
+    "0xC906A7DAB05C8D2B": {
+        "name": "GET_GROUND_Z_FOR_3D_COORD",
+        "jhash": "0xA1BFD5E0",
+        "comment": "Gets the ground elevation at the specified position. Note that if the specified position is below ground level, the function will output zero!\n\nx: Position on the X-axis to get ground elevation at.\ny: Position on the Y-axis to get ground elevation at.\nz: Position on the Z-axis to get ground elevation at.\ngroundZ: The ground elevation at the specified position.\nignoreWater: Nearly always 0, very rarely 1 in the scripts: https://gfycat.com/NiftyTatteredCricket\n\nBear in mind this native can only calculate the elevation when the coordinates are within the client's render distance.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float*",
+                "name": "groundZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreWater"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

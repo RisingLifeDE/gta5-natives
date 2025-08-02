@@ -1,0 +1,18 @@
+{
+    "0x52AF537A0C5B8AAD": {
+        "name": "DOES_RAYFIRE_MAP_OBJECT_EXIST",
+        "jhash": "0xE08C834D",
+        "comment": "Returns true if a destructible object with this handle exists, false otherwise.  ",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_DOES_DES_OBJECT_EXIST"
+        ]
+    }
+}

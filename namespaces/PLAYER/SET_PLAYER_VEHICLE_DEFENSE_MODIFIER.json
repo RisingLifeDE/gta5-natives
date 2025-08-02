@@ -1,0 +1,19 @@
+{
+    "0x4C60E6EFDAFF2462": {
+        "name": "SET_PLAYER_VEHICLE_DEFENSE_MODIFIER",
+        "jhash": "0xA16626C7",
+        "comment": "modifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

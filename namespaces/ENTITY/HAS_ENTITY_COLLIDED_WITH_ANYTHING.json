@@ -1,0 +1,15 @@
+{
+    "0x8BAD02F0368D9E14": {
+        "name": "HAS_ENTITY_COLLIDED_WITH_ANYTHING",
+        "jhash": "0x662A2F41",
+        "comment": "Called on tick.\nTested with vehicles, returns true whenever the vehicle is touching any entity.\n\nNote: for vehicles, the wheels can touch the ground and it will still return false, but if the body of the vehicle touches the ground, it will return true.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

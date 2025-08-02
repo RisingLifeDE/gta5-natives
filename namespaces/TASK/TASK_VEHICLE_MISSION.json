@@ -1,0 +1,47 @@
+{
+    "0x659427E0EF36BCDE": {
+        "name": "TASK_VEHICLE_MISSION",
+        "jhash": "0x20609E56",
+        "comment": "missionType: https://alloc8or.re/gta5/doc/enums/eVehicleMissionType.txt",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicleTarget"
+            },
+            {
+                "type": "int",
+                "name": "missionType"
+            },
+            {
+                "type": "float",
+                "name": "cruiseSpeed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "targetReached"
+            },
+            {
+                "type": "float",
+                "name": "straightLineDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

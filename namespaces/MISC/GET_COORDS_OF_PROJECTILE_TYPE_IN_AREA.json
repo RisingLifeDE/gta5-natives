@@ -1,0 +1,50 @@
+{
+    "0x8D7A43EC6A5FEA45": {
+        "name": "GET_COORDS_OF_PROJECTILE_TYPE_IN_AREA",
+        "jhash": "0x1A40454B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "Hash",
+                "name": "projectileHash"
+            },
+            {
+                "type": "Vector3*",
+                "name": "projectilePos"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_IS_PROJECTILE_TYPE_IN_AREA"
+        ]
+    }
+}

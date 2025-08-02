@@ -1,0 +1,47 @@
+{
+    "0x7B1776B3B53F8D74": {
+        "name": "SET_WARNING_MESSAGE",
+        "jhash": "0xBE699BDE",
+        "comment": "You can only use text entries. No custom text.\n\nExample: SET_WARNING_MESSAGE(\"t20\", 3, \"adder\", false, -1, 0, 0, true);\nerrorCode: shows an error code at the bottom left if nonzero",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "titleMsg"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "const char*",
+                "name": "promptMsg"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "p5"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "showBackground"
+            },
+            {
+                "type": "int",
+                "name": "errorCode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

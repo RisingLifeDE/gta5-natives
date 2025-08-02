@@ -1,0 +1,10 @@
+{
+    "0x71E7B2E657449AAD": {
+        "name": "IS_SAFE_TO_START_PLAYER_SWITCH",
+        "jhash": "0xEAA51103",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

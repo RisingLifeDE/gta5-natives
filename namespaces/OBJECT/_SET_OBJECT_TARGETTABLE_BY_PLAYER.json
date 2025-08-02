@@ -1,0 +1,23 @@
+{
+    "0xB39F03368DB0CAA2": {
+        "name": "_SET_OBJECT_TARGETTABLE_BY_PLAYER",
+        "jhash": "",
+        "comment": "Sets the 34th and 35th object flags related to player peds.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "setFlag34"
+            },
+            {
+                "type": "BOOL",
+                "name": "setFlag35"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

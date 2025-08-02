@@ -1,0 +1,18 @@
+{
+    "0xF6792800AC95350D": {
+        "name": "SET_SAVE_MIGRATION_TRANSACTION_ID_WARNING",
+        "jhash": "",
+        "comment": "Sets profile setting 501",
+        "params": [
+            {
+                "type": "int",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SAVE_MIGRATION_TRANSACTION_ID"
+        ]
+    }
+}

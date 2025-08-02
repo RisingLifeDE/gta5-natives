@@ -1,0 +1,18 @@
+{
+    "0xA7BAB11E7C9C6C5A": {
+        "name": "UGC_GET_CONTENT_CATEGORY",
+        "jhash": "0x5E8A7559",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_CONTENT_CATEGORY"
+        ]
+    }
+}

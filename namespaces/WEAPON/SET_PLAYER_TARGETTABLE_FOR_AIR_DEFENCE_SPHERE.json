@@ -1,0 +1,26 @@
+{
+    "0xECDC202B25E5CF48": {
+        "name": "SET_PLAYER_TARGETTABLE_FOR_AIR_DEFENCE_SPHERE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "zoneId"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SET_PLAYER_AIR_DEFENSE_ZONE_FLAG"
+        ]
+    }
+}

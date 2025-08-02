@@ -1,0 +1,51 @@
+{
+    "0x6ABFA3E16460F22D": {
+        "name": "CREATE_CAMERA_WITH_PARAMS",
+        "jhash": "0x0688BE9A",
+        "comment": "p9 uses 2 by default",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "camHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "fov"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "323"
+    }
+}

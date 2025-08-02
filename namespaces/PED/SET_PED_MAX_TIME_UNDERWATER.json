@@ -1,0 +1,19 @@
+{
+    "0x6BA428C528D9E522": {
+        "name": "SET_PED_MAX_TIME_UNDERWATER",
+        "jhash": "0x082EF240",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

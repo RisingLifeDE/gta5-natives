@@ -1,0 +1,13 @@
+{
+    "0x684A41975F077262": {
+        "name": "PLM_IS_IN_CONSTRAINED_MODE",
+        "jhash": "",
+        "comment": "aka \"constrained\"",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_IN_POWER_SAVING_MODE"
+        ]
+    }
+}

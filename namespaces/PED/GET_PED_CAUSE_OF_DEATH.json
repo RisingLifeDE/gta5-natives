@@ -1,0 +1,15 @@
+{
+    "0x16FFE42AB2D2DC59": {
+        "name": "GET_PED_CAUSE_OF_DEATH",
+        "jhash": "0x63458C27",
+        "comment": "Returns the hash of the weapon/model/object that killed the ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

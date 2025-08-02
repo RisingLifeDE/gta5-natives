@@ -1,0 +1,19 @@
+{
+    "0x9097EB6D4BB9A12A": {
+        "name": "ADD_PLAYER_TARGETABLE_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

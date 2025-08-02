@@ -1,0 +1,23 @@
+{
+    "0x8A694D7A68F8DC38": {
+        "name": "INTERRUPT_CONVERSATION_AND_PAUSE",
+        "jhash": "0xDD4A3F1F",
+        "comment": "One call found in the b617d scripts:\n\nAUDIO::INTERRUPT_CONVERSATION_AND_PAUSE(NETWORK::NET_TO_PED(l_3989._f26F[0/*1*/]), \"CONV_INTERRUPT_QUIT_IT\", \"LESTER\");",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "speaker"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

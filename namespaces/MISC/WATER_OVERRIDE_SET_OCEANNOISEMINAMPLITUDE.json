@@ -1,0 +1,15 @@
+{
+    "0x31727907B2C43C55": {
+        "name": "WATER_OVERRIDE_SET_OCEANNOISEMINAMPLITUDE",
+        "jhash": "0xD447439D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minAmplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

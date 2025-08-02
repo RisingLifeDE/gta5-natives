@@ -1,0 +1,19 @@
+{
+    "0xB96B00E976BE977F": {
+        "name": "SET_DEEP_OCEAN_SCALER",
+        "jhash": "0x53B694B1",
+        "comment": "Sets a value that determines how aggressive the ocean waves will be. Values of 2.0 or more make for very aggressive waves like you see during a thunderstorm.\n\nWorks only ~200 meters around the player.",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_WAVES_INTENSITY",
+            "_SET_CURRENT_INTENSITY"
+        ]
+    }
+}

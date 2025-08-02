@@ -1,0 +1,13 @@
+{
+    "0x44B80ABAB9D80BD3": {
+        "name": "GET_USINGSEETHROUGH",
+        "jhash": "0x1FE547F2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_SEETHROUGH_ACTIVE"
+        ]
+    }
+}

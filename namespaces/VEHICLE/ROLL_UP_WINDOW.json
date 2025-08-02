@@ -1,0 +1,19 @@
+{
+    "0x602E548F46E24D59": {
+        "name": "ROLL_UP_WINDOW",
+        "jhash": "0x83B7E06A",
+        "comment": "windowIndex:\n0 = Front Left Window\n1 = Front Right Window\n2 = Rear Left Window\n3 = Rear Right Window\n4 = Front Windscreen\n5 = Rear Windscreen\n6 = Mid Left\n7 = Mid Right\n8 = Invalid",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "windowIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

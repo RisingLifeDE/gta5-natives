@@ -1,0 +1,10 @@
+{
+    "0x1F400FEF721170DA": {
+        "name": "GET_WIND_DIRECTION",
+        "jhash": "0x89499A0D",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

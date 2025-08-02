@@ -1,0 +1,22 @@
+{
+    "0xA358F56F10732EE1": {
+        "name": "DATADICT_CREATE_DICT",
+        "jhash": "0x96A8E05F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_OBJECT"
+        ]
+    }
+}

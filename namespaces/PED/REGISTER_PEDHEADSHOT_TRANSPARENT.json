@@ -1,0 +1,15 @@
+{
+    "0x953563CE563143AF": {
+        "name": "REGISTER_PEDHEADSHOT_TRANSPARENT",
+        "jhash": "0x4DD03628",
+        "comment": "Similar to REGISTER_PEDHEADSHOT but creates a transparent background instead of black. Example: https://i.imgur.com/iHz8ztn.png",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

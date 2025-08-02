@@ -1,0 +1,26 @@
+{
+    "0x8C4F3BF23B6237DB": {
+        "name": "CREATE_PARACHUTE_BAG_OBJECT",
+        "jhash": "0x19198A16",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Object",
+        "build": "323",
+        "old_names": [
+            "_CREATE_PARACHUTE_OBJECT"
+        ]
+    }
+}

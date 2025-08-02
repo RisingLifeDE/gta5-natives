@@ -1,0 +1,10 @@
+{
+    "0x2FBF47B1B36D36F9": {
+        "name": "NETWORK_SESSION_CANCEL_INVITE",
+        "jhash": "0x20317535",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

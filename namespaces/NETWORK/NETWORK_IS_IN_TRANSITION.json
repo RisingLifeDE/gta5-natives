@@ -1,0 +1,10 @@
+{
+    "0x68049AEFF83D8F0A": {
+        "name": "NETWORK_IS_IN_TRANSITION",
+        "jhash": "0xC3CDB626",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

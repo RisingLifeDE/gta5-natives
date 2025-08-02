@@ -1,0 +1,10 @@
+{
+    "0xD57AAAE0E2214D11": {
+        "name": "FREEZE_MICROPHONE",
+        "jhash": "0x2B9D91E8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

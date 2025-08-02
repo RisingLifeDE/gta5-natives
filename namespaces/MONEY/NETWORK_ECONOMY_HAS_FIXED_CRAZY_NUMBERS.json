@@ -1,0 +1,10 @@
+{
+    "0x7C4FCCD2E4DEB394": {
+        "name": "NETWORK_ECONOMY_HAS_FIXED_CRAZY_NUMBERS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

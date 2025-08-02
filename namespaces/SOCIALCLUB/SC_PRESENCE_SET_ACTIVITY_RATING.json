@@ -1,0 +1,19 @@
+{
+    "0x487912FD248EFDDF": {
+        "name": "SC_PRESENCE_SET_ACTIVITY_RATING",
+        "jhash": "0x579B4510",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF9B10B529DCFB33B": {
+        "name": "NETWORK_GET_STRING_WALLET_BALANCE",
+        "jhash": "0xC1A11435",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "unused": true
+    }
+}

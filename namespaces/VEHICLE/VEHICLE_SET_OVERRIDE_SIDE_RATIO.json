@@ -1,0 +1,19 @@
+{
+    "0xD3E51C0AB8C26EEE": {
+        "name": "VEHICLE_SET_OVERRIDE_SIDE_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103"
+    }
+}

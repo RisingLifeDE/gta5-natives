@@ -1,0 +1,22 @@
+{
+    "0x4927FC39CD0869A0": {
+        "name": "NETWORK_PLAYER_GET_USERID",
+        "jhash": "0x4EC0D983",
+        "comment": "Returns a string of the player's Rockstar Id. \nTakes a 24 char buffer. Returns the buffer or \"**Invalid**\" if rlGamerInfo of the given player cannot be retrieved or the player doesn't exist.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int*",
+                "name": "userID"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_PLAYER_GET_USER_ID"
+        ]
+    }
+}

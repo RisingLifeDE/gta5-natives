@@ -1,0 +1,15 @@
+{
+    "0x710311ADF0E20730": {
+        "name": "ACTIVATE_PHYSICS",
+        "jhash": "0x031711B8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

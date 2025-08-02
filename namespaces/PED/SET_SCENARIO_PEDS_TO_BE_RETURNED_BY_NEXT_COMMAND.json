@@ -1,0 +1,15 @@
+{
+    "0x14F19A8782C8071E": {
+        "name": "SET_SCENARIO_PEDS_TO_BE_RETURNED_BY_NEXT_COMMAND",
+        "jhash": "0x85615FD0",
+        "comment": "Sets a value indicating whether scenario peds should be returned by the next call to a command that returns peds. Eg. GET_CLOSEST_PED.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

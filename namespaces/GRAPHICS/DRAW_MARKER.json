@@ -1,0 +1,107 @@
+{
+    "0x28477EC23D892089": {
+        "name": "DRAW_MARKER",
+        "jhash": "0x48D84A02",
+        "comment": "enum MarkerTypes\n{\n    MarkerTypeUpsideDownCone = 0,\n MarkerTypeVerticalCylinder = 1,\n   MarkerTypeThickChevronUp = 2,\n MarkerTypeThinChevronUp = 3,\n  MarkerTypeCheckeredFlagRect = 4,\n  MarkerTypeCheckeredFlagCircle = 5,\n    MarkerTypeVerticleCircle = 6,\n MarkerTypePlaneModel = 7,\n MarkerTypeLostMCDark = 8,\n MarkerTypeLostMCLight = 9,\n    MarkerTypeNumber0 = 10,\n   MarkerTypeNumber1 = 11,\n   MarkerTypeNumber2 = 12,\n   MarkerTypeNumber3 = 13,\n   MarkerTypeNumber4 = 14,\n   MarkerTypeNumber5 = 15,\n   MarkerTypeNumber6 = 16,\n   MarkerTypeNumber7 = 17,\n   MarkerTypeNumber8 = 18,\n   MarkerTypeNumber9 = 19,\n   MarkerTypeChevronUpx1 = 20,\n   MarkerTypeChevronUpx2 = 21,\n   MarkerTypeChevronUpx3 = 22,\n   MarkerTypeHorizontalCircleFat = 23,\n   MarkerTypeReplayIcon = 24,\n    MarkerTypeHorizontalCircleSkinny = 25,\n    MarkerTypeHorizontalCircleSkinny_Arrow = 26,\n  MarkerTypeHorizontalSplitArrowCircle = 27,\n    MarkerTypeDebugSphere = 28,\n   MarkerTypeDallorSign = 29,\n    MarkerTypeHorizontalBars = 30,\n    MarkerTypeWolfHead = 31\n};\n\ndirX/Y/Z represent a heading on each axis in which the marker should face, alternatively you can rotate each axis independently with rotX/Y/Z (and set dirX/Y/Z all to 0).\n\nfaceCamera - Rotates only the y-axis (the heading) towards the camera\n\np19 - no effect, default value in script is 2\n\nrotate - Rotates only on the y-axis (the heading)\n\ntextureDict - Name of texture dictionary to load texture from (e.g. \"GolfPutting\")\n\ntextureName - Name of texture inside dictionary to load (e.g. \"PuttingMarker\")\n\ndrawOnEnts - Draws the marker onto any entities that intersect it\n\nbasically what he said, except textureDict and textureName are totally not const char*, or if so, then they are always set to 0/NULL/nullptr in every script I checked, eg:\n\nbj.c: graphics::draw_marker(6, vParam0, 0f, 0f, 1f, 0f, 0f, 0f, 4f, 4f, 4f, 240, 200, 80, iVar1, 0, 0, 2, 0, 0, 0, false);\n\nhis is what I used to draw an amber downward pointing chevron \"V\", has to be redrawn every frame.  The 180 is for 180 degrees rotation around the Y axis, the 50 is alpha, assuming max is 100, but it will accept 255.\n\nGRAPHICS::DRAW_MARKER(2, v.x, v.y, v.z + 2, 0, 0, 0, 0, 180, 0, 2, 2, 2, 255, 128, 0, 50, 0, 1, 1, 0, 0, 0, 0);\n\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "bobUpAndDown"
+            },
+            {
+                "type": "BOOL",
+                "name": "faceCamera"
+            },
+            {
+                "type": "int",
+                "name": "p19"
+            },
+            {
+                "type": "BOOL",
+                "name": "rotate"
+            },
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawOnEnts"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

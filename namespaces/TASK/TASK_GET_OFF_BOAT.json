@@ -1,0 +1,22 @@
+{
+    "0x9C00E77AF14B2DFF": {
+        "name": "TASK_GET_OFF_BOAT",
+        "jhash": "0x4293601F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "boat"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_TASK_GET_OFF_BOAT"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4419966C9936071A": {
+        "name": "CLEAR_VEHICLE_PETROLTANK_FIRE_CULPRIT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x428AD3E26C8D9EB0": {
+        "name": "SET_FORMATION_LEADER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

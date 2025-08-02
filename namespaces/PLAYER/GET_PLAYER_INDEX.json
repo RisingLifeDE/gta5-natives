@@ -1,0 +1,10 @@
+{
+    "0xA5EDC40EF369B48D": {
+        "name": "GET_PLAYER_INDEX",
+        "jhash": "0x309BBDC1",
+        "comment": "Returns the same as PLAYER_ID and NETWORK_PLAYER_ID_TO_INT",
+        "params": [],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

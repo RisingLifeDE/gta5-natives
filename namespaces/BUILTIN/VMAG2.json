@@ -1,0 +1,23 @@
+{
+    "0xA8CEACB4F35AE058": {
+        "name": "VMAG2",
+        "jhash": "0xE796E629",
+        "comment": "Calculates the magnitude of a vector but does not perform Sqrt operations. (Its way faster)",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

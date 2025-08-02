@@ -1,0 +1,13 @@
+{
+    "0x3D9ACB1EB139E702": {
+        "name": "IS_MOUSE_ROLLED_OVER_INSTRUCTIONAL_BUTTONS",
+        "jhash": "",
+        "comment": "Returns TRUE if mouse is hovering above instructional buttons. Works with all buttons gfx, such as popup_warning, pause_menu_instructional_buttons, instructional_buttons, etc. Note: You have to call TOGGLE_MOUSE_BUTTONS on the scaleform if you want this native to work.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_MOUSE_CURSOR_ABOVE_INSTRUCTIONAL_BUTTONS"
+        ]
+    }
+}

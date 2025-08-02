@@ -1,0 +1,10 @@
+{
+    "0x7C0A893088881D57": {
+        "name": "HAS_CUTSCENE_FINISHED",
+        "jhash": "0x5DED14B4",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

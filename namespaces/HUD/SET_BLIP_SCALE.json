@@ -1,0 +1,19 @@
+{
+    "0xD38744167B2FA257": {
+        "name": "SET_BLIP_SCALE",
+        "jhash": "0x1E6EC434",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

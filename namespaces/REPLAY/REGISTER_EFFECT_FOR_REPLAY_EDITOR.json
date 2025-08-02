@@ -1,0 +1,19 @@
+{
+    "0x7E2BD3EF6C205F09": {
+        "name": "REGISTER_EFFECT_FOR_REPLAY_EDITOR",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

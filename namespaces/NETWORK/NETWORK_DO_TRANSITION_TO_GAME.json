@@ -1,0 +1,19 @@
+{
+    "0x3E9BB38102A589B0": {
+        "name": "NETWORK_DO_TRANSITION_TO_GAME",
+        "jhash": "0x1B2114D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

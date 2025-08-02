@@ -1,0 +1,26 @@
+{
+    "0x11FF1C80276097ED": {
+        "name": "PRESENCE_EVENT_UPDATESTAT_INT",
+        "jhash": "0x4AC39C6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_UPDATE_STAT_INT"
+        ]
+    }
+}

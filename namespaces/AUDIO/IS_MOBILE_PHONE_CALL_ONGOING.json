@@ -1,0 +1,10 @@
+{
+    "0x7497D2CE2C30D24C": {
+        "name": "IS_MOBILE_PHONE_CALL_ONGOING",
+        "jhash": "0x4ED1400A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

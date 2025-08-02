@@ -1,0 +1,10 @@
+{
+    "0xBA96394A0EECFA65": {
+        "name": "UGC_CLEAR_QUERY_RESULTS",
+        "jhash": "0x0D35DD93",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

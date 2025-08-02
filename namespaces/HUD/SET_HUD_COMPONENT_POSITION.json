@@ -1,0 +1,23 @@
+{
+    "0xAABB1F56E2A17CED": {
+        "name": "SET_HUD_COMPONENT_POSITION",
+        "jhash": "0x2F3A0D15",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

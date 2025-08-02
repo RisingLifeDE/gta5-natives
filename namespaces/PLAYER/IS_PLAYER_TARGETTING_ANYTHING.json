@@ -1,0 +1,15 @@
+{
+    "0x78CFE51896B6B8A4": {
+        "name": "IS_PLAYER_TARGETTING_ANYTHING",
+        "jhash": "0x456DB50D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

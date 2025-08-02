@@ -1,0 +1,22 @@
+{
+    "0xF6E48914C7A8694E": {
+        "name": "BEGIN_SCALEFORM_MOVIE_METHOD",
+        "jhash": "0x215ABBE8",
+        "comment": "Push a function from the Scaleform onto the stack\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "const char*",
+                "name": "methodName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_FUNCTION"
+        ]
+    }
+}

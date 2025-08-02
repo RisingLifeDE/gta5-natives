@@ -1,0 +1,30 @@
+{
+    "0xA19EC0786E326E06": {
+        "name": "NETWORK_SPEND_GANGOPS_START_STRAND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_SPENT_GANGOPS_START_STRAND"
+        ]
+    }
+}

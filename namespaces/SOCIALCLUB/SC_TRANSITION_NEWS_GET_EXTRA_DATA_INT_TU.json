@@ -1,0 +1,19 @@
+{
+    "0x92DA6E70EF249BD1": {
+        "name": "SC_TRANSITION_NEWS_GET_EXTRA_DATA_INT_TU",
+        "jhash": "0xAED95A6F",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

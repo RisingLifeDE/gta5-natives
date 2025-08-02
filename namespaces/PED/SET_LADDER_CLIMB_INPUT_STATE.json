@@ -1,0 +1,19 @@
+{
+    "0x1A330D297AAC6BC1": {
+        "name": "SET_LADDER_CLIMB_INPUT_STATE",
+        "jhash": "0x77BB7CB8",
+        "comment": "Only appears in lamar1 script.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

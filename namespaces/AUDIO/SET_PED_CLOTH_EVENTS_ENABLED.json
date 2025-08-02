@@ -1,0 +1,22 @@
+{
+    "0x29DA3CA8D8B2692D": {
+        "name": "SET_PED_CLOTH_EVENTS_ENABLED",
+        "jhash": "",
+        "comment": "Enables/disables ped's \"quiet\" footstep sound.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_PED_AUDIO_FOOTSTEP_QUIET"
+        ]
+    }
+}

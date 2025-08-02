@@ -1,0 +1,31 @@
+{
+    "0x14D29BB12D47F68C": {
+        "name": "SET_CONTROL_TRIGGER_SHAKE",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "leftDuration"
+            },
+            {
+                "type": "int",
+                "name": "leftFrequency"
+            },
+            {
+                "type": "int",
+                "name": "rightDuration"
+            },
+            {
+                "type": "int",
+                "name": "rightFrequency"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x9A62EC95AE10E011": {
+        "name": "STAT_MIGRATE_SAVEGAME_GET_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x075F1D57402C93BA": {
+        "name": "HAVE_CREDITS_REACHED_END",
+        "jhash": "0x2569C9A7",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

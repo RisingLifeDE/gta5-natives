@@ -1,0 +1,23 @@
+{
+    "0xD45CB817D7E177D2": {
+        "name": "NETWORK_HANDLE_FROM_FRIEND",
+        "jhash": "0x3B0BB3A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "friendIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "gamerHandleSize"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

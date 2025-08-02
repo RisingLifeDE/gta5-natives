@@ -1,0 +1,13 @@
+{
+    "0x629526ABA383BCAA": {
+        "name": "STAT_DISABLE_STATS_TRACKING",
+        "jhash": "",
+        "comment": "Prevents updates to CStatsMgr (e.g., STAT_SET_* natives)",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_STAT_MANAGER_SET_IMMUTABLE"
+        ]
+    }
+}

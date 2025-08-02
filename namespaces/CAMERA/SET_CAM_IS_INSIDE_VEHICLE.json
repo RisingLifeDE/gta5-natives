@@ -1,0 +1,22 @@
+{
+    "0xA2767257A320FC82": {
+        "name": "SET_CAM_IS_INSIDE_VEHICLE",
+        "jhash": "",
+        "comment": "When set to true shadows appear more smooth but less detailed.\nSet to false by default.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CAM_SMOOTH_SHADOWS"
+        ]
+    }
+}

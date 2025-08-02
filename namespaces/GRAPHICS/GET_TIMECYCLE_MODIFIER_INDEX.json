@@ -1,0 +1,10 @@
+{
+    "0xFDF3D97C674AFB66": {
+        "name": "GET_TIMECYCLE_MODIFIER_INDEX",
+        "jhash": "0x594FEEC4",
+        "comment": "Only use for this in the PC scripts is:\n\nif (GRAPHICS::GET_TIMECYCLE_MODIFIER_INDEX() != -1)",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

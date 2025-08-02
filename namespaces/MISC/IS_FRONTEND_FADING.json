@@ -1,0 +1,10 @@
+{
+    "0x7EA2B6AF97ECA6ED": {
+        "name": "IS_FRONTEND_FADING",
+        "jhash": "0x8FF6232C",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x36C6984C3ED0C911": {
+        "name": "SET_PED_SCUBA_GEAR_VARIATION",
+        "jhash": "",
+        "comment": "This native sets a scuba mask for freemode models and an oxygen bottle for player_* models. It works on freemode and player_* models.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_SCUBA_GEAR_VARIATION"
+        ]
+    }
+}

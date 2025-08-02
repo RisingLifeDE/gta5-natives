@@ -1,0 +1,23 @@
+{
+    "0xE95C8A1875A02CA4": {
+        "name": "PLAYSTATS_WEAPON_MODE_CHANGE",
+        "jhash": "0x79716890",
+        "comment": "This is a typo made by R*. It's supposed to be called PLAYSTATS_WEAPON_MOD_CHANGE.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHashTo"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHashFrom"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

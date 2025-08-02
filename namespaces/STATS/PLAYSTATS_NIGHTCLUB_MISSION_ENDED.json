@@ -1,0 +1,18 @@
+{
+    "0x830C3A44EB3F2CF9": {
+        "name": "PLAYSTATS_NIGHTCLUB_MISSION_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_PLAYSTATS_NIGHTCLUB_MISSION_ENDED"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x836B62713E0534CA": {
+        "name": "BG_IS_EXITFLAG_SET",
+        "jhash": "0x22B9F132",
+        "comment": "Returns true if bit 0 in GtaThread+0x154 is set.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_BG_EXITED_BECAUSE_BACKGROUND_THREAD_STOPPED"
+        ]
+    }
+}

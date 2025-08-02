@@ -1,0 +1,15 @@
+{
+    "0x0B568201DD99F0EB": {
+        "name": "SET_CONVERSATION_AUDIO_CONTROLLED_BY_ANIM",
+        "jhash": "0x1193ED6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

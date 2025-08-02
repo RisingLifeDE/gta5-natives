@@ -1,0 +1,18 @@
+{
+    "0x9B0F3DCA3DB0F4CD": {
+        "name": "GET_LANDING_GEAR_STATE",
+        "jhash": "0xA6F02670",
+        "comment": "Landing gear states:\n\n0: Deployed\n1: Closing (Retracting)\n2: (Landing gear state 2 is never used.)\n3: Opening (Deploying)\n4: Retracted\n\nReturns the current state of the vehicles landing gear.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_LANDING_GEAR"
+        ]
+    }
+}

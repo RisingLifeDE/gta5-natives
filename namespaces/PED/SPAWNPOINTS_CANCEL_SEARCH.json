@@ -1,0 +1,10 @@
+{
+    "0xFEE4A5459472A9F8": {
+        "name": "SPAWNPOINTS_CANCEL_SEARCH",
+        "jhash": "0x492C9E46",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x472397322E92A856": {
+        "name": "SUPPRESS_HD_MAP_STREAMING_THIS_FRAME",
+        "jhash": "0x4267DA87",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

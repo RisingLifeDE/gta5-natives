@@ -1,0 +1,34 @@
+{
+    "0x2B4CDCA6F07FF3DA": {
+        "name": "GET_PACKED_NG_INT_STAT_KEY",
+        "jhash": "",
+        "comment": "Needs more research. Gets the stat name of a masked int?\n\nsection - values used in the decompiled scripts:\n\"_NGPSTAT_INT\"\n\"_MP_NGPSTAT_INT\"\n\"_MP_LRPSTAT_INT\"\n\"_MP_APAPSTAT_INT\"\n\"_MP_LR2PSTAT_INT\"\n\"_MP_BIKEPSTAT_INT\"\n\"_MP_IMPEXPPSTAT_INT\"\n\"_MP_GUNRPSTAT_INT\"\n\"_NGDLCPSTAT_INT\"\n\"_MP_NGDLCPSTAT_INT\"\n\"_DLCSMUGCHARPSTAT_INT\"\n\"_GANGOPSPSTAT_INT\"\n\"_BUSINESSBATPSTAT_INT\"\n\"_ARENAWARSPSTAT_INT\"\n\"_CASINOPSTAT_INT\"\n\"_CASINOHSTPSTAT_INT\"",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "spStat"
+            },
+            {
+                "type": "BOOL",
+                "name": "charStat"
+            },
+            {
+                "type": "int",
+                "name": "character"
+            },
+            {
+                "type": "const char*",
+                "name": "section"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_NGSTAT_INT_HASH"
+        ]
+    }
+}

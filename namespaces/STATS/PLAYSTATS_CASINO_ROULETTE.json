@@ -1,0 +1,18 @@
+{
+    "0x95101C443A84E7F1": {
+        "name": "PLAYSTATS_CASINO_ROULETTE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_ROULETTE"
+        ]
+    }
+}

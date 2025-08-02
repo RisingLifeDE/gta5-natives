@@ -1,0 +1,15 @@
+{
+    "0x57FFF03E423A4C0B": {
+        "name": "SET_SUPER_JUMP_THIS_FRAME",
+        "jhash": "0x86745EF3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

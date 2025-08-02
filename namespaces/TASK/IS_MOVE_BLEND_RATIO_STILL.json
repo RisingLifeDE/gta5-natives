@@ -1,0 +1,15 @@
+{
+    "0x349CE7B56DAFD95C": {
+        "name": "IS_MOVE_BLEND_RATIO_STILL",
+        "jhash": "0xE9DAF877",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xD839450756ED5A80": {
+        "name": "IS_PED_FATALLY_INJURED",
+        "jhash": "0xBADA0093",
+        "comment": "Gets a value indicating whether this ped's health is below its fatally injured threshold. The default threshold is 100.\nIf the handle is invalid, the function returns true.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

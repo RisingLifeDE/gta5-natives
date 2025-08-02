@@ -1,0 +1,19 @@
+{
+    "0x3FF2FCEC4B7721B4": {
+        "name": "APP_SET_STRING",
+        "jhash": "0x23DF19A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

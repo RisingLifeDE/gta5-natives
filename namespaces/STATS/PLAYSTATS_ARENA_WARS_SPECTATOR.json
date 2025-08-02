@@ -1,0 +1,34 @@
+{
+    "0x6F4F599753F8200A": {
+        "name": "PLAYSTATS_ARENA_WARS_SPECTATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_PLAYSTATS_ARENA_WAR_SPECTATOR"
+        ]
+    }
+}

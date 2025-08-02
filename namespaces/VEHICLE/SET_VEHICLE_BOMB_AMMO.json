@@ -1,0 +1,24 @@
+{
+    "0xF4B2ED59DEB5D774": {
+        "name": "SET_VEHICLE_BOMB_AMMO",
+        "jhash": "",
+        "comment": "Sets the amount of bombs that this vehicle has. As far as I know, this does _not_ impact vehicle weapons or the ammo of those weapons in any way, it is just a way to keep track of the amount of bombs in a specific plane.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "bombCount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_SET_VEHICLE_BOMBS",
+            "_SET_AIRCRAFT_BOMB_COUNT",
+            "_SET_VEHICLE_BOMB_COUNT"
+        ]
+    }
+}

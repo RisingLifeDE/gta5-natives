@@ -1,0 +1,15 @@
+{
+    "0xC3C221ADDDE31A11": {
+        "name": "WATER_OVERRIDE_FADE_OUT",
+        "jhash": "0x63A89684",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

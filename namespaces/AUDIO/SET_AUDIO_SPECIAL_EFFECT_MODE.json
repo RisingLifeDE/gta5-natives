@@ -1,0 +1,15 @@
+{
+    "0x12561FCBB62D5B9C": {
+        "name": "SET_AUDIO_SPECIAL_EFFECT_MODE",
+        "jhash": "0x62B43677",
+        "comment": "Needs to be called every frame.\nAudio mode to apply this frame: https://alloc8or.re/gta5/doc/enums/audSpecialEffectMode.txt",
+        "params": [
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

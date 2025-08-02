@@ -1,0 +1,15 @@
+{
+    "0x66E0276CC5F6B9DA": {
+        "name": "SET_TEXT_FONT",
+        "jhash": "0x80BC530D",
+        "comment": "fonts that mess up your text where made for number values/misc stuff",
+        "params": [
+            {
+                "type": "int",
+                "name": "fontType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

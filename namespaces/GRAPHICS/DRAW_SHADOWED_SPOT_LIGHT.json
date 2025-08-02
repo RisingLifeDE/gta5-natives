@@ -1,0 +1,74 @@
+{
+    "0x5BCA583A583194DB": {
+        "name": "DRAW_SHADOWED_SPOT_LIGHT",
+        "jhash": "0x32BF9598",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "int",
+                "name": "colorR"
+            },
+            {
+                "type": "int",
+                "name": "colorG"
+            },
+            {
+                "type": "int",
+                "name": "colorB"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "float",
+                "name": "brightness"
+            },
+            {
+                "type": "float",
+                "name": "roundness"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "falloff"
+            },
+            {
+                "type": "int",
+                "name": "shadowId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DRAW_SPOT_LIGHT_WITH_SHADOW"
+        ]
+    }
+}

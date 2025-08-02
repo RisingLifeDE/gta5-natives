@@ -1,0 +1,10 @@
+{
+    "0xFAFC23AEE23868DB": {
+        "name": "NETWORK_ACCESS_TUNABLE_MODIFICATION_DETECTION_CLEAR",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "393"
+    }
+}

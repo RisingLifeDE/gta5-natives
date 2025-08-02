@@ -1,0 +1,27 @@
+{
+    "0x8093F23ABACCC7D4": {
+        "name": "SET_CUTSCENE_FADE_VALUES",
+        "jhash": "0xD19EF0DD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

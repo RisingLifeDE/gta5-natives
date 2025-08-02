@@ -1,0 +1,19 @@
+{
+    "0x77DFCCF5948B8C71": {
+        "name": "SET_PLAYER_MAX_ARMOUR",
+        "jhash": "0xC6C3C53B",
+        "comment": "Default is 100. Use player id and not ped id. For instance: PLAYER::SET_PLAYER_MAX_ARMOUR(PLAYER::PLAYER_ID(), 100); // main_persistent.ct4",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

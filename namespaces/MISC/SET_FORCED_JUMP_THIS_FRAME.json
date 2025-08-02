@@ -1,0 +1,18 @@
+{
+    "0xA1183BCFEE0F93D1": {
+        "name": "SET_FORCED_JUMP_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_SET_FORCE_PLAYER_TO_JUMP"
+        ]
+    }
+}

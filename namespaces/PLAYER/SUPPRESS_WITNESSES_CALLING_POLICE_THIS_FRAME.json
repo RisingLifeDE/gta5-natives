@@ -1,0 +1,15 @@
+{
+    "0x36F1B38855F2A8DF": {
+        "name": "SUPPRESS_WITNESSES_CALLING_POLICE_THIS_FRAME",
+        "jhash": "0x3A7E5FB6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

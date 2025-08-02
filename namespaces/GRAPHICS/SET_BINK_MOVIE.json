@@ -1,0 +1,19 @@
+{
+    "0x338D9F609FD632DB": {
+        "name": "SET_BINK_MOVIE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "int",
+        "build": "1290",
+        "old_names": [
+            "_SET_BINK_MOVIE_REQUESTED",
+            "_SET_BINK_MOVIE"
+        ]
+    }
+}

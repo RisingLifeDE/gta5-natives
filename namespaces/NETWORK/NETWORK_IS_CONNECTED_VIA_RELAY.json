@@ -1,0 +1,19 @@
+{
+    "0x16D3D49902F697BB": {
+        "name": "NETWORK_IS_CONNECTED_VIA_RELAY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_IS_CONNECTION_ENDPOINT_RELAY_SERVER"
+        ]
+    }
+}

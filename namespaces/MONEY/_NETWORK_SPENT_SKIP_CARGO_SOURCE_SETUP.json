@@ -1,0 +1,27 @@
+{
+    "0xED1B407BADA42CEC": {
+        "name": "_NETWORK_SPENT_SKIP_CARGO_SOURCE_SETUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBankAndWallet"
+            },
+            {
+                "type": "int",
+                "name": "cost"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

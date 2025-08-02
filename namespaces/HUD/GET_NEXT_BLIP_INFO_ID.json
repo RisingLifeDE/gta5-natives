@@ -1,0 +1,15 @@
+{
+    "0x14F96AA50D6FBEA7": {
+        "name": "GET_NEXT_BLIP_INFO_ID",
+        "jhash": "0x9356E92F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "blipSprite"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

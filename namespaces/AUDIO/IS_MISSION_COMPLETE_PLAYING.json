@@ -1,0 +1,10 @@
+{
+    "0x19A30C23F5827F8A": {
+        "name": "IS_MISSION_COMPLETE_PLAYING",
+        "jhash": "0x939982A1",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

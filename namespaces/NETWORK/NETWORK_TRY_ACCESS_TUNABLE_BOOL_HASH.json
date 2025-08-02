@@ -1,0 +1,26 @@
+{
+    "0xC7420099936CE286": {
+        "name": "NETWORK_TRY_ACCESS_TUNABLE_BOOL_HASH",
+        "jhash": "0x8AFE3D90",
+        "comment": "Returns defaultValue if the tunable doesn't exist.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "BOOL",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ACCESS_TUNABLE_BOOL_HASH_FAIL_VAL"
+        ]
+    }
+}

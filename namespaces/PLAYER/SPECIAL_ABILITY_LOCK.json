@@ -1,0 +1,19 @@
+{
+    "0x6A09D0D590A47D13": {
+        "name": "SPECIAL_ABILITY_LOCK",
+        "jhash": "0x1B7BB388",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "playerModel"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x2587A48BC88DFADF": {
+        "name": "SET_RIOT_MODE_ENABLED",
+        "jhash": "0xD9660339",
+        "comment": "Activates (usused?) riot mode. All NPCs are being hostile to each other (including player). Also the game will give weapons (pistols, smgs) to random NPCs.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

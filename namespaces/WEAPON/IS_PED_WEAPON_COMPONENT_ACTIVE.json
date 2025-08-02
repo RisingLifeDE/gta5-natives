@@ -1,0 +1,23 @@
+{
+    "0x0D78DE0572D3969E": {
+        "name": "IS_PED_WEAPON_COMPONENT_ACTIVE",
+        "jhash": "0x7565FB19",
+        "comment": "Full list of weapons & components by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

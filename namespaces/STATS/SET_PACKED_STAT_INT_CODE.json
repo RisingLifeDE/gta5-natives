@@ -1,0 +1,26 @@
+{
+    "0x1581503AE529CD2E": {
+        "name": "SET_PACKED_STAT_INT_CODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_SET_PACKED_STAT_INT"
+        ]
+    }
+}

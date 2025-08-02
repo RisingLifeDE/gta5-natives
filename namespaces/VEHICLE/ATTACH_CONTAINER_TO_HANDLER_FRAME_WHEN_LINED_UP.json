@@ -1,0 +1,19 @@
+{
+    "0x6A98C2ECF57FA5D4": {
+        "name": "ATTACH_CONTAINER_TO_HANDLER_FRAME_WHEN_LINED_UP",
+        "jhash": "0x20AB5783",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

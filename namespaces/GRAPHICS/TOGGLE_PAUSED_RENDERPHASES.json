@@ -1,0 +1,19 @@
+{
+    "0xDFC252D8A3E15AB7": {
+        "name": "TOGGLE_PAUSED_RENDERPHASES",
+        "jhash": "0x30ADE541",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ENABLE_GAMEPLAY_CAM",
+            "_SET_FROZEN_RENDERING_DISABLED"
+        ]
+    }
+}

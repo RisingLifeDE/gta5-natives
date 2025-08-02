@@ -1,0 +1,19 @@
+{
+    "0x428BACCDF5E26EAD": {
+        "name": "SET_VEHICLE_CAN_SAVE_IN_GARAGE",
+        "jhash": "0x1604C2F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

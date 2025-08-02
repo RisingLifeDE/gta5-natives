@@ -1,0 +1,19 @@
+{
+    "0x21973BBF8D17EDFA": {
+        "name": "SET_TRAIN_TRACK_SPAWN_FREQUENCY",
+        "jhash": "0xD5774FB7",
+        "comment": "Only called once inside main_persitant with the parameters p0 = 0, p1 = 120000\n\ntrackIndex: 0 - 26\nFull list of all train tracks + track nodes by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/traintracks.json",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "frequency"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

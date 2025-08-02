@@ -1,0 +1,19 @@
+{
+    "0x29B18B4FD460CA8F": {
+        "name": "SET_VEHICLE_WHEELS_CAN_BREAK",
+        "jhash": "0x829ED654",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

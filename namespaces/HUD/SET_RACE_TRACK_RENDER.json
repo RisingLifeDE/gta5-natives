@@ -1,0 +1,15 @@
+{
+    "0x1EAC5F91BCBC5073": {
+        "name": "SET_RACE_TRACK_RENDER",
+        "jhash": "0xFB9BABF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

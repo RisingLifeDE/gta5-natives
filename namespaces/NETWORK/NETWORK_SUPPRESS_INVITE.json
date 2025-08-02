@@ -1,0 +1,15 @@
+{
+    "0xA0682D67EF1FBA3D": {
+        "name": "NETWORK_SUPPRESS_INVITE",
+        "jhash": "0x323DC78C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xE5DA8615A6180789": {
+        "name": "TASK_STAY_IN_COVER",
+        "jhash": "0xA27A9413",
+        "comment": "Makes the ped run to take cover",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC9A763D8FE87436A": {
+        "name": "SPECIAL_ABILITY_CHARGE_ON_MISSION_FAILED",
+        "jhash": "0x4136829A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

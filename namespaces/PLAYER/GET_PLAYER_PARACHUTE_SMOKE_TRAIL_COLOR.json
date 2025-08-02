@@ -1,0 +1,27 @@
+{
+    "0xEF56DBABD3CD4887": {
+        "name": "GET_PLAYER_PARACHUTE_SMOKE_TRAIL_COLOR",
+        "jhash": "0xF66E5CDD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

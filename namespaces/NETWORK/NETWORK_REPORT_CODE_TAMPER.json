@@ -1,0 +1,14 @@
+{
+    "0x5626D9D6810730D5": {
+        "name": "NETWORK_REPORT_CODE_TAMPER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "350",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_REPORT_MYSELF"
+        ]
+    }
+}

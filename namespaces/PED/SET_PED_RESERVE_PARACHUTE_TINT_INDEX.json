@@ -1,0 +1,19 @@
+{
+    "0xE88DA0751C22A2AD": {
+        "name": "SET_PED_RESERVE_PARACHUTE_TINT_INDEX",
+        "jhash": "0x177EFC79",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

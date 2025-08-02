@@ -1,0 +1,15 @@
+{
+    "0xB158DFCCC56E5C5B": {
+        "name": "GIVE_PED_NM_MESSAGE",
+        "jhash": "0x737C3689",
+        "comment": "Sends the message that was created by a call to CREATE_NM_MESSAGE to the specified Ped.\n\nIf a message hasn't been created already, this function does nothing.\nIf the Ped is not ragdolled with Euphoria enabled, this function does nothing.\nThe following call can be used to ragdoll the Ped with Euphoria enabled: SET_PED_TO_RAGDOLL(ped, 4000, 5000, 1, 1, 1, 0);\n\nCall order:\nSET_PED_TO_RAGDOLL\nCREATE_NM_MESSAGE\nGIVE_PED_NM_MESSAGE\n\nMultiple messages can be chained. Eg. to make the ped stagger and swing his arms around, the following calls can be made:\nSET_PED_TO_RAGDOLL(ped, 4000, 5000, 1, 1, 1, 0);\nCREATE_NM_MESSAGE(true, 0); // stopAllBehaviours - Stop all other behaviours, in case the Ped is already doing some Euphoria stuff.\nGIVE_PED_NM_MESSAGE(ped); // Dispatch message to Ped.\nCREATE_NM_MESSAGE(true, 1151); // staggerFall - Attempt to walk while falling.\nGIVE_PED_NM_MESSAGE(ped); // Dispatch message to Ped.\nCREATE_NM_MESSAGE(true, 372); // armsWindmill - Swing arms around.\nGIVE_PED_NM_MESSAGE(ped); // Dispatch message to Ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

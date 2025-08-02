@@ -1,0 +1,23 @@
+{
+    "0xED5AB8860415BABA": {
+        "name": "NETWORK_GET_CAN_SPEND_FROM_WALLET",
+        "jhash": "0x0EA2188C",
+        "comment": "Returns true if wallet balance >= amount.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_VC_WALLET_BALANCE_IS_NOT_LESS_THAN"
+        ]
+    }
+}

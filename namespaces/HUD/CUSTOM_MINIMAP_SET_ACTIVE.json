@@ -1,0 +1,19 @@
+{
+    "0x5354C5BA2EA868A4": {
+        "name": "CUSTOM_MINIMAP_SET_ACTIVE",
+        "jhash": "0xE4FD20D8",
+        "comment": "If toggle is true, the map is shown in full screen\nIf toggle is false, the map is shown in normal mode",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MAP_FULL_SCREEN",
+            "_RACE_GALLERY_FULLSCREEN"
+        ]
+    }
+}

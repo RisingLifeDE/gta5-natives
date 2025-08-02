@@ -1,0 +1,10 @@
+{
+    "0x03F1A106BDA7DD3E": {
+        "name": "FORCE_ALLOW_TIME_BASED_FADING_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

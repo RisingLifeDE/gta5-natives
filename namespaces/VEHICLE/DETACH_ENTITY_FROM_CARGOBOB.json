@@ -1,0 +1,22 @@
+{
+    "0xAF03011701811146": {
+        "name": "DETACH_ENTITY_FROM_CARGOBOB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_DETACH_ENTITY_FROM_CARGOBOB"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x36492C2F0D134C56": {
+        "name": "GET_VEHICLE_CURRENT_TIME_IN_SLIP_STREAM",
+        "jhash": "0xA4A75FCF",
+        "comment": "Returns a float value between 0.0 and 3.0 related to its slipstream draft (boost/speedup).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_CURRENT_SLIPSTREAM_DRAFT"
+        ]
+    }
+}

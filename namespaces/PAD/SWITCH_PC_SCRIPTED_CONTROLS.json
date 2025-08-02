@@ -1,0 +1,18 @@
+{
+    "0x4683149ED1DDE7A1": {
+        "name": "SWITCH_PC_SCRIPTED_CONTROLS",
+        "jhash": "0xBBFC9050",
+        "comment": "Same as INIT_PC_SCRIPTED_CONTROLS",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "schemeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SWITCH_TO_INPUT_MAPPING_SCHEME_2"
+        ]
+    }
+}

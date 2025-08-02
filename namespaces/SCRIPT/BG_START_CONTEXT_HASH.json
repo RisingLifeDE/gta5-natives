@@ -1,0 +1,16 @@
+{
+    "0x75B18E49607874C7": {
+        "name": "BG_START_CONTEXT_HASH",
+        "jhash": "0x67B23E17",
+        "comment": "Hashed version of BG_START_CONTEXT.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x6E16BC2503FF1FF0": {
+        "name": "GET_SAFE_PICKUP_COORDS",
+        "jhash": "0x618B5F67",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

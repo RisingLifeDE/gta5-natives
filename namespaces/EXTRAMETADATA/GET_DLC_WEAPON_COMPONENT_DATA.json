@@ -1,0 +1,23 @@
+{
+    "0x6CF598A2957C2BF8": {
+        "name": "GET_DLC_WEAPON_COMPONENT_DATA",
+        "jhash": "0x4B83FCAF",
+        "comment": "p0 seems to be the weapon index\np1 seems to be the weapon component index\nstruct DlcComponentData{\nint attachBone;\nint padding1;\nint bActiveByDefault;\nint padding2;\nint unk;\nint padding3;\nint componentHash;\nint padding4;\nint unk2;\nint padding5;\nint componentCost;\nint padding6;\nchar nameLabel[64];\nchar descLabel[64];\n};\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcWeaponIndex"
+            },
+            {
+                "type": "int",
+                "name": "dlcWeapCompIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "ComponentDataPtr"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

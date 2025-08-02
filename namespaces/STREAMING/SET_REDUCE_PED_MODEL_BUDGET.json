@@ -1,0 +1,15 @@
+{
+    "0x77B5F9A36BF96710": {
+        "name": "SET_REDUCE_PED_MODEL_BUDGET",
+        "jhash": "0xAFCB2B86",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

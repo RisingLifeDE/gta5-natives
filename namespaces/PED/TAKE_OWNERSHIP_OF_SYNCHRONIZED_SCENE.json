@@ -1,0 +1,18 @@
+{
+    "0xCD9CC7E200A52A6F": {
+        "name": "TAKE_OWNERSHIP_OF_SYNCHRONIZED_SCENE",
+        "jhash": "0xBF7F9035",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scene"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISPOSE_SYNCHRONIZED_SCENE"
+        ]
+    }
+}

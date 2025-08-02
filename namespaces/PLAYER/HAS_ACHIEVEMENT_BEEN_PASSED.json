@@ -1,0 +1,15 @@
+{
+    "0x867365E111A3B6EB": {
+        "name": "HAS_ACHIEVEMENT_BEEN_PASSED",
+        "jhash": "0x136A5BE9",
+        "comment": "See GIVE_ACHIEVEMENT_TO_PLAYER",
+        "params": [
+            {
+                "type": "int",
+                "name": "achievementId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

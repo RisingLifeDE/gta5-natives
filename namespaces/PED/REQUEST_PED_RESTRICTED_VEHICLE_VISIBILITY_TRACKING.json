@@ -1,0 +1,19 @@
+{
+    "0xCD018C591F94CB43": {
+        "name": "REQUEST_PED_RESTRICTED_VEHICLE_VISIBILITY_TRACKING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

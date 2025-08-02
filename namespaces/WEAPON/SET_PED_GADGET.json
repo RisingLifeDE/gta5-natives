@@ -1,0 +1,23 @@
+{
+    "0xD0D7B1E680ED4A1A": {
+        "name": "SET_PED_GADGET",
+        "jhash": "0x8A256D0A",
+        "comment": "p1/gadgetHash was always 0xFBAB5776 (\"GADGET_PARACHUTE\").\np2 is always true.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "gadgetHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x452736765B31FC4B": {
+        "name": "ADD_POLICE_RESTART",
+        "jhash": "0xE96C29FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

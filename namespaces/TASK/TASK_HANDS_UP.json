@@ -1,0 +1,31 @@
+{
+    "0xF2EAB31979A7F910": {
+        "name": "TASK_HANDS_UP",
+        "jhash": "0x8DCC19C5",
+        "comment": "In the scripts, p3 was always -1.\n\np3 seems to be duration or timeout of turn animation.\nAlso facingPed can be 0 or -1 so ped will just raise hands up.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "Ped",
+                "name": "facingPed"
+            },
+            {
+                "type": "int",
+                "name": "timeToFacePed"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

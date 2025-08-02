@@ -1,0 +1,19 @@
+{
+    "0x238DB2A2C23EE9EF": {
+        "name": "IS_PLAYER_WANTED_LEVEL_GREATER",
+        "jhash": "0x589A2661",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xFB80AB299D2EE1BD": {
+        "name": "TOGGLE_SHOW_OPTIONAL_STUNT_JUMP_CAMERA",
+        "jhash": "",
+        "comment": "Toggles some stunt jump stuff.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x5F43D83FD6738741": {
+        "name": "IS_PLAYER_VEH_RADIO_ENABLE",
+        "jhash": "0x2A3E5E8B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PLAYER_VEHICLE_RADIO_ENABLED"
+        ]
+    }
+}

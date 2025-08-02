@@ -1,0 +1,10 @@
+{
+    "0x8D4D46230B2C353A": {
+        "name": "GET_FOLLOW_PED_CAM_VIEW_MODE",
+        "jhash": "0xA65FF946",
+        "comment": "See viewmode enum in CAM.GET_FOLLOW_VEHICLE_CAM_VIEW_MODE for return value",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

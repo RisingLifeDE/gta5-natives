@@ -1,0 +1,15 @@
+{
+    "0xCFB0A0D8EDD145A3": {
+        "name": "IS_ENTITY_IN_WATER",
+        "jhash": "0x4C3C2508",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

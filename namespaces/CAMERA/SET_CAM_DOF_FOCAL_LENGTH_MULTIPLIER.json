@@ -1,0 +1,22 @@
+{
+    "0x47B595D60664CFFA": {
+        "name": "SET_CAM_DOF_FOCAL_LENGTH_MULTIPLIER",
+        "jhash": "",
+        "comment": "Native name labeled within its code",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011",
+        "old_names": [
+            "_SET_CAM_DOF_FOCAL_LENGTH_MULTIPLIER"
+        ]
+    }
+}

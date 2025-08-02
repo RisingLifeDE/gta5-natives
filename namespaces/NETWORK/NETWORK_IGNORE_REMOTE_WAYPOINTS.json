@@ -1,0 +1,10 @@
+{
+    "0x4C2A9FDC22377075": {
+        "name": "NETWORK_IGNORE_REMOTE_WAYPOINTS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "372"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC5286FFC176F28A2": {
+        "name": "IS_PED_RUNNING",
+        "jhash": "0xE9A5578F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

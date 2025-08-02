@@ -1,0 +1,10 @@
+{
+    "0xBB41AFBBBC0A0287": {
+        "name": "GET_LOCAL_PLAYER_AIM_STATE",
+        "jhash": "0x81802053",
+        "comment": "Hard-coded to return 3 if using KBM, otherwise same behavior as GET_LOCAL_PLAYER_GAMEPAD_AIM_STATE.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

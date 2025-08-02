@@ -1,0 +1,15 @@
+{
+    "0x006E4B040ED37EC3": {
+        "name": "PLAY_OBJECT_AUTO_START_ANIM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

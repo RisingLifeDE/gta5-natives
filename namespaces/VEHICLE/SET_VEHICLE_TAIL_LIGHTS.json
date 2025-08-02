@@ -1,0 +1,19 @@
+{
+    "0x5815BD2763178DF4": {
+        "name": "SET_VEHICLE_TAIL_LIGHTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

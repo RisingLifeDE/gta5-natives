@@ -1,0 +1,34 @@
+{
+    "0xD81B7F27BC773E66": {
+        "name": "GET_VARIANT_PROP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "variantPropIndex"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            },
+            {
+                "type": "int*",
+                "name": "enumValue"
+            },
+            {
+                "type": "int*",
+                "name": "anchorPoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_GET_VARIANT_PROP"
+        ]
+    }
+}

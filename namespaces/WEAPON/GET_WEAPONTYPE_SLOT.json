@@ -1,0 +1,15 @@
+{
+    "0x4215460B9B8B7FA0": {
+        "name": "GET_WEAPONTYPE_SLOT",
+        "jhash": "0x2E3759AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

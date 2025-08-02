@@ -1,0 +1,23 @@
+{
+    "0x13127EC3665E8EE1": {
+        "name": "SET_BLIP_SHOW_CONE",
+        "jhash": "0xFF545AD8",
+        "comment": "As of b2189, the third parameter sets the color of the cone (before b2189 it was ignored). Note that it uses HUD colors, not blip colors.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

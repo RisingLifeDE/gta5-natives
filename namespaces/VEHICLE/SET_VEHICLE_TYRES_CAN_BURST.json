@@ -1,0 +1,19 @@
+{
+    "0xEB9DC3C7D8596C46": {
+        "name": "SET_VEHICLE_TYRES_CAN_BURST",
+        "jhash": "0xA198DB54",
+        "comment": "Allows you to toggle bulletproof tires.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

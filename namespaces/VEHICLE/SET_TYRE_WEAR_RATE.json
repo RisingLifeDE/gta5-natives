@@ -1,0 +1,26 @@
+{
+    "0x01894E2EDE923CA2": {
+        "name": "SET_TYRE_WEAR_RATE",
+        "jhash": "",
+        "comment": "Needs to be run for tire wear to work. Multiplier affects the downforce and how fast the tires will wear out, higher values essentially make the vehicle slower on straights and its tires will wear down quicker when cornering. Value must be >0f.\nDefault value in Rockstar's Open Wheel Race JSON's (\"owrtws\", \"owrtwm\", \"owrtwh\") is 1.0\n\nUsable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_SET_TYRE_WEAR_MULTIPLIER"
+        ]
+    }
+}

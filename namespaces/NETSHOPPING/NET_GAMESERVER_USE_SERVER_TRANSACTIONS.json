@@ -1,0 +1,13 @@
+{
+    "0x7D2708796355B20B": {
+        "name": "NET_GAMESERVER_USE_SERVER_TRANSACTIONS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1290",
+        "old_names": [
+            "_NET_GAMESERVER_USE_SERVER_TRANSACTIONS"
+        ]
+    }
+}

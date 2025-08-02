@@ -1,0 +1,15 @@
+{
+    "0xAA5F02DB48D704B9": {
+        "name": "SET_MAX_WANTED_LEVEL",
+        "jhash": "0x665A06F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maxWantedLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

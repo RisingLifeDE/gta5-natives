@@ -1,0 +1,15 @@
+{
+    "0x96EF97DAEB89BEF5": {
+        "name": "SET_PARTICLE_FX_SHOOTOUT_BOAT",
+        "jhash": "0xD938DEE0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x26324F33423F3CC3": {
+        "name": "SET_FAR_DRAW_VEHICLES",
+        "jhash": "0x9F019C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA7C511FA1C5BDA38": {
+        "name": "SET_REMOTE_PLAYER_AS_GHOST",
+        "jhash": "",
+        "comment": "Enables ghosting between specific players",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_RELATIONSHIP_TO_PLAYER"
+        ]
+    }
+}

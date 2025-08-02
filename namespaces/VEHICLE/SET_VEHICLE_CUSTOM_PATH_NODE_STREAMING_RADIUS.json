@@ -1,0 +1,19 @@
+{
+    "0x182F266C2D9E2BEB": {
+        "name": "SET_VEHICLE_CUSTOM_PATH_NODE_STREAMING_RADIUS",
+        "jhash": "0x7D0DE7EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xEF0912DDF7C4CB4B": {
+        "name": "NETWORK_SESSION_IS_VOICE_SESSION_BUSY",
+        "jhash": "0x132CA01E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

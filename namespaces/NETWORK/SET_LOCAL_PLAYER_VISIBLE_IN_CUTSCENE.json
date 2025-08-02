@@ -1,0 +1,19 @@
+{
+    "0xD1065D68947E7B6E": {
+        "name": "SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE",
+        "jhash": "0x59F3479B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

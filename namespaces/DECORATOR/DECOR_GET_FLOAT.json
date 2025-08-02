@@ -1,0 +1,22 @@
+{
+    "0x6524A2F114706F43": {
+        "name": "DECOR_GET_FLOAT",
+        "jhash": "0x8DE5382F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_DECOR_GET_FLOAT"
+        ]
+    }
+}

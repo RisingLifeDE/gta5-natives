@@ -1,0 +1,15 @@
+{
+    "0xA320EF046186FA3B": {
+        "name": "IS_MOUNTED_WEAPON_TASK_UNDERNEATH_DRIVING_TASK",
+        "jhash": "0x291E938C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x75773E11BA459E90": {
+        "name": "OVERRIDE_MICROPHONE_SETTINGS",
+        "jhash": "",
+        "comment": "Sets audio flag \"OverrideMicrophoneSettings\"",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OVERRIDE_MICROPHONE_SETTINGS"
+        ]
+    }
+}

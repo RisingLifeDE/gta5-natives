@@ -1,0 +1,18 @@
+{
+    "0xAAA6A3698A69E048": {
+        "name": "GET_DEFAULT_SECONDARY_TINT_FOR_BARBER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorID"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_DEFAULT_SECONDARY_HAIR_BARBER_COLOR"
+        ]
+    }
+}

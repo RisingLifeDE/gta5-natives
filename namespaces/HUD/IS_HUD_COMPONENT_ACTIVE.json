@@ -1,0 +1,15 @@
+{
+    "0xBC4C9EA5391ECC0D": {
+        "name": "IS_HUD_COMPONENT_ACTIVE",
+        "jhash": "0x6214631F",
+        "comment": "Full list of components below\n\nHUD = 0;\nHUD_WANTED_STARS = 1;\nHUD_WEAPON_ICON = 2;\nHUD_CASH = 3;\nHUD_MP_CASH = 4;\nHUD_MP_MESSAGE = 5;\nHUD_VEHICLE_NAME = 6;\nHUD_AREA_NAME = 7;\nHUD_VEHICLE_CLASS = 8;\nHUD_STREET_NAME = 9;\nHUD_HELP_TEXT = 10;\nHUD_FLOATING_HELP_TEXT_1 = 11;\nHUD_FLOATING_HELP_TEXT_2 = 12;\nHUD_CASH_CHANGE = 13;\nHUD_RETICLE = 14;\nHUD_SUBTITLE_TEXT = 15;\nHUD_RADIO_STATIONS = 16;\nHUD_SAVING_GAME = 17;\nHUD_GAME_STREAM = 18;\nHUD_WEAPON_WHEEL = 19;\nHUD_WEAPON_WHEEL_STATS = 20;\nMAX_HUD_COMPONENTS = 21;\nMAX_HUD_WEAPONS = 22;\nMAX_SCRIPTED_HUD_COMPONENTS = 141;",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

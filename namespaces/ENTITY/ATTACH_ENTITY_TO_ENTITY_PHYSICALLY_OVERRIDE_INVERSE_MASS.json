@@ -1,0 +1,95 @@
+{
+    "0x168A09D1B25B0BA4": {
+        "name": "ATTACH_ENTITY_TO_ENTITY_PHYSICALLY_OVERRIDE_INVERSE_MASS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "firstEntityIndex"
+            },
+            {
+                "type": "Entity",
+                "name": "secondEntityIndex"
+            },
+            {
+                "type": "int",
+                "name": "firstEntityBoneIndex"
+            },
+            {
+                "type": "int",
+                "name": "secondEntityBoneIndex"
+            },
+            {
+                "type": "float",
+                "name": "secondEntityOffsetX"
+            },
+            {
+                "type": "float",
+                "name": "secondEntityOffsetY"
+            },
+            {
+                "type": "float",
+                "name": "secondEntityOffsetZ"
+            },
+            {
+                "type": "float",
+                "name": "firstEntityOffsetX"
+            },
+            {
+                "type": "float",
+                "name": "firstEntityOffsetY"
+            },
+            {
+                "type": "float",
+                "name": "firstEntityOffsetZ"
+            },
+            {
+                "type": "float",
+                "name": "vecRotationX"
+            },
+            {
+                "type": "float",
+                "name": "vecRotationY"
+            },
+            {
+                "type": "float",
+                "name": "vecRotationZ"
+            },
+            {
+                "type": "float",
+                "name": "physicalStrength"
+            },
+            {
+                "type": "BOOL",
+                "name": "constrainRotation"
+            },
+            {
+                "type": "BOOL",
+                "name": "doInitialWarp"
+            },
+            {
+                "type": "BOOL",
+                "name": "collideWithEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "addInitialSeperation"
+            },
+            {
+                "type": "int",
+                "name": "rotOrder"
+            },
+            {
+                "type": "float",
+                "name": "invMassScaleA"
+            },
+            {
+                "type": "float",
+                "name": "invMassScaleB"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x76BBA2CEE66D47E9": {
+        "name": "GET_HEAD_BLEND_EYE_COLOR",
+        "jhash": "",
+        "comment": "A getter for _SET_PED_EYE_COLOR. Returns -1 if fails to get.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1011",
+        "old_names": [
+            "_GET_PED_EYE_COLOR"
+        ]
+    }
+}

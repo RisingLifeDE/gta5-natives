@@ -1,0 +1,19 @@
+{
+    "0x737E398138550FFF": {
+        "name": "SET_VEHICLE_TANK_STATIONARY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "944"
+    }
+}

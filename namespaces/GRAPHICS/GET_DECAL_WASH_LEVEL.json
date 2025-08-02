@@ -1,0 +1,15 @@
+{
+    "0x323F647679A09103": {
+        "name": "GET_DECAL_WASH_LEVEL",
+        "jhash": "0x054448EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "decal"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x3BBBD13E5041A79E": {
+        "name": "LANDING_SCREEN_STARTED_END_USER_BENCHMARK",
+        "jhash": "",
+        "comment": "Returns true if the current frontend menu is FE_MENU_VERSION_LANDING_MENU",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_LANDING_MENU_IS_ACTIVE"
+        ]
+    }
+}

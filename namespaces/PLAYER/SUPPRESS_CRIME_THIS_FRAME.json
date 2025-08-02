@@ -1,0 +1,22 @@
+{
+    "0x9A987297ED8BD838": {
+        "name": "SUPPRESS_CRIME_THIS_FRAME",
+        "jhash": "0x59B5C2A2",
+        "comment": "crimeType: see REPORT_CRIME",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SWITCH_CRIME_TYPE"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x36AD3E690DA5ACEB": {
+        "name": "ANIMPOSTFX_IS_RUNNING",
+        "jhash": "0x089D5921",
+        "comment": "Returns whether the specified effect is active.\nSee ANIMPOSTFX_PLAY\n\nFull list of animpostFX / screen effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animPostFxNamesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_SCREEN_EFFECT_IS_ACTIVE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x930DE22F07B1CCE3": {
+        "name": "SC_PROFANITY_GET_STRING_STATUS",
+        "jhash": "0x4D8A6521",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

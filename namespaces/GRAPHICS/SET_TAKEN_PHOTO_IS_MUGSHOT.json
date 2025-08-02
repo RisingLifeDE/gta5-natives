@@ -1,0 +1,15 @@
+{
+    "0x1BBC135A4D25EDDE": {
+        "name": "SET_TAKEN_PHOTO_IS_MUGSHOT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

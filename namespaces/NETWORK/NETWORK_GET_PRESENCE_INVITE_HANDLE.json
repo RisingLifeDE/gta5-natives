@@ -1,0 +1,19 @@
+{
+    "0x38D5B0FEBB086F75": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_HANDLE",
+        "jhash": "0xB2451429",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

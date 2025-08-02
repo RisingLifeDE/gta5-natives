@@ -1,0 +1,10 @@
+{
+    "0x5A7F62FDA59759BD": {
+        "name": "SUPPRESS_AMBIENT_PED_AGGRESSIVE_CLEANUP_THIS_FRAME",
+        "jhash": "0xB48C0C04",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

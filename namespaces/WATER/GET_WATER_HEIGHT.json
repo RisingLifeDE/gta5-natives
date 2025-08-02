@@ -1,0 +1,27 @@
+{
+    "0xF6829842C06AE524": {
+        "name": "GET_WATER_HEIGHT",
+        "jhash": "0xD864E17C",
+        "comment": "This function set height to the value of z-axis of the water surface.\n\nThis function works with sea and lake. However it does not work with shallow rivers (e.g. raton canyon will return -100000.0f)\n\nnote: seems to return true when you are in water",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float*",
+                "name": "height"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

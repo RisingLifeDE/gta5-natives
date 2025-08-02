@@ -1,0 +1,10 @@
+{
+    "0x7B335F84501145BB": {
+        "name": "_NETWORK_INVITE_GET_JOIN_FAIL_REASON",
+        "jhash": "",
+        "comment": "Retrieves the failed invite join alert reason",
+        "params": [],
+        "return_type": "const char*",
+        "build": "3179"
+    }
+}

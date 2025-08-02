@@ -1,0 +1,15 @@
+{
+    "0x26F49BF3381D933D": {
+        "name": "IS_MISSION_CREATOR_BLIP",
+        "jhash": "0x24ACC4E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

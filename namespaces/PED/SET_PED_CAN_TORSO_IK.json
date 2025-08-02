@@ -1,0 +1,19 @@
+{
+    "0xF2B7106D37947CE0": {
+        "name": "SET_PED_CAN_TORSO_IK",
+        "jhash": "0x8E5D4EAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

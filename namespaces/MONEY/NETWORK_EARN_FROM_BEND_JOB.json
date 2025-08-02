@@ -1,0 +1,22 @@
+{
+    "0x61326EE6DF15B0CA": {
+        "name": "NETWORK_EARN_FROM_BEND_JOB",
+        "jhash": "0xBB293400",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "heistHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "NETWORK_EARN_FROM_MISSION_H"
+        ]
+    }
+}

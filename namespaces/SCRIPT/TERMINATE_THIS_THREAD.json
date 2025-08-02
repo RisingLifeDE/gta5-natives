@@ -1,0 +1,10 @@
+{
+    "0x1090044AD1DA76FA": {
+        "name": "TERMINATE_THIS_THREAD",
+        "jhash": "0x3CD9CBB7",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

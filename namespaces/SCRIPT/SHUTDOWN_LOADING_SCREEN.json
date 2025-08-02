@@ -1,0 +1,10 @@
+{
+    "0x078EBE9809CCD637": {
+        "name": "SHUTDOWN_LOADING_SCREEN",
+        "jhash": "0xA2826D17",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

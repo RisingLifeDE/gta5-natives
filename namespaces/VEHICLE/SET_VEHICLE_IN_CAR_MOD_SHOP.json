@@ -1,0 +1,22 @@
+{
+    "0x9D44FCCE98450843": {
+        "name": "SET_VEHICLE_IN_CAR_MOD_SHOP",
+        "jhash": "0x968E5770",
+        "comment": "If set to TRUE, it seems to suppress door noises and doesn't allow the horn to be continuous.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_SILENT"
+        ]
+    }
+}

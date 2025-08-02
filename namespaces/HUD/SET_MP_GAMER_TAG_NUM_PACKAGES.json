@@ -1,0 +1,22 @@
+{
+    "0x9C16459B2324B2CF": {
+        "name": "SET_MP_GAMER_TAG_NUM_PACKAGES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_MP_GAMER_TAG_UNK"
+        ]
+    }
+}

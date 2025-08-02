@@ -1,0 +1,18 @@
+{
+    "0x1DFEDD15019315A9": {
+        "name": "SET_ABILITY_BAR_VISIBILITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "visible"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_ABILITY_BAR_VISIBILITY_IN_MULTIPLAYER"
+        ]
+    }
+}

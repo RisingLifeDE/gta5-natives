@@ -1,0 +1,27 @@
+{
+    "0x5ECE6FD7B4EC8D6A": {
+        "name": "NETWORK_SPEND_GANGOPS_TRIP_SKIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_GANGOPS_TRIP_SKIP"
+        ]
+    }
+}

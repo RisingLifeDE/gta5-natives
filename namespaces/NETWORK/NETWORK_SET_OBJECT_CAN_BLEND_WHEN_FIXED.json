@@ -1,0 +1,22 @@
+{
+    "0x0379DAF89BA09AA5": {
+        "name": "NETWORK_SET_OBJECT_CAN_BLEND_WHEN_FIXED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_NETWORK_SET_OBJECT_FORCE_STATIC_BLEND"
+        ]
+    }
+}

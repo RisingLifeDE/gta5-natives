@@ -1,0 +1,19 @@
+{
+    "0x8062F07153F4446F": {
+        "name": "_HAS_WEAPON_RELOADING_IN_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

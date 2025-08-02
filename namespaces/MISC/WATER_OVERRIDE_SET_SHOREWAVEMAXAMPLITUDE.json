@@ -1,0 +1,15 @@
+{
+    "0xA7A1127490312C36": {
+        "name": "WATER_OVERRIDE_SET_SHOREWAVEMAXAMPLITUDE",
+        "jhash": "0x6926AB03",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxAmplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x15FF52B809DB2353": {
+        "name": "DATAFILE_HAS_LOADED_FILE_DATA",
+        "jhash": "0x36FB8B3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

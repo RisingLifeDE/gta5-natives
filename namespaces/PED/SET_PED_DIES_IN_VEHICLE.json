@@ -1,0 +1,19 @@
+{
+    "0x2A30922C90C9B42C": {
+        "name": "SET_PED_DIES_IN_VEHICLE",
+        "jhash": "0x6FE1E440",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

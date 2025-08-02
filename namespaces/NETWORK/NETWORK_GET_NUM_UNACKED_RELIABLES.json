@@ -1,0 +1,19 @@
+{
+    "0xFF8FCF9FFC458A1C": {
+        "name": "NETWORK_GET_NUM_UNACKED_RELIABLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_GET_NUM_UNACKED_FOR_PLAYER"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x394DCDB9E836B7A9": {
+        "name": "NETWORK_CASINO_CAN_BET_PVC",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_CASINO_CAN_PURCHASE_CHIPS_WITH_PVC"
+        ]
+    }
+}

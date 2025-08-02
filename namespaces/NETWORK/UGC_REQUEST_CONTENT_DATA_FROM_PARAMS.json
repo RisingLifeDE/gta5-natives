@@ -1,0 +1,31 @@
+{
+    "0x7FD2990AF016795E": {
+        "name": "UGC_REQUEST_CONTENT_DATA_FROM_PARAMS",
+        "jhash": "0x38FC2EEB",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

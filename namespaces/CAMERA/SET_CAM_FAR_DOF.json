@@ -1,0 +1,19 @@
+{
+    "0xEDD91296CD01AEE0": {
+        "name": "SET_CAM_FAR_DOF",
+        "jhash": "0x58515E8E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "farDOF"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x7F0DD2EBBB651AFF": {
+        "name": "STOP_ENTITY_FIRE",
+        "jhash": "0xCE8C9066",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

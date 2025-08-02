@@ -1,0 +1,18 @@
+{
+    "0xDBA3C090E3D74690": {
+        "name": "REQUEST_VEHICLE_DIAL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REQUEST_VEHICLE_DASHBOARD_SCALEFORM_MOVIE"
+        ]
+    }
+}

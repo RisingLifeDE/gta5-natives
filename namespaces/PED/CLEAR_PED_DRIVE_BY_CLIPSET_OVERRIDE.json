@@ -1,0 +1,15 @@
+{
+    "0x4AFE3690D7E0B5AC": {
+        "name": "CLEAR_PED_DRIVE_BY_CLIPSET_OVERRIDE",
+        "jhash": "0xAEC9163B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB3CAF387AE12E9F8": {
+        "name": "GET_WEAPON_COMPONENT_HUD_STATS",
+        "jhash": "0xBB5498F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

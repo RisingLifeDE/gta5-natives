@@ -1,0 +1,19 @@
+{
+    "0xED7F7EFE9FABF340": {
+        "name": "SET_PED_CAN_SWITCH_WEAPON",
+        "jhash": "0xB5F8BA28",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x89F149B6131E57DA": {
+        "name": "SET_VEHICLE_GRAVITY",
+        "jhash": "0x07B2A6DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

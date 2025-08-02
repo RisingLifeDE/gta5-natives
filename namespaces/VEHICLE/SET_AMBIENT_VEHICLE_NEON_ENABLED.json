@@ -1,0 +1,15 @@
+{
+    "0x35E0654F4BAD7971": {
+        "name": "SET_AMBIENT_VEHICLE_NEON_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

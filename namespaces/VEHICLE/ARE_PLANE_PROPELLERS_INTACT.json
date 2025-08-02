@@ -1,0 +1,18 @@
+{
+    "0x755D6D5267CBBD7E": {
+        "name": "ARE_PLANE_PROPELLERS_INTACT",
+        "jhash": "0xABBDD5C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "plane"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_ARE_PROPELLERS_UNDAMAGED"
+        ]
+    }
+}

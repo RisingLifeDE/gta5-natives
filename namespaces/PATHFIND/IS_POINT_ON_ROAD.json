@@ -1,0 +1,27 @@
+{
+    "0x125BF4ABFC536B09": {
+        "name": "IS_POINT_ON_ROAD",
+        "jhash": "0xCF198055",
+        "comment": "Gets a value indicating whether the specified position is on a road.\nThe vehicle parameter is not implemented (ignored).",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xF3CC740D36221548": {
+        "name": "GET_VEHICLE_COLOR",
+        "jhash": "0x03BC8F1B",
+        "comment": "What's this for? Primary and Secondary RGB have their own natives and this one doesn't seem specific.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

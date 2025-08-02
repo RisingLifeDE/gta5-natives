@@ -1,0 +1,35 @@
+{
+    "0xADD95C7005C4A197": {
+        "name": "CALCULATE_TRAVEL_DISTANCE_BETWEEN_POINTS",
+        "jhash": "0xB114489B",
+        "comment": "Calculates the travel distance between a set of points.\n\nDoesn't seem to correlate with distance on gps sometimes.\nThis function returns the value 100000.0 over long distances, seems to be a failure mode result, potentially occurring when not all path nodes are loaded into pathfind.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

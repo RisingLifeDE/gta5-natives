@@ -1,0 +1,18 @@
+{
+    "0x5F61EBBE1A00F96D": {
+        "name": "REMOVE_NAMED_PTFX_ASSET",
+        "jhash": "0xC44762A1",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_NAMED_PTFX_ASSET"
+        ]
+    }
+}

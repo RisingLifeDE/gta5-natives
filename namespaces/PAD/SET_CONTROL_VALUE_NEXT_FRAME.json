@@ -1,0 +1,26 @@
+{
+    "0xE8A25867FBA3B05E": {
+        "name": "SET_CONTROL_VALUE_NEXT_FRAME",
+        "jhash": "",
+        "comment": "This is for simulating player input.\nvalue is a float value from 0 - 1\n\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SET_CONTROL_NORMAL"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xBC0753C9CA14B506": {
+        "name": "GET_PLAYER_RECEIVED_BATTLE_EVENT_RECENTLY",
+        "jhash": "0x9DF75B2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

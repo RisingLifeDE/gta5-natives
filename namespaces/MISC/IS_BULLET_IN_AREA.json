@@ -1,0 +1,31 @@
+{
+    "0x3F2023999AD51C1F": {
+        "name": "IS_BULLET_IN_AREA",
+        "jhash": "0xB54F46CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

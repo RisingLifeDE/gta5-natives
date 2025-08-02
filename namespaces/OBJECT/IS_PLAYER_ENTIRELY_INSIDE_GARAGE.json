@@ -1,0 +1,27 @@
+{
+    "0x024A60DEB0EA69F0": {
+        "name": "IS_PLAYER_ENTIRELY_INSIDE_GARAGE",
+        "jhash": "0xC33ED360",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

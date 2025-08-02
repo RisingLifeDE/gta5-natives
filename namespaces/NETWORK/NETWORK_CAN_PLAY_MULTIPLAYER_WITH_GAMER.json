@@ -1,0 +1,15 @@
+{
+    "0x07DD29D5E22763F1": {
+        "name": "NETWORK_CAN_PLAY_MULTIPLAYER_WITH_GAMER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

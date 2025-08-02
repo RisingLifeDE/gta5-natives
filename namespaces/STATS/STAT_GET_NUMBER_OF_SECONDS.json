@@ -1,0 +1,15 @@
+{
+    "0x2CE056FF3723F00B": {
+        "name": "STAT_GET_NUMBER_OF_SECONDS",
+        "jhash": "0x2C1D6C31",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xEF01D36B9C9D0C7B": {
+        "name": "ACTIVATE_FRONTEND_MENU",
+        "jhash": "0x01D83872",
+        "comment": "Does stuff like this:\ngyazo.com/7fcb78ea3520e3dbc5b2c0c0f3712617\n\nExample:\nint GetHash = GET_HASH_KEY(\"fe_menu_version_corona_lobby\");\nACTIVATE_FRONTEND_MENU(GetHash, 0, -1);\n\nBOOL p1 is a toggle to define the game in pause.\nint p2 is unknown but -1 always works, not sure why though.\n\n[30/03/2017] ins1de :\n\nthe int p2 is actually a component variable. When the pause menu is visible, it opens the tab related to it.\n\nExample : Function.Call(Hash.ACTIVATE_FRONTEND_MENU,-1171018317, 0, 42);\nResult : Opens the \"Online\" tab without pausing the menu, with -1 it opens the map.Below is a list of all known Frontend Menu Hashes.\n- FE_MENU_VERSION_SP_PAUSE\n- FE_MENU_VERSION_MP_PAUSE\n- FE_MENU_VERSION_CREATOR_PAUSE\n- FE_MENU_VERSION_CUTSCENE_PAUSE\n- FE_MENU_VERSION_SAVEGAME\n- FE_MENU_VERSION_PRE_LOBBY\n- FE_MENU_VERSION_LOBBY\n- FE_MENU_VERSION_MP_CHARACTER_SELECT\n- FE_MENU_VERSION_MP_CHARACTER_CREATION\n- FE_MENU_VERSION_EMPTY\n- FE_MENU_VERSION_EMPTY_NO_BACKGROUND\n- FE_MENU_VERSION_TEXT_SELECTION\n- FE_MENU_VERSION_CORONA\n- FE_MENU_VERSION_CORONA_LOBBY\n- FE_MENU_VERSION_CORONA_JOINED_PLAYERS\n- FE_MENU_VERSION_CORONA_INVITE_PLAYERS\n- FE_MENU_VERSION_CORONA_INVITE_FRIENDS\n- FE_MENU_VERSION_CORONA_INVITE_CREWS\n- FE_MENU_VERSION_CORONA_INVITE_MATCHED_PLAYERS\n- FE_MENU_VERSION_CORONA_INVITE_LAST_JOB_PLAYERS\n- FE_MENU_VERSION_CORONA_RACE\n- FE_MENU_VERSION_CORONA_BETTING\n- FE_MENU_VERSION_JOINING_SCREEN\n- FE_MENU_VERSION_LANDING_MENU\n- FE_MENU_VERSION_LANDING_KEYMAPPING_MENU",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "menuhash"
+            },
+            {
+                "type": "BOOL",
+                "name": "togglePause"
+            },
+            {
+                "type": "int",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

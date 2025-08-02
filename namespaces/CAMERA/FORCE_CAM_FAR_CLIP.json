@@ -1,0 +1,19 @@
+{
+    "0xAABD62873FFB1A33": {
+        "name": "FORCE_CAM_FAR_CLIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

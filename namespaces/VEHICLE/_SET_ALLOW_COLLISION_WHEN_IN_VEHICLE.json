@@ -1,0 +1,19 @@
+{
+    "0x27D27223E8EF22ED": {
+        "name": "_SET_ALLOW_COLLISION_WHEN_IN_VEHICLE",
+        "jhash": "",
+        "comment": "_SET_ALLOW_R* - _SET_ALLOW_V*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

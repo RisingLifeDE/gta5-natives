@@ -1,0 +1,19 @@
+{
+    "0x4C241E39B23DF959": {
+        "name": "IS_VEHICLE_DRIVEABLE",
+        "jhash": "0x41A7267A",
+        "comment": "p1 is always 0 in the scripts.\n\np1 = check if vehicle is on fire",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isOnFireCheck"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

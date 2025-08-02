@@ -1,0 +1,19 @@
+{
+    "0x121F0593E0A431D7": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "jhash": "0xBE1E7BB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

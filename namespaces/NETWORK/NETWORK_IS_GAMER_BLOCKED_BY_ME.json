@@ -1,0 +1,15 @@
+{
+    "0xE944C4F5AF1B5883": {
+        "name": "NETWORK_IS_GAMER_BLOCKED_BY_ME",
+        "jhash": "0x3FDCC8D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

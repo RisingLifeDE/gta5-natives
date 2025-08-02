@@ -1,0 +1,19 @@
+{
+    "0xD3CD6FD297AE87CC": {
+        "name": "SET_BLIP_FLASH_TIMER",
+        "jhash": "0x8D5DF611",
+        "comment": "Adds up after viewing multiple R* scripts. I believe that the duration is in miliseconds.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

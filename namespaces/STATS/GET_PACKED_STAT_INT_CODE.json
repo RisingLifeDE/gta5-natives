@@ -1,0 +1,22 @@
+{
+    "0x0BC900A6FE73770C": {
+        "name": "GET_PACKED_STAT_INT_CODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "int",
+        "build": "2545",
+        "old_names": [
+            "_GET_PACKED_STAT_INT"
+        ]
+    }
+}

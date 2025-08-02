@@ -1,0 +1,19 @@
+{
+    "0xF6AF6CB341349015": {
+        "name": "GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER",
+        "jhash": "0x1DC50247",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

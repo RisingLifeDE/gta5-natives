@@ -1,0 +1,10 @@
+{
+    "0x7A5487FE9FAA6B48": {
+        "name": "GET_NETWORK_TIME",
+        "jhash": "0x998103C2",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

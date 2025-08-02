@@ -1,0 +1,30 @@
+{
+    "0x6CCA64840589A3B6": {
+        "name": "NETWORK_SPEND_UPGRADE_AGENCY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_SPENT_UPGRADE_AGENCY"
+        ]
+    }
+}

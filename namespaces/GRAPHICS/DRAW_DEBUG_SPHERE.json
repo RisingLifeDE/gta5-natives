@@ -1,0 +1,43 @@
+{
+    "0xAAD68E1AB39DA632": {
+        "name": "DRAW_DEBUG_SPHERE",
+        "jhash": "0x304D0EEF",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

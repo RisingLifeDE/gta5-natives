@@ -1,0 +1,22 @@
+{
+    "0xBCE595371A5FBAAF": {
+        "name": "SET_CUTSCENES_WEAPON_FLASHLIGHT_ON_THIS_FRAME",
+        "jhash": "0x3A68AA46",
+        "comment": "Requires a component_at_*_flsh to be attached to the weapon object",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CREATE_WEAPON_OBJECT_LIGHT_SOURCE"
+        ]
+    }
+}

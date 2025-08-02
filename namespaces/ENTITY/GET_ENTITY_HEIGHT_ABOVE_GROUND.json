@@ -1,0 +1,15 @@
+{
+    "0x1DD55701034110E5": {
+        "name": "GET_ENTITY_HEIGHT_ABOVE_GROUND",
+        "jhash": "0x57F56A4D",
+        "comment": "Return height (z-dimension) above ground. \nExample: The pilot in a titan plane is 1.844176 above ground.\n\nHow can i convert it to meters?\nEverything seems to be in meters, probably this too.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xDE564951F95E09ED": {
+        "name": "NETWORK_FADE_OUT_ENTITY",
+        "jhash": "0x47EDEE56",
+        "comment": "normal - transition like when your coming out of LSC\nslow - transition like when you walk into a mission\n ",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "normal"
+            },
+            {
+                "type": "BOOL",
+                "name": "slow"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

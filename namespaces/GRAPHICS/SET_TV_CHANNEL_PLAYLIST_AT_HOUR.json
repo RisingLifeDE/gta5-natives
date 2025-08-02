@@ -1,0 +1,23 @@
+{
+    "0x2201C576FACAEBE8": {
+        "name": "SET_TV_CHANNEL_PLAYLIST_AT_HOUR",
+        "jhash": "0x78C4DCBE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            },
+            {
+                "type": "const char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "int",
+                "name": "hour"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

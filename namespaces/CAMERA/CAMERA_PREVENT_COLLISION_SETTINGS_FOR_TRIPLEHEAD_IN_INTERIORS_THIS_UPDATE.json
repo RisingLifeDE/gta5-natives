@@ -1,0 +1,10 @@
+{
+    "0x62374889A4D59F72": {
+        "name": "CAMERA_PREVENT_COLLISION_SETTINGS_FOR_TRIPLEHEAD_IN_INTERIORS_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "877"
+    }
+}

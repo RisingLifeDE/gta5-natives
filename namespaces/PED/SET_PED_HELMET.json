@@ -1,0 +1,19 @@
+{
+    "0x560A43136EB58105": {
+        "name": "SET_PED_HELMET",
+        "jhash": "0xED366E53",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "canWearHelmet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

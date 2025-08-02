@@ -1,0 +1,10 @@
+{
+    "0xD4B02A6B476E1FDC": {
+        "name": "LEADERBOARDS_CLEAR_CACHE_DATA",
+        "jhash": "0x87F498C1",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

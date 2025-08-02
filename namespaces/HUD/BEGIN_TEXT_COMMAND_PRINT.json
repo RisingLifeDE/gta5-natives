@@ -1,0 +1,18 @@
+{
+    "0xB87A37EEB7FAA67D": {
+        "name": "BEGIN_TEXT_COMMAND_PRINT",
+        "jhash": "0xF42C43C7",
+        "comment": "void ShowSubtitle(const char *text)\n{\n  BEGIN_TEXT_COMMAND_PRINT(\"STRING\");\n ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n   END_TEXT_COMMAND_PRINT(2000, true);\n}",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "GxtEntry"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TEXT_ENTRY_2"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x6B17C62C9635D2DC": {
+        "name": "START_SCRIPT_CONVERSATION",
+        "jhash": "0xE5DE7D9D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

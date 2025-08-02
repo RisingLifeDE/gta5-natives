@@ -1,0 +1,15 @@
+{
+    "0x908CBECC2CAA3690": {
+        "name": "IS_PLAYER_READY_FOR_CUTSCENE",
+        "jhash": "0xBB77E9CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

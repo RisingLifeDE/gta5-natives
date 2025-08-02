@@ -1,0 +1,23 @@
+{
+    "0xA238192F33110615": {
+        "name": "GET_PM_PLAYER_CREW_COLOR",
+        "jhash": "0x46794EB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

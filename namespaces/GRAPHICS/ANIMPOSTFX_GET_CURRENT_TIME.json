@@ -1,0 +1,18 @@
+{
+    "0xE35B38A27E8E7179": {
+        "name": "ANIMPOSTFX_GET_CURRENT_TIME",
+        "jhash": "",
+        "comment": "See ANIMPOSTFX_PLAY\n\nFull list of animpostFX / screen effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animPostFxNamesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "float",
+        "build": "877",
+        "old_names": [
+            "_ANIMPOSTFX_GET_UNK"
+        ]
+    }
+}

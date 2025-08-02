@@ -1,0 +1,22 @@
+{
+    "0x15F944730C832252": {
+        "name": "SET_USE_KINEMATIC_PHYSICS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_ENTITY_PROOF_UNK"
+        ]
+    }
+}

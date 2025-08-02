@@ -1,0 +1,10 @@
+{
+    "0x2B5E102E4A42F2BF": {
+        "name": "GET_STATUS_OF_MISSION_REPEAT_SAVE",
+        "jhash": "0x144AAF22",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

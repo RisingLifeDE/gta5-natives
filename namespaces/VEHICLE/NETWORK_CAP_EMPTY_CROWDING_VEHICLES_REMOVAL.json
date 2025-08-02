@@ -1,0 +1,15 @@
+{
+    "0xA4A9A4C40E615885": {
+        "name": "NETWORK_CAP_EMPTY_CROWDING_VEHICLES_REMOVAL",
+        "jhash": "",
+        "comment": "Default:1000||This sets a value which is used when NETWORK_ENABLE_EMPTY_CROWDING_VEHICLES_REMOVAL(true) is called each frame.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

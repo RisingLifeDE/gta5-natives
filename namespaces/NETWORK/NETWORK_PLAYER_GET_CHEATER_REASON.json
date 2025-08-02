@@ -1,0 +1,13 @@
+{
+    "0x172F75B6EE2233BA": {
+        "name": "NETWORK_PLAYER_GET_CHEATER_REASON",
+        "jhash": "0x1720ABA6",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_PLAYER_IS_UNK"
+        ]
+    }
+}

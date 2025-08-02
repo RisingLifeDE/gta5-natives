@@ -1,0 +1,35 @@
+{
+    "0x2A488C176D52CCA5": {
+        "name": "VDIST",
+        "jhash": "0x3C08ECB7",
+        "comment": "Calculates distance between vectors.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

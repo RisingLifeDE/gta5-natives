@@ -1,0 +1,23 @@
+{
+    "0xC78E239AC5B2DDB9": {
+        "name": "PAUSE_MENU_SET_BUSY_SPINNER",
+        "jhash": "0x6C67131A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "position"
+            },
+            {
+                "type": "int",
+                "name": "spinnerIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x9E30E91FB03A2CAF": {
+        "name": "GET_MP_OUTFIT_DATA_FROM_METADATA",
+        "jhash": "0x52559BB6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x3441CAD2F2231923": {
+        "name": "SET_ALLOW_VEHICLE_EXPLODES_ON_CONTACT",
+        "jhash": "0xC306A9A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

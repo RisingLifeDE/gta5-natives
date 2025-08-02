@@ -1,0 +1,18 @@
+{
+    "0x17AD8C9706BDD88A": {
+        "name": "THEFEED_SET_FLASH_DURATION_PARAMETER_FOR_NEXT_MESSAGE",
+        "jhash": "0x24A97AF8",
+        "comment": "Related to notification color flashing, setting count to 0 invalidates a `THEFEED_SET_RGBA_PARAMETER_FOR_NEXT_MESSAGE` call for the target notification.",
+        "params": [
+            {
+                "type": "int",
+                "name": "count"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_THEFEED_SET_ANIMPOSTFX_COUNT"
+        ]
+    }
+}

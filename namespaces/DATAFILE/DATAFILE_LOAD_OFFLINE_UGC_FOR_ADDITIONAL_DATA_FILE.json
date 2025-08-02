@@ -1,0 +1,19 @@
+{
+    "0xA6EEF01087181EDD": {
+        "name": "DATAFILE_LOAD_OFFLINE_UGC_FOR_ADDITIONAL_DATA_FILE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2189"
+    }
+}

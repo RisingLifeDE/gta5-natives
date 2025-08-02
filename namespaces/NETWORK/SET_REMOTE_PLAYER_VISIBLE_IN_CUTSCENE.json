@@ -1,0 +1,19 @@
+{
+    "0x96320E6549DAE7B4": {
+        "name": "SET_REMOTE_PLAYER_VISIBLE_IN_CUTSCENE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "locallyVisible"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

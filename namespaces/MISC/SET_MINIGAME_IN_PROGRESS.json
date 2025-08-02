@@ -1,0 +1,15 @@
+{
+    "0x19E00D7322C6F85B": {
+        "name": "SET_MINIGAME_IN_PROGRESS",
+        "jhash": "0x348B9046",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x5687C7F05B39E401": {
+        "name": "SET_FACIAL_CLIPSET",
+        "jhash": "",
+        "comment": "Clipsets:\nfacials@gen_female@base\nfacials@gen_male@base\nfacials@p_m_zero@base\n\nTypically followed with SET_FACIAL_IDLE_ANIM_OVERRIDE:\nmood_drunk_1\nmood_stressed_1\nmood_happy_1\nmood_talking_1\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_FACIAL_CLIPSET_OVERRIDE"
+        ]
+    }
+}

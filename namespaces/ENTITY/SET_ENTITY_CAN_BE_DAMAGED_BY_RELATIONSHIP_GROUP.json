@@ -1,0 +1,23 @@
+{
+    "0xE22D8FDE858B8119": {
+        "name": "SET_ENTITY_CAN_BE_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "jhash": "0x34165B5D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "bCanBeDamaged"
+            },
+            {
+                "type": "int",
+                "name": "relGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

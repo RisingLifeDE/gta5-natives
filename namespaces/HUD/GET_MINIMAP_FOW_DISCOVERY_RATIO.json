@@ -1,0 +1,13 @@
+{
+    "0xE0130B41D3CF4574": {
+        "name": "GET_MINIMAP_FOW_DISCOVERY_RATIO",
+        "jhash": "0xA4098ACC",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_MINIMAP_REVEAL_PERCENTAGE"
+        ]
+    }
+}

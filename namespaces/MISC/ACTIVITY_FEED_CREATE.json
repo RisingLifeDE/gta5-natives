@@ -1,0 +1,19 @@
+{
+    "0x4DCDF92BF64236CD": {
+        "name": "ACTIVITY_FEED_CREATE",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

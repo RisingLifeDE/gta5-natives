@@ -1,0 +1,15 @@
+{
+    "0x3D245789CE12982C": {
+        "name": "PREFETCH_SRL",
+        "jhash": "0x37BE2FBB",
+        "comment": "This native is used to attribute the SRL that BEGIN_SRL is going to load. This is usually used for 'in-game' cinematics (not cutscenes but camera stuff) instead of SET_FOCUS_POS_AND_VEL because it loads a specific area of the map which is pretty useful when the camera moves from distant areas.\nFor instance, GTA:O opening cutscene.\nhttps://pastebin.com/2EeKVeLA : a list of SRL found in srllist.meta\nhttps://pastebin.com/zd9XYUWY here is the content of a SRL file opened with codewalker.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "srl"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

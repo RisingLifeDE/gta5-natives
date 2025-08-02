@@ -1,0 +1,19 @@
+{
+    "0xB128377056A54E2A": {
+        "name": "SET_PED_CAN_RAGDOLL",
+        "jhash": "0xCF1384C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

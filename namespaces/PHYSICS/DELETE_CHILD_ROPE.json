@@ -1,0 +1,15 @@
+{
+    "0xAA5D6B1888E4DB20": {
+        "name": "DELETE_CHILD_ROPE",
+        "jhash": "0xB19B4706",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xBEC4B8653462450E": {
+        "name": "_GET_REMAINING_NITROUS_DURATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "3095"
+    }
+}

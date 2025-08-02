@@ -1,0 +1,19 @@
+{
+    "0x55F006B9D4A46C1D": {
+        "name": "_NETWORK_EARN_AVENGER",
+        "jhash": "",
+        "comment": "Used for SERVICE_EARN_AVENGER_OPERATIONS & SERVICE_EARN_AVENGER_OPS_BONUS",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

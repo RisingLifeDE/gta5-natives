@@ -1,0 +1,26 @@
+{
+    "0x0B39CF0D53F1C883": {
+        "name": "NETWORK_EARN_FROM_BUSINESS_HUB_SELL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_NETWORK_EARN_FROM_BUSINESS_HUB_SELL"
+        ]
+    }
+}

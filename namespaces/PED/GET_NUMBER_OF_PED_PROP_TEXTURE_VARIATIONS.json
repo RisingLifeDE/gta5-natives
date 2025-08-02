@@ -1,0 +1,23 @@
+{
+    "0xA6E7F1CEB523E171": {
+        "name": "GET_NUMBER_OF_PED_PROP_TEXTURE_VARIATIONS",
+        "jhash": "0x4892B882",
+        "comment": "Need to check behavior when drawableId = -1\n\n- Doofy.Ass\nWhy this function doesn't work and return nill value?\nGET_NUMBER_OF_PED_PROP_TEXTURE_VARIATIONS(PLAYER.PLAYER_PED_ID(), 0, 5)\n\ntick: scripts/addins/menu_execute.lua:51: attempt to call field 'GET_NUMBER_OF_PED_PROP_TEXTURE_VARIATIONS' (a nil value)\n\n\nList of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "propId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

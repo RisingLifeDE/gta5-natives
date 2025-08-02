@@ -1,0 +1,35 @@
+{
+    "0x83F7E01C7B769A26": {
+        "name": "APPLY_PED_BLOOD",
+        "jhash": "0x376CE3C0",
+        "comment": "woundTypes:\n- soak_splat\n- wound_sheet\n- BulletSmall\n- BulletLarge\n- ShotgunSmall\n- ShotgunSmallMonolithic\n- ShotgunLarge\n- ShotgunLargeMonolithic\n- NonFatalHeadshot\n- stab\n- BasicSlash\n- Scripted_Ped_Splash_Back\n- BackSplash",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "const char*",
+                "name": "woundType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

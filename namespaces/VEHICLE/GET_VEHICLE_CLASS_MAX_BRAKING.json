@@ -1,0 +1,15 @@
+{
+    "0x4BF54C16EC8FEC03": {
+        "name": "GET_VEHICLE_CLASS_MAX_BRAKING",
+        "jhash": "0xD08CC1A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleClass"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xE05E81A888FA63C8": {
+        "name": "SET_NETWORK_ID_EXISTS_ON_ALL_MACHINES",
+        "jhash": "0x68D486B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

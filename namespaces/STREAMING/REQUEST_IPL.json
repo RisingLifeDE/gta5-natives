@@ -1,0 +1,15 @@
+{
+    "0x41B4893843BBDB74": {
+        "name": "REQUEST_IPL",
+        "jhash": "0x3B70D1DB",
+        "comment": "Exemple: REQUEST_IPL(\"TrevorsTrailerTrash\");\n\nFull list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

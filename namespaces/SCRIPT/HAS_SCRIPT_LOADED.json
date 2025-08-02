@@ -1,0 +1,15 @@
+{
+    "0xE6CC9F3BA0FB9EF1": {
+        "name": "HAS_SCRIPT_LOADED",
+        "jhash": "0x5D67F751",
+        "comment": "Returns if a script has been loaded into the game. Used to see if a script was loaded after requesting.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x837765A25378F0BB": {
+        "name": "GET_GAMEPLAY_CAM_ROT",
+        "jhash": "0x13A010B5",
+        "comment": "p0 dosen't seem to change much, I tried it with 0, 1, 2:\n0-Pitch(X): -70.000092\n0-Roll(Y): -0.000001\n0-Yaw(Z): -43.886459\n1-Pitch(X): -70.000092\n1-Roll(Y): -0.000001\n1-Yaw(Z): -43.886463\n2-Pitch(X): -70.000092\n2-Roll(Y): -0.000002\n2-Yaw(Z): -43.886467",
+        "params": [
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

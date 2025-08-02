@@ -1,0 +1,13 @@
+{
+    "0x3C4487461E9B0DCB": {
+        "name": "NET_GAMESERVER_CATALOG_IS_VALID",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_CATALOG_IS_READY"
+        ]
+    }
+}

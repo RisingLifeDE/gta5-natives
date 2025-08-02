@@ -1,0 +1,19 @@
+{
+    "0x33468EDC08E371F6": {
+        "name": "GET_DLC_VEHICLE_DATA",
+        "jhash": "0xCF428FA4",
+        "comment": "dlcVehicleIndex takes a number from 0 - GET_NUM_DLC_VEHICLES() - 1.\noutData is a struct of 3 8-byte items.\nThe Second item in the struct *(Hash *)(outData + 1) is the vehicle hash.",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcVehicleIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

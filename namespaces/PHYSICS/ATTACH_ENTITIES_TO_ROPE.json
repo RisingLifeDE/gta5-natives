@@ -1,0 +1,67 @@
+{
+    "0x3D95EC8B6D940AC3": {
+        "name": "ATTACH_ENTITIES_TO_ROPE",
+        "jhash": "0x7508668F",
+        "comment": "Attaches entity 1 to entity 2.",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "ent1"
+            },
+            {
+                "type": "Entity",
+                "name": "ent2"
+            },
+            {
+                "type": "float",
+                "name": "ent1_x"
+            },
+            {
+                "type": "float",
+                "name": "ent1_y"
+            },
+            {
+                "type": "float",
+                "name": "ent1_z"
+            },
+            {
+                "type": "float",
+                "name": "ent2_x"
+            },
+            {
+                "type": "float",
+                "name": "ent2_y"
+            },
+            {
+                "type": "float",
+                "name": "ent2_z"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "Any*",
+                "name": "p12"
+            },
+            {
+                "type": "Any*",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

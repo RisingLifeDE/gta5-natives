@@ -1,0 +1,15 @@
+{
+    "0xDCCA191DF9980FD7": {
+        "name": "IS_PED_PERFORMING_MELEE_ACTION",
+        "jhash": "0x139C0875",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

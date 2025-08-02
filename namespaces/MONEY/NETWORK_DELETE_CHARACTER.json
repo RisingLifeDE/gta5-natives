@@ -1,0 +1,23 @@
+{
+    "0x05A50AF38947EB8D": {
+        "name": "NETWORK_DELETE_CHARACTER",
+        "jhash": "0xA9F7E9C3",
+        "comment": "Note the 2nd parameters are always 1, 0. I have a feeling it deals with your money, wallet, bank. So when you delete the character it of course wipes the wallet cash at that time. So if that was the case, it would be eg, NETWORK_DELETE_CHARACTER(characterIndex, deleteWalletCash, deleteBankCash);",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

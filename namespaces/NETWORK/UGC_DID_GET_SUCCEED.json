@@ -1,0 +1,10 @@
+{
+    "0x941E5306BCD7C2C7": {
+        "name": "UGC_DID_GET_SUCCEED",
+        "jhash": "0x3970B0DA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x2F8B4D1C595B11DB": {
+        "name": "GET_MILLISECONDS_PER_GAME_MINUTE",
+        "jhash": "0x3B74095C",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

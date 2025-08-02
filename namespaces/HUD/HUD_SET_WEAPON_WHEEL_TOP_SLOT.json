@@ -1,0 +1,18 @@
+{
+    "0x72C1056D678BB7D8": {
+        "name": "HUD_SET_WEAPON_WHEEL_TOP_SLOT",
+        "jhash": "0x83B608A0",
+        "comment": "Set the active slotIndex in the wheel weapon to the slot associated with the provided Weapon hash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_HUD_WEAPON_WHEEL_SET_SLOT_HASH"
+        ]
+    }
+}

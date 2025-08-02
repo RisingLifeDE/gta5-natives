@@ -1,0 +1,19 @@
+{
+    "0x31D16B74C6E29D66": {
+        "name": "REMOVE_SCENARIO_BLOCKING_AREA",
+        "jhash": "0x4483EF06",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

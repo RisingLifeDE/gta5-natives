@@ -1,0 +1,10 @@
+{
+    "0x6F259F82D873B8B8": {
+        "name": "IS_MISSION_COMPLETE_READY_FOR_UI",
+        "jhash": "0xCBE09AEC",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

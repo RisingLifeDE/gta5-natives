@@ -1,0 +1,15 @@
+{
+    "0xA989044E70010ABE": {
+        "name": "NETWORK_CLAN_DOWNLOAD_MEMBERSHIP",
+        "jhash": "0x8E8CB520",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

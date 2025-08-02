@@ -1,0 +1,16 @@
+{
+    "0xDC2BACD920D0A0DD": {
+        "name": "BG_END_CONTEXT",
+        "jhash": "0x11F38FB3",
+        "comment": "Deletes the given context from the background scripts context map.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

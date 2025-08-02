@@ -1,0 +1,15 @@
+{
+    "0x98A4EB5D89A0C952": {
+        "name": "HAS_MODEL_LOADED",
+        "jhash": "0x62BFDB37",
+        "comment": "Checks if the specified model has loaded into memory.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

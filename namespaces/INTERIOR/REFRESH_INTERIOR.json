@@ -1,0 +1,15 @@
+{
+    "0x41F37C3427C75AE0": {
+        "name": "REFRESH_INTERIOR",
+        "jhash": "0x9A29ACE6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

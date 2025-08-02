@@ -1,0 +1,18 @@
+{
+    "0x47B32F5611E6E483": {
+        "name": "PLAYSTATS_AWARD_BAD_SPORT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_PLAYSTATS_AWARD_BADSPORT"
+        ]
+    }
+}

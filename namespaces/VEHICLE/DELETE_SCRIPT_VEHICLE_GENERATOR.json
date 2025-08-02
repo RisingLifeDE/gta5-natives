@@ -1,0 +1,15 @@
+{
+    "0x22102C9ABFCF125D": {
+        "name": "DELETE_SCRIPT_VEHICLE_GENERATOR",
+        "jhash": "0xE4328E3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleGenerator"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

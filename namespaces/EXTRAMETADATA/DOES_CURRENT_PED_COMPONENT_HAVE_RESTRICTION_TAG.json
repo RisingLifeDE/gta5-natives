@@ -1,0 +1,26 @@
+{
+    "0x7796B21B76221BC5": {
+        "name": "DOES_CURRENT_PED_COMPONENT_HAVE_RESTRICTION_TAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "Hash",
+                "name": "restrictionTagHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2612",
+        "old_names": [
+            "_DOES_CUSTOMIZATION_COMPONENT_HAVE_RESTRICTION_TAG"
+        ]
+    }
+}

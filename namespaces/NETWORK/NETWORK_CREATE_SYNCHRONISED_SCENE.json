@@ -1,0 +1,59 @@
+{
+    "0x7CD6BC4C2BBDD526": {
+        "name": "NETWORK_CREATE_SYNCHRONISED_SCENE",
+        "jhash": "0xB06FE3FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "BOOL",
+                "name": "useOcclusionPortal"
+            },
+            {
+                "type": "BOOL",
+                "name": "looped"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "animTime"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

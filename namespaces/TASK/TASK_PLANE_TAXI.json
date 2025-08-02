@@ -1,0 +1,39 @@
+{
+    "0x92C360B5F15D2302": {
+        "name": "TASK_PLANE_TAXI",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Vehicle",
+                "name": "aircraft"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "cruiseSpeed"
+            },
+            {
+                "type": "float",
+                "name": "targetReached"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

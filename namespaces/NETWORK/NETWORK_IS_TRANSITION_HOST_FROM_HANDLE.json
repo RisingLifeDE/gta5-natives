@@ -1,0 +1,15 @@
+{
+    "0x6B5C83BA3EFE6A10": {
+        "name": "NETWORK_IS_TRANSITION_HOST_FROM_HANDLE",
+        "jhash": "0x0E2854C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

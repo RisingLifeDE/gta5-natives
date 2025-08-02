@@ -1,0 +1,10 @@
+{
+    "0x593850C16A36B692": {
+        "name": "SHUTDOWN_AND_LAUNCH_SINGLE_PLAYER_GAME",
+        "jhash": "0x92B7351C",
+        "comment": "Starts a new singleplayer game (at the prologue).",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

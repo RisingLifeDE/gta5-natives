@@ -1,0 +1,15 @@
+{
+    "0x908311265D42A820": {
+        "name": "SET_PARTICLE_FX_BLOOD_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

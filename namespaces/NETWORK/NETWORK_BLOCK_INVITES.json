@@ -1,0 +1,15 @@
+{
+    "0x34F9E9049454A7A0": {
+        "name": "NETWORK_BLOCK_INVITES",
+        "jhash": "0xD156FD1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

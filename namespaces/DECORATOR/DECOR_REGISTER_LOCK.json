@@ -1,0 +1,10 @@
+{
+    "0xA9D14EEA259F9248": {
+        "name": "DECOR_REGISTER_LOCK",
+        "jhash": "0x7F3F1C02",
+        "comment": "Called after all decorator type initializations.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

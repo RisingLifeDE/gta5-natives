@@ -1,0 +1,15 @@
+{
+    "0x02E93C796ABD3A97": {
+        "name": "SET_RADIO_POSITION_AUDIO_MUTE",
+        "jhash": "0x3C395AEE",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

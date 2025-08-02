@@ -1,0 +1,15 @@
+{
+    "0x740E14FAD5842351": {
+        "name": "SET_GRAVITY_LEVEL",
+        "jhash": "0x2D833F4A",
+        "comment": "level can be from 0 to 3\n0: 9.8 - normal\n1: 2.4 - low\n2: 0.1 - very low\n3: 0.0 - off",
+        "params": [
+            {
+                "type": "int",
+                "name": "level"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

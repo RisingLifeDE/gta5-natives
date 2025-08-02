@@ -1,0 +1,18 @@
+{
+    "0x8D474C8FAEFF6CDE": {
+        "name": "IS_VEHICLE_SPRAYABLE",
+        "jhash": "0x5EB00A6A",
+        "comment": "Returns false if the vehicle has the FLAG_NO_RESPRAY flag set.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_SHOP_RESPRAY_ALLOWED"
+        ]
+    }
+}

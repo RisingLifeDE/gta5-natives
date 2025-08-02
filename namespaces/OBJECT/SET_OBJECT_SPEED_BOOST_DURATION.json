@@ -1,0 +1,22 @@
+{
+    "0xDF6CA0330F2E737B": {
+        "name": "SET_OBJECT_SPEED_BOOST_DURATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_OBJECT_STUNT_PROP_DURATION"
+        ]
+    }
+}

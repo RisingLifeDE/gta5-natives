@@ -1,0 +1,19 @@
+{
+    "0x72C896464915D1B1": {
+        "name": "TASK_REACT_AND_FLEE_PED",
+        "jhash": "0x8A632BD8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "fleeTarget"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

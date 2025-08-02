@@ -1,0 +1,19 @@
+{
+    "0xDACE1BE37D88AF67": {
+        "name": "SET_DRIVE_TASK_DRIVING_STYLE",
+        "jhash": "0x59C5FAD7",
+        "comment": "This native is used to set the driving style for specific ped.\n\nDriving styles id seems to be:\n786468\n262144\n786469\n\nhttp://gtaforums.com/topic/822314-guide-driving-styles/",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

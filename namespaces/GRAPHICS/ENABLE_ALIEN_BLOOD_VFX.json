@@ -1,0 +1,15 @@
+{
+    "0x9DCE1F0F78260875": {
+        "name": "ENABLE_ALIEN_BLOOD_VFX",
+        "jhash": "0xCE8B8748",
+        "comment": "Creates a motion-blur sort of effect, this native does not seem to work, however by using the `START_SCREEN_EFFECT` native with `DrugsMichaelAliensFight` as the effect parameter, you should be able to get the effect.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

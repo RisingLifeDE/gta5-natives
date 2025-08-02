@@ -1,0 +1,22 @@
+{
+    "0xBA154373C5FE51E8": {
+        "name": "NETWORK_EARN_FIXER_FINALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_EARN_FROM_AGENCY_STORY_FINALE"
+        ]
+    }
+}

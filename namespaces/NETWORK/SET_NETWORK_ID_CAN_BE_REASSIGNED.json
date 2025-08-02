@@ -1,0 +1,22 @@
+{
+    "0x9D724B400A7E8FFC": {
+        "name": "SET_NETWORK_ID_CAN_BE_REASSIGNED",
+        "jhash": "",
+        "comment": "\"No Reassign\" in CPhysicalScriptGameStateDataNode",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_SET_NETWORK_ID_CAN_BE_REASSIGNED"
+        ]
+    }
+}

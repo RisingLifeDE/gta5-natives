@@ -1,0 +1,46 @@
+{
+    "0x9B12F9A24FABEDB0": {
+        "name": "SET_LOCKED_UNSTREAMED_IN_DOOR_OF_TYPE",
+        "jhash": "0x4E0A260B",
+        "comment": "Hardcoded not to work in multiplayer environments.\nWhen you set locked to 0 the door open and to 1 the door close\nOBJECT::SET_LOCKED_UNSTREAMED_IN_DOOR_OF_TYPE(${prop_gate_prison_01}, 1845.0, 2605.0, 45.0, 0, 0.0, 50.0, 0);  //door open\n\nOBJECT::SET_LOCKED_UNSTREAMED_IN_DOOR_OF_TYPE(${prop_gate_prison_01}, 1845.0, 2605.0, 45.0, 1, 0.0, 50.0, 0);  //door close",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "locked"
+            },
+            {
+                "type": "float",
+                "name": "xRotMult"
+            },
+            {
+                "type": "float",
+                "name": "yRotMult"
+            },
+            {
+                "type": "float",
+                "name": "zRotMult"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DOOR_CONTROL"
+        ]
+    }
+}

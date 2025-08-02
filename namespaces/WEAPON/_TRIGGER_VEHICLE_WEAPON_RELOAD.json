@@ -1,0 +1,23 @@
+{
+    "0x5B1513F27F279A44": {
+        "name": "_TRIGGER_VEHICLE_WEAPON_RELOAD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

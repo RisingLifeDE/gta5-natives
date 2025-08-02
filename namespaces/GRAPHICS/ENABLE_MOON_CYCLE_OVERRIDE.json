@@ -1,0 +1,19 @@
+{
+    "0x2C328AF17210F009": {
+        "name": "ENABLE_MOON_CYCLE_OVERRIDE",
+        "jhash": "",
+        "comment": "The same as SET_TIMECYCLE_MODIFIER_STRENGTH but for the secondary timecycle modifier.",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH",
+            "_ENABLE_EXTRA_TIMECYCLE_MODIFIER_STRENGTH"
+        ]
+    }
+}

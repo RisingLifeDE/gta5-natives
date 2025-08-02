@@ -1,0 +1,19 @@
+{
+    "0x31E90B8873A4CD3B": {
+        "name": "SET_PLAYER_WEAPON_TAKEDOWN_DEFENSE_MODIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "617"
+    }
+}

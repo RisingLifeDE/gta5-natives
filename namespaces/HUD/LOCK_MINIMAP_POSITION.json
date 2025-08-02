@@ -1,0 +1,19 @@
+{
+    "0x1279E861A329E73F": {
+        "name": "LOCK_MINIMAP_POSITION",
+        "jhash": "0xB9632A91",
+        "comment": "Locks the minimap to the specified world position.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

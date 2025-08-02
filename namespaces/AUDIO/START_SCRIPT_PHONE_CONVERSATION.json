@@ -1,0 +1,19 @@
+{
+    "0x252E5F915EABB675": {
+        "name": "START_SCRIPT_PHONE_CONVERSATION",
+        "jhash": "0x38E42D07",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

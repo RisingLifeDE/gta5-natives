@@ -1,0 +1,15 @@
+{
+    "0x7F2F4F13AC5257EF": {
+        "name": "IS_SYNCHRONIZED_SCENE_HOLD_LAST_FRAME",
+        "jhash": "0x72CF2514",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

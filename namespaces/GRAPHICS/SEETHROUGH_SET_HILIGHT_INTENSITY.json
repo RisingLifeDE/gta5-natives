@@ -1,0 +1,18 @@
+{
+    "0x19E50EB6E33E1D28": {
+        "name": "SEETHROUGH_SET_HILIGHT_INTENSITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SEETHROUGH_SET_HI_LIGHT_INTENSITY"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xC22912B1D85F26B1": {
+        "name": "NETWORK_HAS_ROS_PRIVILEGE_END_DATE",
+        "jhash": "0x8570DD34",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "privilege"
+            },
+            {
+                "type": "int*",
+                "name": "banType"
+            },
+            {
+                "type": "Any*",
+                "name": "timeData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_BAN_DATA"
+        ]
+    }
+}

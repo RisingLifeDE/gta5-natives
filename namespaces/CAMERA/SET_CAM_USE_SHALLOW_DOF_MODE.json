@@ -1,0 +1,19 @@
+{
+    "0x16A96863A17552BB": {
+        "name": "SET_CAM_USE_SHALLOW_DOF_MODE",
+        "jhash": "0x8306C256",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

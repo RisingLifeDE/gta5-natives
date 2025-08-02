@@ -1,0 +1,15 @@
+{
+    "0xF1A6C18B35BCADE6": {
+        "name": "SHOW_START_MISSION_INSTRUCTIONAL_BUTTON",
+        "jhash": "0xA2CAAB4F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

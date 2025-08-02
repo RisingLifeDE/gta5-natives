@@ -1,0 +1,19 @@
+{
+    "0x2DB492222FB21E26": {
+        "name": "SET_PED_VISUAL_FIELD_MIN_ANGLE",
+        "jhash": "0x72E2E18B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

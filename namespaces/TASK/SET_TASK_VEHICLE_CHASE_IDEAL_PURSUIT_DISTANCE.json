@@ -1,0 +1,19 @@
+{
+    "0x639B642FACBE4EDD": {
+        "name": "SET_TASK_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE",
+        "jhash": "0x04FD3EE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

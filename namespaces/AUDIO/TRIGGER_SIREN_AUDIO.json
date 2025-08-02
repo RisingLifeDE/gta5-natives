@@ -1,0 +1,18 @@
+{
+    "0x66C3FB05206041BA": {
+        "name": "TRIGGER_SIREN_AUDIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_TRIGGER_SIREN"
+        ]
+    }
+}

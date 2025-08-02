@@ -1,0 +1,10 @@
+{
+    "0xEE47635F352DA367": {
+        "name": "GET_NUM_DLC_WEAPONS",
+        "jhash": "0x2B757E6C",
+        "comment": "Returns the total number of DLC weapons.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

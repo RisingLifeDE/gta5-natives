@@ -1,0 +1,22 @@
+{
+    "0x9DE986FC9A87C474": {
+        "name": "NETWORK_ARE_PLAYERS_IN_SAME_TUTORIAL_SESSION",
+        "jhash": "0xE66A0B40",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_IS_PLAYER_EQUAL_TO_INDEX"
+        ]
+    }
+}

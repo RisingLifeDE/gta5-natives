@@ -1,0 +1,13 @@
+{
+    "0xC0AA53F866B3134D": {
+        "name": "FORCE_GAME_STATE_PLAYING",
+        "jhash": "0x5D209F25",
+        "comment": "Sets the localplayer playerinfo state back to playing (State 0)\n\nStates are:\n-1: \"Invalid\"\n0: \"Playing\"\n1: \"Died\"\n2: \"Arrested\"\n3: \"Failed Mission\"\n4: \"Left Game\"\n5: \"Respawn\"\n6: \"In MP Cutscene\"",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_LOCALPLAYER_STATE"
+        ]
+    }
+}

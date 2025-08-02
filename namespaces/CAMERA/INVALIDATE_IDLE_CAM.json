@@ -1,0 +1,10 @@
+{
+    "0xF4F2C0D4EE209E20": {
+        "name": "INVALIDATE_IDLE_CAM",
+        "jhash": "0xD75CDD75",
+        "comment": "Resets the idle camera timer. Calling that in a loop once every few seconds is enough to disable the idle cinematic camera.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

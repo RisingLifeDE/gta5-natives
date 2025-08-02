@@ -1,0 +1,10 @@
+{
+    "0x272ACD84970869C5": {
+        "name": "GET_PAUSE_MENU_STATE",
+        "jhash": "0x92F50134",
+        "comment": "Returns:\n\n0\n5\n10\n15\n20\n25\n30\n35\n",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

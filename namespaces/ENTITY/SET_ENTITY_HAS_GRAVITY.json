@@ -1,0 +1,19 @@
+{
+    "0x4A4722448F18EEF5": {
+        "name": "SET_ENTITY_HAS_GRAVITY",
+        "jhash": "0xE2F262BF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

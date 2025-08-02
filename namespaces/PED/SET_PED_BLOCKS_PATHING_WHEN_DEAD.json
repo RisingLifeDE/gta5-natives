@@ -1,0 +1,19 @@
+{
+    "0x576594E8D64375E2": {
+        "name": "SET_PED_BLOCKS_PATHING_WHEN_DEAD",
+        "jhash": "0x1D87DDC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

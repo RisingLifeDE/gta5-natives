@@ -1,0 +1,27 @@
+{
+    "0x5CF0D8F9BBA0DD75": {
+        "name": "ADD_VEHICLE_SUBTASK_ATTACK_COORD",
+        "jhash": "0x50779A2C",
+        "comment": "x, y, z: offset in world coords from some entity.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

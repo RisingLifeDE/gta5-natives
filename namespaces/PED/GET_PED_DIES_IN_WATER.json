@@ -1,0 +1,18 @@
+{
+    "0x65671A4FB8218930": {
+        "name": "GET_PED_DIES_IN_WATER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_GET_PED_DIES_IN_WATER"
+        ]
+    }
+}

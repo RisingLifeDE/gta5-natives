@@ -1,0 +1,23 @@
+{
+    "0x5086C7843552CF85": {
+        "name": "SET_SCRIPTED_CONVERSION_COORD_THIS_FRAME",
+        "jhash": "0x25EA2AA5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

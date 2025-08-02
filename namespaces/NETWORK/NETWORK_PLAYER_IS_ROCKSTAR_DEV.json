@@ -1,0 +1,15 @@
+{
+    "0x544ABDDA3B409B6D": {
+        "name": "NETWORK_PLAYER_IS_ROCKSTAR_DEV",
+        "jhash": "0xF6659045",
+        "comment": "Checks if a specific value (BYTE) in CNetGamePlayer is nonzero.\nReturns always false in Singleplayer.\n\nNo longer used for dev checks since first mods were released on PS3 & 360.\nR* now checks with the IS_DLC_PRESENT native for the dlc hash 2532323046,\nif that is present it will unlock dev stuff.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

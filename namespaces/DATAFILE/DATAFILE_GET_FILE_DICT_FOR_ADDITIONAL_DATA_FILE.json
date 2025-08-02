@@ -1,0 +1,15 @@
+{
+    "0xDBF860CF1DB8E599": {
+        "name": "DATAFILE_GET_FILE_DICT_FOR_ADDITIONAL_DATA_FILE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "2189"
+    }
+}

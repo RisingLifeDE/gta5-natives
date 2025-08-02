@@ -1,0 +1,15 @@
+{
+    "0x4159C2762B5791D6": {
+        "name": "GET_ENTITY_LOD_DIST",
+        "jhash": "0x4DA3D51F",
+        "comment": "Returns the LOD distance of an entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

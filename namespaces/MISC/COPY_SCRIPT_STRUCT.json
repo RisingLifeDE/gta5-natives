@@ -1,0 +1,26 @@
+{
+    "0x213AEB2B90CBA7AC": {
+        "name": "COPY_SCRIPT_STRUCT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "dst"
+            },
+            {
+                "type": "Any*",
+                "name": "src"
+            },
+            {
+                "type": "int",
+                "name": "size"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_COPY_MEMORY"
+        ]
+    }
+}

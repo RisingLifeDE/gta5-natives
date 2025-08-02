@@ -1,0 +1,18 @@
+{
+    "0x11FA5D3479C7DD47": {
+        "name": "SET_FIRST_PERSON_FLASH_EFFECT_VEHICLE_MODEL_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_VEHICLE_CAMERA_NAME"
+        ]
+    }
+}

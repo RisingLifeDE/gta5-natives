@@ -1,0 +1,15 @@
+{
+    "0xFF1BED81BFDC0FE0": {
+        "name": "SET_EXPLOSIVE_MELEE_THIS_FRAME",
+        "jhash": "0x96663D56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

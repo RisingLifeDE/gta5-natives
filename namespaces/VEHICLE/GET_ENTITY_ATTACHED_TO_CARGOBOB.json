@@ -1,0 +1,18 @@
+{
+    "0x99093F60746708CA": {
+        "name": "GET_ENTITY_ATTACHED_TO_CARGOBOB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1103",
+        "old_names": [
+            "_GET_ENTITY_ATTACHED_TO_CARGOBOB"
+        ]
+    }
+}

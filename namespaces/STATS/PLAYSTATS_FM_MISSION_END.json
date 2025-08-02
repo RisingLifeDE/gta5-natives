@@ -1,0 +1,30 @@
+{
+    "0x46A70777BE6CEAB9": {
+        "name": "PLAYSTATS_FM_MISSION_END",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_PLAYSTATS_FREEMODE_MISSION_END"
+        ]
+    }
+}

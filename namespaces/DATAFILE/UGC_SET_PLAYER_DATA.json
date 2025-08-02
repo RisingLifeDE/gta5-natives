@@ -1,0 +1,27 @@
+{
+    "0x692D808C34A82143": {
+        "name": "UGC_SET_PLAYER_DATA",
+        "jhash": "0xBB6321BD",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "float",
+                "name": "rating"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

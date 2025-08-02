@@ -1,0 +1,27 @@
+{
+    "0x131BB5DA15453ACF": {
+        "name": "NETWORK_EARN_FROM_BOUNTY",
+        "jhash": "0x127F2DAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

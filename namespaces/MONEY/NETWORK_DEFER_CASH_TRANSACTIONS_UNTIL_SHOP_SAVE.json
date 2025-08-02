@@ -1,0 +1,11 @@
+{
+    "0xCD0F5B5D932AE473": {
+        "name": "NETWORK_DEFER_CASH_TRANSACTIONS_UNTIL_SHOP_SAVE",
+        "jhash": "0xC4CD928D",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

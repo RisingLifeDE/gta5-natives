@@ -1,0 +1,15 @@
+{
+    "0x7D395EA61622E116": {
+        "name": "NETWORK_SET_LOOK_AT_TALKERS",
+        "jhash": "0x5C05B7E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

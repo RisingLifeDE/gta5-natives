@@ -1,0 +1,19 @@
+{
+    "0x58BB377BEC7CD5F4": {
+        "name": "SET_VEHICLE_CONVERSATIONS_PERSIST",
+        "jhash": "0x8CE63FA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

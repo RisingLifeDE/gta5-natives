@@ -1,0 +1,19 @@
+{
+    "0x4F7D8A9BFB0B43E9": {
+        "name": "SET_BLIP_ROUTE",
+        "jhash": "0x3E160C90",
+        "comment": "Enable / disable showing route for the Blip-object.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

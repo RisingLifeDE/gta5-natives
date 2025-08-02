@@ -1,0 +1,23 @@
+{
+    "0x1E8BE90C74FB4C09": {
+        "name": "REMOVE_WEAPON_COMPONENT_FROM_PED",
+        "jhash": "0x412AA00D",
+        "comment": "Full list of weapons & components by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

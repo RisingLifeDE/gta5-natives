@@ -1,0 +1,43 @@
+{
+    "0x2E0DC353342C4A6D": {
+        "name": "IS_PROJECTILE_TYPE_IN_AREA",
+        "jhash": "0x2B73BCF6",
+        "comment": "Determines whether there is a projectile of a specific type within the specified coordinates. The coordinates form a axis-aligned bounding box.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

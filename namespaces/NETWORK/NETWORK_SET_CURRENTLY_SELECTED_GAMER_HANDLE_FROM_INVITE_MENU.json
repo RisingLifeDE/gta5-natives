@@ -1,0 +1,15 @@
+{
+    "0x7206F674F2A3B1BB": {
+        "name": "NETWORK_SET_CURRENTLY_SELECTED_GAMER_HANDLE_FROM_INVITE_MENU",
+        "jhash": "0xFD95899E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

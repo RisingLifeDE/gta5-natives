@@ -1,0 +1,19 @@
+{
+    "0xCFD115B373C0DF63": {
+        "name": "UGC_GET_CONTENT_UPDATED_DATE",
+        "jhash": "0xA19A238D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

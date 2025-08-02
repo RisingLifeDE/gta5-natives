@@ -1,0 +1,35 @@
+{
+    "0x7AE0589093A2E088": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR",
+        "jhash": "0x8C90D22F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

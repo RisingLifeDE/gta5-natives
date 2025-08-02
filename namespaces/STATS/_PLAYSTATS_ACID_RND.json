@@ -1,0 +1,15 @@
+{
+    "0xCEACCF0550FDC5BA": {
+        "name": "_PLAYSTATS_ACID_RND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3AC1F7B898F30C05": {
+        "name": "RESET_PED_VISIBLE_DAMAGE",
+        "jhash": "0xC4BC4841",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

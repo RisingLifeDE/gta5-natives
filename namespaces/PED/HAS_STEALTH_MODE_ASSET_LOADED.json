@@ -1,0 +1,15 @@
+{
+    "0xE977FC5B08AF3441": {
+        "name": "HAS_STEALTH_MODE_ASSET_LOADED",
+        "jhash": "0x39245667",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

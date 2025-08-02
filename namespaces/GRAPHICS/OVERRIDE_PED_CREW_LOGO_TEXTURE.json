@@ -1,0 +1,26 @@
+{
+    "0x95EB5E34F821BABE": {
+        "name": "OVERRIDE_PED_CREW_LOGO_TEXTURE",
+        "jhash": "",
+        "comment": "Overriding ped badge texture to a passed texture. It's synced between players (even custom textures!), don't forget to request used dict on *all* clients to make it sync properly. Can be removed by passing empty strings.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "txd"
+            },
+            {
+                "type": "const char*",
+                "name": "txn"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "877",
+        "old_names": [
+            "_OVERRIDE_PED_BADGE_TEXTURE"
+        ]
+    }
+}

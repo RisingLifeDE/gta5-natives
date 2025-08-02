@@ -1,0 +1,19 @@
+{
+    "0x13337B38DB572509": {
+        "name": "IS_USING_CURSOR",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_INPUT_JUST_DISABLED",
+            "_IS_USING_KEYBOARD_2"
+        ]
+    }
+}

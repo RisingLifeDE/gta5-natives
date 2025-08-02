@@ -1,0 +1,10 @@
+{
+    "0x4AF92ACD3141D96C": {
+        "name": "CLEAR_STATUS_OF_SORTED_LIST_OPERATION",
+        "jhash": "0xC9EF81ED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

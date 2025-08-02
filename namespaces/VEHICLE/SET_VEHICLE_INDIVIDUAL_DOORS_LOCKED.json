@@ -1,0 +1,27 @@
+{
+    "0xBE70724027F85BCD": {
+        "name": "SET_VEHICLE_INDIVIDUAL_DOORS_LOCKED",
+        "jhash": "0xD61D182D",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "int",
+                "name": "doorLockStatus"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PED_TARGETTABLE_VEHICLE_DESTROY",
+            "_SET_VEHICLE_DOOR_DESTROY_TYPE"
+        ]
+    }
+}

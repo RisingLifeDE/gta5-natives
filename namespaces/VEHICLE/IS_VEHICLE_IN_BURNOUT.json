@@ -1,0 +1,15 @@
+{
+    "0x1297A88E081430EB": {
+        "name": "IS_VEHICLE_IN_BURNOUT",
+        "jhash": "0x6632BC12",
+        "comment": "Returns whether the specified vehicle is currently in a burnout.\n\n\nvb.net\nPublic Function isVehicleInBurnout(vh As Vehicle) As Boolean\n        Return Native.Function.Call(Of Boolean)(Hash.IS_VEHICLE_IN_BURNOUT, vh)\n    End Function",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

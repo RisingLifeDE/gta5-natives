@@ -1,0 +1,23 @@
+{
+    "0x8EF105736194F80C": {
+        "name": "REMOVE_INDIVIDUAL_PORTAL_SETTINGS_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "interiorNameHash"
+            },
+            {
+                "type": "int",
+                "name": "roomIndex"
+            },
+            {
+                "type": "int",
+                "name": "doorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

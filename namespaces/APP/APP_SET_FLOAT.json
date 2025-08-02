@@ -1,0 +1,19 @@
+{
+    "0x25D7687C68E0DAA4": {
+        "name": "APP_SET_FLOAT",
+        "jhash": "0xF3076135",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

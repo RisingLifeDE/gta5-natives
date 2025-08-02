@@ -1,0 +1,19 @@
+{
+    "0x4F8A26A890FD62FB": {
+        "name": "GET_DISABLED_CONTROL_UNBOUND_NORMAL",
+        "jhash": "0xF2A65A4C",
+        "comment": "The \"disabled\" variant of GET_CONTROL_UNBOUND_NORMAL.\n\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

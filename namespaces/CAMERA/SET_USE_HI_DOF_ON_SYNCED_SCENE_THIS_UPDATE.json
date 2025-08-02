@@ -1,0 +1,13 @@
+{
+    "0x731A880555DA3647": {
+        "name": "SET_USE_HI_DOF_ON_SYNCED_SCENE_THIS_UPDATE",
+        "jhash": "",
+        "comment": "Only used in R* Script fm_mission_controller_2020",
+        "params": [],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_SET_USE_HI_DOF_IN_CUTSCENE"
+        ]
+    }
+}

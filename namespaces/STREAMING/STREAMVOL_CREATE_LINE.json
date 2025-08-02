@@ -1,0 +1,39 @@
+{
+    "0x0AD9710CEE2F590F": {
+        "name": "STREAMVOL_CREATE_LINE",
+        "jhash": "0xC0157255",
+        "comment": "Always returns zero.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

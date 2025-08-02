@@ -1,0 +1,15 @@
+{
+    "0xED3C76ADFA6D07C4": {
+        "name": "FORCE_INSTANT_LEG_IK_SETUP",
+        "jhash": "0xFB4000DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

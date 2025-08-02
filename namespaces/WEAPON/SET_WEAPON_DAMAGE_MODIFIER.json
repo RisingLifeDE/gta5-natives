@@ -1,0 +1,23 @@
+{
+    "0x4757F00BC6323CFE": {
+        "name": "SET_WEAPON_DAMAGE_MODIFIER",
+        "jhash": "",
+        "comment": "Changes the weapon damage output by the given multiplier value. Must be run every frame.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "damageMultiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_WEAPON_DAMAGE_MODIFIER",
+            "_SET_WEAPON_DAMAGE_MODIFIER_THIS_FRAME"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xDED5AF5A0EA4B297": {
+        "name": "SET_DRIVER_RACING_MODIFIER",
+        "jhash": "0x6D55B3B3",
+        "comment": "Scripts use 0.2, 0.5 and 1.0. Value must be >= 0.0 && <= 1.0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

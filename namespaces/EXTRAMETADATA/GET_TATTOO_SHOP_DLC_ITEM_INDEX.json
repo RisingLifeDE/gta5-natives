@@ -1,0 +1,23 @@
+{
+    "0x10144267DD22866C": {
+        "name": "GET_TATTOO_SHOP_DLC_ITEM_INDEX",
+        "jhash": "",
+        "comment": "Returns some sort of index/offset for overlays/decorations.\n\nCharacter types:\n0 = Michael, \n1 = Franklin, \n2 = Trevor, \n3 = MPMale, \n4 = MPFemale",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "overlayHash"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "character"
+            }
+        ],
+        "return_type": "int",
+        "build": "2189"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x28B022A17B068A3A": {
+        "name": "FORCE_BONNET_CAMERA_RELATIVE_HEADING_AND_PITCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xF2DD778C22B15BDA": {
+        "name": "FLASH_MINIMAP_DISPLAY",
+        "jhash": "0xB8359952",
+        "comment": "adds a short flash to the Radar/Minimap\nUsage: UI.FLASH_MINIMAP_DISPLAY",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

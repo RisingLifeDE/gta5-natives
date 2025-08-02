@@ -1,0 +1,15 @@
+{
+    "0x07C61676E5BB52CD": {
+        "name": "SC_LICENSEPLATE_GET_ADD_IS_PENDING",
+        "jhash": "0xE190E45A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

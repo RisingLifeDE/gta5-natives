@@ -1,0 +1,19 @@
+{
+    "0xBD12F8228410D9B4": {
+        "name": "END_TEXT_COMMAND_BUSYSPINNER_ON",
+        "jhash": "0x903F5EE4",
+        "comment": "enum eBusySpinnerType\n{\n\tBUSY_SPINNER_LEFT,\n\tBUSY_SPINNER_LEFT_2,\n\tBUSY_SPINNER_LEFT_3,\n\tBUSY_SPINNER_SAVE,\n\tBUSY_SPINNER_RIGHT,\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "busySpinnerType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOW_LOADING_PROMPT",
+            "_END_TEXT_COMMAND_BUSY_STRING"
+        ]
+    }
+}

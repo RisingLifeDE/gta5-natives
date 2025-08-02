@@ -1,0 +1,15 @@
+{
+    "0xE63D7C6EECECB66B": {
+        "name": "TOGGLE_PLAYER_DAMAGE_OVERLAY",
+        "jhash": "0xD34A6CBA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

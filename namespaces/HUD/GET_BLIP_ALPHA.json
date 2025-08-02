@@ -1,0 +1,15 @@
+{
+    "0x970F608F0EE6C885": {
+        "name": "GET_BLIP_ALPHA",
+        "jhash": "0x297AF6C8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x7EC8ABA5E74B3D7A": {
+        "name": "SET_INSIDE_VERY_LARGE_INTERIOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_INTERIOR_ZOOM_LEVEL_DECREASED"
+        ]
+    }
+}

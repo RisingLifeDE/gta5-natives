@@ -1,0 +1,18 @@
+{
+    "0x71DC455F5CD1C2B1": {
+        "name": "NETWORK_HAS_MADE_INVITE_DECISION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "NETWORK_HAS_INVITE_BEEN_ACKED"
+        ]
+    }
+}

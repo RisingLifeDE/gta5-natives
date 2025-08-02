@@ -1,0 +1,15 @@
+{
+    "0x3F69145BBA87BAE7": {
+        "name": "GET_PED_MONEY",
+        "jhash": "0xEB3C4C7E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

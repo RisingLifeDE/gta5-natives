@@ -1,0 +1,10 @@
+{
+    "0xBBC72712E80257A1": {
+        "name": "GET_CLOCK_MONTH",
+        "jhash": "0x3C48A3D5",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

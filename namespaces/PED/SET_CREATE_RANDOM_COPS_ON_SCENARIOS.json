@@ -1,0 +1,15 @@
+{
+    "0x444CB7D7DBE6973D": {
+        "name": "SET_CREATE_RANDOM_COPS_ON_SCENARIOS",
+        "jhash": "0xEDC31475",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

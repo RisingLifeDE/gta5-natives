@@ -1,0 +1,15 @@
+{
+    "0xA72CD9CA74A5ECBA": {
+        "name": "CLEAR_ENTITY_LAST_DAMAGE_ENTITY",
+        "jhash": "0x2B83F43B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

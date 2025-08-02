@@ -1,0 +1,19 @@
+{
+    "0x044DBAD7A7FA2BE5": {
+        "name": "SET_PORTAL_SETTINGS_OVERRIDE",
+        "jhash": "0x8AD670EC",
+        "comment": "Found in the b617d scripts, duplicates removed:  \n\nAUDIO::SET_PORTAL_SETTINGS_OVERRIDE(\"V_CARSHOWROOM_PS_WINDOW_UNBROKEN\", \"V_CARSHOWROOM_PS_WINDOW_BROKEN\");\n\n AUDIO::SET_PORTAL_SETTINGS_OVERRIDE(\"V_CIA_PS_WINDOW_UNBROKEN\", \"V_CIA_PS_WINDOW_BROKEN\");\n\n AUDIO::SET_PORTAL_SETTINGS_OVERRIDE(\"V_DLC_HEIST_APARTMENT_DOOR_CLOSED\", \"V_DLC_HEIST_APARTMENT_DOOR_OPEN\");\n\n AUDIO::SET_PORTAL_SETTINGS_OVERRIDE(\"V_FINALEBANK_PS_VAULT_INTACT\", \"V_FINALEBANK_PS_VAULT_BLOWN\");\n\n AUDIO::SET_PORTAL_SETTINGS_OVERRIDE(\"V_MICHAEL_PS_BATHROOM_WITH_WINDOW\", \"V_MICHAEL_PS_BATHROOM_WITHOUT_WINDOW\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

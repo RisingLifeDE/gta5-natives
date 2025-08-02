@@ -1,0 +1,15 @@
+{
+    "0x873B82D42AC2B9E5": {
+        "name": "GET_VEHICLE_ATTACHED_TO_CARGOBOB",
+        "jhash": "0x301A1D24",
+        "comment": "Returns attached vehicle (Vehicle in parameter must be cargobob)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

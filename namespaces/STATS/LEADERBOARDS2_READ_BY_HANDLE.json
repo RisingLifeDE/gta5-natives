@@ -1,0 +1,19 @@
+{
+    "0xC30713A383BFBF0E": {
+        "name": "LEADERBOARDS2_READ_BY_HANDLE",
+        "jhash": "0x6B553408",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

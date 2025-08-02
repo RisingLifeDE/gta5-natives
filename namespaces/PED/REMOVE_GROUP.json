@@ -1,0 +1,15 @@
+{
+    "0x8EB2F69076AF7053": {
+        "name": "REMOVE_GROUP",
+        "jhash": "0x48D72B88",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

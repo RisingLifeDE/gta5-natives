@@ -1,0 +1,15 @@
+{
+    "0x539DE94D44FDFD0D": {
+        "name": "GET_VEHICLE_MODEL_MAX_TRACTION",
+        "jhash": "0x7F985597",
+        "comment": "Returns max traction of the specified vehicle model.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x73561D4425A021A2": {
+        "name": "SET_BIKE_EASY_TO_LAND",
+        "jhash": "",
+        "comment": "When enabled, the player won't fall off the bike when landing from large heights.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "791"
+    }
+}

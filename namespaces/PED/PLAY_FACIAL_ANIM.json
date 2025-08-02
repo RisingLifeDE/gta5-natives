@@ -1,0 +1,23 @@
+{
+    "0xE1E65CA8AC9C00ED": {
+        "name": "PLAY_FACIAL_ANIM",
+        "jhash": "0x1F6CCDDE",
+        "comment": "Full list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

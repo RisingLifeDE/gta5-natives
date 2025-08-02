@@ -1,0 +1,22 @@
+{
+    "0xFE205F38AAA58E5B": {
+        "name": "SET_HELI_TAIL_ROTOR_HEALTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_HELI_TAIL_ROTOR_HEALTH"
+        ]
+    }
+}

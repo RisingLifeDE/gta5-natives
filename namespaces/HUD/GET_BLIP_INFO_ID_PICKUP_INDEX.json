@@ -1,0 +1,15 @@
+{
+    "0x9B6786E4C03DD382": {
+        "name": "GET_BLIP_INFO_ID_PICKUP_INDEX",
+        "jhash": "0x86913D37",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "Pickup",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x2C1D8B3B19E517CC": {
+        "name": "CAN_CARGOBOB_PICK_UP_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757"
+    }
+}

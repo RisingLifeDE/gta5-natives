@@ -1,0 +1,15 @@
+{
+    "0xEC72C258667BE5EA": {
+        "name": "LOAD_HIGH_QUALITY_PHOTO",
+        "jhash": "0x9C106AD9",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

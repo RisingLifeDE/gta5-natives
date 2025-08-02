@@ -1,0 +1,30 @@
+{
+    "0x7619EEE8C886757F": {
+        "name": "GET_VEHICLE_NEON_COLOUR",
+        "jhash": "",
+        "comment": "Gets the color of the neon lights of the specified vehicle.\n\nSee SET_VEHICLE_NEON_COLOUR (0x8E0A582209A62695) for more information",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_NEON_LIGHTS_COLOUR"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4A56710BAB5C4DB4": {
+        "name": "UGC_GET_CONTENT_DESCRIPTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "3407"
+    }
+}

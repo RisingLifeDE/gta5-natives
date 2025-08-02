@@ -1,0 +1,15 @@
+{
+    "0xDF47FC56C71569CF": {
+        "name": "SET_PAUSE_MENU_ACTIVE",
+        "jhash": "0x1DCD878E",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

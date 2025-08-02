@@ -1,0 +1,18 @@
+{
+    "0x8C70252FC40F320B": {
+        "name": "NETWORK_SET_VEHICLE_DRIVEN_IN_TEST_DRIVE",
+        "jhash": "",
+        "comment": "Used by MetricVEHICLE_DIST_DRIVEN",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_NETWORK_SET_VEHICLE_TEST_DRIVE"
+        ]
+    }
+}

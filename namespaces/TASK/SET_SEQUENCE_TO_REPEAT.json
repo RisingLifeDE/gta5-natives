@@ -1,0 +1,19 @@
+{
+    "0x58C70CF3A41E4AE7": {
+        "name": "SET_SEQUENCE_TO_REPEAT",
+        "jhash": "0xCDDF1508",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "taskSequenceId"
+            },
+            {
+                "type": "BOOL",
+                "name": "repeat"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

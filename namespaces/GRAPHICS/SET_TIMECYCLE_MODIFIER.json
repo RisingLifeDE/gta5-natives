@@ -1,0 +1,15 @@
+{
+    "0x2C933ABF17A1DF41": {
+        "name": "SET_TIMECYCLE_MODIFIER",
+        "jhash": "0xA81F3638",
+        "comment": "Loads the specified timecycle modifier. Modifiers are defined separately in another file (e.g. \"timecycle_mods_1.xml\")\n\nParameters:\nmodifierName - The modifier to load (e.g. \"V_FIB_IT3\", \"scanline_cam\", etc.)\n\nFull list of timecycle modifiers by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/timecycleModifiers.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

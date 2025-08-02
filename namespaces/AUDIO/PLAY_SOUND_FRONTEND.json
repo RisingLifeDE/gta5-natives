@@ -1,0 +1,27 @@
+{
+    "0x67C540AA08E4A6F5": {
+        "name": "PLAY_SOUND_FRONTEND",
+        "jhash": "0x2E458F74",
+        "comment": "List: https://pastebin.com/DCeRiaLJ\n\nAll occurrences as of Cayo Perico Heist DLC (b2189), sorted alphabetically and identical lines removed: https://git.io/JtLxM\n\nFull list of audio / sound names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/soundNames.json",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

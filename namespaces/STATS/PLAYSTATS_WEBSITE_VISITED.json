@@ -1,0 +1,19 @@
+{
+    "0xDDF24D535060F811": {
+        "name": "PLAYSTATS_WEBSITE_VISITED",
+        "jhash": "0x37D152BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scaleformHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

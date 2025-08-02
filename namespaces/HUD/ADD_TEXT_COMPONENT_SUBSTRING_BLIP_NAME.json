@@ -1,0 +1,15 @@
+{
+    "0x80EAD8E2E1D5D52E": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_BLIP_NAME",
+        "jhash": "0x5DE98F0A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

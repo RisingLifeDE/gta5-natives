@@ -1,0 +1,23 @@
+{
+    "0xFAE628F1E9ADB239": {
+        "name": "SET_LAST_VIEWED_SHOP_ITEM",
+        "jhash": "0xD59A822B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

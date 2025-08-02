@@ -1,0 +1,19 @@
+{
+    "0x4E9021C1FCDD507A": {
+        "name": "SET_PLAYER_STEALTH_PERCEPTION_MODIFIER",
+        "jhash": "0x3D26105F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

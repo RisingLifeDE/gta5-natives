@@ -1,0 +1,18 @@
+{
+    "0x633F6F44A537EBB6": {
+        "name": "IS_THIS_MODEL_AN_AMPHIBIOUS_CAR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_IS_THIS_MODEL_AN_AMPHIBIOUS_CAR"
+        ]
+    }
+}

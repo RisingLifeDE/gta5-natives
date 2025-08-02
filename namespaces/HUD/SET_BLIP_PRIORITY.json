@@ -1,0 +1,19 @@
+{
+    "0xAE9FC9EF6A9FAC79": {
+        "name": "SET_BLIP_PRIORITY",
+        "jhash": "0xCE87DA6F",
+        "comment": "See this topic for more details : gtaforums.com/topic/717612-v-scriptnative-documentation-and-research/page-35?p=1069477935",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

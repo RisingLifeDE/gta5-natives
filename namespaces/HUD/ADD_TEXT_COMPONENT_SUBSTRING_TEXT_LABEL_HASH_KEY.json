@@ -1,0 +1,15 @@
+{
+    "0x17299B63C7683A2B": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL_HASH_KEY",
+        "jhash": "0x150E03B6",
+        "comment": "It adds the localized text of the specified GXT entry name. Eg. if the argument is GET_HASH_KEY(\"ES_HELP\"), adds \"Continue\". Just uses a text labels hash key",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

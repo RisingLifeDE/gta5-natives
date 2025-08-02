@@ -1,0 +1,10 @@
+{
+    "0x86E0660E4F5C956D": {
+        "name": "NETWORK_CLEAR_GET_GAMER_STATUS",
+        "jhash": "0x3F7EDBBD",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

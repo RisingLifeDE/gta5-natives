@@ -1,0 +1,18 @@
+{
+    "0x8F390AC4155099BA": {
+        "name": "SET_FLAMMABILITY_MULTIPLIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_SET_FIRE_SPREAD_RATE"
+        ]
+    }
+}

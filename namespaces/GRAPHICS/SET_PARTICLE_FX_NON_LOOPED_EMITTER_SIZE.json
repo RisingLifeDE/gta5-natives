@@ -1,0 +1,26 @@
+{
+    "0x1E2E01C00837D26E": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_EMITTER_SIZE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_SET_PARTICLE_FX_NON_LOOPED_EMITTER_SCALE"
+        ]
+    }
+}

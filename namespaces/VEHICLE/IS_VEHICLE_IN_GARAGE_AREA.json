@@ -1,0 +1,19 @@
+{
+    "0xCEE4490CD57BB3C2": {
+        "name": "IS_VEHICLE_IN_GARAGE_AREA",
+        "jhash": "0xA90EC257",
+        "comment": "garageName example \"Michael - Beverly Hills\"\n\nFull list of garages by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/garages.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "garageName"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

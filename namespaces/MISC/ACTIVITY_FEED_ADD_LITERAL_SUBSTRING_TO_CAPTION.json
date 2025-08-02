@@ -1,0 +1,15 @@
+{
+    "0xEBD3205A207939ED": {
+        "name": "ACTIVITY_FEED_ADD_LITERAL_SUBSTRING_TO_CAPTION",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

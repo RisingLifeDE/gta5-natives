@@ -1,0 +1,23 @@
+{
+    "0x3C7D42D58F770B54": {
+        "name": "ATTACH_VEHICLE_TO_TRAILER",
+        "jhash": "0x2133977F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "trailer"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

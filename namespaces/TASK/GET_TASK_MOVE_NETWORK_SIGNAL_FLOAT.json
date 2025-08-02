@@ -1,0 +1,22 @@
+{
+    "0x44AB0B3AFECCE242": {
+        "name": "GET_TASK_MOVE_NETWORK_SIGNAL_FLOAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            }
+        ],
+        "return_type": "float",
+        "build": "1493",
+        "old_names": [
+            "_GET_TASK_MOVE_NETWORK_SIGNAL_FLOAT"
+        ]
+    }
+}

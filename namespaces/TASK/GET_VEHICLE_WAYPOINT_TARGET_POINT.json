@@ -1,0 +1,15 @@
+{
+    "0x416B62AC8B9E5BBD": {
+        "name": "GET_VEHICLE_WAYPOINT_TARGET_POINT",
+        "jhash": "0x81049608",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

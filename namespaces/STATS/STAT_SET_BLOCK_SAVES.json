@@ -1,0 +1,15 @@
+{
+    "0xF434A10BA01C37D0": {
+        "name": "STAT_SET_BLOCK_SAVES",
+        "jhash": "0xCE7A2411",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC968670BFACE42D9": {
+        "name": "HAS_FORCE_CLEANUP_OCCURRED",
+        "jhash": "0x4B37333C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x2FAB6614CE22E196": {
+        "name": "NETWORK_SPENT_TRADE_IMPEXP_WAREHOUSE_PROPERTY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "944"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x470555300D10B2A5": {
+        "name": "GET_PLAYER_SWITCH_STATE",
+        "jhash": "0x39A0E1F2",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

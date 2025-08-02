@@ -1,0 +1,10 @@
+{
+    "0x0150B6FF25A9E2E5": {
+        "name": "UNREQUEST_TENNIS_BANKS",
+        "jhash": "0x1134F68B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

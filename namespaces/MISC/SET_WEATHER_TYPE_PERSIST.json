@@ -1,0 +1,15 @@
+{
+    "0x704983DF373B198F": {
+        "name": "SET_WEATHER_TYPE_PERSIST",
+        "jhash": "0xC6C04C75",
+        "comment": "The following weatherTypes are used in the scripts:\n\"CLEAR\"\n\"EXTRASUNNY\"\n\"CLOUDS\"\n\"OVERCAST\"\n\"RAIN\"\n\"CLEARING\"\n\"THUNDER\"\n\"SMOG\"\n\"FOGGY\"\n\"XMAS\"\n\"SNOW\"\n\"SNOWLIGHT\"\n\"BLIZZARD\"\n\"HALLOWEEN\"\n\"NEUTRAL\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

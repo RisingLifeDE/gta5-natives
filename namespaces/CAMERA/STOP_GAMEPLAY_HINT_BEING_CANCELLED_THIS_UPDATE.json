@@ -1,0 +1,15 @@
+{
+    "0xCCD078C2665D2973": {
+        "name": "STOP_GAMEPLAY_HINT_BEING_CANCELLED_THIS_UPDATE",
+        "jhash": "0xCAFEE798",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

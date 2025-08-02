@@ -1,0 +1,19 @@
+{
+    "0x52818819057F2B40": {
+        "name": "DATAFILE_SELECT_UGC_PLAYER_DATA",
+        "jhash": "0xA4D1B30E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

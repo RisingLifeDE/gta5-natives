@@ -1,0 +1,15 @@
+{
+    "0x324C5AA411DA7737": {
+        "name": "STOP_CUTSCENE_CAM_SHAKING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

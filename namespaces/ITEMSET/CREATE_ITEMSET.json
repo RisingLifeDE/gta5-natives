@@ -1,0 +1,15 @@
+{
+    "0x35AD299F50D91B24": {
+        "name": "CREATE_ITEMSET",
+        "jhash": "0x0A113B2C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "323"
+    }
+}

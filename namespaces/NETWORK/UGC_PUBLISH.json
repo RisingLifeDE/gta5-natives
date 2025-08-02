@@ -1,0 +1,23 @@
+{
+    "0x1DE0F5F50D723CAA": {
+        "name": "UGC_PUBLISH",
+        "jhash": "0xAD334B40",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "const char*",
+                "name": "baseContentId"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

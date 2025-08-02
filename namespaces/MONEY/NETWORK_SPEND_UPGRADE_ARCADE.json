@@ -1,0 +1,30 @@
+{
+    "0x5574637681911FDA": {
+        "name": "NETWORK_SPEND_UPGRADE_ARCADE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_NETWORK_SPENT_UPGRADE_ARCADE"
+        ]
+    }
+}

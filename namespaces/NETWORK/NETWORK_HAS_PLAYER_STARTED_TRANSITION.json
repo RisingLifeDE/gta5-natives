@@ -1,0 +1,15 @@
+{
+    "0x9AC9CCBFA8C29795": {
+        "name": "NETWORK_HAS_PLAYER_STARTED_TRANSITION",
+        "jhash": "0x4ABD1E59",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

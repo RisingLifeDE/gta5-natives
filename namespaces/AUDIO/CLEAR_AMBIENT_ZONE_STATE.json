@@ -1,0 +1,19 @@
+{
+    "0x218DD44AAAC964FF": {
+        "name": "CLEAR_AMBIENT_ZONE_STATE",
+        "jhash": "0xCDFF3C82",
+        "comment": "This function also has a p2, unknown. Signature AUDIO::CLEAR_AMBIENT_ZONE_STATE(const char* zoneName, bool p1, Any p2);\n\nStill needs more research.\n\nFull list of ambient zones by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ambientZones.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "zoneName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

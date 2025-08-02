@@ -1,0 +1,18 @@
+{
+    "0x848B66100EE33B05": {
+        "name": "PLAYSTATS_DUPE_DETECTED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011",
+        "old_names": [
+            "_PLAYSTATS_DUPE_DETECTION"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xFDDB234CF74073D9": {
+        "name": "REMOVE_PED_PREFERRED_COVER_SET",
+        "jhash": "0xA0134498",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

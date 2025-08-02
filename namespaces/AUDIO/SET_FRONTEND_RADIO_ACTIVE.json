@@ -1,0 +1,15 @@
+{
+    "0xF7F26C6E9CC9EBB8": {
+        "name": "SET_FRONTEND_RADIO_ACTIVE",
+        "jhash": "0xB1172075",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

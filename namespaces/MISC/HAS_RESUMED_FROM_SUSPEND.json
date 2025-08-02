@@ -1,0 +1,13 @@
+{
+    "0xE8B9C0EC9E183F35": {
+        "name": "HAS_RESUMED_FROM_SUSPEND",
+        "jhash": "",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_RESUMED_FROM_SUSPEND"
+        ]
+    }
+}

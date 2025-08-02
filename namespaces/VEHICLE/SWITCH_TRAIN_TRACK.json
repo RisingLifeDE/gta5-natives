@@ -1,0 +1,19 @@
+{
+    "0xFD813BB7DB977F20": {
+        "name": "SWITCH_TRAIN_TRACK",
+        "jhash": "0x68BFDD61",
+        "comment": "Toggles whether ambient trains can spawn on the specified track or not\n\n`trackId` is the internal id of the train track to switch.\n`state` is whether ambient trains can spawn or not\n\ntrackIds\n0 (`trains1.dat`) Main track around SA\n1 (`trains2.dat`) Davis Quartz Quarry branch\n2 (`trains3.dat`) Second track alongside live track along Roy Lewenstein Blv.\n3 (`trains4.dat`) Metro track circuit\n4 (`trains5.dat`) Branch in Mirror Park Railyard\n5 (`trains6.dat`) Branch in Mirror Park Railyard\n6 (`trains7.dat`) LS branch to Mirror Park Railyard\n7 (`trains8.dat`) Overground part of metro track along Forum Dr.\n8 (`trains9.dat`) Branch to Mirror Park Railyard\n9 (`trains10.dat`) Yankton train\n10 (`trains11.dat`) Part of metro track near mission row\n11 (`trains12.dat`) Yankton prologue mission train\nFull list of all train tracks + track nodes by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/traintracks.json",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackId"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

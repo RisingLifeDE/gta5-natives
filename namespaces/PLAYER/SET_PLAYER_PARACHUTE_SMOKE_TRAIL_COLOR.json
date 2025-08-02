@@ -1,0 +1,27 @@
+{
+    "0x8217FD371A4625CF": {
+        "name": "SET_PLAYER_PARACHUTE_SMOKE_TRAIL_COLOR",
+        "jhash": "0x14FE9264",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

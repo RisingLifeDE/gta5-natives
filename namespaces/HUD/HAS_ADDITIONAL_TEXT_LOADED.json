@@ -1,0 +1,15 @@
+{
+    "0x02245FE4BED318B8": {
+        "name": "HAS_ADDITIONAL_TEXT_LOADED",
+        "jhash": "0xB0E56045",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "slot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

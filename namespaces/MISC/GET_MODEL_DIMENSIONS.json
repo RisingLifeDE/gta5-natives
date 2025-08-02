@@ -1,0 +1,23 @@
+{
+    "0x03E8D3D5F549087A": {
+        "name": "GET_MODEL_DIMENSIONS",
+        "jhash": "0x91ABB8E0",
+        "comment": "Gets the dimensions of a model.\n\nCalculate (maximum - minimum) to get the size, in which case, Y will be how long the model is.\n\nExample from the scripts: MISC::GET_MODEL_DIMENSIONS(ENTITY::GET_ENTITY_MODEL(PLAYER::PLAYER_PED_ID()), &v_1A, &v_17);",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "Vector3*",
+                "name": "minimum"
+            },
+            {
+                "type": "Vector3*",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

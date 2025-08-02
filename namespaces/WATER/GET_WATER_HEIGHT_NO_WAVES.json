@@ -1,0 +1,27 @@
+{
+    "0x8EE6B53CE13A9794": {
+        "name": "GET_WATER_HEIGHT_NO_WAVES",
+        "jhash": "0x262017F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float*",
+                "name": "height"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

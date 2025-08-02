@@ -1,0 +1,22 @@
+{
+    "0x6E387895952F4F71": {
+        "name": "GET_TYRE_WEAR_RATE",
+        "jhash": "",
+        "comment": "Returns the multiplier value from SET_TYRE_WEAR_RATE\n\nUsable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            }
+        ],
+        "return_type": "float",
+        "build": "2060",
+        "old_names": [
+            "_GET_TYRE_WEAR_MULTIPLIER"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x92922A607497B14D": {
+        "name": "GET_NUMBER_OF_VEHICLE_DOORS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_GET_NUMBER_OF_VEHICLE_DOORS"
+        ]
+    }
+}

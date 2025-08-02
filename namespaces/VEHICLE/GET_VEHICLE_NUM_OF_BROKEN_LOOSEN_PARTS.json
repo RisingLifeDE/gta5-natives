@@ -1,0 +1,18 @@
+{
+    "0x2C8CBFE1EA5FC631": {
+        "name": "GET_VEHICLE_NUM_OF_BROKEN_LOOSEN_PARTS",
+        "jhash": "0xABC99E21",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_NUMBER_OF_BROKEN_BONES"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x1091922715B68DF0": {
+        "name": "_SET_WEAPON_PED_DAMAGE_MODIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weapon"
+            },
+            {
+                "type": "float",
+                "name": "damageModifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

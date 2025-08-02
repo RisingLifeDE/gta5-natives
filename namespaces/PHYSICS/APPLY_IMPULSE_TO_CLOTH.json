@@ -1,0 +1,39 @@
+{
+    "0xE37F721824571784": {
+        "name": "APPLY_IMPULSE_TO_CLOTH",
+        "jhash": "0xA2A5C9FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "vecX"
+            },
+            {
+                "type": "float",
+                "name": "vecY"
+            },
+            {
+                "type": "float",
+                "name": "vecZ"
+            },
+            {
+                "type": "float",
+                "name": "impulse"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

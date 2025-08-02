@@ -1,0 +1,30 @@
+{
+    "0x28B7B9BFDAF274AA": {
+        "name": "ADD_SCRIPTED_COVER_AREA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_ADD_SCRIPTED_BLOCKING_AREA"
+        ]
+    }
+}

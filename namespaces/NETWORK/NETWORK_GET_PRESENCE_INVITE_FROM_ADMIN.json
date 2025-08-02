@@ -1,0 +1,15 @@
+{
+    "0x3DBF2DF0AEB7D289": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_FROM_ADMIN",
+        "jhash": "0xF5E3401C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

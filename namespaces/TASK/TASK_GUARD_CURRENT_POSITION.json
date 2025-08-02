@@ -1,0 +1,27 @@
+{
+    "0x4A58A47A72E3FCB4": {
+        "name": "TASK_GUARD_CURRENT_POSITION",
+        "jhash": "0x2FB099E9",
+        "comment": "From re_prisonvanbreak:\n\nTASK::TASK_GUARD_CURRENT_POSITION(l_DD, 35.0, 35.0, 1);",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "maxPatrolProximity"
+            },
+            {
+                "type": "float",
+                "name": "defensiveAreaRadius"
+            },
+            {
+                "type": "BOOL",
+                "name": "setDefensiveArea"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

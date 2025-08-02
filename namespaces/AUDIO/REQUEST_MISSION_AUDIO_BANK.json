@@ -1,0 +1,23 @@
+{
+    "0x7345BDD95E62E0F2": {
+        "name": "REQUEST_MISSION_AUDIO_BANK",
+        "jhash": "0x916E37CA",
+        "comment": "All occurrences and usages found in b617d: https://pastebin.com/NzZZ2Tmm\nFull list of mission audio bank names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/missionAudioBankNames.json\np2 is always -1",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

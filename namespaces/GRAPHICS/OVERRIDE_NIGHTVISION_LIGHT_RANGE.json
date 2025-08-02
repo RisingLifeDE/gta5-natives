@@ -1,0 +1,15 @@
+{
+    "0x43FA7CBE20DAB219": {
+        "name": "OVERRIDE_NIGHTVISION_LIGHT_RANGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x589F80B325CC82C5": {
+        "name": "DOOR_SYSTEM_FIND_EXISTING_DOOR",
+        "jhash": "0xE9AE494F",
+        "comment": "Search radius: 0.5",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "Hash*",
+                "name": "outDoorHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x7284A47B3540E6CF": {
+        "name": "NETWORK_HAS_INVITED_GAMER_TO_TRANSITION",
+        "jhash": "0x4F41DF6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

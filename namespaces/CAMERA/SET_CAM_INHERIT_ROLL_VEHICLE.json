@@ -1,0 +1,19 @@
+{
+    "0x45F1DE9C34B93AE6": {
+        "name": "SET_CAM_INHERIT_ROLL_VEHICLE",
+        "jhash": "0xE4BD5342",
+        "comment": "The native seems to only be called once.\n\nThe native is used as so,\nCAM::SET_CAM_INHERIT_ROLL_VEHICLE(l_544, getElem(2, &l_525, 4));\nIn the exile1 script.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

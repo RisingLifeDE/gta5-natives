@@ -1,0 +1,16 @@
+{
+    "0x9D5A25BADB742ACD": {
+        "name": "BG_START_CONTEXT",
+        "jhash": "0xF3F1D953",
+        "comment": "Inserts the given context into the background scripts context map.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

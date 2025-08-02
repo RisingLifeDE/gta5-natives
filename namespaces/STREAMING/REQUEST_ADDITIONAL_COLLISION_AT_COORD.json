@@ -1,0 +1,23 @@
+{
+    "0xC9156DC11411A9EA": {
+        "name": "REQUEST_ADDITIONAL_COLLISION_AT_COORD",
+        "jhash": "0xC2CC1DF2",
+        "comment": "Alias of REQUEST_COLLISION_AT_COORD.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

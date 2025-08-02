@@ -1,0 +1,15 @@
+{
+    "0xF0DAEF2F545BEE25": {
+        "name": "REQUEST_PEDHEADSHOT_IMG_UPLOAD",
+        "jhash": "0x10F2C023",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

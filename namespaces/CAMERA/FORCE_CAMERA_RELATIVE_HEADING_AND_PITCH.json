@@ -1,0 +1,26 @@
+{
+    "0x48608C3464F58AB4": {
+        "name": "FORCE_CAMERA_RELATIVE_HEADING_AND_PITCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_RELATIVE_ROTATION"
+        ]
+    }
+}

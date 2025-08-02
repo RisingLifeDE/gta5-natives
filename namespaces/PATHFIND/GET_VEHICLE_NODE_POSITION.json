@@ -1,0 +1,19 @@
+{
+    "0x703123E5E7D429C2": {
+        "name": "GET_VEHICLE_NODE_POSITION",
+        "jhash": "0xE38E252D",
+        "comment": "Calling this with an invalid node id, will crash the game.\nNote that IS_VEHICLE_NODE_ID_VALID simply checks if nodeId is not zero. It does not actually ensure that the id is valid.\nEg. IS_VEHICLE_NODE_ID_VALID(1) will return true, but will crash when calling GET_VEHICLE_NODE_POSITION().",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeId"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

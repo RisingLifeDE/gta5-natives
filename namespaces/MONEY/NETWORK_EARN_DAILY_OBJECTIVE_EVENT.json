@@ -1,0 +1,18 @@
+{
+    "0x5128DF14A5BB86FC": {
+        "name": "NETWORK_EARN_DAILY_OBJECTIVE_EVENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_DAILY_OBJECTIVE_EVENT"
+        ]
+    }
+}

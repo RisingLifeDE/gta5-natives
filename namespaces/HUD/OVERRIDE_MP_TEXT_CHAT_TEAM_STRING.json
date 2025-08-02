@@ -1,0 +1,18 @@
+{
+    "0x6A1738B4323FE2D9": {
+        "name": "OVERRIDE_MP_TEXT_CHAT_TEAM_STRING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_OVERRIDE_MULTIPLAYER_CHAT_PREFIX"
+        ]
+    }
+}

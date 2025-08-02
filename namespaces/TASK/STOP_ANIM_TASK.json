@@ -1,0 +1,27 @@
+{
+    "0x97FF36A1D40EA00A": {
+        "name": "STOP_ANIM_TASK",
+        "jhash": "0x2B520A57",
+        "comment": "Full list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "blendDelta"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

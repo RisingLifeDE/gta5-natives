@@ -1,0 +1,19 @@
+{
+    "0x9E6B70061662AE5C": {
+        "name": "GET_RELATIONSHIP_BETWEEN_GROUPS",
+        "jhash": "0x4E372FE2",
+        "comment": "Gets the relationship between two groups. This should be called twice (once for each group).\n\nRelationship types:\n0 = Companion\n1 = Respect\n2 = Like\n3 = Neutral\n4 = Dislike\n5 = Hate\n255 = Pedestrians\n\nExample:\nPED::GET_RELATIONSHIP_BETWEEN_GROUPS(l_1017, 0xA49E591C);\nPED::GET_RELATIONSHIP_BETWEEN_GROUPS(0xA49E591C, l_1017);",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "group1"
+            },
+            {
+                "type": "Hash",
+                "name": "group2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

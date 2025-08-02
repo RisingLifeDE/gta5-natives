@@ -1,0 +1,19 @@
+{
+    "0xC7EF1BA83230BA07": {
+        "name": "SET_PED_CAN_BE_SHOT_IN_VEHICLE",
+        "jhash": "0x5DB7B3A9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

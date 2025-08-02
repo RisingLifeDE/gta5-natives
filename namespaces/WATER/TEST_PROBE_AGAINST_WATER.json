@@ -1,0 +1,39 @@
+{
+    "0xFFA5D878809819DB": {
+        "name": "TEST_PROBE_AGAINST_WATER",
+        "jhash": "0xAA4AE00C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "Vector3*",
+                "name": "result"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

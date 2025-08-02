@@ -1,0 +1,10 @@
+{
+    "0xA06509A691D12BE4": {
+        "name": "NETWORK_JOIN_GROUP_ACTIVITY",
+        "jhash": "0x0D7E5CF9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

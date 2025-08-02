@@ -1,0 +1,55 @@
+{
+    "0x7AFE8FDC10BC07D2": {
+        "name": "TASK_SWEEP_AIM_POSITION",
+        "jhash": "0x1683FE66",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "lowAnimName"
+            },
+            {
+                "type": "const char*",
+                "name": "medAnimName"
+            },
+            {
+                "type": "const char*",
+                "name": "hiAnimName"
+            },
+            {
+                "type": "int",
+                "name": "runtime"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "turnRate"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

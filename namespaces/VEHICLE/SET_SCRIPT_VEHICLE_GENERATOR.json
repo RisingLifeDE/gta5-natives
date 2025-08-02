@@ -1,0 +1,19 @@
+{
+    "0xD9D620E0AC6DC4B0": {
+        "name": "SET_SCRIPT_VEHICLE_GENERATOR",
+        "jhash": "0x40D73747",
+        "comment": "Only called once in the decompiled scripts. Presumably activates the specified generator.",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleGenerator"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x801BD273D3A23F74": {
+        "name": "GET_LENGTH_OF_STRING_WITH_THIS_TEXT_LABEL",
+        "jhash": "0xA4CA7BE5",
+        "comment": "Returns the string length of the string from the gxt string .",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxt"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

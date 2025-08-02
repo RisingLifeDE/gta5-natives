@@ -1,0 +1,10 @@
+{
+    "0xADA24309FE08DACF": {
+        "name": "NETWORK_IS_IN_TUTORIAL_SESSION",
+        "jhash": "0x34DD7B28",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

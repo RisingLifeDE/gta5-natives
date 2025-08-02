@@ -1,0 +1,19 @@
+{
+    "0x57C51E6BAD752696": {
+        "name": "SET_VEHICLE_WINDOW_TINT",
+        "jhash": "0x497C8787",
+        "comment": "enum WindowTints\n{\n WINDOWTINT_NONE,\n  WINDOWTINT_PURE_BLACK,\n    WINDOWTINT_DARKSMOKE,\n WINDOWTINT_LIGHTSMOKE,\n    WINDOWTINT_STOCK,\n WINDOWTINT_LIMO,\n  WINDOWTINT_GREEN\n};\nFull list of all vehicle window tints by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleColors.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "tint"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

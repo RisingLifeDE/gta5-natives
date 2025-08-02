@@ -1,0 +1,19 @@
+{
+    "0x48A59CF88D43DF0E": {
+        "name": "NETWORK_CLAN_GET_MEMBERSHIP_VALID",
+        "jhash": "0x48914F6A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

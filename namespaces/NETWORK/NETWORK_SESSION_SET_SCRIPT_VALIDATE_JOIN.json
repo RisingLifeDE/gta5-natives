@@ -1,0 +1,10 @@
+{
+    "0x1153FA02A659051C": {
+        "name": "NETWORK_SESSION_SET_SCRIPT_VALIDATE_JOIN",
+        "jhash": "0x57F9BC83",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xD29EC58C2F6B5014": {
+        "name": "SET_MP_GAMER_TAGS_SHOULD_USE_POINTS_HEALTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_MP_GAMER_HEALTH_BAR_DISPLAY"
+        ]
+    }
+}

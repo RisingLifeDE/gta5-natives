@@ -1,0 +1,19 @@
+{
+    "0xB327CF1B8C2C0EA3": {
+        "name": "_NETWORK_GET_TUNABLES_REGISTRATION_BOOL",
+        "jhash": "",
+        "comment": "Checks if the given tunable exists and returns its value. Otherwise returns defaultValue.\nPossible tunable contexts must first be set up using _NETWORK_SET_TUNABLES_REGISTRATION_CONTEXTS.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "BOOL",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

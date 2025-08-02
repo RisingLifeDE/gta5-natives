@@ -1,0 +1,15 @@
+{
+    "0xB3352E018D6F89DF": {
+        "name": "SET_PED_HEALTH_PENDING_LAST_DAMAGE_EVENT_OVERRIDE_FLAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699"
+    }
+}

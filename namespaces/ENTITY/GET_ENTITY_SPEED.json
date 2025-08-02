@@ -1,0 +1,15 @@
+{
+    "0xD5037BA82E12416F": {
+        "name": "GET_ENTITY_SPEED",
+        "jhash": "0x9E1E4798",
+        "comment": "result is in meters per second\n\n------------------------------------------------------------\nSo would the conversion to mph and km/h, be along the lines of this.\n\nfloat speed = GET_ENTITY_SPEED(veh);\nfloat kmh = (speed * 3.6);\nfloat mph = (speed * 2.236936);\n------------------------------------------------------------",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

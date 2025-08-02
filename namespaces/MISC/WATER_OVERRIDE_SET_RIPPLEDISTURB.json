@@ -1,0 +1,15 @@
+{
+    "0xB9854DFDE0D833D6": {
+        "name": "WATER_OVERRIDE_SET_RIPPLEDISTURB",
+        "jhash": "0x4671AC2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "disturb"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

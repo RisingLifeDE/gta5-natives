@@ -1,0 +1,38 @@
+{
+    "0x65287525D951F6BE": {
+        "name": "GET_SHAPE_TEST_RESULT_INCLUDING_MATERIAL",
+        "jhash": "0x4301E10C",
+        "comment": "Returns the result of a shape test, also returning the material of any touched surface.\n\nWhen used with an asynchronous shape test, this native should be looped until returning 0 or 2, after which the handle is invalidated.\n\nUnless the return value is 2, the other return values are undefined.",
+        "params": [
+            {
+                "type": "int",
+                "name": "shapeTestHandle"
+            },
+            {
+                "type": "BOOL*",
+                "name": "hit"
+            },
+            {
+                "type": "Vector3*",
+                "name": "endCoords"
+            },
+            {
+                "type": "Vector3*",
+                "name": "surfaceNormal"
+            },
+            {
+                "type": "Hash*",
+                "name": "materialHash"
+            },
+            {
+                "type": "Entity*",
+                "name": "entityHit"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_SHAPE_TEST_RESULT_EX"
+        ]
+    }
+}

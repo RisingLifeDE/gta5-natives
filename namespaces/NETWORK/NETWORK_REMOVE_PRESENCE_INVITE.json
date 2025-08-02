@@ -1,0 +1,15 @@
+{
+    "0xF0210268DB0974B1": {
+        "name": "NETWORK_REMOVE_PRESENCE_INVITE",
+        "jhash": "0x93C665FA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3A8CADC7D37AACC5": {
+        "name": "GET_CLIP_SET_FOR_SCRIPTED_GUN_TASK",
+        "jhash": "0x249EB4EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gunTaskType"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

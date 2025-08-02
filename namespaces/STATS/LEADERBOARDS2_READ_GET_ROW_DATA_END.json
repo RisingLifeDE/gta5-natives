@@ -1,0 +1,13 @@
+{
+    "0x71B008056E5692D6": {
+        "name": "LEADERBOARDS2_READ_GET_ROW_DATA_END",
+        "jhash": "0xF2DB6A82",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "LEADERBOARDS2_READ_BY_HELP_PURPLE_END"
+        ]
+    }
+}

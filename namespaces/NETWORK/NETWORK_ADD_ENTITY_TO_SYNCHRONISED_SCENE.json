@@ -1,0 +1,39 @@
+{
+    "0xF2404D68CBC855FA": {
+        "name": "NETWORK_ADD_ENTITY_TO_SYNCHRONISED_SCENE",
+        "jhash": "0x10DD636C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "netScene"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMulitiplier"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

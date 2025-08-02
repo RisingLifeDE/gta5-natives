@@ -1,0 +1,22 @@
+{
+    "0x26695EC767728D84": {
+        "name": "SET_RAGDOLL_BLOCKING_FLAGS",
+        "jhash": "0x9C8F830D",
+        "comment": "Works for both player and peds,\n\nenum eRagdollBlockingFlags\n{\n RBF_BULLET_IMPACT = 0,\n RBF_VEHICLE_IMPACT = 1,\n RBF_FIRE = 2,\n RBF_ELECTROCUTION = 3,\n RBF_PLAYER_IMPACT = 4,\n RBF_EXPLOSION = 5,0\n RBF_IMPACT_OBJECT = 6,\n RBF_MELEE = 7,\n RBF_RUBBER_BULLET = 8,\n RBF_FALLING = 9,\n RBF_WATER_JET = 10,\n RBF_DROWNING = 11,\n _0x9F52E2C4 = 12,\n RBF_PLAYER_BUMP = 13,\n RBF_PLAYER_RAGDOLL_BUMP = 14,\n RBF_PED_RAGDOLL_BUMP = 15,\n RBF_VEHICLE_GRAB = 16,\n RBF_SMOKE_GRENADE = 17,\n};\n\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "blockingFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_RAGDOLL_BLOCKING_FLAGS"
+        ]
+    }
+}

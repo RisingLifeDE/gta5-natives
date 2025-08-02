@@ -1,0 +1,19 @@
+{
+    "0x1E3F1B1B891A2AAA": {
+        "name": "BLOCK_PLAYERS_FOR_AMBIENT_PICKUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

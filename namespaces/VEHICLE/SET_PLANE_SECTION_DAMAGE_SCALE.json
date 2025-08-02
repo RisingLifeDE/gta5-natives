@@ -1,0 +1,23 @@
+{
+    "0x0BBB9A7A8FFE931B": {
+        "name": "SET_PLANE_SECTION_DAMAGE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

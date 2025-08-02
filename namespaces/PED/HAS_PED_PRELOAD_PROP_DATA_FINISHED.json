@@ -1,0 +1,15 @@
+{
+    "0x784002A632822099": {
+        "name": "HAS_PED_PRELOAD_PROP_DATA_FINISHED",
+        "jhash": "0x3B0CA391",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

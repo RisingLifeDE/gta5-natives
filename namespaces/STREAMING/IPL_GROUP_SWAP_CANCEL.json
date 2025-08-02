@@ -1,0 +1,10 @@
+{
+    "0x63EB2B972A218CAC": {
+        "name": "IPL_GROUP_SWAP_CANCEL",
+        "jhash": "0xF2CDD6A8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

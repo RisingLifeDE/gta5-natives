@@ -1,0 +1,10 @@
+{
+    "0xD642319C54AADEB6": {
+        "name": "HAVE_REPLAY_STATS_BEEN_STORED",
+        "jhash": "0xC58250F1",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xD27058A1CA2B13EE": {
+        "name": "DATAFILE_CREATE",
+        "jhash": "0x95F8A221",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

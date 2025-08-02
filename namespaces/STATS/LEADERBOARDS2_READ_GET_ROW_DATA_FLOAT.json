@@ -1,0 +1,22 @@
+{
+    "0x38491439B6BA7F7D": {
+        "name": "LEADERBOARDS2_READ_GET_ROW_DATA_FLOAT",
+        "jhash": "0x509A286F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "LEADERBOARDS2_READ_BY_HELP_PURPLE_FLOAT"
+        ]
+    }
+}

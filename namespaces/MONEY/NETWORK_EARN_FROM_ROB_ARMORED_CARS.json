@@ -1,0 +1,18 @@
+{
+    "0xF514621E8EA463D0": {
+        "name": "NETWORK_EARN_FROM_ROB_ARMORED_CARS",
+        "jhash": "0x30B3EC0A",
+        "comment": "For the money bags that drop a max of $40,000. Often called 40k bags.\n\nMost likely NETWORK_EARN_FROM_ROB***",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_EARN_FROM_ARMOUR_TRUCK"
+        ]
+    }
+}

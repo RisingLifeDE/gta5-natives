@@ -1,0 +1,19 @@
+{
+    "0xBE8BE4FE60E27B72": {
+        "name": "SET_BLIP_AS_SHORT_RANGE",
+        "jhash": "0x5C67725E",
+        "comment": "Sets whether or not the specified blip should only be displayed when nearby, or on the minimap.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

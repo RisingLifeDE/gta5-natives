@@ -1,0 +1,23 @@
+{
+    "0x9A665550F8DA349B": {
+        "name": "SET_CARGOBOB_PICKUP_MAGNET_ACTIVE",
+        "jhash": "0xF57066DA",
+        "comment": "Won't attract or magnetize to any helicopters or planes of course, but that's common sense.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "BOOL",
+                "name": "isActive"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CARGOBOB_MAGNET_GRAB_VEHICLE",
+            "_SET_CARGOBOB_PICKUP_MAGNET_ACTIVE"
+        ]
+    }
+}

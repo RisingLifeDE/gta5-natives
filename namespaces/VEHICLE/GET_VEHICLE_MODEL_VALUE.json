@@ -1,0 +1,18 @@
+{
+    "0x5873C14A52D74236": {
+        "name": "GET_VEHICLE_MODEL_VALUE",
+        "jhash": "0x58FEFC3D",
+        "comment": "Returns `nMonetaryValue` from handling.meta for specific model.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_MONETARY_VALUE"
+        ]
+    }
+}

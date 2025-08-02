@@ -1,0 +1,10 @@
+{
+    "0x593FEAE1F73392D4": {
+        "name": "GET_SCREEN_CODE_WANTS_SCRIPT_TO_CONTROL",
+        "jhash": "0x22CA9F2A",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

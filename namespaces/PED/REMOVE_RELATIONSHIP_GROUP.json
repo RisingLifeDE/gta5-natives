@@ -1,0 +1,15 @@
+{
+    "0xB6BA2444AB393DA2": {
+        "name": "REMOVE_RELATIONSHIP_GROUP",
+        "jhash": "0x4A1DC59A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "groupHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

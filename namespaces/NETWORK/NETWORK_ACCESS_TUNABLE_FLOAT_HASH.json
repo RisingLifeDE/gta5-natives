@@ -1,0 +1,26 @@
+{
+    "0x972BC203BBC4C4D5": {
+        "name": "NETWORK_ACCESS_TUNABLE_FLOAT_HASH",
+        "jhash": "0x3972551F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ACCESS_TUNABLE_FLOAT_HASH"
+        ]
+    }
+}

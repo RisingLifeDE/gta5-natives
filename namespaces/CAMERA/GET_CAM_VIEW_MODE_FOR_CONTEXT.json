@@ -1,0 +1,15 @@
+{
+    "0xEE778F8C7E1142E2": {
+        "name": "GET_CAM_VIEW_MODE_FOR_CONTEXT",
+        "jhash": "0xF3B148A6",
+        "comment": "context: see _GET_CAM_ACTIVE_VIEW_MODE_CONTEXT",
+        "params": [
+            {
+                "type": "int",
+                "name": "context"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

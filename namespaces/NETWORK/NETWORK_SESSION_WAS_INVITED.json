@@ -1,0 +1,10 @@
+{
+    "0x23DFB504655D0CE4": {
+        "name": "NETWORK_SESSION_WAS_INVITED",
+        "jhash": "0x6A0BEA60",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

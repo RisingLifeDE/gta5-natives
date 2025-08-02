@@ -1,0 +1,28 @@
+{
+    "0x2940558E05BCC2EC": {
+        "name": "_NETWORK_SPEND_UPGRADE_ACID_LAB_SCOOP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802",
+        "unused": true
+    }
+}

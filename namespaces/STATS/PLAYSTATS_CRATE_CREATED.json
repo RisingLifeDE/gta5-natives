@@ -1,0 +1,27 @@
+{
+    "0xAFC7E5E075A96F46": {
+        "name": "PLAYSTATS_CRATE_CREATED",
+        "jhash": "0xD003E648",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PLAYSTATS_AMBIENT_MISSION_CRATE_CREATED",
+            "_PLAYSTATS_CRATE_CREATED_MISSION_DONE"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xE2587F8CBBD87B1D": {
+        "name": "IS_DISABLED_CONTROL_PRESSED",
+        "jhash": "0x32A93544",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

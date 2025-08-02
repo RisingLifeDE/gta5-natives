@@ -1,0 +1,27 @@
+{
+    "0x28004F88151E03E0": {
+        "name": "STOP_ENTITY_ANIM",
+        "jhash": "0xC4769830",
+        "comment": "Full list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json\n\nRAGEPluginHook list: docs.ragepluginhook.net/html/62951c37-a440-478c-b389-c471230ddfc5.htm",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animation"
+            },
+            {
+                "type": "const char*",
+                "name": "animGroup"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

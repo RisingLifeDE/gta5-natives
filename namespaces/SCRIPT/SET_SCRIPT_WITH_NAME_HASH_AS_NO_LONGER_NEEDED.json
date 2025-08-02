@@ -1,0 +1,18 @@
+{
+    "0xC5BC038960E9DB27": {
+        "name": "SET_SCRIPT_WITH_NAME_HASH_AS_NO_LONGER_NEEDED",
+        "jhash": "0x96C26F66",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_STREAMED_SCRIPT_AS_NO_LONGER_NEEDED"
+        ]
+    }
+}

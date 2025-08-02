@@ -1,0 +1,10 @@
+{
+    "0x869DAACBBE9FA006": {
+        "name": "GET_GPS_BLIP_ROUTE_FOUND",
+        "jhash": "0x286F82CC",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x94A68DA412C4007D": {
+        "name": "SET_HELI_CAN_PICKUP_ENTITY_THAT_HAS_PICK_UP_DISABLED",
+        "jhash": "",
+        "comment": "Stops the cargobob from being able to attach any vehicle",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_SET_CARGOBOB_HOOK_CAN_ATTACH"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xDB1EA9411C8911EC": {
+        "name": "SET_CHECKPOINT_FORCE_DIRECTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

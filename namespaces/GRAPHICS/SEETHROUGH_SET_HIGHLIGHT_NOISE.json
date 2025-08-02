@@ -1,0 +1,18 @@
+{
+    "0x1636D7FC127B10D2": {
+        "name": "SEETHROUGH_SET_HIGHLIGHT_NOISE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "noise"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SEETHROUGH_SET_HI_LIGHT_NOISE"
+        ]
+    }
+}

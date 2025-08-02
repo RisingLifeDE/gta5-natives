@@ -1,0 +1,13 @@
+{
+    "0xEA7F0AD7E9BA676F": {
+        "name": "DISABLE_GAMEPLAY_CAM_ALTITUDE_FOV_SCALING_THIS_UPDATE",
+        "jhash": "0xA61FF9AC",
+        "comment": "Shows the crosshair even if it wouldn't show normally. Only works for one frame, so make sure to call it repeatedly.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ENABLE_CROSSHAIR_THIS_FRAME"
+        ]
+    }
+}

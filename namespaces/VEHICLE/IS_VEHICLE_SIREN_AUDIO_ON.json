@@ -1,0 +1,18 @@
+{
+    "0xB5CC40FBCB586380": {
+        "name": "IS_VEHICLE_SIREN_AUDIO_ON",
+        "jhash": "0xC9458688",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_SIREN_SOUND_ON"
+        ]
+    }
+}

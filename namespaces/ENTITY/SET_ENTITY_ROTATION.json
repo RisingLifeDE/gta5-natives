@@ -1,0 +1,35 @@
+{
+    "0x8524A8B0171D5E07": {
+        "name": "SET_ENTITY_ROTATION",
+        "jhash": "0x0A345EFE",
+        "comment": "rotationOrder refers to the order yaw pitch roll is applied\nvalue ranges from 0 to 5. What you use for rotationOrder when setting must be the same as rotationOrder when getting the rotation. \nUnsure what value corresponds to what rotation order, more testing will be needed for that.\nFor the most part R* uses 1 or 2 as the order.\np5 is usually set as true\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

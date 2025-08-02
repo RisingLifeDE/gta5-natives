@@ -1,0 +1,19 @@
+{
+    "0x936E6168A9BCEDB5": {
+        "name": "GET_EVENT_EXISTS",
+        "jhash": "0xA1B447B5",
+        "comment": "eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork)",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            },
+            {
+                "type": "int",
+                "name": "eventIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

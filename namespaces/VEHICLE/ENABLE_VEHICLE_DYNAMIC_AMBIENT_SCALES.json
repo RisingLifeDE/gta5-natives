@@ -1,0 +1,18 @@
+{
+    "0xF87D9F2301F7D206": {
+        "name": "ENABLE_VEHICLE_DYNAMIC_AMBIENT_SCALES",
+        "jhash": "0x450AD03A",
+        "comment": "Remove the weird shadow applied by DISABLE_VEHCILE_DYNAMIC_AMBIENT_SCALES.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_VEHICLE_SHADOW_EFFECT"
+        ]
+    }
+}

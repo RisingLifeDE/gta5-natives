@@ -1,0 +1,15 @@
+{
+    "0x812595A0644CE1DE": {
+        "name": "IS_DLC_PRESENT",
+        "jhash": "0x1F321943",
+        "comment": "Returns true if the given DLC pack is present.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "dlcHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x7BBB1B54583ED410": {
+        "name": "STAT_SET_MASKED_INT",
+        "jhash": "0x2CBAA739",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

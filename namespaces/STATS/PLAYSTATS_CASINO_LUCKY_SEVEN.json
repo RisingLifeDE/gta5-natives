@@ -1,0 +1,18 @@
+{
+    "0x0C432C1435F5E4FA": {
+        "name": "PLAYSTATS_CASINO_LUCKY_SEVEN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_LUCKYSEVEN"
+        ]
+    }
+}

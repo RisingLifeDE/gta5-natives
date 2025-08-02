@@ -1,0 +1,23 @@
+{
+    "0xBF4DC1784BE94DFA": {
+        "name": "USE_FOOTSTEP_SCRIPT_SWEETENERS",
+        "jhash": "0xD99E275B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

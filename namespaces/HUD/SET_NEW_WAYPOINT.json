@@ -1,0 +1,19 @@
+{
+    "0xFE43368D2AA4F2FC": {
+        "name": "SET_NEW_WAYPOINT",
+        "jhash": "0x8444E1F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

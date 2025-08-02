@@ -1,0 +1,43 @@
+{
+    "0x2803B027479FB640": {
+        "name": "_NETWORK_SPENT_GENERIC",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "price"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "stat"
+            },
+            {
+                "type": "Hash",
+                "name": "spent"
+            },
+            {
+                "type": "const char*",
+                "name": "p5"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

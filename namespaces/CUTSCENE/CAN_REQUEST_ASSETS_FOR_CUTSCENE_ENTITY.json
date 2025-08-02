@@ -1,0 +1,10 @@
+{
+    "0xB56BBBCC2955D9CB": {
+        "name": "CAN_REQUEST_ASSETS_FOR_CUTSCENE_ENTITY",
+        "jhash": "0xDD8878E9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

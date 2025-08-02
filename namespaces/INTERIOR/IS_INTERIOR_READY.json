@@ -1,0 +1,15 @@
+{
+    "0x6726BDCCC1932F0E": {
+        "name": "IS_INTERIOR_READY",
+        "jhash": "0xE1EF6450",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

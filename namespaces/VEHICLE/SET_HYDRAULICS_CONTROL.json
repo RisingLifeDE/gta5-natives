@@ -1,0 +1,22 @@
+{
+    "0x28B18377EB6E25F6": {
+        "name": "SET_HYDRAULICS_CONTROL",
+        "jhash": "",
+        "comment": "If false, lowers hydraulics (if raised) and disables hydraulics controls. If true, raises hydraulics and enables hydraulics controls.\n\nOnly used once in each carmod script, on a car that does not have hydraulics to begin with.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_HYDRAULIC_RAISED"
+        ]
+    }
+}

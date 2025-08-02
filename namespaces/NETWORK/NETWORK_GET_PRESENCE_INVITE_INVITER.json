@@ -1,0 +1,15 @@
+{
+    "0x4962CC4AA2F345B7": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_INVITER",
+        "jhash": "0x19EC65D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x45EEE61580806D63": {
+        "name": "SET_PED_DEFAULT_COMPONENT_VARIATION",
+        "jhash": "0xC866A984",
+        "comment": "Sets Ped Default Clothes",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

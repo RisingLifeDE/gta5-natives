@@ -1,0 +1,19 @@
+{
+    "0x6004BCB0E226AAEA": {
+        "name": "PRELOAD_SCRIPT_PHONE_CONVERSATION",
+        "jhash": "0x9ACB213A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

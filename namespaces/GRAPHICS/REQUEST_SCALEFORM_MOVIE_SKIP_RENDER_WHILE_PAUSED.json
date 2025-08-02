@@ -1,0 +1,19 @@
+{
+    "0xBD06C611BB9048C2": {
+        "name": "REQUEST_SCALEFORM_MOVIE_SKIP_RENDER_WHILE_PAUSED",
+        "jhash": "",
+        "comment": "Similar to REQUEST_SCALEFORM_MOVIE, but seems to be some kind of \"interactive\" scaleform movie?\n\nThese seem to be the only scaleforms ever requested by this native:\n\"breaking_news\"\n\"desktop_pc\"\n\"ECG_MONITOR\"\n\"Hacking_PC\"\n\"TEETH_PULLING\"\n\nNote: Unless this hash is out-of-order, this native is next-gen only.\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_REQUEST_SCALEFORM_MOVIE3",
+            "_REQUEST_SCALEFORM_MOVIE_INTERACTIVE"
+        ]
+    }
+}

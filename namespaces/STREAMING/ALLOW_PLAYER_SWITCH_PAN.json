@@ -1,0 +1,10 @@
+{
+    "0x43D1680C6D19A8E9": {
+        "name": "ALLOW_PLAYER_SWITCH_PAN",
+        "jhash": "0x55CB21F9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

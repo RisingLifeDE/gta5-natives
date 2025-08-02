@@ -1,0 +1,38 @@
+{
+    "0x219C7B8D53E429FD": {
+        "name": "STREAMVOL_CREATE_SPHERE",
+        "jhash": "0x10B6AB36",
+        "comment": "Always returns zero.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rad"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "FORMAT_FOCUS_HEADING"
+        ]
+    }
+}

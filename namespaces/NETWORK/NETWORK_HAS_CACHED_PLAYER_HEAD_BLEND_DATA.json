@@ -1,0 +1,15 @@
+{
+    "0x237D5336A9A54108": {
+        "name": "NETWORK_HAS_CACHED_PLAYER_HEAD_BLEND_DATA",
+        "jhash": "0x7B2A0337",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

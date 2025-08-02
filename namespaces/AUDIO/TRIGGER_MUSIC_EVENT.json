@@ -1,0 +1,15 @@
+{
+    "0x706D57B0F50DA710": {
+        "name": "TRIGGER_MUSIC_EVENT",
+        "jhash": "0xB6094948",
+        "comment": "List of all usable event names found in b617d used with this native. Sorted alphabetically and identical names removed: https://pastebin.com/RzDFmB1W\n\nAll music event names found in the b617d scripts: https://pastebin.com/GnYt0R3P\nFull list of music event names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/musicEventNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

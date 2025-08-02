@@ -1,0 +1,23 @@
+{
+    "0xD10F442036302D50": {
+        "name": "SET_DISPATCH_SPAWN_LOCATION",
+        "jhash": "0x6F009E33",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

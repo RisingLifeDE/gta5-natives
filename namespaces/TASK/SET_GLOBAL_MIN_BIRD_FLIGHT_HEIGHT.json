@@ -1,0 +1,15 @@
+{
+    "0x6C6B148586F934F7": {
+        "name": "SET_GLOBAL_MIN_BIRD_FLIGHT_HEIGHT",
+        "jhash": "0x2AFB14B8",
+        "comment": "Needs to be looped! And yes, it does work and is not a hash collision.\nBirds will try to reach the given height.",
+        "params": [
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

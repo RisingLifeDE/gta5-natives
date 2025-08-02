@@ -1,0 +1,15 @@
+{
+    "0xC4EA073D86FB29B0": {
+        "name": "HAS_ANIM_SET_LOADED",
+        "jhash": "0x4FFF397D",
+        "comment": "Gets whether the specified animation set has finished loading. An animation set provides movement animations for a ped. See SET_PED_MOVEMENT_CLIPSET.\n\nAnimation set and clip set are synonymous.\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json\n\nFull list of movement clipsets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/movementClipsetsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animSet"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

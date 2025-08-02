@@ -1,0 +1,23 @@
+{
+    "0xD71649DB0A545AA3": {
+        "name": "IS_PED_FACING_PED",
+        "jhash": "0x0B775838",
+        "comment": "angle is ped's view cone",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "otherPed"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC7F2DE41D102BFB4": {
+        "name": "PLAYSTATS_RANK_UP",
+        "jhash": "0x56AFB9F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "rank"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

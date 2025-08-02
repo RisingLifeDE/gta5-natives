@@ -1,0 +1,23 @@
+{
+    "0x1D506DBBBC51E64B": {
+        "name": "SPECIAL_ABILITY_DEPLETE_METER",
+        "jhash": "0x9F80F6DF",
+        "comment": "p1 was always true.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

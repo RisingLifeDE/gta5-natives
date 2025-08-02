@@ -1,0 +1,15 @@
+{
+    "0x6E575D6A898AB852": {
+        "name": "IS_PED_IN_ANY_TAXI",
+        "jhash": "0x16FD386C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

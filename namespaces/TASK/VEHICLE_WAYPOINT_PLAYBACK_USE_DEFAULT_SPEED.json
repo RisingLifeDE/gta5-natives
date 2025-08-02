@@ -1,0 +1,15 @@
+{
+    "0x5CEB25A7D2848963": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED",
+        "jhash": "0x923C3AA4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

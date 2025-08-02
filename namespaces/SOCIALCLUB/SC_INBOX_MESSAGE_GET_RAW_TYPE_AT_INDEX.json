@@ -1,0 +1,18 @@
+{
+    "0xF3E31D16CBDCB304": {
+        "name": "SC_INBOX_MESSAGE_GET_RAW_TYPE_AT_INDEX",
+        "jhash": "0x2C959AF9",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_SC_INBOX_MESSAGE_GET_STRING"
+        ]
+    }
+}

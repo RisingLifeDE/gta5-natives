@@ -1,0 +1,15 @@
+{
+    "0x85535ACF97FC0969": {
+        "name": "SC_PROFANITY_GET_STRING_PASSED",
+        "jhash": "0x09497F31",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

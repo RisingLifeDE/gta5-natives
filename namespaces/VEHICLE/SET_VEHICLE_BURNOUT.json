@@ -1,0 +1,19 @@
+{
+    "0xFB8794444A7D60FB": {
+        "name": "SET_VEHICLE_BURNOUT",
+        "jhash": "0x9B6EF0EA",
+        "comment": "On accelerating, spins the driven wheels with the others braked, so you don't go anywhere.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

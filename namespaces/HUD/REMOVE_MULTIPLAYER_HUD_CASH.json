@@ -1,0 +1,10 @@
+{
+    "0x968F270E39141ECA": {
+        "name": "REMOVE_MULTIPLAYER_HUD_CASH",
+        "jhash": "0x07BF4A7D",
+        "comment": "Removes multiplayer cash hud each frame",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xD7591B0065AFAA7A": {
+        "name": "RESET_VEHICLE_STUCK_TIMER",
+        "jhash": "0xEF2A6016",
+        "comment": "The inner function has a switch on the second parameter. It's the stuck timer index.\n\nHere's some pseudo code I wrote for the inner function:\nvoid __fastcall NATIVE_RESET_VEHICLE_STUCK_TIMER_INNER(CUnknown* unknownClassInVehicle, int timerIndex)\n{\n switch (timerIndex)\n   {\n case 0:\n       unknownClassInVehicle->FirstStuckTimer = (WORD)0u;\n case 1:\n       unknownClassInVehicle->SecondStuckTimer = (WORD)0u;\n    case 2:\n       unknownClassInVehicle->ThirdStuckTimer = (WORD)0u;\n case 3:\n       unknownClassInVehicle->FourthStuckTimer = (WORD)0u;\n    case 4:\n       unknownClassInVehicle->FirstStuckTimer = (WORD)0u;\n     unknownClassInVehicle->SecondStuckTimer = (WORD)0u;\n        unknownClassInVehicle->ThirdStuckTimer = (WORD)0u;\n     unknownClassInVehicle->FourthStuckTimer = (WORD)0u;\n        break;\n    };\n}",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "nullAttributes"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

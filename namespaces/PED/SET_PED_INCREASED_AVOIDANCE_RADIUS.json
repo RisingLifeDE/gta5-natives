@@ -1,0 +1,15 @@
+{
+    "0x570389D1C3DE3C6B": {
+        "name": "SET_PED_INCREASED_AVOIDANCE_RADIUS",
+        "jhash": "0x59C52BE6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6A03BF943D767C93": {
+        "name": "IS_PED_IN_HIGH_COVER",
+        "jhash": "0xDD5D08A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_STANDING_IN_COVER"
+        ]
+    }
+}

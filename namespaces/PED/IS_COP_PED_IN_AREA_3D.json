@@ -1,0 +1,35 @@
+{
+    "0x16EC4839969F9F5E": {
+        "name": "IS_COP_PED_IN_AREA_3D",
+        "jhash": "0xB98DB96B",
+        "comment": "xyz - relative to the world origin.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

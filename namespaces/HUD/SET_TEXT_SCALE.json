@@ -1,0 +1,19 @@
+{
+    "0x07C837F9A01C34C9": {
+        "name": "SET_TEXT_SCALE",
+        "jhash": "0xB6E15B23",
+        "comment": "Size range : 0F to 1.0F\np0 is unknown and doesn't seem to have an effect, yet in the game scripts it changes to 1.0F sometimes.",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "0xF2F6A2FA49278625": {
+        "name": "SLERP_NEAR_QUATERNION",
+        "jhash": "0x87B92190",
+        "comment": "This native always come right before SET_ENTITY_QUATERNION where its final 4 parameters are SLERP_NEAR_QUATERNION p9 to p12",
+        "params": [
+            {
+                "type": "float",
+                "name": "t"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "w"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "w1"
+            },
+            {
+                "type": "float*",
+                "name": "outX"
+            },
+            {
+                "type": "float*",
+                "name": "outY"
+            },
+            {
+                "type": "float*",
+                "name": "outZ"
+            },
+            {
+                "type": "float*",
+                "name": "outW"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xBCDC5017D3CE1E9E": {
+        "name": "GET_DOES_VEHICLE_HAVE_DAMAGE_DECALS",
+        "jhash": "0xDAC523BC",
+        "comment": "Appears to return true if the vehicle has any damage, including cosmetically.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_DAMAGED"
+        ]
+    }
+}

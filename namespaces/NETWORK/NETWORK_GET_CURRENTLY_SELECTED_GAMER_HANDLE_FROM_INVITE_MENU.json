@@ -1,0 +1,15 @@
+{
+    "0x74881E6BCAE2327C": {
+        "name": "NETWORK_GET_CURRENTLY_SELECTED_GAMER_HANDLE_FROM_INVITE_MENU",
+        "jhash": "0x72BA00CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

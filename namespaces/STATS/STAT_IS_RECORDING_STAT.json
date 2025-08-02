@@ -1,0 +1,13 @@
+{
+    "0x8B9CDBD6C566C38C": {
+        "name": "STAT_IS_RECORDING_STAT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_STAT_IS_TRACKING_ENABLED"
+        ]
+    }
+}

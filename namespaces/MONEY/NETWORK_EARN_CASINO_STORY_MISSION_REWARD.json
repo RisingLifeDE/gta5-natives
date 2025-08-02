@@ -1,0 +1,18 @@
+{
+    "0xAC95ED552157E092": {
+        "name": "NETWORK_EARN_CASINO_STORY_MISSION_REWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_CASINO_STORY_MISSION_REWARD"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF6C09E276AEB3F2D": {
+        "name": "LINK_NAMED_RENDERTARGET",
+        "jhash": "0x6844C4B9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

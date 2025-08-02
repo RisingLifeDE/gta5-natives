@@ -1,0 +1,18 @@
+{
+    "0x7350823473013C02": {
+        "name": "HAVE_ALL_STREAMING_REQUESTS_COMPLETED",
+        "jhash": "0xF9FB4B71",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_STREAMED_PED_ASSETS_LOADED"
+        ]
+    }
+}

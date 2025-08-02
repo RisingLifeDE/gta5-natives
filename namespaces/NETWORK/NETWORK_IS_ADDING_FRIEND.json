@@ -1,0 +1,10 @@
+{
+    "0x6EA101606F6E4D81": {
+        "name": "NETWORK_IS_ADDING_FRIEND",
+        "jhash": "0xBB7EC8C4",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

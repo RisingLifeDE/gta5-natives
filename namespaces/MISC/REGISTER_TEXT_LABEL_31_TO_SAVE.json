@@ -1,0 +1,19 @@
+{
+    "0x8269816F6CFD40F8": {
+        "name": "REGISTER_TEXT_LABEL_31_TO_SAVE",
+        "jhash": "0x74E8FAD9",
+        "comment": "Only found 2 times in decompiled scripts.\n\nMISC::REGISTER_TEXT_LABEL_31_TO_SAVE(&a_0._f1F5A._f6[0/*8*/], \"TEMPSTAT_LABEL\"); // gets saved in a struct called \"g_SaveData_STRING_ScriptSaves\"\nMISC::REGISTER_TEXT_LABEL_31_TO_SAVE(&a_0._f4B4[v_1A/*8*/], &v_5); // where v_5 is \"Name0\" thru \"Name9\", gets saved in a struct called \"OUTFIT_Name\"",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

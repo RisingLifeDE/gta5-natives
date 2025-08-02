@@ -1,0 +1,15 @@
+{
+    "0xC254481A4574CB2F": {
+        "name": "NETWORK_STOP_SYNCHRONISED_SCENE",
+        "jhash": "0x97B1CDF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

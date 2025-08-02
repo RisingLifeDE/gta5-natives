@@ -1,0 +1,15 @@
+{
+    "0xCFD0406ADAF90D2B": {
+        "name": "APP_SET_APP",
+        "jhash": "0x8BAC4146",
+        "comment": "Called in the gamescripts like:\nAPP::APP_SET_APP(\"car\");\nAPP::APP_SET_APP(\"dog\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

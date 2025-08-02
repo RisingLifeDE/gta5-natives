@@ -1,0 +1,27 @@
+{
+    "0x5D6160275CAEC8DD": {
+        "name": "GET_HASH_NAME_FOR_PROP",
+        "jhash": "0x7D876DC0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "propIndex"
+            },
+            {
+                "type": "int",
+                "name": "propTextureIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

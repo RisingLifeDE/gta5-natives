@@ -1,0 +1,15 @@
+{
+    "0x344F393B027E38C3": {
+        "name": "FREEZE_RADIO_STATION",
+        "jhash": "0x286BF543",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

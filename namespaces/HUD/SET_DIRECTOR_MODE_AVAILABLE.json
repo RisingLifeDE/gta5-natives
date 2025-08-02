@@ -1,0 +1,15 @@
+{
+    "0x04655F9D075D0AE5": {
+        "name": "SET_DIRECTOR_MODE_AVAILABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

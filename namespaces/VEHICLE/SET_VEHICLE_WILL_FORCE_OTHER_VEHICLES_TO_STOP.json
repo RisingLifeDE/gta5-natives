@@ -1,0 +1,19 @@
+{
+    "0xBE5C1255A1830FF5": {
+        "name": "SET_VEHICLE_WILL_FORCE_OTHER_VEHICLES_TO_STOP",
+        "jhash": "0xA6D8D7A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

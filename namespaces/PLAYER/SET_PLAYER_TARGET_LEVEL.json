@@ -1,0 +1,15 @@
+{
+    "0x5702B917B99DB1CD": {
+        "name": "SET_PLAYER_TARGET_LEVEL",
+        "jhash": "0x772DA539",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "targetLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x5B440763A4C8D15B": {
+        "name": "SET_GPS_FLAGS",
+        "jhash": "0x60539BAB",
+        "comment": "Only the script that originally called SET_GPS_FLAGS can set them again. Another script cannot set the flags, until the first script that called it has called CLEAR_GPS_FLAGS.\n\nDoesn't seem like the flags are actually read by the game at all.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

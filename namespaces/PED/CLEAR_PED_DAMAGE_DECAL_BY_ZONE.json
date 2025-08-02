@@ -1,0 +1,23 @@
+{
+    "0x523C79AEEFCC4A2A": {
+        "name": "CLEAR_PED_DAMAGE_DECAL_BY_ZONE",
+        "jhash": "0x70AA5B7D",
+        "comment": "p1: from 0 to 5 in the b617d scripts.\np2: \"blushing\" and \"ALL\" found in the b617d scripts.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "0xBF1A602B5BA52FEE": {
+        "name": "SET_ROADS_IN_AREA",
+        "jhash": "0xEBC7B918",
+        "comment": "When nodeEnabled is set to false, all nodes in the area get disabled.\n`GET_VEHICLE_NODE_IS_SWITCHED_OFF` returns true afterwards.\nIf it's true, `GET_VEHICLE_NODE_IS_SWITCHED_OFF` returns false.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "nodeEnabled"
+            },
+            {
+                "type": "BOOL",
+                "name": "unknown2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

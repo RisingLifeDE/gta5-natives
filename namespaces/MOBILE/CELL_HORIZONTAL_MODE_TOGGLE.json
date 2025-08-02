@@ -1,0 +1,19 @@
+{
+    "0x44E44169EF70138E": {
+        "name": "CELL_HORIZONTAL_MODE_TOGGLE",
+        "jhash": "",
+        "comment": "if the bool \"Toggle\" is \"true\" so the phone is lean.\nif the bool \"Toggle\" is \"false\" so the phone is not lean.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PHONE_LEAN",
+            "_CELL_CAM_SET_LEAN"
+        ]
+    }
+}

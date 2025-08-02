@@ -1,0 +1,13 @@
+{
+    "0x32CAC93C9DE73D32": {
+        "name": "STAT_GET_CURRENT_DRIVING_REVERSE_DISTANCE",
+        "jhash": "",
+        "comment": "Reverse the longest distance without crashing",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_REVERSE_DRIVING"
+        ]
+    }
+}

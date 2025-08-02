@@ -1,0 +1,10 @@
+{
+    "0xB3DA2606774A8E2D": {
+        "name": "STAT_ROLLBACK_SAVE_MIGRATION",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "0x31D1D2B858D25E6B": {
+        "name": "NETWORK_SEND_TRANSITION_GAMER_INSTRUCTION",
+        "jhash": "0x468B0884",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xB3ECA65C7317F174": {
+        "name": "GET_PICKUP_GENERATION_RANGE_MULTIPLIER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "944",
+        "old_names": [
+            "_GET_PICKUP_GENERATION_RANGE_MULTIPLIER"
+        ]
+    }
+}

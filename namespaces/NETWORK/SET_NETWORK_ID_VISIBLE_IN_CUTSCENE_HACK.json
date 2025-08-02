@@ -1,0 +1,26 @@
+{
+    "0x32EBD154CB6B8B99": {
+        "name": "SET_NETWORK_ID_VISIBLE_IN_CUTSCENE_HACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_NETWORK_ID_VISIBLE_IN_CUTSCENE_NO_COLLISION"
+        ]
+    }
+}

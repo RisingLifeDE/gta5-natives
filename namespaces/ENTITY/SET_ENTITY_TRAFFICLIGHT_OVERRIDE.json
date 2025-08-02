@@ -1,0 +1,19 @@
+{
+    "0x57C5DB656185EAC4": {
+        "name": "SET_ENTITY_TRAFFICLIGHT_OVERRIDE",
+        "jhash": "0xC47F5B91",
+        "comment": "Example here: www.gtaforums.com/topic/830463-help-with-turning-lights-green-and-causing-peds-to-crash-into-each-other/#entry1068211340\n\n0 = green\n1 = red\n2 = yellow\n3 = reset changes\nchanging lights may not change the behavior of vehicles",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

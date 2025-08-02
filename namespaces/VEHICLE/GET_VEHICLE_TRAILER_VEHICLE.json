@@ -1,0 +1,19 @@
+{
+    "0x1CDD6BADC297830D": {
+        "name": "GET_VEHICLE_TRAILER_VEHICLE",
+        "jhash": "0xAE84D758",
+        "comment": "Gets the trailer of a vehicle and puts it into the trailer parameter.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle*",
+                "name": "trailer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

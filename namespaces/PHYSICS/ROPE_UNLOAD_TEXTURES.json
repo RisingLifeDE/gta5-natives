@@ -1,0 +1,10 @@
+{
+    "0x6CE36C35C1AC8163": {
+        "name": "ROPE_UNLOAD_TEXTURES",
+        "jhash": "0x584463E0",
+        "comment": "Unloads rope textures for all ropes in the current scene.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

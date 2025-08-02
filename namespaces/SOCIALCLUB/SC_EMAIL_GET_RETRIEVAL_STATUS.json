@@ -1,0 +1,10 @@
+{
+    "0x16DA8172459434AA": {
+        "name": "SC_EMAIL_GET_RETRIEVAL_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA5E78BA2B1331C55": {
+        "name": "DISPLAY_AMMO_THIS_FRAME",
+        "jhash": "0x60693CEE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "display"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xD1871251F3B5ACD7": {
+        "name": "IS_PED_RUNNING_MELEE_TASK",
+        "jhash": "0xBD4236F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

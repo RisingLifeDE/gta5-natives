@@ -1,0 +1,15 @@
+{
+    "0xBCDF8BAF56C87B6A": {
+        "name": "SET_PLAYERS_LAST_VEHICLE",
+        "jhash": "0xDE86447D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x4A595C32F77DFF76": {
+        "name": "NETWORK_INVITE_GAMERS_TO_TRANSITION",
+        "jhash": "0x5332E645",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

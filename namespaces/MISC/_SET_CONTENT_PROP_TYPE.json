@@ -1,0 +1,19 @@
+{
+    "0xBA4583AF4C678A9B": {
+        "name": "_SET_CONTENT_PROP_TYPE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

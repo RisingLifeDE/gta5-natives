@@ -1,0 +1,43 @@
+{
+    "0xA079A6C51525DC4B": {
+        "name": "IS_EXPLOSION_IN_ANGLED_AREA",
+        "jhash": "0x0128FED9",
+        "comment": "explosionType: See ADD_EXPLOSION, -1 for any explosion type\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB3C641F3630BF6DA": {
+        "name": "SET_MOTIONBLUR_MAX_VEL_SCALER",
+        "jhash": "0xF6B837F0",
+        "comment": "Setter for GET_MOTIONBLUR_MAX_VEL_SCALER",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

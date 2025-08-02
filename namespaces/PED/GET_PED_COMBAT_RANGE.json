@@ -1,0 +1,15 @@
+{
+    "0xF9D9F7F2DB8E2FA0": {
+        "name": "GET_PED_COMBAT_RANGE",
+        "jhash": "0x9B9B7163",
+        "comment": "See SET_PED_COMBAT_RANGE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

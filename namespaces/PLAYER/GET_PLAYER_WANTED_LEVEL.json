@@ -1,0 +1,15 @@
+{
+    "0xE28E54788CE8F12D": {
+        "name": "GET_PLAYER_WANTED_LEVEL",
+        "jhash": "0xBDCDD163",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

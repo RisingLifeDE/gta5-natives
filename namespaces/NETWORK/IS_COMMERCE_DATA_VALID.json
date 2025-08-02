@@ -1,0 +1,10 @@
+{
+    "0xEA14EEF5B7CD2C30": {
+        "name": "IS_COMMERCE_DATA_VALID",
+        "jhash": "0xEEFC8A55",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

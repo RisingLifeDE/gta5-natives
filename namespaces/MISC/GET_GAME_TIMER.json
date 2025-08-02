@@ -1,0 +1,10 @@
+{
+    "0x9CD27B0045628463": {
+        "name": "GET_GAME_TIMER",
+        "jhash": "0xA4EA0691",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

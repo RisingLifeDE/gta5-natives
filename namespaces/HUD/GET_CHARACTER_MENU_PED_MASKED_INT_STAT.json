@@ -1,0 +1,31 @@
+{
+    "0x24A49BEAF468DC90": {
+        "name": "GET_CHARACTER_MENU_PED_MASKED_INT_STAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "Any*",
+                "name": "outValue"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "mask"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

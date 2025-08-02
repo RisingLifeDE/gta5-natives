@@ -1,0 +1,15 @@
+{
+    "0xBEB0D930B3CCE4D5": {
+        "name": "_PLAYSTATS_RECOVER_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

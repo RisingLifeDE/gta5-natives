@@ -1,0 +1,22 @@
+{
+    "0xF239400E16C23E08": {
+        "name": "SET_CONTROL_SHAKE_SUPPRESSED_ID",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "uniqueId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PAD_SHAKE_SUPPRESSED_ID"
+        ]
+    }
+}

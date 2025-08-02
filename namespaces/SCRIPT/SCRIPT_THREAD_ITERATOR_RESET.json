@@ -1,0 +1,13 @@
+{
+    "0xDADFADA5A20143A8": {
+        "name": "SCRIPT_THREAD_ITERATOR_RESET",
+        "jhash": "0xBB4E2F66",
+        "comment": "Starts a new iteration of the current threads.\nCall this first, then SCRIPT_THREAD_ITERATOR_GET_NEXT_THREAD_ID (0x30B4FA1C82DD4B9F)",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_BEGIN_ENUMERATING_THREADS"
+        ]
+    }
+}

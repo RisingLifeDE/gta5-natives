@@ -1,0 +1,19 @@
+{
+    "0x337EF33DA3DDB990": {
+        "name": "_SET_TRANSMISSION_REDUCED_GEAR_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

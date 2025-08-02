@@ -1,0 +1,43 @@
+{
+    "0xA2297E18F3E71C2E": {
+        "name": "SET_GAMEPLAY_VEHICLE_HINT",
+        "jhash": "0x2C9A11D8",
+        "comment": "Focuses the camera on the specified vehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "easeInTime"
+            },
+            {
+                "type": "int",
+                "name": "easeOutTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x7F93691AB4B92272": {
+        "name": "TASK_EVERYONE_LEAVE_VEHICLE",
+        "jhash": "0xC1971F30",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

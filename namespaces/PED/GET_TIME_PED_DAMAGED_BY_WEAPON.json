@@ -1,0 +1,22 @@
+{
+    "0x36B77BB84687C318": {
+        "name": "GET_TIME_PED_DAMAGED_BY_WEAPON",
+        "jhash": "0x0170C6E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_TIME_OF_LAST_PED_WEAPON_DAMAGE"
+        ]
+    }
+}

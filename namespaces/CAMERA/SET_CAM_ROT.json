@@ -1,0 +1,31 @@
+{
+    "0x85973643155D0B07": {
+        "name": "SET_CAM_ROT",
+        "jhash": "0xEE38B3C1",
+        "comment": "Sets the rotation of the cam.\nLast parameter unknown.\n\nLast parameter seems to always be set to 2.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

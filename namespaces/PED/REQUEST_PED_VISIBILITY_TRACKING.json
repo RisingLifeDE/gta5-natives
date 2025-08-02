@@ -1,0 +1,15 @@
+{
+    "0x7D7A2E43E74E2EB8": {
+        "name": "REQUEST_PED_VISIBILITY_TRACKING",
+        "jhash": "0x840D24D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

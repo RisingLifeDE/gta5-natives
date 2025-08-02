@@ -1,0 +1,10 @@
+{
+    "0x346EF3ECAAAB149E": {
+        "name": "FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO_PREVIEW",
+        "jhash": "0x88EAF398",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

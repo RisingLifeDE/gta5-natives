@@ -1,0 +1,13 @@
+{
+    "0x845FFC3A4FEEFA3E": {
+        "name": "AUDIO_IS_MUSIC_PLAYING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "AUDIO_IS_SCRIPTED_MUSIC_PLAYING"
+        ]
+    }
+}

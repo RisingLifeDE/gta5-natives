@@ -1,0 +1,31 @@
+{
+    "0x6C93ED8C2F74859B": {
+        "name": "GET_FORCED_COMPONENT",
+        "jhash": "0x382C70BE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "forcedComponentIndex"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            },
+            {
+                "type": "int*",
+                "name": "enumValue"
+            },
+            {
+                "type": "int*",
+                "name": "componentType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

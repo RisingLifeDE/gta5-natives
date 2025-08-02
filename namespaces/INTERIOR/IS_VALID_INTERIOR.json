@@ -1,0 +1,15 @@
+{
+    "0x26B0E73D7EAAF4D3": {
+        "name": "IS_VALID_INTERIOR",
+        "jhash": "0x39C0B635",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

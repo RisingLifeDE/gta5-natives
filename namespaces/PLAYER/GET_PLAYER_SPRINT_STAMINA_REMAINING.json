@@ -1,0 +1,15 @@
+{
+    "0x3F9F16F8E65A7ED7": {
+        "name": "GET_PLAYER_SPRINT_STAMINA_REMAINING",
+        "jhash": "0x47017C90",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

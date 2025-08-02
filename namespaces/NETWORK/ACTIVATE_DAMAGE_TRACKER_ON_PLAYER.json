@@ -1,0 +1,22 @@
+{
+    "0xBEC0816FF5ACBCDA": {
+        "name": "ACTIVATE_DAMAGE_TRACKER_ON_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_ACTIVATE_DAMAGE_TRACKER_ON_PLAYER"
+        ]
+    }
+}

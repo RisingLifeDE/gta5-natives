@@ -1,0 +1,10 @@
+{
+    "0x9A73240B49945C76": {
+        "name": "GET_CLOUD_TIME_AS_INT",
+        "jhash": "0xF2FDF2E0",
+        "comment": "Returns POSIX timestamp, an int representing the cloud time.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

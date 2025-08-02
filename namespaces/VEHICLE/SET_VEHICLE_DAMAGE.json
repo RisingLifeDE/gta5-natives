@@ -1,0 +1,39 @@
+{
+    "0xA1DD317EA8FD4F29": {
+        "name": "SET_VEHICLE_DAMAGE",
+        "jhash": "0x21B458B2",
+        "comment": "Apply damage to vehicle at a location. Location is relative to vehicle model (not world).\n\nRadius of effect damage applied in a sphere at impact location\nWhen `focusOnModel` set to `true`, the damage sphere will travel towards the vehicle from the given point, thus guaranteeing an impact",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "focusOnModel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

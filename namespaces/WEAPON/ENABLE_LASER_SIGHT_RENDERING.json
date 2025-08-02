@@ -1,0 +1,15 @@
+{
+    "0xC8B46D7727D864AA": {
+        "name": "ENABLE_LASER_SIGHT_RENDERING",
+        "jhash": "0xE3438955",
+        "comment": "Enables laser sight on any weapon.\n\nIt doesn't work. Neither on tick nor OnKeyDown",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

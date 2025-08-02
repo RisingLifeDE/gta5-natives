@@ -1,0 +1,28 @@
+{
+    "0xAC3F722321800755": {
+        "name": "_NETWORK_GET_BROADCAST_DATA_PLAYER_UPDATE_SIZE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptNameHash"
+            },
+            {
+                "type": "int",
+                "name": "instance"
+            },
+            {
+                "type": "Hash",
+                "name": "positionHash"
+            },
+            {
+                "type": "int",
+                "name": "handlerNum"
+            }
+        ],
+        "return_type": "int",
+        "build": "3586",
+        "unused": true
+    }
+}

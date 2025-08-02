@@ -1,0 +1,43 @@
+{
+    "0x73B1189623049839": {
+        "name": "DRAW_DEBUG_CROSS",
+        "jhash": "0xB6DF3709",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

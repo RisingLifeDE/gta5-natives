@@ -1,0 +1,19 @@
+{
+    "0xEC4B4B3B9908052A": {
+        "name": "SET_PED_INJURED_ON_GROUND_BEHAVIOUR",
+        "jhash": "0xF30658D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

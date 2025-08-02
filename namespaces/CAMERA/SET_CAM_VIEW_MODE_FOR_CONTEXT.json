@@ -1,0 +1,19 @@
+{
+    "0x2A2173E46DAECD12": {
+        "name": "SET_CAM_VIEW_MODE_FOR_CONTEXT",
+        "jhash": "0x1DEBCB45",
+        "comment": "context: see _GET_CAM_ACTIVE_VIEW_MODE_CONTEXT, viewmode: see CAM.GET_FOLLOW_VEHICLE_CAM_VIEW_MODE",
+        "params": [
+            {
+                "type": "int",
+                "name": "context"
+            },
+            {
+                "type": "int",
+                "name": "viewMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

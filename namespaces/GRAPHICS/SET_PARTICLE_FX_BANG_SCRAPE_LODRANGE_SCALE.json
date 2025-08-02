@@ -1,0 +1,15 @@
+{
+    "0x54E22EA2C1956A8D": {
+        "name": "SET_PARTICLE_FX_BANG_SCRAPE_LODRANGE_SCALE",
+        "jhash": "0x8BE3D47F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

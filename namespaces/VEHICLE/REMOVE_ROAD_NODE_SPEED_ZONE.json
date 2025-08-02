@@ -1,0 +1,18 @@
+{
+    "0x1033371FC8E842A7": {
+        "name": "REMOVE_ROAD_NODE_SPEED_ZONE",
+        "jhash": "0x0C0332A6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "speedzone"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_SPEED_ZONE"
+        ]
+    }
+}

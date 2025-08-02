@@ -1,0 +1,18 @@
+{
+    "0xF796359A959DF65D": {
+        "name": "SET_DISTANT_CARS_ENABLED",
+        "jhash": "0xB5CC548B",
+        "comment": "Toggles to render distant vehicles. They may not be vehicles but images to look like vehicles.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISPLAY_DISTANT_VEHICLES"
+        ]
+    }
+}

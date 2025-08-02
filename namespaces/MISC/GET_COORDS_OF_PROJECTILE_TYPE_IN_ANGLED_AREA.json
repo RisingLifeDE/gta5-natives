@@ -1,0 +1,51 @@
+{
+    "0x3DA8C28346B62CED": {
+        "name": "GET_COORDS_OF_PROJECTILE_TYPE_IN_ANGLED_AREA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint1X"
+            },
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint1Y"
+            },
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint1Z"
+            },
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint2X"
+            },
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint2Y"
+            },
+            {
+                "type": "float",
+                "name": "vecAngledAreaPoint2Z"
+            },
+            {
+                "type": "float",
+                "name": "distanceOfOppositeFace"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponType"
+            },
+            {
+                "type": "Vector3*",
+                "name": "positionOut"
+            },
+            {
+                "type": "BOOL",
+                "name": "bIsPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2802"
+    }
+}

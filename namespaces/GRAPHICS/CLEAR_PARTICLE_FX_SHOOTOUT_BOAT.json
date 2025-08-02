@@ -1,0 +1,10 @@
+{
+    "0x2A251AA48B2B46DB": {
+        "name": "CLEAR_PARTICLE_FX_SHOOTOUT_BOAT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

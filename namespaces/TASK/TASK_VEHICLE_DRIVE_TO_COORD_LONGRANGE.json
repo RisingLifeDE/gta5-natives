@@ -1,0 +1,43 @@
+{
+    "0x158BB33F920D360C": {
+        "name": "TASK_VEHICLE_DRIVE_TO_COORD_LONGRANGE",
+        "jhash": "0x1490182A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "driveMode"
+            },
+            {
+                "type": "float",
+                "name": "stopRange"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

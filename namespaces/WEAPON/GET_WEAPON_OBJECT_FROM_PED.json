@@ -1,0 +1,19 @@
+{
+    "0xCAE1DC9A0E22A16D": {
+        "name": "GET_WEAPON_OBJECT_FROM_PED",
+        "jhash": "0xDF939A38",
+        "comment": "Drops the current weapon and returns the object\n\nUnknown behavior when unarmed.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Object",
+        "build": "323"
+    }
+}

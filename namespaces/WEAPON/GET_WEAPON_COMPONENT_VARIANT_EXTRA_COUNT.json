@@ -1,0 +1,18 @@
+{
+    "0x6558AC7C17BFEF58": {
+        "name": "GET_WEAPON_COMPONENT_VARIANT_EXTRA_COUNT",
+        "jhash": "",
+        "comment": "Returns the amount of extra components the specified component has.\nReturns -1 if the component isn't of type CWeaponComponentVariantModel.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "372",
+        "old_names": [
+            "_GET_WEAPON_COMPONENT_VARIANT_EXTRA_COMPONENT_COUNT"
+        ]
+    }
+}

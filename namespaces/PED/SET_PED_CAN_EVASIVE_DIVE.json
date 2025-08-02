@@ -1,0 +1,19 @@
+{
+    "0x6B7A646C242A7059": {
+        "name": "SET_PED_CAN_EVASIVE_DIVE",
+        "jhash": "0x542FEB4D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

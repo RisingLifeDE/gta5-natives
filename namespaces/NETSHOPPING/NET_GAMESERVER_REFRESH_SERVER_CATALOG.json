@@ -1,0 +1,10 @@
+{
+    "0x357B152EF96C30B6": {
+        "name": "NET_GAMESERVER_REFRESH_SERVER_CATALOG",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

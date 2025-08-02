@@ -1,0 +1,15 @@
+{
+    "0x1670F8D05056F257": {
+        "name": "GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO",
+        "jhash": "0x226B08EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

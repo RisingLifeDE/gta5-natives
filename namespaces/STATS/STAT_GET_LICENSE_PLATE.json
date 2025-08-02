@@ -1,0 +1,15 @@
+{
+    "0x5473D4195058B2E4": {
+        "name": "STAT_GET_LICENSE_PLATE",
+        "jhash": "0x1544B29F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

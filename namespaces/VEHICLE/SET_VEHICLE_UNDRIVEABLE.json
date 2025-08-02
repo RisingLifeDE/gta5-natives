@@ -1,0 +1,19 @@
+{
+    "0x8ABA6AF54B942B95": {
+        "name": "SET_VEHICLE_UNDRIVEABLE",
+        "jhash": "0x48D02A4E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

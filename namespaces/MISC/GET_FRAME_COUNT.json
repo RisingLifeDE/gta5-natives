@@ -1,0 +1,10 @@
+{
+    "0xFC8202EFC642E6F2": {
+        "name": "GET_FRAME_COUNT",
+        "jhash": "0xB477A015",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x717E4D1F2048376D": {
+        "name": "GET_TASK_MOVE_NETWORK_STATE",
+        "jhash": "0x96C0277B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "0x304AE42E357B8C7E": {
+        "name": "TASK_FOLLOW_TO_OFFSET_OF_ENTITY",
+        "jhash": "0x2DF5A6AC",
+        "comment": "p6 always -1\np7 always 10.0\np8 always 1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "movementSpeed"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            },
+            {
+                "type": "BOOL",
+                "name": "persistFollowing"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xB0AD1238A709B1A2": {
+        "name": "IS_BOAT_ANCHORED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573",
+        "old_names": [
+            "_IS_BOAT_ANCHORED_AND_FROZEN"
+        ]
+    }
+}

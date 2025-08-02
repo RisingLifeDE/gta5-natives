@@ -1,0 +1,23 @@
+{
+    "0x6BC0ACD0673ACEBE": {
+        "name": "GET_BOSS_GOON_UUID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

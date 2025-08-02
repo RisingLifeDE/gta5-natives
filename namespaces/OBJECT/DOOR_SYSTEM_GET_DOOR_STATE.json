@@ -1,0 +1,15 @@
+{
+    "0x160AA1B32F6139B8": {
+        "name": "DOOR_SYSTEM_GET_DOOR_STATE",
+        "jhash": "0xD42A41C2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

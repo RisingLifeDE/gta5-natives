@@ -1,0 +1,15 @@
+{
+    "0x70894BD0915C5BCA": {
+        "name": "SET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR",
+        "jhash": "0x9F4AF763",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoomFactor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

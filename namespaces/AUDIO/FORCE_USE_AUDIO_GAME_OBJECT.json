@@ -1,0 +1,23 @@
+{
+    "0x4F0C413926060B38": {
+        "name": "FORCE_USE_AUDIO_GAME_OBJECT",
+        "jhash": "0x33B0B007",
+        "comment": "This native sets the audio of the specified vehicle to the audioName (p1).\n\nUse the audioNameHash found in vehicles.meta\n\nExample:\n_SET_VEHICLE_AUDIO(veh, \"ADDER\");\nThe selected vehicle will now have the audio of the Adder.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "audioName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_AUDIO",
+            "_FORCE_VEHICLE_ENGINE_AUDIO"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x05A42BA9FC8DA96B": {
+        "name": "GET_NAME_OF_SCRIPT_WITH_THIS_ID",
+        "jhash": "0xBE7ACD89",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_THREAD_NAME",
+            "_GET_NAME_OF_THREAD"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "0x11DB3500F042A8AA": {
+        "name": "CLEAR_ANGLED_AREA_OF_VEHICLES",
+        "jhash": "0xF11A3018",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "Any",
+                "name": "p12"
+            },
+            {
+                "type": "Any",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

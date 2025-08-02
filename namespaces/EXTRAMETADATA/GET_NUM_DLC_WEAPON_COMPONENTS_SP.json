@@ -1,0 +1,18 @@
+{
+    "0xAD2A7A6DFF55841B": {
+        "name": "GET_NUM_DLC_WEAPON_COMPONENTS_SP",
+        "jhash": "",
+        "comment": "Returns the total number of DLC weapon components that are available in SP.",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcWeaponIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "2060",
+        "old_names": [
+            "_GET_NUM_DLC_WEAPON_COMPONENTS_SP"
+        ]
+    }
+}

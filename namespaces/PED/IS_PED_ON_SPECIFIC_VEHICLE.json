@@ -1,0 +1,19 @@
+{
+    "0xEC5F66E459AF3BB2": {
+        "name": "IS_PED_ON_SPECIFIC_VEHICLE",
+        "jhash": "0x63CB4603",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

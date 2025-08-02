@@ -1,0 +1,15 @@
+{
+    "0x5728BB6D63E3FF1D": {
+        "name": "NETWORK_MARK_TRANSITION_GAMER_AS_FULLY_JOINED",
+        "jhash": "0x03383F57",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

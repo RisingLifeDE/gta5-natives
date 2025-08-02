@@ -1,0 +1,22 @@
+{
+    "0xC45C27EF50F36ADC": {
+        "name": "SET_VEHICLE_USE_PLAYER_LIGHT_SETTINGS",
+        "jhash": "0x4221E435",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_USE_PLAYER_LIGHT_SETTINGS"
+        ]
+    }
+}

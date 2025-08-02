@@ -1,0 +1,15 @@
+{
+    "0x8EF52ACAECC51D9C": {
+        "name": "NETWORK_SET_SPECTATOR_TO_NON_SPECTATOR_TEXT_CHAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x3E802F11FBE27674": {
+        "name": "IS_PED_LIPSTICK_TINT_FOR_CREATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_LIPSTICK_COLOR_VALID_2",
+            "_IS_PED_LIPSTICK_VALID_CREATOR_COLOR"
+        ]
+    }
+}

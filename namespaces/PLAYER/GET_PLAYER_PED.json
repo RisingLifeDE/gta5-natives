@@ -1,0 +1,15 @@
+{
+    "0x43A66C31C68491C0": {
+        "name": "GET_PLAYER_PED",
+        "jhash": "0x6E31E993",
+        "comment": "Gets the ped for a specified player index.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

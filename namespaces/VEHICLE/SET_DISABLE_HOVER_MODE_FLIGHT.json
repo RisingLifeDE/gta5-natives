@@ -1,0 +1,22 @@
+{
+    "0x2D55FE374D5FDB91": {
+        "name": "SET_DISABLE_HOVER_MODE_FLIGHT",
+        "jhash": "",
+        "comment": "Disables \"wings\" for some flying vehicles. Works only for oppressor _2_ and deluxo.\nFor deluxo it just immediately removes vehicle's \"wings\" and you will be not able to fly up.\nFor oppressor 2 it will remove wings right after you land. And you will not able to fly up anymore too.\nBut for opressor 2 you still can fly if you somehow get back in the air.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_VEHICLE_HOVER_TRANSFORM_ACTIVE"
+        ]
+    }
+}

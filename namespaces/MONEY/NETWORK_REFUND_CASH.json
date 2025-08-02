@@ -1,0 +1,27 @@
+{
+    "0xF9C812CD7C46E817": {
+        "name": "NETWORK_REFUND_CASH",
+        "jhash": "0x07C92F21",
+        "comment": "index\n-------\nSee function sub_1005 in am_boat_taxi.ysc\n\ncontext\n----------\n\"BACKUP_VAGOS\"\n\"BACKUP_LOST\"\n\"BACKUP_FAMILIES\"\n\"HIRE_MUGGER\"\n\"HIRE_MERCENARY\"\n\"BUY_CARDROPOFF\"\n\"HELI_PICKUP\"\n\"BOAT_PICKUP\"\n\"CLEAR_WANTED\"\n\"HEAD_2_HEAD\"\n\"CHALLENGE\"\n\"SHARE_LAST_JOB\"\n\"DEFAULT\"\n\nreason\n---------\n\"NOTREACHTARGET\"\n\"TARGET_ESCAPE\"\n\"DELIVERY_FAIL\"\n\"NOT_USED\"\n\"TEAM_QUIT\"\n\"SERVER_ERROR\"\n\"RECEIVE_LJ_L\"\n\"CHALLENGE_PLAYER_LEFT\"\n\"DEFAULT\"\n\nunk\n-----\nUnknown bool value\n\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "const char*",
+                "name": "context"
+            },
+            {
+                "type": "const char*",
+                "name": "reason"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

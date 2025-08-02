@@ -1,0 +1,15 @@
+{
+    "0x5983BB449D7FDB12": {
+        "name": "IS_PED_HURT",
+        "jhash": "0x69DFA0AF",
+        "comment": "Returns whether the specified ped is hurt.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

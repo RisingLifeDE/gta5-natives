@@ -1,0 +1,15 @@
+{
+    "0x439E9BC95B7E7FBE": {
+        "name": "CELL_CAM_IS_CHAR_VISIBLE_NO_FACE_CHECK",
+        "jhash": "0xBEA88097",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

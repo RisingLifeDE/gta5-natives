@@ -1,0 +1,22 @@
+{
+    "0x93A3996368C94158": {
+        "name": "MODIFY_VEHICLE_TOP_SPEED",
+        "jhash": "0xE943B09C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_ENGINE_POWER_MULTIPLIER"
+        ]
+    }
+}

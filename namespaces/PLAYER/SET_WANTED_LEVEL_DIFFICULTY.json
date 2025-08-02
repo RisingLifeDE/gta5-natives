@@ -1,0 +1,19 @@
+{
+    "0x9B0BB33B04405E7A": {
+        "name": "SET_WANTED_LEVEL_DIFFICULTY",
+        "jhash": "0xB552626C",
+        "comment": "Max value is 1.0",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "difficulty"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

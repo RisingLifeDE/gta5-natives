@@ -1,0 +1,19 @@
+{
+    "0x4B5AE2EEE4A8F180": {
+        "name": "UNPIN_ROPE_VERTEX",
+        "jhash": "0xB30B552F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "vertex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

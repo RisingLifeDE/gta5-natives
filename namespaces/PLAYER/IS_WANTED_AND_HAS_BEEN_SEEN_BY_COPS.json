@@ -1,0 +1,15 @@
+{
+    "0x7E07C78925D5FD96": {
+        "name": "IS_WANTED_AND_HAS_BEEN_SEEN_BY_COPS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "372"
+    }
+}

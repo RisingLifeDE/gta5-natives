@@ -1,0 +1,19 @@
+{
+    "0x25E68244B0177686": {
+        "name": "REMOVE_FROM_ITEMSET",
+        "jhash": "0xA9565228",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            },
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xBAFB99B304BC52A7": {
+        "name": "_SET_PLANE_AVOIDS_OTHERS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

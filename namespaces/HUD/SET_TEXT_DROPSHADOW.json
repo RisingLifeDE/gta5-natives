@@ -1,0 +1,31 @@
+{
+    "0x465C84BC39F1C351": {
+        "name": "SET_TEXT_DROPSHADOW",
+        "jhash": "0xE6587517",
+        "comment": "distance - shadow distance in pixels, both horizontal and vertical\nr, g, b, a - color",
+        "params": [
+            {
+                "type": "int",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

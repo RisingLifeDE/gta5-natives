@@ -1,0 +1,10 @@
+{
+    "0xBD6E84632DD4CB3F": {
+        "name": "LOAD_ALL_OBJECTS_NOW",
+        "jhash": "0xC9DBDA90",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

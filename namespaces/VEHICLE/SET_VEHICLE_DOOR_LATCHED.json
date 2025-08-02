@@ -1,0 +1,31 @@
+{
+    "0xA5A9653A8D2CAF48": {
+        "name": "SET_VEHICLE_DOOR_LATCHED",
+        "jhash": "0x4EB7BBFC",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

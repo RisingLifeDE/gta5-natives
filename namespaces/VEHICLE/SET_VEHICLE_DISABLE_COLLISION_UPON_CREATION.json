@@ -1,0 +1,19 @@
+{
+    "0xAF60E6A2936F982A": {
+        "name": "SET_VEHICLE_DISABLE_COLLISION_UPON_CREATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

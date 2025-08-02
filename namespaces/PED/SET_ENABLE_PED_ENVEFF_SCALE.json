@@ -1,0 +1,19 @@
+{
+    "0xD2C5AA0C0E8D0F1E": {
+        "name": "SET_ENABLE_PED_ENVEFF_SCALE",
+        "jhash": "0xC70F4A84",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

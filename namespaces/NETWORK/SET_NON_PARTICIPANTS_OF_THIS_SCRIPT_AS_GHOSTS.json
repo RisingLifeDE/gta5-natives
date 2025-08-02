@@ -1,0 +1,15 @@
+{
+    "0x13F1FCB111B820B0": {
+        "name": "SET_NON_PARTICIPANTS_OF_THIS_SCRIPT_AS_GHOSTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

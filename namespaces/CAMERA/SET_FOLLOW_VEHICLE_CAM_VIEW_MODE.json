@@ -1,0 +1,15 @@
+{
+    "0xAC253D7842768F48": {
+        "name": "SET_FOLLOW_VEHICLE_CAM_VIEW_MODE",
+        "jhash": "0xC4FBBBD3",
+        "comment": "Sets the type of Player camera in vehicles:\nviewmode: see CAM.GET_FOLLOW_VEHICLE_CAM_VIEW_MODE",
+        "params": [
+            {
+                "type": "int",
+                "name": "viewMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

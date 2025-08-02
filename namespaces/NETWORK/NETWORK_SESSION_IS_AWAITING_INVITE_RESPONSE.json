@@ -1,0 +1,10 @@
+{
+    "0xD313DE83394AF134": {
+        "name": "NETWORK_SESSION_IS_AWAITING_INVITE_RESPONSE",
+        "jhash": "0x3EA9D44C",
+        "comment": "Seems to be true while \"Getting GTA Online session details\" shows up.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

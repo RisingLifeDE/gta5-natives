@@ -1,0 +1,18 @@
+{
+    "0xCA4CEA6AE0000A7E": {
+        "name": "PRELOAD_VEHICLE_AUDIO_BANK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_PRELOAD_VEHICLE_AUDIO"
+        ]
+    }
+}

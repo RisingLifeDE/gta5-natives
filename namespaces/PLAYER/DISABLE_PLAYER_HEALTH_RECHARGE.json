@@ -1,0 +1,15 @@
+{
+    "0xBCB06442F7E52666": {
+        "name": "DISABLE_PLAYER_HEALTH_RECHARGE",
+        "jhash": "",
+        "comment": "Needs to be called every frame.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

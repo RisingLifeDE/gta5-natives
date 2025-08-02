@@ -1,0 +1,31 @@
+{
+    "0x3311E47B91EDCBBC": {
+        "name": "APPLY_PED_BLOOD_BY_ZONE",
+        "jhash": "0x8F3F3A9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

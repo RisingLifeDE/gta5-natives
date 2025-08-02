@@ -1,0 +1,10 @@
+{
+    "0x5DEBD9C4DC995692": {
+        "name": "ENABLE_PROCOBJ_CREATION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

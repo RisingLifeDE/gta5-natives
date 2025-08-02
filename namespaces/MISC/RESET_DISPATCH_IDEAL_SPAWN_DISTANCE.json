@@ -1,0 +1,10 @@
+{
+    "0x77A84429DD9F0A15": {
+        "name": "RESET_DISPATCH_IDEAL_SPAWN_DISTANCE",
+        "jhash": "0xDA65ECAA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

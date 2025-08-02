@@ -1,0 +1,35 @@
+{
+    "0x34CFC4C2A38E83E3": {
+        "name": "_ACTIVATE_CAM_WITH_INTERP_AND_FOV_CURVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camTo"
+            },
+            {
+                "type": "Cam",
+                "name": "camFrom"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "easeLocation"
+            },
+            {
+                "type": "int",
+                "name": "easeRotation"
+            },
+            {
+                "type": "int",
+                "name": "easeFov"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

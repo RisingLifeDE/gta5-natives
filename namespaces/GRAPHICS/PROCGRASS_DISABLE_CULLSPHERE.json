@@ -1,0 +1,15 @@
+{
+    "0x649C97D52332341A": {
+        "name": "PROCGRASS_DISABLE_CULLSPHERE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "handle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

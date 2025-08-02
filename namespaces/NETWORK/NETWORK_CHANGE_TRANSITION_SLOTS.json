@@ -1,0 +1,19 @@
+{
+    "0xEEEDA5E6D7080987": {
+        "name": "NETWORK_CHANGE_TRANSITION_SLOTS",
+        "jhash": "0x1E5F6AEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

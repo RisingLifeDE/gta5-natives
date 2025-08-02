@@ -1,0 +1,15 @@
+{
+    "0x87B63E25A529D526": {
+        "name": "GET_VEHICLE_LIVERY_COUNT",
+        "jhash": "0xFB0CA947",
+        "comment": "Returns -1 if the vehicle has no livery",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

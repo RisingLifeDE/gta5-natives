@@ -1,0 +1,19 @@
+{
+    "0x6C8065A3B780185B": {
+        "name": "SET_AMBIENT_VOICE_NAME",
+        "jhash": "0xBD2EA1A1",
+        "comment": "Audio List\ngtaforums.com/topic/795622-audio-for-mods/\n\nAll found occurrences in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/FTeAj4yZ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

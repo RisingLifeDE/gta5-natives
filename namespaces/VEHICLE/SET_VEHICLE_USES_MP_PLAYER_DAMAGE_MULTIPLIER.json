@@ -1,0 +1,19 @@
+{
+    "0xBB2333BB87DDD87F": {
+        "name": "SET_VEHICLE_USES_MP_PLAYER_DAMAGE_MULTIPLIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

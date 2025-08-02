@@ -1,0 +1,10 @@
+{
+    "0x0292BD7F3766CEBC": {
+        "name": "_NETWORK_IS_AMERICAS_VERSION",
+        "jhash": "",
+        "comment": "Hardcoded to return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

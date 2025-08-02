@@ -1,0 +1,10 @@
+{
+    "0xDF4B952F7D381B95": {
+        "name": "IS_REPLAY_INITIALIZED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

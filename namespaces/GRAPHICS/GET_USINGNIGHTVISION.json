@@ -1,0 +1,14 @@
+{
+    "0x2202A3F42C8E5F79": {
+        "name": "GET_USINGNIGHTVISION",
+        "jhash": "0x62619061",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_NIGHTVISION_INACTIVE",
+            "_IS_NIGHTVISION_ACTIVE"
+        ]
+    }
+}

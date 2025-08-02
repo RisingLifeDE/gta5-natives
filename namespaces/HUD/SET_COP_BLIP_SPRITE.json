@@ -1,0 +1,19 @@
+{
+    "0x9FCB3CBFB3EAD69A": {
+        "name": "SET_COP_BLIP_SPRITE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6F6981D2253C208F": {
+        "name": "HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE",
+        "jhash": "0x00CFD6E9",
+        "comment": "Hides the players weapon during a cutscene.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

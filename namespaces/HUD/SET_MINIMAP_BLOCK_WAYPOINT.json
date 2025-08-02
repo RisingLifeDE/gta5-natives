@@ -1,0 +1,15 @@
+{
+    "0x58FADDED207897DC": {
+        "name": "SET_MINIMAP_BLOCK_WAYPOINT",
+        "jhash": "0xA41C3B62",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

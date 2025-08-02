@@ -1,0 +1,15 @@
+{
+    "0x5262CC1995D07E09": {
+        "name": "SET_NO_LOADING_SCREEN",
+        "jhash": "0xC8055034",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x3C028C636A414ED9": {
+        "name": "SET_PED_ALLOW_VEHICLES_OVERRIDE",
+        "jhash": "0x58A80BD5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6DEE77AFF8C21BD1": {
+        "name": "PLAYSTATS_CREATE_MATCH_HISTORY_ID_2",
+        "jhash": "0x489E27E7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "playerAccountId"
+            },
+            {
+                "type": "int*",
+                "name": "posixTime"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

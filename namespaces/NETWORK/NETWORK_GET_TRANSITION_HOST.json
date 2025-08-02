@@ -1,0 +1,15 @@
+{
+    "0x65042B9774C4435E": {
+        "name": "NETWORK_GET_TRANSITION_HOST",
+        "jhash": "0x73098D40",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

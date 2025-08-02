@@ -1,0 +1,26 @@
+{
+    "0x9CFA4896C3A53CBB": {
+        "name": "SET_BIKE_ON_STAND",
+        "jhash": "0x15D40761",
+        "comment": "Only works on bikes, both X and Y work in the -1 - 1 range.\n\nX forces the bike to turn left or right (-1, 1)\nY forces the bike to lean to the left or to the right (-1, 1)\n\nExample with X -1/Y 1\nhttp://i.imgur.com/TgIuAPJ.jpg",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BIKE_LEAN_ANGLE"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x4645DE9980999E93": {
+        "name": "UGC_UPDATE_MISSION",
+        "jhash": "0xDBB83E2B",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "const char*",
+                "name": "contentName"
+            },
+            {
+                "type": "const char*",
+                "name": "description"
+            },
+            {
+                "type": "const char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

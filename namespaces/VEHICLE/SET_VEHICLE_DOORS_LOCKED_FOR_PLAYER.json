@@ -1,0 +1,23 @@
+{
+    "0x517AAF684BB50CD1": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_PLAYER",
+        "jhash": "0x49829236",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x2F844A8B08D76685": {
+        "name": "REQUEST_SCRIPT_AUDIO_BANK",
+        "jhash": "0x21322887",
+        "comment": "All occurrences and usages found in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/AkmDAVn6\nFull list of script audio bank names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scriptAudioBankNames.json\np2 is always -1",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

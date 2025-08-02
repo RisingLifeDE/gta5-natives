@@ -1,0 +1,10 @@
+{
+    "0xA4819F5E23E2FFAD": {
+        "name": "GOLF_TRAIL_GET_MAX_HEIGHT",
+        "jhash": "0xA08B46AD",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

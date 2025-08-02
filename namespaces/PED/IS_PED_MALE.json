@@ -1,0 +1,15 @@
+{
+    "0x6D9F5FAA7488BA46": {
+        "name": "IS_PED_MALE",
+        "jhash": "0x90950455",
+        "comment": "Returns true/false if the ped is/isn't male.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

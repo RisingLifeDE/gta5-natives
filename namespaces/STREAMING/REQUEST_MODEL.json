@@ -1,0 +1,15 @@
+{
+    "0x963D27A58DF860AC": {
+        "name": "REQUEST_MODEL",
+        "jhash": "0xFFF1B500",
+        "comment": "Request a model to be loaded into memory.\n",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

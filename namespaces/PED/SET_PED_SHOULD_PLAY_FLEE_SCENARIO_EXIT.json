@@ -1,0 +1,27 @@
+{
+    "0xEEED8FAFEC331A70": {
+        "name": "SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT",
+        "jhash": "0x7B4C3E6F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

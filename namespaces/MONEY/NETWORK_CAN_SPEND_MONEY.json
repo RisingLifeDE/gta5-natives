@@ -1,0 +1,35 @@
+{
+    "0xAB3CAA6B422164DA": {
+        "name": "NETWORK_CAN_SPEND_MONEY",
+        "jhash": "0x5AA379D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

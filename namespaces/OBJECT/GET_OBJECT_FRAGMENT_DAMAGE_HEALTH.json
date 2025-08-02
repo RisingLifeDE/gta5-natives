@@ -1,0 +1,19 @@
+{
+    "0xB6FBFD079B8D0596": {
+        "name": "GET_OBJECT_FRAGMENT_DAMAGE_HEALTH",
+        "jhash": "0xF0B330AD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

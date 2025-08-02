@@ -1,0 +1,31 @@
+{
+    "0x9FBDA379383A52A4": {
+        "name": "SET_CAM_ACTIVE_WITH_INTERP",
+        "jhash": "0x7983E7F0",
+        "comment": "Previous declaration void SET_CAM_ACTIVE_WITH_INTERP(Cam camTo, Cam camFrom, int duration, BOOL easeLocation, BOOL easeRotation) is completely wrong. The last two params are integers not BOOLs...\n",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camTo"
+            },
+            {
+                "type": "Cam",
+                "name": "camFrom"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "easeLocation"
+            },
+            {
+                "type": "int",
+                "name": "easeRotation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

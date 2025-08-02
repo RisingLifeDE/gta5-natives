@@ -1,0 +1,15 @@
+{
+    "0x4A18E01DF2C87B86": {
+        "name": "SET_FADE_OUT_AFTER_DEATH",
+        "jhash": "0xC9F6F0BC",
+        "comment": "Sets whether the game should fade out after the player dies.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

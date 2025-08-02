@@ -1,0 +1,19 @@
+{
+    "0xE16142B94664DEFD": {
+        "name": "SET_PLANE_RESIST_TO_EXPLOSION",
+        "jhash": "0xFBBA699A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

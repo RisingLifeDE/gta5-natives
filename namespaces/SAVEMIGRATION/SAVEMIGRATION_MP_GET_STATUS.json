@@ -1,0 +1,10 @@
+{
+    "0x690B76BD2763E068": {
+        "name": "SAVEMIGRATION_MP_GET_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2372"
+    }
+}

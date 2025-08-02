@@ -1,0 +1,19 @@
+{
+    "0x50085246ABD3FEFA": {
+        "name": "CLEAR_FLOATING_HELP",
+        "jhash": "0xB181F88F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

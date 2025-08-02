@@ -1,0 +1,18 @@
+{
+    "0x552369F549563AD5": {
+        "name": "DISTANT_COP_CAR_SIRENS",
+        "jhash": "0x13EB5861",
+        "comment": "If value is set to true, and ambient siren sound will be played.\nAppears to enable/disable an audio flag.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_FORCE_AMBIENT_SIREN"
+        ]
+    }
+}

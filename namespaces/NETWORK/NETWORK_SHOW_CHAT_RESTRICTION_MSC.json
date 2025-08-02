@@ -1,0 +1,15 @@
+{
+    "0x6BFF5F84102DF80A": {
+        "name": "NETWORK_SHOW_CHAT_RESTRICTION_MSC",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

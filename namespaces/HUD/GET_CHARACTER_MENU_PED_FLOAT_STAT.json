@@ -1,0 +1,23 @@
+{
+    "0x8F08017F9D7C47BD": {
+        "name": "GET_CHARACTER_MENU_PED_FLOAT_STAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statHash"
+            },
+            {
+                "type": "float*",
+                "name": "outValue"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

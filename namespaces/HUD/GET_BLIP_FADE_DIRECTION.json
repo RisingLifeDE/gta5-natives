@@ -1,0 +1,18 @@
+{
+    "0x2C173AE2BDB9385E": {
+        "name": "GET_BLIP_FADE_DIRECTION",
+        "jhash": "",
+        "comment": "Returns -1, 0, +1, depending on if the blip is fading out, doing nothing, or fading in respectively.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_GET_BLIP_FADE_STATUS"
+        ]
+    }
+}

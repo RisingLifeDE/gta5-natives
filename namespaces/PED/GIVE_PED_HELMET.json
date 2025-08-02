@@ -1,0 +1,27 @@
+{
+    "0x54C7C4A94367717E": {
+        "name": "GIVE_PED_HELMET",
+        "jhash": "0x1862A461",
+        "comment": "PoliceMotorcycleHelmet   1024    \nRegularMotorcycleHelmet   4096    \nFiremanHelmet 16384   \nPilotHeadset  32768   \nPilotHelmet   65536\n--\np2 is generally 4096 or 16384 in the scripts. p1 varies between 1 and 0.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "cannotRemove"
+            },
+            {
+                "type": "int",
+                "name": "helmetFlag"
+            },
+            {
+                "type": "int",
+                "name": "textureIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

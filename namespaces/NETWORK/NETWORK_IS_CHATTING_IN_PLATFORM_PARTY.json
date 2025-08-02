@@ -1,0 +1,15 @@
+{
+    "0x8DE9945BCC9AEC52": {
+        "name": "NETWORK_IS_CHATTING_IN_PLATFORM_PARTY",
+        "jhash": "0x51367B34",
+        "comment": "This would be nice to see if someone is in party chat, but 2 sad notes.\n1) It only becomes true if said person is speaking in that party at the time.\n2) It will never, become true unless you are in that party with said person.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

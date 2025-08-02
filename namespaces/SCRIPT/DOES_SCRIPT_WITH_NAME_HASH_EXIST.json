@@ -1,0 +1,18 @@
+{
+    "0xF86AA3C56BA31381": {
+        "name": "DOES_SCRIPT_WITH_NAME_HASH_EXIST",
+        "jhash": "0x19EAE282",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_DOES_SCRIPT_WITH_NAME_HASH_EXIST"
+        ]
+    }
+}

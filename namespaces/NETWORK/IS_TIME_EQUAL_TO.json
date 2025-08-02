@@ -1,0 +1,22 @@
+{
+    "0xF5BC95857BD6D512": {
+        "name": "IS_TIME_EQUAL_TO",
+        "jhash": "0x8B4D1C06",
+        "comment": "Returns true if the two times are equal; otherwise returns false.",
+        "params": [
+            {
+                "type": "int",
+                "name": "timeA"
+            },
+            {
+                "type": "int",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_ARE_INTEGERS_EQUAL"
+        ]
+    }
+}

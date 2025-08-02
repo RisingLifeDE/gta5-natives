@@ -1,0 +1,15 @@
+{
+    "0x249249D74F813EB2": {
+        "name": "APPLY_EMP_EFFECT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

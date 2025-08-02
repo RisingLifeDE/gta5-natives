@@ -1,0 +1,10 @@
+{
+    "0xFAC18E7356BD3210": {
+        "name": "NETWORK_HIDE_PROJECTILE_IN_CUTSCENE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

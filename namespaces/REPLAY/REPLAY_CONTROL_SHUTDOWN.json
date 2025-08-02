@@ -1,0 +1,13 @@
+{
+    "0x3353D13F09307691": {
+        "name": "REPLAY_CONTROL_SHUTDOWN",
+        "jhash": "",
+        "comment": "Sets (almost, not sure) all Rockstar Editor values (bIsRecording etc) to 0.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_EDITOR_VALUES"
+        ]
+    }
+}

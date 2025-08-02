@@ -1,0 +1,19 @@
+{
+    "0xED34AB6C5CB36520": {
+        "name": "SET_PED_DRIVE_BY_CLIPSET_OVERRIDE",
+        "jhash": "0xD4C73595",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

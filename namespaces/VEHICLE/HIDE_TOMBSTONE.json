@@ -1,0 +1,22 @@
+{
+    "0xAE71FB656C600587": {
+        "name": "HIDE_TOMBSTONE",
+        "jhash": "",
+        "comment": "Disables detachable bumber from domnator4, dominator5, dominator6, see https://gfycat.com/SecondUnluckyGosling",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_HIDE_VEHICLE_TOMBSTONE"
+        ]
+    }
+}

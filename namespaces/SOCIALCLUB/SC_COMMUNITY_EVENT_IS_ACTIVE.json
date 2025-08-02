@@ -1,0 +1,10 @@
+{
+    "0xFF8F3A92B75ED67A": {
+        "name": "SC_COMMUNITY_EVENT_IS_ACTIVE",
+        "jhash": "0xC96456BA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

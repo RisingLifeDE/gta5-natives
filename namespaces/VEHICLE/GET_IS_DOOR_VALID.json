@@ -1,0 +1,23 @@
+{
+    "0x645F4B6E8499F632": {
+        "name": "GET_IS_DOOR_VALID",
+        "jhash": "",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_DOES_VEHICLE_HAVE_DOOR",
+            "_GET_IS_DOOR_VALID"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x8074CC1886802912": {
+        "name": "SET_HELI_RESIST_TO_EXPLOSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_SET_HELI_RESIST_TO_EXPLOSION"
+        ]
+    }
+}

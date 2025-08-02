@@ -1,0 +1,47 @@
+{
+    "0x5BC448CB78FA3E88": {
+        "name": "TASK_GO_TO_COORD_ANY_MEANS",
+        "jhash": "0xF91DF93B",
+        "comment": "example from fm_mission_controller\n\nTASK::TASK_GO_TO_COORD_ANY_MEANS(l_649, sub_f7e86(-1, 0), 1.0, 0, 0, 786603, 0xbf800000);\n ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "useLongRangeVehiclePathing"
+            },
+            {
+                "type": "int",
+                "name": "drivingFlags"
+            },
+            {
+                "type": "float",
+                "name": "maxRangeToShootTargets"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xC9D623C5A3D8FD5D": {
+        "name": "SET_INDIVIDUAL_PORTAL_SETTINGS_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "interiorNameHash"
+            },
+            {
+                "type": "int",
+                "name": "roomIndex"
+            },
+            {
+                "type": "int",
+                "name": "doorIndex"
+            },
+            {
+                "type": "const char*",
+                "name": "newPortalSettingsName"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

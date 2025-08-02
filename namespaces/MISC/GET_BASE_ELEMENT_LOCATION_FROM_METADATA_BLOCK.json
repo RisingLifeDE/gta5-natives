@@ -1,0 +1,30 @@
+{
+    "0xB335F761606DB47C": {
+        "name": "GET_BASE_ELEMENT_LOCATION_FROM_METADATA_BLOCK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_BASE_ELEMENT_METADATA"
+        ]
+    }
+}

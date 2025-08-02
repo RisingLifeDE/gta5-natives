@@ -1,0 +1,19 @@
+{
+    "0x00EE9F297C738720": {
+        "name": "DECOR_REMOVE",
+        "jhash": "0xE0E2640B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

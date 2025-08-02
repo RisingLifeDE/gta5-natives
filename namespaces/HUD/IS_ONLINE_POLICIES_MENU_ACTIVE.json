@@ -1,0 +1,10 @@
+{
+    "0x6F72CD94F7B5B68C": {
+        "name": "IS_ONLINE_POLICIES_MENU_ACTIVE",
+        "jhash": "0x9D4934F4",
+        "comment": "Returns the same as IS_SOCIAL_CLUB_ACTIVE",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

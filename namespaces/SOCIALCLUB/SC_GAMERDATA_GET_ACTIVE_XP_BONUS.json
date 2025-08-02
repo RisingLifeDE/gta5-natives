@@ -1,0 +1,16 @@
+{
+    "0x2D874D4AE612A65F": {
+        "name": "SC_GAMERDATA_GET_ACTIVE_XP_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x073CA26B079F956E": {
+        "name": "GET_SHOP_PED_OUTFIT_LOCATE",
+        "jhash": "0x2798F56F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

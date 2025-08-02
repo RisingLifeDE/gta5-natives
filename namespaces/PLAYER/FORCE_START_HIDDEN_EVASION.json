@@ -1,0 +1,15 @@
+{
+    "0xAD73CE5A09E42D12": {
+        "name": "FORCE_START_HIDDEN_EVASION",
+        "jhash": "0x85725848",
+        "comment": "This has been found in use in the decompiled files.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

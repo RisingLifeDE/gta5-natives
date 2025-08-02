@@ -1,0 +1,15 @@
+{
+    "0xE2892E7E55D7073A": {
+        "name": "SET_DISTANCE_BLUR_STRENGTH_OVERRIDE",
+        "jhash": "0x455F1084",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

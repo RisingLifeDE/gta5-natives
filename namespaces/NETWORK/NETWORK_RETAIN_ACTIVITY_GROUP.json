@@ -1,0 +1,10 @@
+{
+    "0xB13E88E655E5A3BC": {
+        "name": "NETWORK_RETAIN_ACTIVITY_GROUP",
+        "jhash": "0x36A5F2DA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

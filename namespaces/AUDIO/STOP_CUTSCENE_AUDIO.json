@@ -1,0 +1,10 @@
+{
+    "0x806058BBDC136E06": {
+        "name": "STOP_CUTSCENE_AUDIO",
+        "jhash": "0x55461BE6",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

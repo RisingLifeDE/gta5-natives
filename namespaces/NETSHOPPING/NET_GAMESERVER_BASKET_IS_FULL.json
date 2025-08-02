@@ -1,0 +1,13 @@
+{
+    "0x27F76CC6C55AD30E": {
+        "name": "NET_GAMESERVER_BASKET_IS_FULL",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_BASKET_IS_FULL"
+        ]
+    }
+}

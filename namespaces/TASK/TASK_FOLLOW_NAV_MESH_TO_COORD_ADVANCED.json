@@ -1,0 +1,59 @@
+{
+    "0x17F58B88D085DBAC": {
+        "name": "TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED",
+        "jhash": "0x6BF6E296",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "float",
+                "name": "targetRadius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "slideToCoordHeading"
+            },
+            {
+                "type": "float",
+                "name": "maxSlopeNavigable"
+            },
+            {
+                "type": "float",
+                "name": "clampMaxSearchDistance"
+            },
+            {
+                "type": "float",
+                "name": "targetHeading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

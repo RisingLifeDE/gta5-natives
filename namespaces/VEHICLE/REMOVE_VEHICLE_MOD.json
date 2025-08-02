@@ -1,0 +1,19 @@
+{
+    "0x92D619E420858204": {
+        "name": "REMOVE_VEHICLE_MOD",
+        "jhash": "0x9CC80A43",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

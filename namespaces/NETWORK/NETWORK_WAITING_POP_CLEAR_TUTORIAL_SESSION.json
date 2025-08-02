@@ -1,0 +1,10 @@
+{
+    "0xB37E4E6A2388CA7B": {
+        "name": "NETWORK_WAITING_POP_CLEAR_TUTORIAL_SESSION",
+        "jhash": "0x755A2B3E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

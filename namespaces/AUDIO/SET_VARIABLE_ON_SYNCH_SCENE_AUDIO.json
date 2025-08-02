@@ -1,0 +1,23 @@
+{
+    "0xBCC29F935ED07688": {
+        "name": "SET_VARIABLE_ON_SYNCH_SCENE_AUDIO",
+        "jhash": "0xD63CF33A",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "GET_PLAYER_HEADSET_SOUND_ALTERNATE",
+            "_SET_VARIABLE_ON_CUTSCENE_AUDIO"
+        ]
+    }
+}

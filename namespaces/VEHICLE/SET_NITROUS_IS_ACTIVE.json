@@ -1,0 +1,19 @@
+{
+    "0x9E566EA551F4F1A6": {
+        "name": "SET_NITROUS_IS_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

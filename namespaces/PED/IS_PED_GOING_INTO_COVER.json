@@ -1,0 +1,15 @@
+{
+    "0x9F65DBC537E59AD5": {
+        "name": "IS_PED_GOING_INTO_COVER",
+        "jhash": "0xA3589628",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

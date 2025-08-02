@@ -1,0 +1,27 @@
+{
+    "0xE33D59DA70B58FDF": {
+        "name": "IS_SPHERE_VISIBLE",
+        "jhash": "0xDD1329E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

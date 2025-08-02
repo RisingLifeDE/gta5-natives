@@ -1,0 +1,22 @@
+{
+    "0xE52B8E7F85D39A08": {
+        "name": "SET_PED_AI_BLIP_GANG_ID",
+        "jhash": "0xD8E31B1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_AI_BLIP_TYPE"
+        ]
+    }
+}

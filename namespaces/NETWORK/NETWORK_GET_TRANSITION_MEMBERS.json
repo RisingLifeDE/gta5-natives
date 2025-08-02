@@ -1,0 +1,19 @@
+{
+    "0x73B000F7FBC55829": {
+        "name": "NETWORK_GET_TRANSITION_MEMBERS",
+        "jhash": "0x31F19263",
+        "comment": "Returns count.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataCount"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x99A05839C46CE316": {
+        "name": "SET_VEHICLE_SHUNT_ON_STICK",
+        "jhash": "",
+        "comment": "Does nothing. It's a nullsub.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

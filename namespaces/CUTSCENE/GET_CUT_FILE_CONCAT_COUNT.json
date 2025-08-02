@@ -1,0 +1,18 @@
+{
+    "0x0ABC54DE641DC0FC": {
+        "name": "GET_CUT_FILE_CONCAT_COUNT",
+        "jhash": "0xFD8B1AC2",
+        "comment": "Full list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_CUT_FILE_NUM_SECTIONS"
+        ]
+    }
+}

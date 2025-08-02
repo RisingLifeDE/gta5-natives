@@ -1,0 +1,19 @@
+{
+    "0x22DA66936E0FFF37": {
+        "name": "DATAFILE_SELECT_ACTIVE_FILE",
+        "jhash": "0xB41064A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

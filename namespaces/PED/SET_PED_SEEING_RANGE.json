@@ -1,0 +1,19 @@
+{
+    "0xF29CF591C4BF6CEE": {
+        "name": "SET_PED_SEEING_RANGE",
+        "jhash": "0x4BD72FE8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

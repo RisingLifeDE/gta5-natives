@@ -1,0 +1,15 @@
+{
+    "0x31125FD509D9043F": {
+        "name": "ACTIVITY_FEED_ADD_SUBSTRING_TO_CAPTION",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

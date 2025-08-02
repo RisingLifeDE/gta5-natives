@@ -1,0 +1,15 @@
+{
+    "0xF54BB7B61036F335": {
+        "name": "RESET_PED_AUDIO_FLAGS",
+        "jhash": "0xDF720C86",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

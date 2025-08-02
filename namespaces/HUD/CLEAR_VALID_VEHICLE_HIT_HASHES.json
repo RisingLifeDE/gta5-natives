@@ -1,0 +1,10 @@
+{
+    "0xEB81A3DADD503187": {
+        "name": "CLEAR_VALID_VEHICLE_HIT_HASHES",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

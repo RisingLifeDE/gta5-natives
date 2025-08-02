@@ -1,0 +1,10 @@
+{
+    "0x27CFB1B1E078CB2D": {
+        "name": "SET_DISABLE_PETROL_DECALS_RECYCLING_THIS_FRAME",
+        "jhash": "0xC2703B88",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

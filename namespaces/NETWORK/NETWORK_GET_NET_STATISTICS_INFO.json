@@ -1,0 +1,16 @@
+{
+    "0x6FD992C4A1C1B986": {
+        "name": "NETWORK_GET_NET_STATISTICS_INFO",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

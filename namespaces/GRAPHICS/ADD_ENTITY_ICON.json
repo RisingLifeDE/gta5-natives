@@ -1,0 +1,19 @@
+{
+    "0x9CD43EEE12BF4DD0": {
+        "name": "ADD_ENTITY_ICON",
+        "jhash": "0xF3027D21",
+        "comment": "Example:\nGRAPHICS::ADD_ENTITY_ICON(a_0, \"MP_Arrow\");\n\nI tried this and nothing happened...",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "icon"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

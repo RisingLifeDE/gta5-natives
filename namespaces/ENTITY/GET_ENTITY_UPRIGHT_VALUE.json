@@ -1,0 +1,15 @@
+{
+    "0x95EED5A694951F9F": {
+        "name": "GET_ENTITY_UPRIGHT_VALUE",
+        "jhash": "0xF4268190",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

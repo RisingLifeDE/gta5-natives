@@ -1,0 +1,15 @@
+{
+    "0x2D95C7E2D7E07307": {
+        "name": "NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME",
+        "jhash": "0xFEA9B85C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

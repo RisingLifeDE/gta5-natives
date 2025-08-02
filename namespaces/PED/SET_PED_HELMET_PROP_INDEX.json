@@ -1,0 +1,23 @@
+{
+    "0x26D83693ED99291C": {
+        "name": "SET_PED_HELMET_PROP_INDEX",
+        "jhash": "0xA316D13F",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "propIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

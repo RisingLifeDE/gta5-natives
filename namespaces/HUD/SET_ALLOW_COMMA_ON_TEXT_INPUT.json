@@ -1,0 +1,15 @@
+{
+    "0x577599CCED639CA2": {
+        "name": "SET_ALLOW_COMMA_ON_TEXT_INPUT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

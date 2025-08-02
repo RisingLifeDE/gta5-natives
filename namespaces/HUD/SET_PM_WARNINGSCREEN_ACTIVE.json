@@ -1,0 +1,15 @@
+{
+    "0x41350B4FC28E3941": {
+        "name": "SET_PM_WARNINGSCREEN_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

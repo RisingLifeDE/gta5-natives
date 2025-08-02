@@ -1,0 +1,19 @@
+{
+    "0x983765856F2564F9": {
+        "name": "SET_VEHICLE_ENGINE_CAN_DEGRADE",
+        "jhash": "0x081DAC12",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

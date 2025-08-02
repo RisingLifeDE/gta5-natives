@@ -1,0 +1,15 @@
+{
+    "0x26AA915AD89BFB4B": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_VEHICLE",
+        "jhash": "0xDE5C995E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

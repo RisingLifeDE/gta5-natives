@@ -1,0 +1,15 @@
+{
+    "0xBC9490CA15AEA8FB": {
+        "name": "UPDATE_WANTED_POSITION_THIS_FRAME",
+        "jhash": "0x6B34A160",
+        "comment": "This native is used in both singleplayer and multiplayer scripts.\n\nAlways used like this in scripts\nPLAYER::UPDATE_WANTED_POSITION_THIS_FRAME(PLAYER::PLAYER_ID());",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

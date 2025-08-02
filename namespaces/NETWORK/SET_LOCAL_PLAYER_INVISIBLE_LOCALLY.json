@@ -1,0 +1,15 @@
+{
+    "0xE5F773C1A1D9D168": {
+        "name": "SET_LOCAL_PLAYER_INVISIBLE_LOCALLY",
+        "jhash": "0x764F6222",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "bIncludePlayersVehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

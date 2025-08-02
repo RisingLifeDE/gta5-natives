@@ -1,0 +1,19 @@
+{
+    "0x33506883545AC0DF": {
+        "name": "FORCE_SUBMARINE_SURFACE_MODE",
+        "jhash": "0x54E9EE75",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xBBCCE00B381F8482": {
+        "name": "IS_PED_FLEEING",
+        "jhash": "0x85D813C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

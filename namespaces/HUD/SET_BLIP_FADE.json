@@ -1,0 +1,23 @@
+{
+    "0x2AEE8F8390D2298C": {
+        "name": "SET_BLIP_FADE",
+        "jhash": "0xA5999031",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "opacity"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

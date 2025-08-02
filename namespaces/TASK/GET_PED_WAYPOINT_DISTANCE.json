@@ -1,0 +1,15 @@
+{
+    "0xE6A877C64CAF1BC5": {
+        "name": "GET_PED_WAYPOINT_DISTANCE",
+        "jhash": "0x084B35B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

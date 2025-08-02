@@ -1,0 +1,19 @@
+{
+    "0x9088EB5A43FFB0A1": {
+        "name": "SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX",
+        "jhash": "0xA1A1890E",
+        "comment": "Plates:\nBlue/White - 0\nYellow/black - 1\nYellow/Blue - 2\nBlue/White2 - 3\nBlue/White3 - 4\nYankton - 5",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "plateIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

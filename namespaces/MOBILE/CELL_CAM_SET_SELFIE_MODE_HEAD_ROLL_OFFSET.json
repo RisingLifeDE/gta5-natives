@@ -1,0 +1,15 @@
+{
+    "0xF1E22DC13F5EEBAD": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_HEAD_ROLL_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "roll"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

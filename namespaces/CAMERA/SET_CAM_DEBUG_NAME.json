@@ -1,0 +1,19 @@
+{
+    "0x1B93E0107865DD40": {
+        "name": "SET_CAM_DEBUG_NAME",
+        "jhash": "0x9B00DF3F",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

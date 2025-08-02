@@ -1,0 +1,27 @@
+{
+    "0x4CACA84440FA26F6": {
+        "name": "NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY",
+        "jhash": "0x28A45454",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_DESROYER_OF_ENTITY",
+            "_NETWORK_GET_DESTROYER_OF_ENTITY"
+        ]
+    }
+}

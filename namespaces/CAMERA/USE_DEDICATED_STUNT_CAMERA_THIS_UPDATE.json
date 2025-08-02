@@ -1,0 +1,18 @@
+{
+    "0x425A920FDB9A0DDA": {
+        "name": "USE_DEDICATED_STUNT_CAMERA_THIS_UPDATE",
+        "jhash": "",
+        "comment": "Sets gameplay camera to hash",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_HASH"
+        ]
+    }
+}

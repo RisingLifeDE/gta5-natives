@@ -1,0 +1,10 @@
+{
+    "0xF4435D66A8E2905E": {
+        "name": "NETWORK_IS_SESSION_BUSY",
+        "jhash": "0x8592152D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

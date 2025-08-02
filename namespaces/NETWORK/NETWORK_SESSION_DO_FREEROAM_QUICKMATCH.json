@@ -1,0 +1,23 @@
+{
+    "0x330ED4D05491934F": {
+        "name": "NETWORK_SESSION_DO_FREEROAM_QUICKMATCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

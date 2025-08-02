@@ -1,0 +1,15 @@
+{
+    "0xFA8904DC5F304220": {
+        "name": "NETWORK_SESSION_KICK_PLAYER",
+        "jhash": "0x1E20138A",
+        "comment": "Only works as host.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

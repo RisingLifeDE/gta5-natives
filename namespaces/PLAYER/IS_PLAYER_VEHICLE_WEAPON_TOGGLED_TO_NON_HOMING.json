@@ -1,0 +1,15 @@
+{
+    "0x6E4361FF3E8CD7CA": {
+        "name": "IS_PLAYER_VEHICLE_WEAPON_TOGGLED_TO_NON_HOMING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1011"
+    }
+}

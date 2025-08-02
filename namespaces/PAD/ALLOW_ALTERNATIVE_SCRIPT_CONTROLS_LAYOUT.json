@@ -1,0 +1,15 @@
+{
+    "0x7F4724035FDCA1DD": {
+        "name": "ALLOW_ALTERNATIVE_SCRIPT_CONTROLS_LAYOUT",
+        "jhash": "0x2CEDE6C5",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

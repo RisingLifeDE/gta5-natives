@@ -1,0 +1,27 @@
+{
+    "0x9BA001CB45CBF627": {
+        "name": "DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE",
+        "jhash": "0x47531446",
+        "comment": "`forceUpdate` on true invokes DOOR_SYSTEM_SET_DOOR_STATE otherwise requestDoor is unused.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

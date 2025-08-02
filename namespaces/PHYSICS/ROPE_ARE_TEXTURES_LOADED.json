@@ -1,0 +1,10 @@
+{
+    "0xF2D0E6A75CC05597": {
+        "name": "ROPE_ARE_TEXTURES_LOADED",
+        "jhash": "0x5FDC1047",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1600FD8CF72EBC12": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_LEVEL",
+        "jhash": "0xD87CC710",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

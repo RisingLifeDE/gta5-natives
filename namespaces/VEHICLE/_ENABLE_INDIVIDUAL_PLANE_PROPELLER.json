@@ -1,0 +1,19 @@
+{
+    "0xDC05D2777F855F44": {
+        "name": "_ENABLE_INDIVIDUAL_PLANE_PROPELLER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "propeller"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x28123C8B056CC8AA": {
+        "name": "IS_OBJECT_REASSIGNMENT_IN_PROGRESS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3274",
+        "unused": true
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x0F6F1EBBC4E1D5E6": {
+        "name": "BG_DOES_LAUNCH_PARAM_EXIST",
+        "jhash": "0xF8E5F73A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scriptIndex"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

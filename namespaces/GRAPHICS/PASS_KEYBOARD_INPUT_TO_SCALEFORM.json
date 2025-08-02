@@ -1,0 +1,15 @@
+{
+    "0xD1C7CB175E012964": {
+        "name": "PASS_KEYBOARD_INPUT_TO_SCALEFORM",
+        "jhash": "0xE9183D3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

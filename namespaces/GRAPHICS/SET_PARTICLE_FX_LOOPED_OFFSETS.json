@@ -1,0 +1,39 @@
+{
+    "0xF7DDEBEC43483C43": {
+        "name": "SET_PARTICLE_FX_LOOPED_OFFSETS",
+        "jhash": "0x641F7790",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

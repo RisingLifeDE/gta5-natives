@@ -1,0 +1,15 @@
+{
+    "0xDB41D07A45A6D4B7": {
+        "name": "GET_DEFAULT_AMMO_FOR_WEAPON_PICKUP",
+        "jhash": "0x000E92DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

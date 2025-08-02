@@ -1,0 +1,27 @@
+{
+    "0x619496D837EFD920": {
+        "name": "NETWORK_SPEND_ARENA_PREMIUM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_ARENA_PREMIUM"
+        ]
+    }
+}

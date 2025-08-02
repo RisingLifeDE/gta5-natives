@@ -1,0 +1,22 @@
+{
+    "0x87E0052F08BD64E6": {
+        "name": "SC_INBOX_GET_BOUNTY_DATA_AT_INDEX",
+        "jhash": "0xAB3346B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SC_INBOX_MESSAGE_GET_BOUNTY_DATA"
+        ]
+    }
+}

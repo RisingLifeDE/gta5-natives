@@ -1,0 +1,10 @@
+{
+    "0x9D292F73ADBD9313": {
+        "name": "CLEAR_BRIEF",
+        "jhash": "0x9F75A929",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

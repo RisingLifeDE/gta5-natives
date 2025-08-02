@@ -1,0 +1,18 @@
+{
+    "0xDBBC7A2432524127": {
+        "name": "CLEAR_PRIMARY_VEHICLE_TASK",
+        "jhash": "",
+        "comment": "This native is very useful when switching the player to a ped inside a vehicle that has a task assigned prior to the player switch.\nIt is necessary to clear the ped's tasks AND call this native with the vehicle the player is switching into in order to allow the player to control the vehicle after the player switches.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_CLEAR_VEHICLE_TASKS"
+        ]
+    }
+}

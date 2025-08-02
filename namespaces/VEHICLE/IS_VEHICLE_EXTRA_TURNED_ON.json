@@ -1,0 +1,19 @@
+{
+    "0xD2E6822DBFD6C8BD": {
+        "name": "IS_VEHICLE_EXTRA_TURNED_ON",
+        "jhash": "0x042098B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "extraId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

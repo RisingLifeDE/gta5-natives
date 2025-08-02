@@ -1,0 +1,19 @@
+{
+    "0x0596843B34B95CE5": {
+        "name": "SET_PICKUP_GLOW_OFFSET",
+        "jhash": "",
+        "comment": "p1 is always 0.51. This native is called before SET_PICKUP_REGENERATION_TIME in all occurances.",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x32F6EEF031F943DC": {
+        "name": "_SET_SCRIPT_TASK_ENABLE_COLLISION_ON_NETWORK_CLONE_WHEN_FIXED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x102D125411A7B6E6": {
+        "name": "GET_TOTAL_DURATION_OF_VEHICLE_RECORDING_ID",
+        "jhash": "0x7116785E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

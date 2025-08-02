@@ -1,0 +1,18 @@
+{
+    "0xAD464F2E18836BFC": {
+        "name": "IS_MISSION_TRAIN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2372",
+        "old_names": [
+            "_IS_MISSION_TRAIN"
+        ]
+    }
+}

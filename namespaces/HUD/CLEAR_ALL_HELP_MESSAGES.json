@@ -1,0 +1,10 @@
+{
+    "0x6178F68A87A4D3A0": {
+        "name": "CLEAR_ALL_HELP_MESSAGES",
+        "jhash": "0x9E5D9198",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

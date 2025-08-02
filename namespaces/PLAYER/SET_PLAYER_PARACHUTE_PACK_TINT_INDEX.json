@@ -1,0 +1,19 @@
+{
+    "0x93B0FB27C9A04060": {
+        "name": "SET_PLAYER_PARACHUTE_PACK_TINT_INDEX",
+        "jhash": "0xD79D5D1B",
+        "comment": "tints 0- 13\n0 - unkown\n1 - unkown\n2 - unkown\n3 - unkown\n4 - unkown",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

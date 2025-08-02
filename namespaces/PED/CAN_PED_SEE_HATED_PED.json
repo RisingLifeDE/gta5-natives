@@ -1,0 +1,22 @@
+{
+    "0x6CD5A433374D4CFB": {
+        "name": "CAN_PED_SEE_HATED_PED",
+        "jhash": "0x74A0F291",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_CAN_PED_SEE_PED"
+        ]
+    }
+}

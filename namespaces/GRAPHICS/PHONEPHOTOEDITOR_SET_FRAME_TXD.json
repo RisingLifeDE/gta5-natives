@@ -1,0 +1,19 @@
+{
+    "0x27FEB5254759CDE3": {
+        "name": "PHONEPHOTOEDITOR_SET_FRAME_TXD",
+        "jhash": "0xD63FCB3E",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

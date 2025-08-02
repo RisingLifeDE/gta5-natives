@@ -1,0 +1,22 @@
+{
+    "0x761B77454205A61D": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_PHONE_NUMBER",
+        "jhash": "0x65E1D404",
+        "comment": "p1 was always -1",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_TEXT_COMPONENT_APP_TITLE"
+        ]
+    }
+}

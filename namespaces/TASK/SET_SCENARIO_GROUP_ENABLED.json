@@ -1,0 +1,19 @@
+{
+    "0x02C8E5B49848664E": {
+        "name": "SET_SCENARIO_GROUP_ENABLED",
+        "jhash": "0x116997B1",
+        "comment": "Full list of scenario groups used in scripts by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenarioGroupNames.json\nOccurrences in the b617d scripts: https://pastebin.com/Tvg2PRHU",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1B857666604B1A74": {
+        "name": "NETWORK_SET_PLAYER_IS_PASSIVE",
+        "jhash": "0x76A9FEB6",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

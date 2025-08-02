@@ -1,0 +1,15 @@
+{
+    "0xDFE68C4B787E1BFB": {
+        "name": "SET_DISABLE_PED_MAP_COLLISION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

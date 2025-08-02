@@ -1,0 +1,15 @@
+{
+    "0xF154B8D1775B2DEC": {
+        "name": "BLOCK_DEATH_JINGLE",
+        "jhash": "0xD2858D8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x5B4E4C817FCC2DFB": {
+        "name": "GET_FINAL_RENDERED_CAM_ROT",
+        "jhash": "0x1FFBEFC5",
+        "comment": "p0 seems to consistently be 2 across scripts\n\nFunction is called faily often by CAM::CREATE_CAM_WITH_PARAMS",
+        "params": [
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_ROT_2"
+        ]
+    }
+}

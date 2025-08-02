@@ -1,0 +1,15 @@
+{
+    "0xCCBA154209823057": {
+        "name": "IS_OBJECT_WITHIN_BRAIN_ACTIVATION_RANGE",
+        "jhash": "0xBA4CAA56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xBC5115A5A939DD15": {
+        "name": "IS_INTERIOR_DISABLED",
+        "jhash": "0x81F34C71",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

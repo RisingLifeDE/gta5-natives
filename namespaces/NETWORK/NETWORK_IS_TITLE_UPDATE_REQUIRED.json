@@ -1,0 +1,10 @@
+{
+    "0x6FB7BB3607D27FA2": {
+        "name": "NETWORK_IS_TITLE_UPDATE_REQUIRED",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB65B60556E2A9225": {
+        "name": "IS_AUDIO_SCENE_ACTIVE",
+        "jhash": "0xACBED05C",
+        "comment": "Full list of audio scene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/audioSceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

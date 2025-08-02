@@ -1,0 +1,15 @@
+{
+    "0xEB0A72181D4AA4AD": {
+        "name": "STAT_CLEAR_SLOT_FOR_RELOAD",
+        "jhash": "0x84BDD475",
+        "comment": "Example:\n\nfor (v_2 = 0; v_2 <= 4; v_2 += 1) {\n    STATS::STAT_CLEAR_SLOT_FOR_RELOAD(v_2);\n}",
+        "params": [
+            {
+                "type": "int",
+                "name": "statSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

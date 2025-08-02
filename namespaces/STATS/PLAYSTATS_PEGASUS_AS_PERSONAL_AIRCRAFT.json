@@ -1,0 +1,18 @@
+{
+    "0x9572BD4DD6B72122": {
+        "name": "PLAYSTATS_PEGASUS_AS_PERSONAL_AIRCRAFT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_PLAYSTATS_PEGASAIRCRAFT"
+        ]
+    }
+}

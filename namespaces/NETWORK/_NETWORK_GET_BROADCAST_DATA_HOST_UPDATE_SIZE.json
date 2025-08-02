@@ -1,0 +1,28 @@
+{
+    "0xE448693B3EA3B92C": {
+        "name": "_NETWORK_GET_BROADCAST_DATA_HOST_UPDATE_SIZE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptNameHash"
+            },
+            {
+                "type": "int",
+                "name": "instance"
+            },
+            {
+                "type": "Hash",
+                "name": "positionHash"
+            },
+            {
+                "type": "int",
+                "name": "handlerNum"
+            }
+        ],
+        "return_type": "int",
+        "build": "3586",
+        "unused": true
+    }
+}

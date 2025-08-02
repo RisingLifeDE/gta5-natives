@@ -1,0 +1,26 @@
+{
+    "0xA9A31475F530DFDA": {
+        "name": "NETWORK_EARN_GANGOPS_AWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_GANGOPS_AWARDS"
+        ]
+    }
+}

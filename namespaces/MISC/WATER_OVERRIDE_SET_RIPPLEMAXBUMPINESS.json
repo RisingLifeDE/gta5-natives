@@ -1,0 +1,15 @@
+{
+    "0x9F5E6BB6B34540DA": {
+        "name": "WATER_OVERRIDE_SET_RIPPLEMAXBUMPINESS",
+        "jhash": "0x1C0CAE89",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxBumpiness"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

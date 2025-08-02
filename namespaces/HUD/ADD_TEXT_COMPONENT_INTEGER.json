@@ -1,0 +1,15 @@
+{
+    "0x03B504CF259931BC": {
+        "name": "ADD_TEXT_COMPONENT_INTEGER",
+        "jhash": "0xFE272A57",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

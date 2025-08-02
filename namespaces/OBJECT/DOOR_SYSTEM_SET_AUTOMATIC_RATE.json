@@ -1,0 +1,27 @@
+{
+    "0x03C27E13B42A0E82": {
+        "name": "DOOR_SYSTEM_SET_AUTOMATIC_RATE",
+        "jhash": "0x4F44AF21",
+        "comment": "Includes networking check: ownership vs. or the door itself **isn't** networked.\n`forceUpdate` on true invokes DOOR_SYSTEM_SET_DOOR_STATE otherwise requestDoor is unused.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

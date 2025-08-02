@@ -1,0 +1,31 @@
+{
+    "0x17430B918701C342": {
+        "name": "THEFEED_SET_RGBA_PARAMETER_FOR_NEXT_MESSAGE",
+        "jhash": "0xCF14D7F2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_FLASH_COLOR",
+            "_THEFEED_SET_ANIMPOSTFX_COLOR"
+        ]
+    }
+}

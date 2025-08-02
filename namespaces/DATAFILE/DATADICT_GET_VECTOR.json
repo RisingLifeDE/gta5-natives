@@ -1,0 +1,22 @@
+{
+    "0x46CD3CB66E0825CC": {
+        "name": "DATADICT_GET_VECTOR",
+        "jhash": "0xE84A127A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_GET_VECTOR3"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xDED51F703D0FA83D": {
+        "name": "LOWER_CONVERTIBLE_ROOF",
+        "jhash": "0xC5F72EAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantlyLower"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

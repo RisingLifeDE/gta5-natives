@@ -1,0 +1,23 @@
+{
+    "0x8378627201D5497D": {
+        "name": "SET_PED_CHANCE_OF_FIRING_BLANKS",
+        "jhash": "0xB4F44C6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "xBias"
+            },
+            {
+                "type": "float",
+                "name": "yBias"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

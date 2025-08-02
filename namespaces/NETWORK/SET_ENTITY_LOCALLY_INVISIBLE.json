@@ -1,0 +1,15 @@
+{
+    "0xE135A9FF3F5D05D8": {
+        "name": "SET_ENTITY_LOCALLY_INVISIBLE",
+        "jhash": "0x51ADCC5F",
+        "comment": "Makes the provided entity visible for yourself for the current frame.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

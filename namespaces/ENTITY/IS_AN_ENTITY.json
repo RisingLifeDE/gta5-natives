@@ -1,0 +1,15 @@
+{
+    "0x731EC8A916BD11A1": {
+        "name": "IS_AN_ENTITY",
+        "jhash": "0xD4B9715A",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

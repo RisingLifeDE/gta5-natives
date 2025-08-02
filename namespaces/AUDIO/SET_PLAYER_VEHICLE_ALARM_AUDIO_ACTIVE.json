@@ -1,0 +1,19 @@
+{
+    "0x6FDDAD856E36988A": {
+        "name": "SET_PLAYER_VEHICLE_ALARM_AUDIO_ACTIVE",
+        "jhash": "0x934BE749",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

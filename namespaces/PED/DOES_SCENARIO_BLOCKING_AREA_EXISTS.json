@@ -1,0 +1,38 @@
+{
+    "0x8A24B067D175A7BD": {
+        "name": "DOES_SCENARIO_BLOCKING_AREA_EXISTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_DOES_SCENARIO_BLOCKING_AREA_EXIST"
+        ]
+    }
+}

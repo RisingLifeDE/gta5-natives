@@ -1,0 +1,22 @@
+{
+    "0x4B82FA6F2D624634": {
+        "name": "SET_CONTENT_ID_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contentId"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "2612",
+        "old_names": [
+            "_SET_CONTENT_MAP_INDEX"
+        ]
+    }
+}

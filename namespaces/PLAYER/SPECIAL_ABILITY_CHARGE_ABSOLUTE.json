@@ -1,0 +1,27 @@
+{
+    "0xB7B0870EB531D08D": {
+        "name": "SPECIAL_ABILITY_CHARGE_ABSOLUTE",
+        "jhash": "0x72429998",
+        "comment": "p1 appears as 5, 10, 15, 25, or 30. p2 is always true.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

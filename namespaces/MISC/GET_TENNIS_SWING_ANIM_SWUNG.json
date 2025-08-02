@@ -1,0 +1,15 @@
+{
+    "0xE95B0C7D5BA3B96B": {
+        "name": "GET_TENNIS_SWING_ANIM_SWUNG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

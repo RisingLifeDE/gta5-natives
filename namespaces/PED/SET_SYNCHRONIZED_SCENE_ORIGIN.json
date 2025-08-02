@@ -1,0 +1,43 @@
+{
+    "0x6ACF6B7225801CD7": {
+        "name": "SET_SYNCHRONIZED_SCENE_ORIGIN",
+        "jhash": "0x2EC2A0B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

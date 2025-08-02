@@ -1,0 +1,15 @@
+{
+    "0xF9113A30DE5C6670": {
+        "name": "BEGIN_TEXT_COMMAND_SET_BLIP_NAME",
+        "jhash": "0xF4C211F6",
+        "comment": "Starts a text command to change the name of a blip displayed in the pause menu.\nThis should be paired with `END_TEXT_COMMAND_SET_BLIP_NAME`, once adding all required text components.\nExample:\n\nHUD::BEGIN_TEXT_COMMAND_SET_BLIP_NAME(\"STRING\");\nHUD::ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(\"Name\");\nHUD::END_TEXT_COMMAND_SET_BLIP_NAME(blip);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textLabel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

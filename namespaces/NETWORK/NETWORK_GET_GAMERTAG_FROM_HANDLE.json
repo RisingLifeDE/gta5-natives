@@ -1,0 +1,15 @@
+{
+    "0x426141162EBE5CDB": {
+        "name": "NETWORK_GET_GAMERTAG_FROM_HANDLE",
+        "jhash": "0xA18A1B26",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

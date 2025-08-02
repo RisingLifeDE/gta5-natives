@@ -1,0 +1,18 @@
+{
+    "0xC219887CA3E65C41": {
+        "name": "GET_PLAYER_PARACHUTE_MODEL_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "2372",
+        "old_names": [
+            "_GET_PLAYER_PARACHUTE_MODEL_OVERRIDE"
+        ]
+    }
+}

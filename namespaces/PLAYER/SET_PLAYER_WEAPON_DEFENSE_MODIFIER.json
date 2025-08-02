@@ -1,0 +1,19 @@
+{
+    "0x2D83BC011CA14A3C": {
+        "name": "SET_PLAYER_WEAPON_DEFENSE_MODIFIER",
+        "jhash": "0xAE446344",
+        "comment": "modifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

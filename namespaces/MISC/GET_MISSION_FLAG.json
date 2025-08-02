@@ -1,0 +1,10 @@
+{
+    "0xA33CDCCDA663159E": {
+        "name": "GET_MISSION_FLAG",
+        "jhash": "0x95115F97",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

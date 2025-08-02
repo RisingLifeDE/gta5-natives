@@ -1,0 +1,19 @@
+{
+    "0xFCE2747EEF1D05FC": {
+        "name": "SAVEMIGRATION_MP_GET_ACCOUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

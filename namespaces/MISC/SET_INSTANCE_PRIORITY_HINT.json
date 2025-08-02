@@ -1,0 +1,18 @@
+{
+    "0xC5F0A8EBD3F361CE": {
+        "name": "SET_INSTANCE_PRIORITY_HINT",
+        "jhash": "0xE202879D",
+        "comment": "Sets an unknown flag used by CScene in determining which entities from CMapData scene nodes to draw, similar to SET_INSTANCE_PRIORITY_MODE.",
+        "params": [
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_UNK_MAP_FLAG"
+        ]
+    }
+}

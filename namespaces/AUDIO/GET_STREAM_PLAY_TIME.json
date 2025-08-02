@@ -1,0 +1,10 @@
+{
+    "0x4E72BBDBCA58A3DB": {
+        "name": "GET_STREAM_PLAY_TIME",
+        "jhash": "0xB4F0AD56",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

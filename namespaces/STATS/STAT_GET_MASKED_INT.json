@@ -1,0 +1,31 @@
+{
+    "0x655185A06D9EEAAB": {
+        "name": "STAT_GET_MASKED_INT",
+        "jhash": "0xE9D9B70F",
+        "comment": "p4 is probably characterSlot or BOOL save",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "int*",
+                "name": "outValue"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

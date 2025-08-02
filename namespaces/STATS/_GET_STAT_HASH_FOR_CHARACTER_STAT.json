@@ -1,0 +1,23 @@
+{
+    "0xD69CE161FE614531": {
+        "name": "_GET_STAT_HASH_FOR_CHARACTER_STAT",
+        "jhash": "",
+        "comment": "Returns stat hash based on dataType, statIndex/statId and characterSlot. Related to CStatsMpCharacterMappingData",
+        "params": [
+            {
+                "type": "int",
+                "name": "dataType"
+            },
+            {
+                "type": "int",
+                "name": "statIndex"
+            },
+            {
+                "type": "int",
+                "name": "charSlot"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "2944"
+    }
+}

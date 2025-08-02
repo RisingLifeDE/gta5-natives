@@ -1,0 +1,43 @@
+{
+    "0xA3BB2E9555C05A8F": {
+        "name": "DRAW_DEBUG_TEXT_2D",
+        "jhash": "0x528B973B",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

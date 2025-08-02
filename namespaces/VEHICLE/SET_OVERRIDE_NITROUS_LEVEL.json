@@ -1,0 +1,38 @@
+{
+    "0xC8E9B6B71B8E660D": {
+        "name": "SET_OVERRIDE_NITROUS_LEVEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "level"
+            },
+            {
+                "type": "float",
+                "name": "power"
+            },
+            {
+                "type": "float",
+                "name": "rechargeTime"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableSound"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_VEHICLE_NITRO_ENABLED"
+        ]
+    }
+}

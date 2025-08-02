@@ -1,0 +1,15 @@
+{
+    "0x0991549DE4D64762": {
+        "name": "NETWORK_GET_ENTITY_IS_LOCAL",
+        "jhash": "0x813353ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

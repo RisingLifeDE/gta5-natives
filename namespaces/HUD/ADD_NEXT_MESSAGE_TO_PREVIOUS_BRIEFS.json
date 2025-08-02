@@ -1,0 +1,15 @@
+{
+    "0x60296AF4BA14ABC5": {
+        "name": "ADD_NEXT_MESSAGE_TO_PREVIOUS_BRIEFS",
+        "jhash": "0xB58B25BD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

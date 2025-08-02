@@ -1,0 +1,27 @@
+{
+    "0xE284D46FFDB82E36": {
+        "name": "NETWORK_SPENT_RDR_HATCHET_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "unused": true,
+        "old_names": [
+            "_NETWORK_SPENT_RDRHATCHET_BONUS"
+        ]
+    }
+}

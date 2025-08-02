@@ -1,0 +1,15 @@
+{
+    "0x92D96892FC06AF22": {
+        "name": "_GET_VEHICLE_THROTTLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "3095"
+    }
+}

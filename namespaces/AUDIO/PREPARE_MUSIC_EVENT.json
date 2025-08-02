@@ -1,0 +1,15 @@
+{
+    "0x1E5185B72EF5158A": {
+        "name": "PREPARE_MUSIC_EVENT",
+        "jhash": "0x534A5C1C",
+        "comment": "All music event names found in the b617d scripts: https://pastebin.com/GnYt0R3P\nFull list of music event names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/musicEventNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

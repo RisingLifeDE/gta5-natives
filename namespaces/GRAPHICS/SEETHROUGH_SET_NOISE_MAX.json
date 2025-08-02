@@ -1,0 +1,18 @@
+{
+    "0xFEBFBFDFB66039DE": {
+        "name": "SEETHROUGH_SET_NOISE_MAX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SEETHROUGH_SET_NOISE_AMOUNT_MAX"
+        ]
+    }
+}

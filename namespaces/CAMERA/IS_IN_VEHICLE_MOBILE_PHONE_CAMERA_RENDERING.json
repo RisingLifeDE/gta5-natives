@@ -1,0 +1,10 @@
+{
+    "0x1F2300CB7FA7B7F6": {
+        "name": "IS_IN_VEHICLE_MOBILE_PHONE_CAMERA_RENDERING",
+        "jhash": "0x6739AD55",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

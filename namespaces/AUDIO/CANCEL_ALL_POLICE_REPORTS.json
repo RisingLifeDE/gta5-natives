@@ -1,0 +1,14 @@
+{
+    "0xB4F90FAF7670B16F": {
+        "name": "CANCEL_ALL_POLICE_REPORTS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_POLICE_REPORTS",
+            "_CANCEL_CURRENT_POLICE_REPORT"
+        ]
+    }
+}

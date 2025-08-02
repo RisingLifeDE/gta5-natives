@@ -1,0 +1,10 @@
+{
+    "0x138679CA01E21F53": {
+        "name": "IS_XBOX_PLATFORM",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

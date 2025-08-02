@@ -1,0 +1,18 @@
+{
+    "0x2158E81A6AF65EA9": {
+        "name": "DOES_ENTITY_HAVE_ANIM_DIRECTOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_DOES_ENTITY_HAVE_ANIM_DIRECTOR"
+        ]
+    }
+}

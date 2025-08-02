@@ -1,0 +1,22 @@
+{
+    "0x267C78C60E806B9A": {
+        "name": "NETWORK_ALLOW_REMOTE_ATTACHMENT_MODIFICATION",
+        "jhash": "0xBB2D33D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ALLOW_LOCAL_ENTITY_ATTACHMENT"
+        ]
+    }
+}

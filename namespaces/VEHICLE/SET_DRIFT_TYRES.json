@@ -1,0 +1,22 @@
+{
+    "0x5AC79C98C5C17F05": {
+        "name": "SET_DRIFT_TYRES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_DRIFT_TYRES_ENABLED"
+        ]
+    }
+}

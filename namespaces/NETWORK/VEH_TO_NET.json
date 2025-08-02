@@ -1,0 +1,15 @@
+{
+    "0xB4C94523F023419C": {
+        "name": "VEH_TO_NET",
+        "jhash": "0xF17634EB",
+        "comment": "calls from vehicle to net.\n",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

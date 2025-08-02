@@ -1,0 +1,13 @@
+{
+    "0x08C2D6C52A3104BB": {
+        "name": "GET_PLAYER_SWITCH_INTERP_OUT_DURATION",
+        "jhash": "0x569847E3",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "SET_PLAYER_INVERTED_UP"
+        ]
+    }
+}

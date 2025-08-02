@@ -1,0 +1,15 @@
+{
+    "0x4A39DB43E47CF3AA": {
+        "name": "REMOVE_OBJECT_HIGH_DETAIL_MODEL",
+        "jhash": "0xE3261B35",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

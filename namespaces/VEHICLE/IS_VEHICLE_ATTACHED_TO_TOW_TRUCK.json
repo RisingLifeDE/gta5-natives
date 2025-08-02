@@ -1,0 +1,19 @@
+{
+    "0x146DF9EC4C4B9FD4": {
+        "name": "IS_VEHICLE_ATTACHED_TO_TOW_TRUCK",
+        "jhash": "0x9699CFDC",
+        "comment": "Scripts verify that towTruck is the first parameter, not the second.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "towTruck"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF2E1A7133DD356A6": {
+        "name": "ENABLE_SAVING_IN_GARAGE",
+        "jhash": "0x43BB7E48",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

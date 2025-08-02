@@ -1,0 +1,10 @@
+{
+    "0xB5D3453C98456528": {
+        "name": "NETWORK_SESSION_IS_VOICE_SESSION_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

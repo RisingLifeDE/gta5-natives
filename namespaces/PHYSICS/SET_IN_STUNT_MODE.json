@@ -1,0 +1,15 @@
+{
+    "0x9EBD751E5787BAF2": {
+        "name": "SET_IN_STUNT_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "791"
+    }
+}

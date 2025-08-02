@@ -1,0 +1,23 @@
+{
+    "0x340E61DE7F471565": {
+        "name": "SET_PLAYER_WANTED_LEVEL_NO_DROP",
+        "jhash": "0xED6F44F5",
+        "comment": "p2 is always false in R* scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

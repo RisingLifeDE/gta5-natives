@@ -1,0 +1,15 @@
+{
+    "0x9B1E824FFBB7027A": {
+        "name": "RESET_ENTITY_ALPHA",
+        "jhash": "0x8A30761C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

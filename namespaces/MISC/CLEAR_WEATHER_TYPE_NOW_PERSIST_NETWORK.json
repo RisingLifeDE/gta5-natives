@@ -1,0 +1,18 @@
+{
+    "0x0CF97F497FE7D048": {
+        "name": "CLEAR_WEATHER_TYPE_NOW_PERSIST_NETWORK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "milliseconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_CLEAR_WEATHER_TYPE_OVERTIME_PERSIST"
+        ]
+    }
+}

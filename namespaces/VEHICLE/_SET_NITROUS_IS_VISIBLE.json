@@ -1,0 +1,19 @@
+{
+    "0x465EEA70AF251045": {
+        "name": "_SET_NITROUS_IS_VISIBLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

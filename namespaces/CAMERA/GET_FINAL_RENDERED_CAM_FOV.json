@@ -1,0 +1,10 @@
+{
+    "0x80EC114669DAEFF4": {
+        "name": "GET_FINAL_RENDERED_CAM_FOV",
+        "jhash": "0x721B763B",
+        "comment": "Gets some camera fov",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

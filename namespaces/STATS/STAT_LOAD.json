@@ -1,0 +1,15 @@
+{
+    "0xA651443F437B1CE6": {
+        "name": "STAT_LOAD",
+        "jhash": "0x9E5629F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "statSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

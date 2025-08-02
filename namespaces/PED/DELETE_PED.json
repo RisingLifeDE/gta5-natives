@@ -1,0 +1,15 @@
+{
+    "0x9614299DCB53E54B": {
+        "name": "DELETE_PED",
+        "jhash": "0x13EFB9A0",
+        "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "const Ped*",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

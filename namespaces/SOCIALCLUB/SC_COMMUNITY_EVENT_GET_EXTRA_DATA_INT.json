@@ -1,0 +1,20 @@
+{
+    "0x710BCDA8071EDED1": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_INT",
+        "jhash": "0x04EE74A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "unused": true
+    }
+}

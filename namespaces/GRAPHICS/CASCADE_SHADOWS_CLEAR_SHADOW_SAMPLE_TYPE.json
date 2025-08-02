@@ -1,0 +1,13 @@
+{
+    "0x27CB772218215325": {
+        "name": "CASCADE_SHADOWS_CLEAR_SHADOW_SAMPLE_TYPE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CASCADESHADOWS_RESET_TYPE"
+        ]
+    }
+}

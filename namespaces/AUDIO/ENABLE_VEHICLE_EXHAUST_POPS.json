@@ -1,0 +1,19 @@
+{
+    "0x2BE4BC731D039D5A": {
+        "name": "ENABLE_VEHICLE_EXHAUST_POPS",
+        "jhash": "0x2A60A90E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

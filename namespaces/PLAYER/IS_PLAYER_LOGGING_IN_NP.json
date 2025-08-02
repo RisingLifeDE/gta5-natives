@@ -1,0 +1,10 @@
+{
+    "0x74556E1420867ECA": {
+        "name": "IS_PLAYER_LOGGING_IN_NP",
+        "jhash": "0x8F72FAD0",
+        "comment": "this function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

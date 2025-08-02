@@ -1,0 +1,15 @@
+{
+    "0x583BE370B1EC6EB4": {
+        "name": "GET_WEAPON_CLIP_SIZE",
+        "jhash": "0x8D515E66",
+        "comment": "// Returns the size of the default weapon component clip.\n\nUse it like this:\n\nchar cClipSize[32];\nHash cur;\nif (WEAPON::GET_CURRENT_PED_WEAPON(playerPed, &cur, 1))\n{\n    if (WEAPON::IS_WEAPON_VALID(cur))\n    {\n        int iClipSize = WEAPON::GET_WEAPON_CLIP_SIZE(cur);\n        sprintf_s(cClipSize, \"ClipSize: %.d\", iClipSize);\n        vDrawString(cClipSize, 0.5f, 0.5f);\n    }\n}\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "0xBC0CE682D4D05650": {
+        "name": "ROPE_ATTACH_VIRTUAL_BOUND_GEOM",
+        "jhash": "0x106BA127",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

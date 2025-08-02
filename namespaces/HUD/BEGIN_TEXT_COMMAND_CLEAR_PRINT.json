@@ -1,0 +1,15 @@
+{
+    "0xE124FA80A759019C": {
+        "name": "BEGIN_TEXT_COMMAND_CLEAR_PRINT",
+        "jhash": "0x550665AE",
+        "comment": "clears a print text command with this text",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

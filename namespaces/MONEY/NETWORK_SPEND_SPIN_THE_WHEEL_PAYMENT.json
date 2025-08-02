@@ -1,0 +1,26 @@
+{
+    "0x9A5BD1D0000B339C": {
+        "name": "NETWORK_SPEND_SPIN_THE_WHEEL_PAYMENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_SPENT_SPIN_THE_WHEEL_PAYMENT"
+        ]
+    }
+}

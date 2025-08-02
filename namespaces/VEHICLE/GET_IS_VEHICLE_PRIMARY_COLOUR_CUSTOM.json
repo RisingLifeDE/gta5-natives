@@ -1,0 +1,15 @@
+{
+    "0xF095C0405307B21B": {
+        "name": "GET_IS_VEHICLE_PRIMARY_COLOUR_CUSTOM",
+        "jhash": "0xD7EC8760",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

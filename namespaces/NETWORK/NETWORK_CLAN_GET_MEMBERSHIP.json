@@ -1,0 +1,23 @@
+{
+    "0xC8BC2011F67B3411": {
+        "name": "NETWORK_CLAN_GET_MEMBERSHIP",
+        "jhash": "0xCDC4A590",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "clanMembership"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

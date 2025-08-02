@@ -1,0 +1,19 @@
+{
+    "0x9029B2F3DA924928": {
+        "name": "SET_BLIP_DISPLAY",
+        "jhash": "0x2B521F91",
+        "comment": "Display Id behaviours:\n0 = Doesn't show up, ever, anywhere.\n1 = Doesn't show up, ever, anywhere.\n2 = Shows on both main map and minimap. (Selectable on map)\n3 = Shows on main map only. (Selectable on map)\n4 = Shows on main map only. (Selectable on map)\n5 = Shows on minimap only.\n6 = Shows on both main map and minimap. (Selectable on map)\n7 = Doesn't show up, ever, anywhere.\n8 = Shows on both main map and minimap. (Not selectable on map)\n9 = Shows on minimap only.\n10 = Shows on both main map and minimap. (Not selectable on map)\n\nAnything higher than 10 seems to be exactly the same as 10.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "displayId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

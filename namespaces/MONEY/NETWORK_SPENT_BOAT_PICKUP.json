@@ -1,0 +1,27 @@
+{
+    "0x524EE43A37232C00": {
+        "name": "NETWORK_SPENT_BOAT_PICKUP",
+        "jhash": "0xB241CABD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

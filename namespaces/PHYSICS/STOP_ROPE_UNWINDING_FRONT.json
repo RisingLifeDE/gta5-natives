@@ -1,0 +1,15 @@
+{
+    "0xFFF3A50779EFBBB3": {
+        "name": "STOP_ROPE_UNWINDING_FRONT",
+        "jhash": "0x2EEDB18F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

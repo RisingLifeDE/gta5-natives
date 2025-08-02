@@ -1,0 +1,18 @@
+{
+    "0xE816E655DE37FE20": {
+        "name": "LOG10",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "1493",
+        "old_names": [
+            "_LOG10"
+        ]
+    }
+}

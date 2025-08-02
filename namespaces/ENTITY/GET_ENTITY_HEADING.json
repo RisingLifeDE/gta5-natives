@@ -1,0 +1,15 @@
+{
+    "0xE83D4F9BA2A38914": {
+        "name": "GET_ENTITY_HEADING",
+        "jhash": "0x972CC383",
+        "comment": "Returns the heading of the entity in degrees. Also know as the \"Yaw\" of an entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

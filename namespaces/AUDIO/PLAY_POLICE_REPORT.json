@@ -1,0 +1,19 @@
+{
+    "0xDFEBD56D9BD1EB16": {
+        "name": "PLAY_POLICE_REPORT",
+        "jhash": "0x3F277B62",
+        "comment": "Plays the given police radio message.\n\nAll found occurrences in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/GBnsQ5hr\nFull list of police report names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/policeReportNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

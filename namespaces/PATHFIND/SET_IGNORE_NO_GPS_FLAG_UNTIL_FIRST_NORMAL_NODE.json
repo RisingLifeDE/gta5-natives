@@ -1,0 +1,18 @@
+{
+    "0x1FC289A0C3FF470F": {
+        "name": "SET_IGNORE_NO_GPS_FLAG_UNTIL_FIRST_NORMAL_NODE",
+        "jhash": "0x90DF7A4C",
+        "comment": "See: SET_BLIP_ROUTE",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_IGNORE_SECONDARY_ROUTE_NODES"
+        ]
+    }
+}

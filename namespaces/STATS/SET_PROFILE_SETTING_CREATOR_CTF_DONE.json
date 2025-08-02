@@ -1,0 +1,15 @@
+{
+    "0x55384438FC55AD8E": {
+        "name": "SET_PROFILE_SETTING_CREATOR_CTF_DONE",
+        "jhash": "0xF03895A4",
+        "comment": "Sets profile setting 935",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

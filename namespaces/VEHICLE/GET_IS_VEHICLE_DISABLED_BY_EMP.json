@@ -1,0 +1,18 @@
+{
+    "0x0506ED94363AD905": {
+        "name": "GET_IS_VEHICLE_DISABLED_BY_EMP",
+        "jhash": "",
+        "comment": "Returns whether this vehicle is currently disabled by an EMP mine.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_GET_IS_VEHICLE_EMP_DISABLED"
+        ]
+    }
+}

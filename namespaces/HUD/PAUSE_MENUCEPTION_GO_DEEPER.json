@@ -1,0 +1,15 @@
+{
+    "0x77F16B447824DA6C": {
+        "name": "PAUSE_MENUCEPTION_GO_DEEPER",
+        "jhash": "0x0A89336C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "page"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

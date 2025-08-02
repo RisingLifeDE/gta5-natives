@@ -1,0 +1,10 @@
+{
+    "0xD2049635DEB9C375": {
+        "name": "UPDATE_RADAR_ZOOM_TO_BLIP",
+        "jhash": "0xE8D3A910",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

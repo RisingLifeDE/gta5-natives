@@ -1,0 +1,15 @@
+{
+    "0x06F761EA47C1D3ED": {
+        "name": "GOLF_TRAIL_SET_FACING",
+        "jhash": "0x0D830DC7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

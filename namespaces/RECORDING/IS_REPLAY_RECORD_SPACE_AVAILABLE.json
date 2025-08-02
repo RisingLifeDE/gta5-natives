@@ -1,0 +1,15 @@
+{
+    "0x33D47E85B476ABCD": {
+        "name": "IS_REPLAY_RECORD_SPACE_AVAILABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x04D90BA8207ADA2D": {
+        "name": "PLAYSTATS_RECOVER_CONTRABAND_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_RECOVER_CONTRABAND"
+        ]
+    }
+}

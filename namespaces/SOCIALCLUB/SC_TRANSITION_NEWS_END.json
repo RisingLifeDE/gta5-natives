@@ -1,0 +1,10 @@
+{
+    "0x675721C9F644D161": {
+        "name": "SC_TRANSITION_NEWS_END",
+        "jhash": "0x486867E6",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

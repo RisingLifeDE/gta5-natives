@@ -1,0 +1,10 @@
+{
+    "0xFBCFA2EA2E206890": {
+        "name": "NETWORK_SESSION_IS_CLOSED_FRIENDS",
+        "jhash": "0x56E75FE4",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

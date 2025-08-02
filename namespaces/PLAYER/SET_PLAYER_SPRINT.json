@@ -1,0 +1,19 @@
+{
+    "0xA01B8075D8B92DF4": {
+        "name": "SET_PLAYER_SPRINT",
+        "jhash": "0x7DD7900C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

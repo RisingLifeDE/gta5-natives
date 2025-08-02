@@ -1,0 +1,18 @@
+{
+    "0xDD564BDD0472C936": {
+        "name": "PAUSE_MENU_ACTIVATE_CONTEXT",
+        "jhash": "0x9FE8FD5E",
+        "comment": "Activates the specified frontend menu context.\npausemenu.xml defines some specific menu options using 'context'. Context is basically a 'condition'. \nThe `*ALL*` part of the context means that whatever is being defined, will be active when any or all of those conditions after `*ALL*` are met.\nThe `*NONE*` part of the context section means that whatever is being defined, will NOT be active if any or all of the conditions after `*NONE*` are met.\nThis basically allows you to hide certain menu sections, or things like instructional buttons.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_FRONTEND_MENU_CONTEXT"
+        ]
+    }
+}

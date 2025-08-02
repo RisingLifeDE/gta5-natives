@@ -1,0 +1,18 @@
+{
+    "0xD6429A016084F1A5": {
+        "name": "GET_PICKUP_TYPE_FROM_WEAPON_HASH",
+        "jhash": "",
+        "comment": "Returns the pickup hash for the given weapon hash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1290",
+        "old_names": [
+            "_GET_PICKUP_HASH_FROM_WEAPON"
+        ]
+    }
+}

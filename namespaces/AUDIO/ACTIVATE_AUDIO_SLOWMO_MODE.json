@@ -1,0 +1,15 @@
+{
+    "0xD01005D2BA2EB778": {
+        "name": "ACTIVATE_AUDIO_SLOWMO_MODE",
+        "jhash": "0x59A3A17D",
+        "comment": "mode can be any of these: \nSLOWMO_T1_TRAILER_SMASH\nSLOWMO_T1_RAYFIRE_EXPLOSION\nSLOWMO_PROLOGUE_VAULT\nNIGEL_02_SLOWMO_SETTING\nJSH_EXIT_TUNNEL_SLOWMO\nSLOWMO_BIG_SCORE_JUMP\nSLOWMO_FIB4_TRUCK_SMASH\nSLOWMO_EXTREME_04\nSLOW_MO_METH_HOUSE_RAYFIRE\nBARRY_02_SLOWMO\nBARRY_01_SLOWMO",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

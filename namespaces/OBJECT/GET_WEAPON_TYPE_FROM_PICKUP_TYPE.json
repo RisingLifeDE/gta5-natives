@@ -1,0 +1,18 @@
+{
+    "0x08F96CA6C551AD51": {
+        "name": "GET_WEAPON_TYPE_FROM_PICKUP_TYPE",
+        "jhash": "0xEDD01937",
+        "comment": "Full list of pickup types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pickupTypes.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_WEAPON_HASH_FROM_PICKUP"
+        ]
+    }
+}

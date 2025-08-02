@@ -1,0 +1,15 @@
+{
+    "0xC724C701C30B2FE7": {
+        "name": "SET_CINEMATIC_CAM_SHAKE_AMPLITUDE",
+        "jhash": "0x67510C4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

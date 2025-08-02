@@ -1,0 +1,19 @@
+{
+    "0xD01EBAEA1F905EF6": {
+        "name": "_NETWORK_EARN_AWARD_DEAD_DROP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xA6928482543022B4": {
+        "name": "SET_NETWORK_ID_VISIBLE_IN_CUTSCENE",
+        "jhash": "0x199E75EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xBD12C5EEE184C337": {
+        "name": "SET_RADAR_ZOOM_PRECISE",
+        "jhash": "0xDCA3F423",
+        "comment": "zoom ranges from 0 to 90f in R* Scripts",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "RESPONDING_AS_TEMP"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x2555CF7DA5473794": {
+        "name": "NETWORK_GET_SIGNALLING_INFO",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "unused": true
+    }
+}

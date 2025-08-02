@@ -1,0 +1,22 @@
+{
+    "0x420BD37289EEE162": {
+        "name": "DEACTIVATE_INTERIOR_ENTITY_SET",
+        "jhash": "0xDBA768A1",
+        "comment": "Full list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_INTERIOR_PROP"
+        ]
+    }
+}

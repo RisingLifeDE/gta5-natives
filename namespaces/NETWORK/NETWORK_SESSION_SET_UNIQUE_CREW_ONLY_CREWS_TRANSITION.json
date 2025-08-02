@@ -1,0 +1,15 @@
+{
+    "0x5539C3EBF104A53A": {
+        "name": "NETWORK_SESSION_SET_UNIQUE_CREW_ONLY_CREWS_TRANSITION",
+        "jhash": "0xAE396263",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

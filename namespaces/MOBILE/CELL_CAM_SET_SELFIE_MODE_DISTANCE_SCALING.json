@@ -1,0 +1,15 @@
+{
+    "0xAC2890471901861C": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_DISTANCE_SCALING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distanceScaling"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

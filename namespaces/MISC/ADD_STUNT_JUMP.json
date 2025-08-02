@@ -1,0 +1,83 @@
+{
+    "0x1A992DA297A4630C": {
+        "name": "ADD_STUNT_JUMP",
+        "jhash": "0xB630E5FF",
+        "comment": "See description of `ADD_STUNT_JUMP_ANGLED` for detailed info. The only difference really is this one does not have the radius (or angle, not sure) floats parameters for entry and landing zones.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "x4"
+            },
+            {
+                "type": "float",
+                "name": "y4"
+            },
+            {
+                "type": "float",
+                "name": "z4"
+            },
+            {
+                "type": "float",
+                "name": "camX"
+            },
+            {
+                "type": "float",
+                "name": "camY"
+            },
+            {
+                "type": "float",
+                "name": "camZ"
+            },
+            {
+                "type": "int",
+                "name": "p15"
+            },
+            {
+                "type": "int",
+                "name": "p16"
+            },
+            {
+                "type": "int",
+                "name": "p17"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

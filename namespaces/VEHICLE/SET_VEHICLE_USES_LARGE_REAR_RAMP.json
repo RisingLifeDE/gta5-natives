@@ -1,0 +1,19 @@
+{
+    "0xCAC66558B944DA67": {
+        "name": "SET_VEHICLE_USES_LARGE_REAR_RAMP",
+        "jhash": "0x0B200CE2",
+        "comment": "vehicle must be a plane",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

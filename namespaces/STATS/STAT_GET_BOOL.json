@@ -1,0 +1,23 @@
+{
+    "0x11B5E6D2AE73F48E": {
+        "name": "STAT_GET_BOOL",
+        "jhash": "0x28A3DD2B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "BOOL*",
+                "name": "outValue"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x1F13D5AE5CB17E17": {
+        "name": "GET_NUM_RESERVED_MISSION_PEDS",
+        "jhash": "0x6C25975C",
+        "comment": "p0 appears to be for MP",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

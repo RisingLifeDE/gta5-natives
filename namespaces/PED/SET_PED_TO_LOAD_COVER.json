@@ -1,0 +1,19 @@
+{
+    "0x332B562EEDA62399": {
+        "name": "SET_PED_TO_LOAD_COVER",
+        "jhash": "0xCF94BA97",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

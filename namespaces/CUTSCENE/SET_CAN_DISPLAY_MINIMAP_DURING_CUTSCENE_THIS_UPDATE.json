@@ -1,0 +1,13 @@
+{
+    "0x2131046957F31B04": {
+        "name": "SET_CAN_DISPLAY_MINIMAP_DURING_CUTSCENE_THIS_UPDATE",
+        "jhash": "0xB60CFBB9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "REGISTER_SYNCHRONISED_SCRIPT_SPEECH"
+        ]
+    }
+}

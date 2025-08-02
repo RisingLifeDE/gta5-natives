@@ -1,0 +1,26 @@
+{
+    "0x911024442F4898F0": {
+        "name": "SET_DRIVE_ARTICULATED_JOINT",
+        "jhash": "",
+        "comment": "Activate the physics to: \"xs_prop_arena_{flipper,wall,bollard,turntable,pit}\"",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_ENABLE_ARENA_PROP_PHYSICS"
+        ]
+    }
+}

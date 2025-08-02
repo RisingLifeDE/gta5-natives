@@ -1,0 +1,18 @@
+{
+    "0x9D75795B9DC6EBBF": {
+        "name": "SEETHROUGH_SET_FADE_ENDDISTANCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SEETHROUGH_SET_FADE_END_DISTANCE"
+        ]
+    }
+}

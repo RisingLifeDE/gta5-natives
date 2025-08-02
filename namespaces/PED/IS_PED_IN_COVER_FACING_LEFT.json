@@ -1,0 +1,15 @@
+{
+    "0x845333B3150583AB": {
+        "name": "IS_PED_IN_COVER_FACING_LEFT",
+        "jhash": "0xB89DBB80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

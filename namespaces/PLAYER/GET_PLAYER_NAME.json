@@ -1,0 +1,15 @@
+{
+    "0x6D0DE6A7B5DA71F8": {
+        "name": "GET_PLAYER_NAME",
+        "jhash": "0x406B4B20",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

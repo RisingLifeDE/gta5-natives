@@ -1,0 +1,15 @@
+{
+    "0xCC9AA18DCC7084F4": {
+        "name": "IS_SCRIPTED_SPEECH_PLAYING",
+        "jhash": "0x2C653904",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

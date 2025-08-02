@@ -1,0 +1,22 @@
+{
+    "0xE1A0450ED46A7812": {
+        "name": "NET_GAMESERVER_BASKET_APPLY_SERVER_DATA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_BASKET_APPLY_SERVER_DATA"
+        ]
+    }
+}

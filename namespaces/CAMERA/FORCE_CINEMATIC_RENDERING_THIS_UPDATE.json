@@ -1,0 +1,15 @@
+{
+    "0xA41BCD7213805AAC": {
+        "name": "FORCE_CINEMATIC_RENDERING_THIS_UPDATE",
+        "jhash": "0xFBB85E02",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

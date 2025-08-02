@@ -1,0 +1,15 @@
+{
+    "0x0564B9FF9631B82C": {
+        "name": "IS_DLC_VEHICLE_MOD",
+        "jhash": "0x35BCA844",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

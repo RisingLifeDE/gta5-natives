@@ -1,0 +1,22 @@
+{
+    "0xE6A9F00D4240B519": {
+        "name": "SET_SCALEFORM_MOVIE_TO_USE_SUPER_LARGE_RT",
+        "jhash": "",
+        "comment": "This native is used in some casino scripts to fit the scaleform in the rendertarget.",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_SCALEFORM_FIT_RENDERTARGET"
+        ]
+    }
+}

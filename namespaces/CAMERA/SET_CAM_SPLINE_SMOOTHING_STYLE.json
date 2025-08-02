@@ -1,0 +1,19 @@
+{
+    "0xD1B0F412F109EA5D": {
+        "name": "SET_CAM_SPLINE_SMOOTHING_STYLE",
+        "jhash": "0x15E141CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "smoothingStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

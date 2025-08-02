@@ -1,0 +1,27 @@
+{
+    "0x7141766F91D15BEA": {
+        "name": "SET_VEHICLE_CUSTOM_PRIMARY_COLOUR",
+        "jhash": "0x8DF9F9BC",
+        "comment": "p1, p2, p3 are RGB values for color (255,0,0 for Red, ect)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

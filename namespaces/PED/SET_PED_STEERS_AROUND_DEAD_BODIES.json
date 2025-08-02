@@ -1,0 +1,19 @@
+{
+    "0x2016C603D6B8987C": {
+        "name": "SET_PED_STEERS_AROUND_DEAD_BODIES",
+        "jhash": "0xA6F2C057",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

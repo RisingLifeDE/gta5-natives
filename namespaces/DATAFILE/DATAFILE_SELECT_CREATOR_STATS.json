@@ -1,0 +1,19 @@
+{
+    "0x01095C95CD46B624": {
+        "name": "DATAFILE_SELECT_CREATOR_STATS",
+        "jhash": "0xB8515B2F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

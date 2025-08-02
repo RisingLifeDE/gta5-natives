@@ -1,0 +1,23 @@
+{
+    "0xCF8BD3B0BD6D42D7": {
+        "name": "NETWORK_ADD_SYNCHRONISED_SCENE_CAMERA",
+        "jhash": "0xBFFE8B5C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netScene"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

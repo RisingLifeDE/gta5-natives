@@ -1,0 +1,27 @@
+{
+    "0x472841A026D26D8B": {
+        "name": "REMOTE_CHEATER_PLAYER_DETECTED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1103",
+        "unused": true,
+        "old_names": [
+            "_REMOTE_CHEAT_DETECTED"
+        ]
+    }
+}

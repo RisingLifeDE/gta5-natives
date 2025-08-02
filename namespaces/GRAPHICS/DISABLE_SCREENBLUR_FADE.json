@@ -1,0 +1,13 @@
+{
+    "0xDE81239437E8C5A8": {
+        "name": "DISABLE_SCREENBLUR_FADE",
+        "jhash": "0xDB7AECDA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "PAUSED_SCREENBLUR_LOADED"
+        ]
+    }
+}

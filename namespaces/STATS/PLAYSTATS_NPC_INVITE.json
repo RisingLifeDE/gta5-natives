@@ -1,0 +1,15 @@
+{
+    "0x93054C88E6AA7C44": {
+        "name": "PLAYSTATS_NPC_INVITE",
+        "jhash": "0x598C06F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

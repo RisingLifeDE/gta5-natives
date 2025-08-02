@@ -1,0 +1,15 @@
+{
+    "0x1F25887F3C104278": {
+        "name": "IS_VEHICLE_HIGH_DETAIL",
+        "jhash": "0x55D41928",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

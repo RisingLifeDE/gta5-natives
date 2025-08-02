@@ -1,0 +1,19 @@
+{
+    "0x7543BB439F63792B": {
+        "name": "NETWORK_CLAN_IS_ROCKSTAR_CLAN",
+        "jhash": "0x54E79E9C",
+        "comment": "bufferSize is 35 in the scripts.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "clanDesc"
+            },
+            {
+                "type": "int",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

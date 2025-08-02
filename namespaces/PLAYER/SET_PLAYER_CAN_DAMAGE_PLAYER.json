@@ -1,0 +1,23 @@
+{
+    "0x55FCC0C390620314": {
+        "name": "SET_PLAYER_CAN_DAMAGE_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player1"
+            },
+            {
+                "type": "Player",
+                "name": "player2"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

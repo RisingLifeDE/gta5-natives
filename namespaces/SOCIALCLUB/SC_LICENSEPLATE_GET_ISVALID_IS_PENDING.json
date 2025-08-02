@@ -1,0 +1,15 @@
+{
+    "0xD302E99EDF0449CF": {
+        "name": "SC_LICENSEPLATE_GET_ISVALID_IS_PENDING",
+        "jhash": "0x86DAE6D6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

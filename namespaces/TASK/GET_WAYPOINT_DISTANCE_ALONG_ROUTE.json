@@ -1,0 +1,19 @@
+{
+    "0xA5B769058763E497": {
+        "name": "GET_WAYPOINT_DISTANCE_ALONG_ROUTE",
+        "jhash": "0xE8422AC4",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

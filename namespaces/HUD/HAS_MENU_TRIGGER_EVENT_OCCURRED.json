@@ -1,0 +1,10 @@
+{
+    "0xF284AC67940C6812": {
+        "name": "HAS_MENU_TRIGGER_EVENT_OCCURRED",
+        "jhash": "0x7D95AFFF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

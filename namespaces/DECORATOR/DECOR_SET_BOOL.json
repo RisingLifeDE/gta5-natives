@@ -1,0 +1,23 @@
+{
+    "0x6B1E8E2ED1335B71": {
+        "name": "DECOR_SET_BOOL",
+        "jhash": "0x8E101F5C",
+        "comment": "This function sets metadata of type bool to specified entity.\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

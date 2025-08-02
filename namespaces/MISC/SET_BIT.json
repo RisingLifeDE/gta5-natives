@@ -1,0 +1,19 @@
+{
+    "0x933D6A9EEC1BACD0": {
+        "name": "SET_BIT",
+        "jhash": "0x4EFE7E6B",
+        "comment": "This sets bit [offset] of [address] to on.\n\nThe offsets used are different bits to be toggled on and off, typically there is only one address used in a script.\n\nExample:\nMISC::SET_BIT(&bitAddress, 1);\n\nTo check if this bit has been enabled:\nMISC::IS_BIT_SET(bitAddress, 1); // will return 1 afterwards\n\nPlease note, this method may assign a value to [address] when used.",
+        "params": [
+            {
+                "type": "int*",
+                "name": "address"
+            },
+            {
+                "type": "int",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

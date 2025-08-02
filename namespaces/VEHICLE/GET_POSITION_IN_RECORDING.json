@@ -1,0 +1,15 @@
+{
+    "0x2DACD605FC681475": {
+        "name": "GET_POSITION_IN_RECORDING",
+        "jhash": "0x7DCD644C",
+        "comment": "Distance traveled in the vehicles current recording.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

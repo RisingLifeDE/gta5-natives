@@ -1,0 +1,22 @@
+{
+    "0x2A86A0475B6A1434": {
+        "name": "SET_PLANE_ENGINE_HEALTH",
+        "jhash": "",
+        "comment": "Works just like SET_VEHICLE_ENGINE_HEALTH, but only for planes.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_PLANE_ENGINE_HEALTH"
+        ]
+    }
+}

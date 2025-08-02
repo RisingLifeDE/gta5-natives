@@ -1,0 +1,22 @@
+{
+    "0x661B5C8654ADD825": {
+        "name": "SET_CAM_CONTROLS_MINI_MAP_HEADING",
+        "jhash": "0xE1A0B2F1",
+        "comment": "Rotates the radar to match the camera's Z rotation",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CAM_CONTROLS_RADAR_ROTATION"
+        ]
+    }
+}

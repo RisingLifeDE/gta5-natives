@@ -1,0 +1,19 @@
+{
+    "0x0D94071E55F4C9CE": {
+        "name": "_NETWORK_GET_TUNABLES_REGISTRATION_INT",
+        "jhash": "",
+        "comment": "Checks if the given tunable exists and returns its value. Otherwise returns defaultValue.\nPossible tunable contexts must first be set up using _NETWORK_SET_TUNABLES_REGISTRATION_CONTEXTS.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "int",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "int",
+        "build": "3258"
+    }
+}

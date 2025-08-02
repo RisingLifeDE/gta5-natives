@@ -1,0 +1,19 @@
+{
+    "0x84D7FFD223CAAFFD": {
+        "name": "_SET_VEHICLE_EXPLOSIVE_DAMAGE_SCALE",
+        "jhash": "",
+        "comment": "Does not actually return anything.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "Any",
+        "build": "3407"
+    }
+}

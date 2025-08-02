@@ -1,0 +1,59 @@
+{
+    "0x2A70BAE8883E4C81": {
+        "name": "IS_POINT_IN_ANGLED_AREA",
+        "jhash": "0x73BCFFDC",
+        "comment": "An angled area is an X-Z oriented rectangle with three parameters:\n1. origin: the mid-point along a base edge of the rectangle;\n2. extent: the mid-point of opposite base edge on the other Z;\n3. width: the length of the base edge; (named derived from logging strings ``CNetworkRoadNodeWorldStateData``).\n\nThe oriented rectangle can then be derived from the direction of the two points (``norm(origin - extent)``), its orthonormal, and the width, e.g:\n1. golf_mp https://i.imgur.com/JhsQAK9.png\n2. am_taxi https://i.imgur.com/TJWCZaT.jpg",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "BOOL",
+                "name": "debug"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

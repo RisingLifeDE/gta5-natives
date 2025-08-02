@@ -1,0 +1,15 @@
+{
+    "0xAE2206545888AE49": {
+        "name": "LEADERBOARDS2_WRITE_DATA",
+        "jhash": "0x5F9DF634",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0ABF535877897560": {
+        "name": "REMOVE_AIR_DEFENCE_SPHERE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573",
+        "old_names": [
+            "_REMOVE_AIR_DEFENSE_ZONE"
+        ]
+    }
+}

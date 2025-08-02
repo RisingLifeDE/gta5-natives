@@ -1,0 +1,19 @@
+{
+    "0xCA7DC8329F0A1E9E": {
+        "name": "SET_AIR_DRAG_MULTIPLIER_FOR_PLAYERS_VEHICLE",
+        "jhash": "0xF20F72E5",
+        "comment": "This can be between 1.0f - 14.9f \n\nYou can change the max in IDA from 15.0. I say 15.0 as the function blrs if what you input is greater than or equal to 15.0 hence why it's 14.9 max default.\n\n",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

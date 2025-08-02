@@ -1,0 +1,19 @@
+{
+    "0x5009DFD741329729": {
+        "name": "PLAYSTATS_BACKGROUND_SCRIPT_ACTION",
+        "jhash": "0x61ECC465",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "action"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

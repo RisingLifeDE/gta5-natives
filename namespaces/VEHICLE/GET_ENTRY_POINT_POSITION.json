@@ -1,0 +1,22 @@
+{
+    "0xC0572928C0ABFDA3": {
+        "name": "GET_ENTRY_POINT_POSITION",
+        "jhash": "",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "944",
+        "old_names": [
+            "_GET_ENTRY_POSITION_OF_DOOR"
+        ]
+    }
+}

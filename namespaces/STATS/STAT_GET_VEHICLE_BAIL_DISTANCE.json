@@ -1,0 +1,13 @@
+{
+    "0x0B8B7F74BF061C6D": {
+        "name": "STAT_GET_VEHICLE_BAIL_DISTANCE",
+        "jhash": "",
+        "comment": "Travel the furthest distance when bailing from a vehicle",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_LONGEST_BAIL"
+        ]
+    }
+}

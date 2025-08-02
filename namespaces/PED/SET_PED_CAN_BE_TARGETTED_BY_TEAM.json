@@ -1,0 +1,23 @@
+{
+    "0xBF1CA77833E58F2C": {
+        "name": "SET_PED_CAN_BE_TARGETTED_BY_TEAM",
+        "jhash": "0xB103A8E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

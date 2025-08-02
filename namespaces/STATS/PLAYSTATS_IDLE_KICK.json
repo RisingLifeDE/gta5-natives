@@ -1,0 +1,15 @@
+{
+    "0x5DA3A8DE8CB6226F": {
+        "name": "PLAYSTATS_IDLE_KICK",
+        "jhash": "0x9E2B9522",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "msStoodIdle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

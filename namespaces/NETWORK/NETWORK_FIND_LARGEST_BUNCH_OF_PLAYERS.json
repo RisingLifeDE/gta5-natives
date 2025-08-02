@@ -1,0 +1,19 @@
+{
+    "0xFB1F9381E80FA13F": {
+        "name": "NETWORK_FIND_LARGEST_BUNCH_OF_PLAYERS",
+        "jhash": "0x0679CE71",
+        "comment": "p0 is always 0. p1 is pointing to a global.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

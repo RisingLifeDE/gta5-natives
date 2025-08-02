@@ -1,0 +1,15 @@
+{
+    "0x79C0E43EB9B944E2": {
+        "name": "SET_TABLE_GAMES_CAMERA_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1734"
+    }
+}

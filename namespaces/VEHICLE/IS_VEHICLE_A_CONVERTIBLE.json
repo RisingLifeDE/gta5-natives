@@ -1,0 +1,19 @@
+{
+    "0x52F357A30698BCCE": {
+        "name": "IS_VEHICLE_A_CONVERTIBLE",
+        "jhash": "0x6EF54490",
+        "comment": "Returns true if the vehicle has a convertible roof.\n\np1 is false almost always. However, in launcher_carwash/carwash1/carwash2 scripts, p1 is true and is accompanied by DOES_VEHICLE_HAVE_ROOF. If p1 is true, it seems that every single vehicle will return true irrespective of being a convertible.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x837155CD2F63DA09": {
+        "name": "SET_BLIP_ROUTE_COLOUR",
+        "jhash": "0xDDE7C65C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "colour"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

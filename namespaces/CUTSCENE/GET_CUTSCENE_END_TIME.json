@@ -1,0 +1,10 @@
+{
+    "0x971D7B15BCDBEF99": {
+        "name": "GET_CUTSCENE_END_TIME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1734"
+    }
+}

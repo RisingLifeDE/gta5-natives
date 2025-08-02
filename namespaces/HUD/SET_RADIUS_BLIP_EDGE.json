@@ -1,0 +1,19 @@
+{
+    "0x25615540D894B814": {
+        "name": "SET_RADIUS_BLIP_EDGE",
+        "jhash": "0x40E25DB8",
+        "comment": "Enabling this on a radius blip will make it outline only. See https://cdn.discordapp.com/attachments/553235301632573459/575132227935928330/unknown.png",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xB475F27C6A994D65": {
+        "name": "SET_PROFILE_SETTING_PROLOGUE_COMPLETE",
+        "jhash": "0xC7DE5C30",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

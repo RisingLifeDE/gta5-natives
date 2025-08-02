@@ -1,0 +1,15 @@
+{
+    "0x8B6817B71B85EBF0": {
+        "name": "IS_STREAMING_ADDITIONAL_TEXT",
+        "jhash": "0xF079E4EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

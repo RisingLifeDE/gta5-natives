@@ -1,0 +1,15 @@
+{
+    "0xFB92A102F1C4DFA3": {
+        "name": "IS_PED_FALLING",
+        "jhash": "0xABF77334",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

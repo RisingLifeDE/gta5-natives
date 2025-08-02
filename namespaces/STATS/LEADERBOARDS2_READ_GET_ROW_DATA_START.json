@@ -1,0 +1,18 @@
+{
+    "0xA0F93D5465B3094D": {
+        "name": "LEADERBOARDS2_READ_GET_ROW_DATA_START",
+        "jhash": "0xC977D6E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "LEADERBOARDS2_READ_BY_HELP_PURPLE_START"
+        ]
+    }
+}

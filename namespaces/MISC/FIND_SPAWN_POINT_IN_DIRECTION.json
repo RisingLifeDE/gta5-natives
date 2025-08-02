@@ -1,0 +1,43 @@
+{
+    "0x6874E2190B0C1972": {
+        "name": "FIND_SPAWN_POINT_IN_DIRECTION",
+        "jhash": "0x71AEFD77",
+        "comment": "Finds a position ahead of the player by predicting the players next actions.\nThe positions match path finding node positions.\nWhen roads diverge, the position may rapidly change between two or more positions. This is due to the engine not being certain of which path the player will take.",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "fwdVecX"
+            },
+            {
+                "type": "float",
+                "name": "fwdVecY"
+            },
+            {
+                "type": "float",
+                "name": "fwdVecZ"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "Vector3*",
+                "name": "spawnPoint"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

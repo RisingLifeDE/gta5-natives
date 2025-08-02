@@ -1,0 +1,19 @@
+{
+    "0x9F260BFB59ADBCA3": {
+        "name": "REMOVE_PLAYER_TARGETABLE_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

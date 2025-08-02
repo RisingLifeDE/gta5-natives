@@ -1,0 +1,19 @@
+{
+    "0x8D768602ADEF2245": {
+        "name": "SET_PLAYER_MAX_EXPLOSIVE_DAMAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

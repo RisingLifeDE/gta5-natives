@@ -1,0 +1,19 @@
+{
+    "0x433083750C5E064A": {
+        "name": "SET_PED_MAX_MOVE_BLEND_RATIO",
+        "jhash": "0xEAD0269A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

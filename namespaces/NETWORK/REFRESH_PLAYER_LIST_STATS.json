@@ -1,0 +1,18 @@
+{
+    "0xE26CCFF8094D8C74": {
+        "name": "REFRESH_PLAYER_LIST_STATS",
+        "jhash": "0xF49C1533",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "USING_NETWORK_WEAPONTYPE"
+        ]
+    }
+}

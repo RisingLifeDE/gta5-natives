@@ -1,0 +1,15 @@
+{
+    "0x5C3D0A935F535C4C": {
+        "name": "GET_LAST_MATERIAL_HIT_BY_ENTITY",
+        "jhash": "0xC0E3AA47",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

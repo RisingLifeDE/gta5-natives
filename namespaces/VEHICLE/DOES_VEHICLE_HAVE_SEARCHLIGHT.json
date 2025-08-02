@@ -1,0 +1,18 @@
+{
+    "0x99015ED7DBEA5113": {
+        "name": "DOES_VEHICLE_HAVE_SEARCHLIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2189",
+        "old_names": [
+            "_DOES_VEHICLE_HAVE_SEARCHLIGHT"
+        ]
+    }
+}

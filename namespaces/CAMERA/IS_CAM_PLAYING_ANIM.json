@@ -1,0 +1,23 @@
+{
+    "0xC90621D8A0CEECF2": {
+        "name": "IS_CAM_PLAYING_ANIM",
+        "jhash": "0xB998CB49",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}
