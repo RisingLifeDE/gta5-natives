@@ -5,8 +5,7 @@
         "comment": "Returns true if bit 0 in GtaThread+0x154 is set.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
-        "unused": true,
+        "build": "323",natives
         "old_names": [
             "_BG_EXITED_BECAUSE_BACKGROUND_THREAD_STOPPED"
         ]

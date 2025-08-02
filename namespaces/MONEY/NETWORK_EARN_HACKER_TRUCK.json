@@ -22,8 +22,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1493",
-        "unused": true,
+        "build": "1493",natives
         "old_names": [
             "_NETWORK_EARN_FROM_HACKER_TRUCK_MISSION"
         ]

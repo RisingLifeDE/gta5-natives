@@ -14,8 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1290",
-        "unused": true,
+        "build": "1290",natives
         "old_names": [
             "_NETWORK_EARN_FROM_DAR_CHALLENGE"
         ]

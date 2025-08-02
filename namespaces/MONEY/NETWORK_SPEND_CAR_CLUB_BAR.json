@@ -22,8 +22,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2372",
-        "unused": true,
+        "build": "2372",natives
         "old_names": [
             "_NETWORK_SPENT_CARCLUB"
         ]

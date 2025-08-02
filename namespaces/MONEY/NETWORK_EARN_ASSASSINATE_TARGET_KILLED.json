@@ -10,8 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1604",
-        "unused": true,
+        "build": "1604",natives
         "old_names": [
             "_NETWORK_EARN_FROM_ASSASSINATE_TARGET_KILLED"
         ]

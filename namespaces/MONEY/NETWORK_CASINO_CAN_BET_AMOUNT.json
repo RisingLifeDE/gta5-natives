@@ -10,8 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1734",
-        "unused": true,
+        "build": "1734",natives
         "old_names": [
             "_NETWORK_CASINO_CAN_GAMBLE"
         ]

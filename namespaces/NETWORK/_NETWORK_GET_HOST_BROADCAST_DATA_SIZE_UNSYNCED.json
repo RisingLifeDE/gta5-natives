@@ -22,7 +22,6 @@
             }
         ],
         "return_type": "int",
-        "build": "3586",
-        "unused": true
+        "build": "3586"natives
     }
 }

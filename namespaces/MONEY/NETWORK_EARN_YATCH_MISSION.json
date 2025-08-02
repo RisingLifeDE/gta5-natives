@@ -14,8 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2060",
-        "unused": true,
+        "build": "2060",natives
         "old_names": [
             "_NETWORK_EARN_FROM_YACHT_MISSION"
         ]

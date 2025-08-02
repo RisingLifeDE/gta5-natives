@@ -22,7 +22,6 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
-        "unused": true
+        "build": "323"natives
     }
 }

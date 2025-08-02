@@ -14,7 +14,6 @@
             }
         ],
         "return_type": "void",
-        "build": "2802",
-        "unused": true
+        "build": "2802"natives
     }
 }
