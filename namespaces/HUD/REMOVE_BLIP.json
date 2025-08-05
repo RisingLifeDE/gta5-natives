@@ -5,7 +5,7 @@
         "comment": "In the C++ SDK, this seems not to work-- the blip isn't removed immediately. I use it for saving cars.\n\nE.g.:\n\nPed pped = PLAYER::PLAYER_PED_ID();\nVehicle v = PED::GET_VEHICLE_PED_IS_USING(pped);\nBlip b = HUD::ADD_BLIP_FOR_ENTITY(v);\n\nworks fine.\nBut later attempting to delete it with:\n\nBlip b = HUD::GET_BLIP_FROM_ENTITY(v);\nif (HUD::DOES_BLIP_EXIST(b)) HUD::REMOVE_BLIP(&b);\n\ndoesn't work. And yes, doesn't work without the DOES_BLIP_EXIST check either. Also, if you attach multiple blips to the same thing (say, a vehicle), and that thing disappears, the blips randomly attach to other things (in my case, a vehicle).\n\nThus for me, HUD::REMOVE_BLIP(&b) only works if there's one blip, (in my case) the vehicle is marked as no longer needed, you drive away from it and it eventually despawns, AND there is only one blip attached to it. I never intentionally attach multiple blips but if the user saves the car, this adds a blip. Then if they delete it, it is supposed to remove the blip, but it doesn't. Then they can immediately save it again, causing another blip to re-appear.\n-------------\n\nPassing the address of the variable instead of the value works for me.\ne.g.\nint blip = HUD::ADD_BLIP_FOR_ENTITY(ped);\nHUD::REMOVE_BLIP(&blip);\n\n\nRemove blip will currently crash your game, just artificially remove the blip by setting the sprite to a id that is 'invisible'.",
         "params": [
             {
-                "type": "Blip*",
+                "type": "const Blip*",
                 "name": "blip"
             }
         ],
