@@ -1,0 +1,10 @@
+{
+    "0x4666CD7431DE98E2": {
+        "name": "_NETWORK_IS_SPECIAL_TUTORIAL_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3717"
+    }
+}

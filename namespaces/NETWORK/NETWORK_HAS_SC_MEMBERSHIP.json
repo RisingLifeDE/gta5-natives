@@ -1,0 +1,10 @@
+{
+    "0xAB286B2192A71E32": {
+        "name": "NETWORK_HAS_SC_MEMBERSHIP",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3717"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xDC00BB9C27347A8F": {
+        "name": "_PLAYSTATS_LOBBY_STARTED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x0F7082C60FB479EF": {
+        "name": "_GET_MODEL_ADDITIONAL_COST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "3717"
+    }
+}

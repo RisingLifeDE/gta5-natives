@@ -1,0 +1,15 @@
+{
+    "0xD3DEBE2991FE8098": {
+        "name": "NETWORK_GET_HOST_OF_THREAD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "Player",
+        "build": "3717"
+    }
+}

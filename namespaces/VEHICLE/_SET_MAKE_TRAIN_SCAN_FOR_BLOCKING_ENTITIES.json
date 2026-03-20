@@ -1,0 +1,19 @@
+{
+    "0x559B6073DB7FFFF9": {
+        "name": "_SET_MAKE_TRAIN_SCAN_FOR_BLOCKING_ENTITIES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

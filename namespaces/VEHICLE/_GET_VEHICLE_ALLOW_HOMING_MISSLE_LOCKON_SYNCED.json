@@ -1,0 +1,15 @@
+{
+    "0x613A431BCD5A22EB": {
+        "name": "_GET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON_SYNCED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3717"
+    }
+}

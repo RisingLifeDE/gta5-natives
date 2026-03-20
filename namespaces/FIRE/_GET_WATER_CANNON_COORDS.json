@@ -1,0 +1,15 @@
+{
+    "0xE61CBD3ED80E7327": {
+        "name": "_GET_WATER_CANNON_COORDS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "3717"
+    }
+}

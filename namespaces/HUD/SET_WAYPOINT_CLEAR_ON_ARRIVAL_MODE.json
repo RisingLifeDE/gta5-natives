@@ -1,0 +1,15 @@
+{
+    "0x3FFC556B62146F75": {
+        "name": "SET_WAYPOINT_CLEAR_ON_ARRIVAL_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

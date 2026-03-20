@@ -1,6 +1,6 @@
 {
     "0xDDA77EE33C005AAF": {
-        "name": "_INTERPOLATE_CAM_WITH_PARAMS",
+        "name": "INTERPOLATE_CAMERA_WITH_PARAMS",
         "jhash": "",
         "comment": "",
         "params": [
@@ -58,6 +58,9 @@
             }
         ],
         "return_type": "void",
-        "build": "3258"
+        "build": "3258",
+        "old_names": [
+            "_INTERPOLATE_CAM_WITH_PARAMS"
+        ]
     }
 }

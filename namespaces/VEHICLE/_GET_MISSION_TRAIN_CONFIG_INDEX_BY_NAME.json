@@ -1,0 +1,15 @@
+{
+    "0x7DFAD92A34F09C00": {
+        "name": "_GET_MISSION_TRAIN_CONFIG_INDEX_BY_NAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "int",
+        "build": "3717"
+    }
+}

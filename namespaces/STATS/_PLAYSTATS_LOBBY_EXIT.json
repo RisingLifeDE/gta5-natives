@@ -1,0 +1,15 @@
+{
+    "0x4649D80CE1A35BA1": {
+        "name": "_PLAYSTATS_LOBBY_EXIT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

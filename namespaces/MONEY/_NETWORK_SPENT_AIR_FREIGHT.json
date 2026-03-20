@@ -27,6 +27,10 @@
             {
                 "type": "int",
                 "name": "warehouseSlot"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
             }
         ],
         "return_type": "void",
