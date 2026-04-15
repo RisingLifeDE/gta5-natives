@@ -1,0 +1,27 @@
+{
+    "0xC443FD757C3BA637": {
+        "name": "MODIFY_WATER",
+        "jhash": "0xC49E005A",
+        "comment": "Sets the water height for a given position and radius.\n",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

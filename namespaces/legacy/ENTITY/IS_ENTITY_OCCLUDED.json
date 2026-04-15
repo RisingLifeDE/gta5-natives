@@ -1,0 +1,15 @@
+{
+    "0xE31C2C72B8692B64": {
+        "name": "IS_ENTITY_OCCLUDED",
+        "jhash": "0x46BC5B40",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

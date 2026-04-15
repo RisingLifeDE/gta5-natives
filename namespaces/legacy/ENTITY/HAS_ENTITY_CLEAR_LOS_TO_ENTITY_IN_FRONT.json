@@ -1,0 +1,19 @@
+{
+    "0x0267D00AF114F17A": {
+        "name": "HAS_ENTITY_CLEAR_LOS_TO_ENTITY_IN_FRONT",
+        "jhash": "0x210D87C8",
+        "comment": "Has the entity1 got a clear line of sight to the other entity2 from the direction entity1 is facing.\nThis is one of the most CPU demanding BOOL natives in the game; avoid calling this in things like nested for-loops",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

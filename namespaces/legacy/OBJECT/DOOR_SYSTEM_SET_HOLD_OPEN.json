@@ -1,0 +1,19 @@
+{
+    "0xD9B71952F78A2640": {
+        "name": "DOOR_SYSTEM_SET_HOLD_OPEN",
+        "jhash": "0xECE58AE0",
+        "comment": "Includes networking check: ownership vs. or the door itself **isn't** networked.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

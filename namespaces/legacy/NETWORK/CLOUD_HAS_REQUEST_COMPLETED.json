@@ -1,0 +1,15 @@
+{
+    "0x4C61B39930D045DA": {
+        "name": "CLOUD_HAS_REQUEST_COMPLETED",
+        "jhash": "0xBAF52DD8",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

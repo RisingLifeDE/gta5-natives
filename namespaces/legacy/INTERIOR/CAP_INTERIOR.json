@@ -1,0 +1,19 @@
+{
+    "0xD9175F941610DB54": {
+        "name": "CAP_INTERIOR",
+        "jhash": "0x34E735A6",
+        "comment": "Does something similar to INTERIOR::DISABLE_INTERIOR",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

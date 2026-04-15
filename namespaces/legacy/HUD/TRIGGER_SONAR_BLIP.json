@@ -1,0 +1,31 @@
+{
+    "0x72DD432F3CDFC0EE": {
+        "name": "TRIGGER_SONAR_BLIP",
+        "jhash": "0xBF25E7B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

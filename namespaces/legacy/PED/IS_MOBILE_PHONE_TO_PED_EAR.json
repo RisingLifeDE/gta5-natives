@@ -1,0 +1,15 @@
+{
+    "0xA3F3564A5B3646C0": {
+        "name": "IS_MOBILE_PHONE_TO_PED_EAR",
+        "jhash": "0x97353375",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

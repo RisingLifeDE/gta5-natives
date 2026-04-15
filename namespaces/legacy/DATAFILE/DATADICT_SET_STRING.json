@@ -1,0 +1,26 @@
+{
+    "0x8FF3847DADD8E30C": {
+        "name": "DATADICT_SET_STRING",
+        "jhash": "0xD437615C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_STRING"
+        ]
+    }
+}

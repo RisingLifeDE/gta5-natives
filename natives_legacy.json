@@ -5251,6 +5251,7 @@
             "build": "323"
         }
     },
+    "CAM": {},
     "CAMERA": {
         "0x8609C75EC438FB3B": {
             "name": "ADD_CAM_SPLINE_NODE",

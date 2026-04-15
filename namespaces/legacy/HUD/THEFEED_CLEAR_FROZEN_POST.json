@@ -1,0 +1,13 @@
+{
+    "0x80FE4F3AB4E1B62A": {
+        "name": "THEFEED_CLEAR_FROZEN_POST",
+        "jhash": "0x3CD4307C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_THEFEED_FLUSH_PERSISTENT"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x50B56988B170AFDF": {
+        "name": "SET_HEAD_BLEND_EYE_COLOR",
+        "jhash": "",
+        "comment": "Used for freemode (online) characters.\n\nFor some reason, the scripts use a rounded float for the index.\nIndexes:\n1. black\n2. very light blue/green\n3. dark blue\n4. brown\n5. darker brown\n6. light brown\n7. blue\n8. light blue\n9. pink\n10. yellow\n11. purple\n12. black\n13. dark green\n14. light brown\n15. yellow/black pattern\n16. light colored spiral pattern\n17. shiny red\n18. shiny half blue/half red\n19. half black/half light blue\n20. white/red perimter\n21. green snake\n22. red snake\n23. dark blue snake\n24. dark yellow\n25. bright yellow\n26. all black\n28. red small pupil\n29. devil blue/black\n30. white small pupil\n31. glossed over",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_EYE_COLOR"
+        ]
+    }
+}

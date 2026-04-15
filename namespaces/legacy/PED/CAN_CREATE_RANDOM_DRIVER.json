@@ -1,0 +1,10 @@
+{
+    "0xB8EB95E5B4E56978": {
+        "name": "CAN_CREATE_RANDOM_DRIVER",
+        "jhash": "0x99861609",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

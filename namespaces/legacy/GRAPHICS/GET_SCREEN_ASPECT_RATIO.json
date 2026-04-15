@@ -1,0 +1,10 @@
+{
+    "0xB2EBE8CBC58B90E9": {
+        "name": "GET_SCREEN_ASPECT_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

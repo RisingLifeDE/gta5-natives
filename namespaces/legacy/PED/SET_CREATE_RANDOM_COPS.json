@@ -1,0 +1,15 @@
+{
+    "0x102E68B2024D536D": {
+        "name": "SET_CREATE_RANDOM_COPS",
+        "jhash": "0x23441648",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xE5608CA7BC163A5F": {
+        "name": "NETWORK_ACCESS_TUNABLE_FLOAT",
+        "jhash": "0x41E8912A",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "const char*",
+                "name": "tunableName"
+            },
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

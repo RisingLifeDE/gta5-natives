@@ -1,0 +1,10 @@
+{
+    "0x4237E822315D8BA9": {
+        "name": "NETWORK_WAS_GAME_SUSPENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

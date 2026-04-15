@@ -1,0 +1,26 @@
+{
+    "0xE7DF4E0545DFB56E": {
+        "name": "NETWORK_SPENT_MOVE_YACHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_NETWORK_SPENT_MOVE_YACHT"
+        ]
+    }
+}

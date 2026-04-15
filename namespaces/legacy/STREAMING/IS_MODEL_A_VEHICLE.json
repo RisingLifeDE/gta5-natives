@@ -1,0 +1,15 @@
+{
+    "0x19AAC8F07BFEC53E": {
+        "name": "IS_MODEL_A_VEHICLE",
+        "jhash": "0xFFFC85D4",
+        "comment": "Returns whether the specified model represents a vehicle.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

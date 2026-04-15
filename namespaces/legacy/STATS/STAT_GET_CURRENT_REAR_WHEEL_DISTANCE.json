@@ -1,0 +1,13 @@
+{
+    "0xA943FD1722E11EFD": {
+        "name": "STAT_GET_CURRENT_REAR_WHEEL_DISTANCE",
+        "jhash": "",
+        "comment": "Perform the longest wheelie on a motorcycle",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_LONGEST_WHEELIE"
+        ]
+    }
+}

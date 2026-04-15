@@ -1,0 +1,15 @@
+{
+    "0xF46CDC33180FDA94": {
+        "name": "GET_WEAPONTYPE_MODEL",
+        "jhash": "0x44E1C269",
+        "comment": "Returns the model of any weapon.\n\nCan also take an ammo hash?\nsub_6663a(&l_115B, WEAPON::GET_WEAPONTYPE_MODEL(${ammo_rpg}));",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

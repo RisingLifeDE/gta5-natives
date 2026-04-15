@@ -1,0 +1,15 @@
+{
+    "0x9B6E70C5CEEF4EEB": {
+        "name": "QUERY_MOVIE_MESH_SET_STATE",
+        "jhash": "0x9D5D9B38",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

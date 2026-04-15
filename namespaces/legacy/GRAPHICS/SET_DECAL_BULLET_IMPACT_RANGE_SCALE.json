@@ -1,0 +1,15 @@
+{
+    "0x46D1A61A21F566FC": {
+        "name": "SET_DECAL_BULLET_IMPACT_RANGE_SCALE",
+        "jhash": "0x2056A015",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

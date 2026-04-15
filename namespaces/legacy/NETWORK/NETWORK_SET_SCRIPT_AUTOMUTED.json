@@ -1,0 +1,15 @@
+{
+    "0xB309EBEA797E001F": {
+        "name": "NETWORK_SET_SCRIPT_AUTOMUTED",
+        "jhash": "0x5C0AB2A9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

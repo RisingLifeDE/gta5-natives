@@ -1,0 +1,22 @@
+{
+    "0xA735353C77334EA0": {
+        "name": "REGISTER_INT64_TO_SAVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REGISTER_INT64_TO_SAVE"
+        ]
+    }
+}

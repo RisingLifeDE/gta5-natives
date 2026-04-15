@@ -1,0 +1,15 @@
+{
+    "0x16E42E800B472221": {
+        "name": "FORCE_PED_TO_OPEN_PARACHUTE",
+        "jhash": "0xA819680B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

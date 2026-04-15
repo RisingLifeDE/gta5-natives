@@ -1,0 +1,23 @@
+{
+    "0x20194D48EAEC9A41": {
+        "name": "PROCESS_CASH_GIFT",
+        "jhash": "0xC5D8B1E9",
+        "comment": "This isn't a hash collision.",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

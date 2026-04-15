@@ -1,0 +1,15 @@
+{
+    "0xDD2238F57B977751": {
+        "name": "DOES_BLIP_HAVE_GPS_ROUTE",
+        "jhash": "0x3E47F357",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

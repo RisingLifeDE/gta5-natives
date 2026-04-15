@@ -1,0 +1,34 @@
+{
+    "0xF9904D11F1ACBEC3": {
+        "name": "GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION",
+        "jhash": "0xFE9A39F8",
+        "comment": "World to relative screen coords, this world to screen will keep the text on screen. Was named _GET_SCREEN_COORD_FROM_WORLD_COORD, but this conflicts with 0x34E82F05DF2974F5. As that hash actually matches GET_SCREEN_COORD_FROM_WORLD_COORD that one supercedes and this one was renamed to _GET_2D_COORD_FROM_3D_COORD",
+        "params": [
+            {
+                "type": "float",
+                "name": "worldX"
+            },
+            {
+                "type": "float",
+                "name": "worldY"
+            },
+            {
+                "type": "float",
+                "name": "worldZ"
+            },
+            {
+                "type": "float*",
+                "name": "screenX"
+            },
+            {
+                "type": "float*",
+                "name": "screenY"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_2D_COORD_FROM_3D_COORD"
+        ]
+    }
+}

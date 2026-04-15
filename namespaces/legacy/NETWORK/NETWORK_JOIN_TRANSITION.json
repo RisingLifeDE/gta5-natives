@@ -1,0 +1,15 @@
+{
+    "0x9D060B08CD63321A": {
+        "name": "NETWORK_JOIN_TRANSITION",
+        "jhash": "0xB054EC4B",
+        "comment": "int handle[76];\n          NETWORK_HANDLE_FROM_FRIEND(iSelectedPlayer, &handle[0], 13);\n          Player uVar2 = NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(&handle[0]);\n          NETWORK_JOIN_TRANSITION(uVar2);\nnothing doin.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

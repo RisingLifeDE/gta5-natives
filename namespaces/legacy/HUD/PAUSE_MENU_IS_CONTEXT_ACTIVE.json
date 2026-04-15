@@ -1,0 +1,15 @@
+{
+    "0x84698AB38D0C6636": {
+        "name": "PAUSE_MENU_IS_CONTEXT_ACTIVE",
+        "jhash": "0xC51BC42F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

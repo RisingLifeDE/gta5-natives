@@ -1,0 +1,22 @@
+{
+    "0x43C677F1E1158005": {
+        "name": "GET_IS_ARTICULATED_JOINT_AT_MIN_ANGLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_GET_IS_ARENA_PROP_PHYSICS_DISABLED"
+        ]
+    }
+}

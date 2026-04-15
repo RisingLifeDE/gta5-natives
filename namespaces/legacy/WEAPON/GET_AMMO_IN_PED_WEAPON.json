@@ -1,0 +1,19 @@
+{
+    "0x015A522136D7F951": {
+        "name": "GET_AMMO_IN_PED_WEAPON",
+        "jhash": "0x0C755733",
+        "comment": "WEAPON::GET_AMMO_IN_PED_WEAPON(PLAYER::PLAYER_PED_ID(), a_0)\n\nFrom decompiled scripts\nReturns total ammo in weapon\n\nGTALua Example :\nnatives.WEAPON.GET_AMMO_IN_PED_WEAPON(plyPed, WeaponHash)\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponhash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

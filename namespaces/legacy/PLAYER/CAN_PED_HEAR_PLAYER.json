@@ -1,0 +1,19 @@
+{
+    "0xF297383AA91DCA29": {
+        "name": "CAN_PED_HEAR_PLAYER",
+        "jhash": "0x1C70B2EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

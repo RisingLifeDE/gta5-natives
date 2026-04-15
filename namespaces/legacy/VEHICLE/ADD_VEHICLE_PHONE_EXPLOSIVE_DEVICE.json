@@ -1,0 +1,15 @@
+{
+    "0x99AD4CCCB128CBC9": {
+        "name": "ADD_VEHICLE_PHONE_EXPLOSIVE_DEVICE",
+        "jhash": "0x811373DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

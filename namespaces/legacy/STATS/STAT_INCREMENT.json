@@ -1,0 +1,19 @@
+{
+    "0x9B5A68C6489E9909": {
+        "name": "STAT_INCREMENT",
+        "jhash": "0xDFC5F71E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

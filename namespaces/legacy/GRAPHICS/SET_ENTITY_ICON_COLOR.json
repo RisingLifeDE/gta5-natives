@@ -1,0 +1,31 @@
+{
+    "0x1D5F595CCAE2E238": {
+        "name": "SET_ENTITY_ICON_COLOR",
+        "jhash": "0x6EE1E946",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

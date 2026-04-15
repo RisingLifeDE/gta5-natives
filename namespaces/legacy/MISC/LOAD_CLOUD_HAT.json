@@ -1,0 +1,22 @@
+{
+    "0xFC4842A34657BFCB": {
+        "name": "LOAD_CLOUD_HAT",
+        "jhash": "0xED88FC61",
+        "comment": "The following cloudhats are useable:\naltostratus\nCirrus\ncirrocumulus\nClear 01\nCloudy 01\nContrails\nHorizon\nhorizonband1\nhorizonband2\nhorizonband3\nhorsey\nNimbus\nPuffs\nRAIN\nSnowy 01\nStormy 01\nstratoscumulus\nStripey\nshower\nWispy\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "transitionTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CLOUD_HAT_TRANSITION"
+        ]
+    }
+}

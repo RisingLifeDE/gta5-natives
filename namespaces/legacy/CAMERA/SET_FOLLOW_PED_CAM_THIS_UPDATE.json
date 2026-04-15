@@ -1,0 +1,22 @@
+{
+    "0x44A113DD6FFC48D1": {
+        "name": "SET_FOLLOW_PED_CAM_THIS_UPDATE",
+        "jhash": "0x1425F6AC",
+        "comment": "From the scripts:\n\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_ATTACHED_TO_ROPE_CAMERA\", 0);\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_ON_EXILE1_LADDER_CAMERA\", 1500);\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_SKY_DIVING_CAMERA\", 0);\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_SKY_DIVING_CAMERA\", 3000);\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_SKY_DIVING_FAMILY5_CAMERA\", 0);\nCAM::SET_FOLLOW_PED_CAM_THIS_UPDATE(\"FOLLOW_PED_SKY_DIVING_CAMERA\", 0);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_FOLLOW_PED_CAM_CUTSCENE_CHAT"
+        ]
+    }
+}

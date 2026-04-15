@@ -1,0 +1,15 @@
+{
+    "0x5721B434AD84D57A": {
+        "name": "IS_VEHICLE_STOPPED",
+        "jhash": "0x655F072C",
+        "comment": "Returns true if the vehicle's current speed is less than, or equal to 0.0025f.\n\nFor some vehicles it returns true if the current speed is <= 0.00039999999.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

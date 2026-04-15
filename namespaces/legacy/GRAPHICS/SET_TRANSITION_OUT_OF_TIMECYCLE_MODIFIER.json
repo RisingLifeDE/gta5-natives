@@ -1,0 +1,18 @@
+{
+    "0x1CBA05AE7BD7EE05": {
+        "name": "SET_TRANSITION_OUT_OF_TIMECYCLE_MODIFIER",
+        "jhash": "0x56345F6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TRANSITION_TIMECYCLE_MODIFIER_STOP_WITH_BLEND"
+        ]
+    }
+}

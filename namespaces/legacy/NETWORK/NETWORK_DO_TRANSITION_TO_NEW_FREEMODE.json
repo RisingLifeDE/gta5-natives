@@ -1,0 +1,35 @@
+{
+    "0x9E80A5BA8109F974": {
+        "name": "NETWORK_DO_TRANSITION_TO_NEW_FREEMODE",
+        "jhash": "0xAD13375E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "players"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

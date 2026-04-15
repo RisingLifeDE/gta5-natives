@@ -1,0 +1,19 @@
+{
+    "0x93AE6A61BE015BF1": {
+        "name": "SET_VEHICLE_LOD_MULTIPLIER",
+        "jhash": "0x569E5AE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

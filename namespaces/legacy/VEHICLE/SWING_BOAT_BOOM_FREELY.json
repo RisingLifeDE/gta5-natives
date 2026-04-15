@@ -1,0 +1,22 @@
+{
+    "0xC1F981A6F74F0C23": {
+        "name": "SWING_BOAT_BOOM_FREELY",
+        "jhash": "0x00966934",
+        "comment": "Same call as ALLOW_BOAT_BOOM_TO_ANIMATE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_BOAT_BOOM_POSITION_RATIO_2"
+        ]
+    }
+}

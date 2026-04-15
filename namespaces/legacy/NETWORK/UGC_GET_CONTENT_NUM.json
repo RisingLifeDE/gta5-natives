@@ -1,0 +1,10 @@
+{
+    "0xE0A6138401BCB837": {
+        "name": "UGC_GET_CONTENT_NUM",
+        "jhash": "0x2DE69817",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x477D9DB48F889591": {
+        "name": "LOCK_RADIO_STATION",
+        "jhash": "",
+        "comment": "Disables the radio station (hides it from the radio wheel).",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStationName"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_RADIO_STATION_DISABLED",
+            "_LOCK_RADIO_STATION"
+        ]
+    }
+}

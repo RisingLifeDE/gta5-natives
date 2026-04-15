@@ -1,0 +1,47 @@
+{
+    "0x1F3F018BC3AFA77C": {
+        "name": "STREAMVOL_CREATE_FRUSTUM",
+        "jhash": "0x72344191",
+        "comment": "Always returns zero.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

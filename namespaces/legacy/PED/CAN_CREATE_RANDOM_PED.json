@@ -1,0 +1,15 @@
+{
+    "0x3E8349C08E4B82E4": {
+        "name": "CAN_CREATE_RANDOM_PED",
+        "jhash": "0xF9ABE88F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

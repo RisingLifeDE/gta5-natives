@@ -1,0 +1,15 @@
+{
+    "0x975D66A0BC17064C": {
+        "name": "SET_MAX_HEALTH_HUD_DISPLAY",
+        "jhash": "0xF07D8CEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maximumValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

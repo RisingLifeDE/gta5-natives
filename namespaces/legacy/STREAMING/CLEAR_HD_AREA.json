@@ -1,0 +1,10 @@
+{
+    "0xCE58B1CFB9290813": {
+        "name": "CLEAR_HD_AREA",
+        "jhash": "0x7CAC6FA0",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

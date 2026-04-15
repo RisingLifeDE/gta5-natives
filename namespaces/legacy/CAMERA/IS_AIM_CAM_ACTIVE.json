@@ -1,0 +1,10 @@
+{
+    "0x68EDDA28A5976D07": {
+        "name": "IS_AIM_CAM_ACTIVE",
+        "jhash": "0xC24B4F6F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x870B8B7A766615C8": {
+        "name": "SET_VEHICLE_BOBBLEHEAD_VELOCITY",
+        "jhash": "",
+        "comment": "Controls how fast bobbleheads and tsurikawas move on each axis.\n\np2 is probably z, but changing that value didn't seem to have a noticeable effect.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

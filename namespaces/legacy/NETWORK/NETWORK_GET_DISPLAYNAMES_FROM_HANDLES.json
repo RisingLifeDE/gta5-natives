@@ -1,0 +1,23 @@
+{
+    "0x58CC181719256197": {
+        "name": "NETWORK_GET_DISPLAYNAMES_FROM_HANDLES",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x5CD3CB88A7F8850D": {
+        "name": "IS_PED_HEADTRACKING_PED",
+        "jhash": "0x2A5DF721",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

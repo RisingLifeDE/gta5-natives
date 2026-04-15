@@ -1,0 +1,10 @@
+{
+    "0xF3929C2379B60CCE": {
+        "name": "NETWORK_SESSION_IS_SOLO",
+        "jhash": "0x3D2C1916",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

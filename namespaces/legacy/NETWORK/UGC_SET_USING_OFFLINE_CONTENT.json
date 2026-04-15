@@ -1,0 +1,15 @@
+{
+    "0xFD75DABC0957BF33": {
+        "name": "UGC_SET_USING_OFFLINE_CONTENT",
+        "jhash": "0x511E6F50",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}
