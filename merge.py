@@ -1,10 +1,11 @@
 import json
 import os
+import sys
 import jsonschema
 import traceback
 
-def merge_json_namespaces(output_file, schema_file):
-    input_dir = 'namespaces'
+def merge_json_namespaces(version, output_file, schema_file):
+    input_dir = os.path.join('namespaces', version)
     current_file = None
     current_namespace = None
 
@@ -106,11 +107,16 @@ def merge_json_namespaces(output_file, schema_file):
 
 
 if __name__ == "__main__":
-    output_file = 'natives.json'
+    if len(sys.argv) != 2 or sys.argv[1] not in ('legacy', 'enhanced'):
+        print("Invalid version! Use 'legacy' or 'enhanced'.")
+        exit(1)
+
+    version = sys.argv[1]
+    output_file = f'natives_{version}.json'
     schema_file = 'schema.json'
 
     try:
-        merge_json_namespaces(output_file, schema_file)
+        merge_json_namespaces(version, output_file, schema_file)
     except Exception:
         print("\nScript execution failed. Check the error messages above.")
         exit(1)

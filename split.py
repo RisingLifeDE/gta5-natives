@@ -1,17 +1,18 @@
 import json
 import os
+import sys
 
-def split_json_namespaces(input_file):
+def split_json_namespaces(version, input_file):
     with open(input_file, 'r') as file:
         data = json.load(file)
 
-    output_dir = 'namespaces'
+    output_dir = os.path.join('namespaces', version)
     os.makedirs(output_dir, exist_ok=True)
 
     for namespace, content in data.items():
         namespace_dir = os.path.join(output_dir, namespace)
         os.makedirs(namespace_dir, exist_ok=True)
-        
+
         for key, key_content in content.items():
             if 'name' in key_content:
                 file_name = f"{key_content['name']}.json"
@@ -22,5 +23,15 @@ def split_json_namespaces(input_file):
                 json.dump({key: key_content}, outfile, indent=4)
             print(f'Written key {key} of namespace {namespace} to {output_file}')
 
-input_file = 'natives.json'
-split_json_namespaces(input_file)
+if len(sys.argv) != 2 or sys.argv[1] not in ('legacy', 'enhanced'):
+    print("Invalid version! Use 'legacy' or 'enhanced'.")
+    exit(1)
+
+version = sys.argv[1]
+input_file = f'natives_{version}.json'
+
+if not os.path.exists(input_file):
+    print(f"File '{input_file}' not found!")
+    exit(1)
+
+split_json_namespaces(version, input_file)

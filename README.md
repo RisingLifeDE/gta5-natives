@@ -1,8 +1,7 @@
 # Grand Theft Natives
 This repository is for educational purposes only.
-Since there is no official Cfx documentation and likely never will be, we decided to create our own. This way, the community can contribute their research and help RedM grow.
 
-### valid param types and return types
+### Valid param types and return types
 - look in schema.json
 
 ### Tools

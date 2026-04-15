@@ -1,7 +1,13 @@
 import json
 import os
+import sys
 
-NAMESPACES_DIR = "namespaces"
+if len(sys.argv) != 2 or sys.argv[1] not in ('legacy', 'enhanced'):
+    print("Invalid version! Use 'legacy' or 'enhanced'.")
+    exit(1)
+
+version = sys.argv[1]
+NAMESPACES_DIR = os.path.join("namespaces", version)
 existing_info = {}
 
 for namespace_dir in os.listdir(NAMESPACES_DIR):
@@ -22,7 +28,9 @@ for namespace_dir in os.listdir(NAMESPACES_DIR):
             if "examples" in content:
                 existing_info[namespace_dir][hash_key]["examples"] = content["examples"]
 
-with open("input.json", "r") as f:
+input_file = f"natives_{version}.json"
+
+with open(input_file, "r") as f:
     input_data = json.load(f)
 
 output_data = {}
@@ -59,5 +67,9 @@ for namespace, natives in input_data.items():
             converted["gta_jhash"] = ""
         output_data[namespace][hash_key] = converted
 
-with open("natives.json", "w") as f:
+output_file = f"natives_{version}.json"
+
+with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)
+
+print(f"✓ Written output to {output_file}")
