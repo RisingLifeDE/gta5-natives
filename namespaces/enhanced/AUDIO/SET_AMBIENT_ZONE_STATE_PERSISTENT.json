@@ -7,14 +7,14 @@
             {
                 "type": "const char*",
                 "name": "ambientZone"
+              },
+            {
+                "type": "BOOL",
+                "name": "enabled"
             },
             {
                 "type": "BOOL",
-                "name": "p1"
-            },
-            {
-                "type": "BOOL",
-                "name": "p2"
+                "name": "forceUpdate"
             }
         ],
         "return_type": "void",
