@@ -1,0 +1,15 @@
+{
+    "0xC8B189ED9138BCD4": {
+        "name": "TERMINATE_THREAD",
+        "jhash": "0x253FD520",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

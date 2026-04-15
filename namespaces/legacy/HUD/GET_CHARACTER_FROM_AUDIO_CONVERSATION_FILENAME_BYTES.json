@@ -1,0 +1,26 @@
+{
+    "0xCE94AEBA5D82908A": {
+        "name": "GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_BYTES",
+        "jhash": "0xFA6373BB",
+        "comment": "Returns a substring that is between two specified positions. The length of the string will be calculated using (endPosition - startPosition).\n\nExample:\n// Get \"STRING\" text from \"MY_STRING\"\nsubStr = HUD::GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_BYTES(\"MY_STRING\", 3, 9);\n// Overflows are possibly replaced with underscores (needs verification)\nsubStr = HUD::GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME_BYTES(\"MY_STRING\", 3, 10); // \"STRING_\"?",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "startPosition"
+            },
+            {
+                "type": "int",
+                "name": "endPosition"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_TEXT_SUBSTRING_SLICE"
+        ]
+    }
+}

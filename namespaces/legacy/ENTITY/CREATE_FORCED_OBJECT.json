@@ -1,0 +1,35 @@
+{
+    "0x150E808B375A385A": {
+        "name": "CREATE_FORCED_OBJECT",
+        "jhash": "0x335190A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

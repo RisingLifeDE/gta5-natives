@@ -1,0 +1,19 @@
+{
+    "0x1718DE8E3F2823CA": {
+        "name": "SET_ENTITY_DYNAMIC",
+        "jhash": "0x236F525B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

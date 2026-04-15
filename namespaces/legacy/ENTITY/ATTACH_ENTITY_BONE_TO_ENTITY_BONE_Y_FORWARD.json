@@ -1,0 +1,38 @@
+{
+    "0xFD1695C5D3B05439": {
+        "name": "ATTACH_ENTITY_BONE_TO_ENTITY_BONE_Y_FORWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex1"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_ATTACH_ENTITY_BONE_TO_ENTITY_BONE_PHYSICALLY"
+        ]
+    }
+}

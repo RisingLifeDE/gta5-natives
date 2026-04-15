@@ -1,0 +1,18 @@
+{
+    "0x3D34E80EED4AE3BE": {
+        "name": "IS_ROCKET_BOOST_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_IS_VEHICLE_ROCKET_BOOST_ACTIVE"
+        ]
+    }
+}

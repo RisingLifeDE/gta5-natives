@@ -1,0 +1,15 @@
+{
+    "0x729B5F1EFBC0AAEE": {
+        "name": "GET_BLIP_HUD_COLOUR",
+        "jhash": "0xE88B4BC2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

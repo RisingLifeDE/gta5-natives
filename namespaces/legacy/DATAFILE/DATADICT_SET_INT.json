@@ -1,0 +1,26 @@
+{
+    "0xE7E035450A7948D5": {
+        "name": "DATADICT_SET_INT",
+        "jhash": "0xEFCF554A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_INTEGER"
+        ]
+    }
+}

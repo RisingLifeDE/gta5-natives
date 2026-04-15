@@ -1,0 +1,10 @@
+{
+    "0xCE4AC0439F607045": {
+        "name": "RELEASE_WEAPON_AUDIO",
+        "jhash": "0x6096504C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

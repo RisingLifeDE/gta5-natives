@@ -1,0 +1,15 @@
+{
+    "0x0DB57B41EC1DB083": {
+        "name": "GET_WEAPON_COMPONENT_TYPE_MODEL",
+        "jhash": "0x324FA47A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

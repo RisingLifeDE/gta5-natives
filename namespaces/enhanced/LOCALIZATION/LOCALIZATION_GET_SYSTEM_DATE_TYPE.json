@@ -1,0 +1,14 @@
+{
+    "0xA8AE43AEC1A61314": {
+        "name": "LOCALIZATION_GET_SYSTEM_DATE_TYPE",
+        "jhash": "",
+        "comment": "Possible return values: 0, 1, 2",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_USER_LANGUAGE_ID",
+            "_LOCALIZATION_GET_SYSTEM_DATE_FORMAT"
+        ]
+    }
+}

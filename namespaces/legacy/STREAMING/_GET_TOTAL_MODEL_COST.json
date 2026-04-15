@@ -1,0 +1,15 @@
+{
+    "0x4A91423C04BAADA1": {
+        "name": "_GET_TOTAL_MODEL_COST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "3717"
+    }
+}

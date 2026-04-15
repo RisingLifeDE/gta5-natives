@@ -1,0 +1,13 @@
+{
+    "0x66B59CFFD78467AF": {
+        "name": "NETWORK_HAVE_SCS_PRIVATE_MSG_PRIV",
+        "jhash": "0x0CA1167F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_ROS_PRIVILEGE_9"
+        ]
+    }
+}

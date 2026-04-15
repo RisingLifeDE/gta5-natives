@@ -1,0 +1,15 @@
+{
+    "0x0E5173C163976E38": {
+        "name": "CLEAR_PED_DECORATIONS",
+        "jhash": "0xD4496BF3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

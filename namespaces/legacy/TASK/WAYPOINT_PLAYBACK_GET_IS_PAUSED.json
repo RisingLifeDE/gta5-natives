@@ -1,0 +1,15 @@
+{
+    "0x701375A7D43F01CB": {
+        "name": "WAYPOINT_PLAYBACK_GET_IS_PAUSED",
+        "jhash": "0xA6BB5717",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

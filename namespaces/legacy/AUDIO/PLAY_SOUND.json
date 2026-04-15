@@ -1,0 +1,35 @@
+{
+    "0x7FF4944CC209192D": {
+        "name": "PLAY_SOUND",
+        "jhash": "0xB6E1917F",
+        "comment": "All found occurrences in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/A8Ny8AHZ\n\nFull list of audio / sound names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/soundNames.json",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

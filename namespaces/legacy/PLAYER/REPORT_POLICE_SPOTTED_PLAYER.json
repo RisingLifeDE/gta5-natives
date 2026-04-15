@@ -1,0 +1,15 @@
+{
+    "0xDC64D2C53493ED12": {
+        "name": "REPORT_POLICE_SPOTTED_PLAYER",
+        "jhash": "0xD15C4B1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

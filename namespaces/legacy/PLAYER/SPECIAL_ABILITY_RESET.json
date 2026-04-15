@@ -1,0 +1,19 @@
+{
+    "0x375F0E738F861A94": {
+        "name": "SPECIAL_ABILITY_RESET",
+        "jhash": "0xA7D8BCD3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

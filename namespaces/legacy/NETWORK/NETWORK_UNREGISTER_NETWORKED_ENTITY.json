@@ -1,0 +1,15 @@
+{
+    "0x7368E683BB9038D6": {
+        "name": "NETWORK_UNREGISTER_NETWORKED_ENTITY",
+        "jhash": "0x5C645F64",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

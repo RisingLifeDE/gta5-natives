@@ -1,0 +1,19 @@
+{
+    "0x1F1E9682483697C7": {
+        "name": "SC_PRESENCE_ATTR_SET_INT",
+        "jhash": "0x90C74343",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "attrHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

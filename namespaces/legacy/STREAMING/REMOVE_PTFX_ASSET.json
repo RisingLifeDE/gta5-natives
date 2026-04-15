@@ -1,0 +1,10 @@
+{
+    "0x88C6814073DD4A73": {
+        "name": "REMOVE_PTFX_ASSET",
+        "jhash": "0xC10F178C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

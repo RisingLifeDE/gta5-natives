@@ -1,0 +1,22 @@
+{
+    "0x26903D9CD1175F2C": {
+        "name": "GET_FINAL_RENDERED_REMOTE_PLAYER_CAM_ROT",
+        "jhash": "0xACADF916",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "GET_FINAL_RENDERED_IN_WHEN_FRIENDLY_ROT"
+        ]
+    }
+}

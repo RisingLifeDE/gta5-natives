@@ -1,0 +1,15 @@
+{
+    "0x9E8C908F41584ECD": {
+        "name": "SET_PED_MOVE_ANIMS_BLEND_OUT",
+        "jhash": "0x20E01957",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

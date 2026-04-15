@@ -1,0 +1,35 @@
+{
+    "0x5B9853296731E88D": {
+        "name": "PLAY_SOUND_FROM_ENTITY_HASH",
+        "jhash": "",
+        "comment": "Only used with \"formation_flying_blips_soundset\" and \"biker_formation_blips_soundset\".\np1 is always the model of p2",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "soundSetHash"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

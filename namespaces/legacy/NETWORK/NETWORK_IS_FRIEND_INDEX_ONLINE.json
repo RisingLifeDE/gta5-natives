@@ -1,0 +1,15 @@
+{
+    "0xBAD8F2A42B844821": {
+        "name": "NETWORK_IS_FRIEND_INDEX_ONLINE",
+        "jhash": "0x94AE7172",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "friendIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

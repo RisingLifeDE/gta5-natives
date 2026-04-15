@@ -1,0 +1,22 @@
+{
+    "0x17F7471EACA78290": {
+        "name": "SPECIAL_ABILITY_DEACTIVATE_MP",
+        "jhash": "",
+        "comment": "p1 is always 0 in the scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "678",
+        "old_names": [
+            "_SPECIAL_ABILITY_DEPLETE"
+        ]
+    }
+}

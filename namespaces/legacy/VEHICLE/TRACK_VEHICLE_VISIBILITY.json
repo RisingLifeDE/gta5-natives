@@ -1,0 +1,15 @@
+{
+    "0x64473AEFDCF47DCA": {
+        "name": "TRACK_VEHICLE_VISIBILITY",
+        "jhash": "0x78122DC1",
+        "comment": "in script hook .net \n\nVehicle v = ...;\nFunction.Call(Hash.TRACK_VEHICLE_VISIBILITY, v.Handle);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

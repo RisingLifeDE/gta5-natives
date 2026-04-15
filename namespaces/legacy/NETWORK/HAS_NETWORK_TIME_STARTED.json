@@ -1,0 +1,10 @@
+{
+    "0x46718ACEEDEAFC84": {
+        "name": "HAS_NETWORK_TIME_STARTED",
+        "jhash": "0x4538C4A2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

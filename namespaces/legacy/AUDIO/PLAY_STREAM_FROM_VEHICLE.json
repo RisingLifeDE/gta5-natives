@@ -1,0 +1,15 @@
+{
+    "0xB70374A758007DFA": {
+        "name": "PLAY_STREAM_FROM_VEHICLE",
+        "jhash": "0xF8E4BDA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

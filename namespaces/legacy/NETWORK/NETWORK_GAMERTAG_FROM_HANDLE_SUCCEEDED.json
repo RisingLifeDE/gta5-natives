@@ -1,0 +1,10 @@
+{
+    "0xFD00798DBA7523DD": {
+        "name": "NETWORK_GAMERTAG_FROM_HANDLE_SUCCEEDED",
+        "jhash": "0x89C2B5EA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

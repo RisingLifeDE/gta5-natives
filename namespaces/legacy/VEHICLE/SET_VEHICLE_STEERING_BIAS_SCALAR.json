@@ -1,0 +1,19 @@
+{
+    "0x9007A2F21DC108D4": {
+        "name": "SET_VEHICLE_STEERING_BIAS_SCALAR",
+        "jhash": "0x585E49B6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

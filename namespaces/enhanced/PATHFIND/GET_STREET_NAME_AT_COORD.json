@@ -1,0 +1,31 @@
+{
+    "0x2EB41072B4C1E4C0": {
+        "name": "GET_STREET_NAME_AT_COORD",
+        "jhash": "0xDEBEEFCF",
+        "comment": "Determines the name of the street which is the closest to the given coordinates.\n\nx,y,z - the coordinates of the street\nstreetName - returns a hash to the name of the street the coords are on\ncrossingRoad - if the coordinates are on an intersection, a hash to the name of the crossing road\n\nNote: the names are returned as hashes, the strings can be returned using the function HUD::GET_STREET_NAME_FROM_HASH_KEY.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash*",
+                "name": "streetName"
+            },
+            {
+                "type": "Hash*",
+                "name": "crossingRoad"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

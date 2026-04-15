@@ -1,0 +1,19 @@
+{
+    "0x521FB041D93DD0E4": {
+        "name": "BEGIN_TEXT_COMMAND_GET_NUMBER_OF_LINES_FOR_STRING",
+        "jhash": "0x94B82066",
+        "comment": "int GetLineCount(char *text, float x, float y)\n    {\n     BEGIN_TEXT_COMMAND_GET_NUMBER_OF_LINES_FOR_STRING(\"STRING\");\n                ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n      return BEGIN_TEXT_COMMAND_GET_NUMBER_OF_LINES_FOR_STRING(x, y);\n    }",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "entry"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TEXT_GXT_ENTRY",
+            "_BEGIN_TEXT_COMMAND_LINE_COUNT"
+        ]
+    }
+}

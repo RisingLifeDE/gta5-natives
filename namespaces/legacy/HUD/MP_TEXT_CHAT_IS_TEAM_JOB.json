@@ -1,0 +1,15 @@
+{
+    "0x7C226D5346D4D10A": {
+        "name": "MP_TEXT_CHAT_IS_TEAM_JOB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "372"
+    }
+}

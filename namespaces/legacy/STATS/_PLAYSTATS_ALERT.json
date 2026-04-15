@@ -1,0 +1,15 @@
+{
+    "0x5649CA22AF74E019": {
+        "name": "_PLAYSTATS_ALERT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

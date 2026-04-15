@@ -1,0 +1,10 @@
+{
+    "0x53FA83401D9C07FE": {
+        "name": "NETWORK_IS_TRANSITION_STARTED",
+        "jhash": "0x7917E111",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

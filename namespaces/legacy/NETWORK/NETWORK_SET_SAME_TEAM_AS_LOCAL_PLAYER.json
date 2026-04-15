@@ -1,0 +1,19 @@
+{
+    "0x4348BFDA56023A2F": {
+        "name": "NETWORK_SET_SAME_TEAM_AS_LOCAL_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "573"
+    }
+}

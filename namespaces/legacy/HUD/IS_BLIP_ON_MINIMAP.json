@@ -1,0 +1,15 @@
+{
+    "0xE41CA53051197A27": {
+        "name": "IS_BLIP_ON_MINIMAP",
+        "jhash": "0x258CBA3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

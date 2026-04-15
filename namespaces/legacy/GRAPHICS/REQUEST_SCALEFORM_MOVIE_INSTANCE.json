@@ -1,0 +1,15 @@
+{
+    "0xC514489CFB8AF806": {
+        "name": "REQUEST_SCALEFORM_MOVIE_INSTANCE",
+        "jhash": "0x7CC8057D",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

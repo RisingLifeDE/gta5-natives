@@ -1,0 +1,15 @@
+{
+    "0x6F2135B6129620C1": {
+        "name": "SET_THIS_IS_A_TRIGGER_SCRIPT",
+        "jhash": "0x8B2DE971",
+        "comment": "Sets bit 3 in GtaThread+0x150",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

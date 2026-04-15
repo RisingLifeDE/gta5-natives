@@ -1,0 +1,19 @@
+{
+    "0xD0917A423314BBA8": {
+        "name": "GET_ARE_BOMB_BAY_DOORS_OPEN",
+        "jhash": "",
+        "comment": "Returns true when the bomb bay doors of this plane are open. False if they're closed.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "aircraft"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1180",
+        "old_names": [
+            "_GET_ARE_BOMB_BAY_DOORS_OPEN",
+            "_ARE_BOMB_BAY_DOORS_OPEN"
+        ]
+    }
+}

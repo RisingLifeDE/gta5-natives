@@ -1,0 +1,23 @@
+{
+    "0x1B7ABE26CBCBF8C7": {
+        "name": "SET_PED_RACE_AND_VOICE_GROUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "voiceGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "372"
+    }
+}

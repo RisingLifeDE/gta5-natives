@@ -1,0 +1,19 @@
+{
+    "0x46F3ADD1E2D5BAF2": {
+        "name": "SET_PORTABLE_PICKUP_PERSIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

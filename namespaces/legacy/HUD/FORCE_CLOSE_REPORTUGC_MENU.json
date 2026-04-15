@@ -1,0 +1,10 @@
+{
+    "0xEE4C0E6DBC6F2C6F": {
+        "name": "FORCE_CLOSE_REPORTUGC_MENU",
+        "jhash": "0x67649EE0",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

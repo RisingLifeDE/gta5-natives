@@ -1,0 +1,18 @@
+{
+    "0xF0BC9BCD24A511D5": {
+        "name": "NETWORK_PATCH_POST_CUTSCENE_HS4F_TUN_ENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_PED_FORCE_GAME_STATE_UPDATE"
+        ]
+    }
+}

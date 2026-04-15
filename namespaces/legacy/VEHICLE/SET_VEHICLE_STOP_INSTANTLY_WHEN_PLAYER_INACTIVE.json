@@ -1,0 +1,19 @@
+{
+    "0x6EBFB22D646FFC18": {
+        "name": "SET_VEHICLE_STOP_INSTANTLY_WHEN_PLAYER_INACTIVE",
+        "jhash": "0x847F1304",
+        "comment": "sfink: sets bit in vehicle's structure, used by maintransition, fm_mission_controller, mission_race and a couple of other scripts. see dissassembly: \nCVehicle *__fastcall sub_140CDAA10(signed int a1, char a2)\n{\n    CVehicle *result; // rax@1\n\n    result = EntityAsCVehicle(a1);\n    if ( result )\n    {\n        result->field_886 &= 0xEFu;\n        result->field_886 |= 16 * (a2 & 1);\n    }\n    return result;\n}",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

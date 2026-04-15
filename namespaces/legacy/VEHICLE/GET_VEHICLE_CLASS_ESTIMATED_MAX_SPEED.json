@@ -1,0 +1,18 @@
+{
+    "0x00C09F246ABEDD82": {
+        "name": "GET_VEHICLE_CLASS_ESTIMATED_MAX_SPEED",
+        "jhash": "0xCE67162C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleClass"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_CLASS_MAX_SPEED"
+        ]
+    }
+}

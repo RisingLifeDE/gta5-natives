@@ -1,0 +1,22 @@
+{
+    "0xFCCCAC2BD3C1F180": {
+        "name": "PLAYSTATS_CASINO_STORY_MISSION_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_STORY_MISSION_ENDED"
+        ]
+    }
+}

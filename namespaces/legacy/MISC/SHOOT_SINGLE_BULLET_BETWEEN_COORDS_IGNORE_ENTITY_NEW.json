@@ -1,0 +1,98 @@
+{
+    "0xBFE5756E7407064A": {
+        "name": "SHOOT_SINGLE_BULLET_BETWEEN_COORDS_IGNORE_ENTITY_NEW",
+        "jhash": "0xCCDC33CC",
+        "comment": "entity - entity to ignore\ntargetEntity - entity to home in on, if the weapon hash provided supports homing",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "damage"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ownerPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p14"
+            },
+            {
+                "type": "BOOL",
+                "name": "p15"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            },
+            {
+                "type": "Any",
+                "name": "p18"
+            },
+            {
+                "type": "Any",
+                "name": "p19"
+            },
+            {
+                "type": "Any",
+                "name": "p20"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOOT_SINGLE_BULLET_BETWEEN_COORDS_WITH_EXTRA_PARAMS"
+        ]
+    }
+}

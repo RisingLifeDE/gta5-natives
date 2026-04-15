@@ -1,0 +1,23 @@
+{
+    "0x14E85C5EE7A4D542": {
+        "name": "SET_VEHICLE_SEARCHLIGHT",
+        "jhash": "0xE2C0DD8A",
+        "comment": "Only works during nighttime.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "heli"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "canBeUsedByAI"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

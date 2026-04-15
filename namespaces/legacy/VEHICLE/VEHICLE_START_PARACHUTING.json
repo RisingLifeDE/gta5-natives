@@ -1,0 +1,22 @@
+{
+    "0x0BFFB028B3DD0A97": {
+        "name": "VEHICLE_START_PARACHUTING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_PARACHUTE_ACTIVE"
+        ]
+    }
+}

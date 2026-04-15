@@ -1,0 +1,10 @@
+{
+    "0xFFE1E5B792D92B34": {
+        "name": "NETWORK_JOIN_PREVIOUSLY_FAILED_TRANSITION",
+        "jhash": "0xBF21818E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

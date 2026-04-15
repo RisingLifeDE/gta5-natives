@@ -1,0 +1,19 @@
+{
+    "0x9CA5DE655269FEC4": {
+        "name": "NETWORK_SET_IN_MP_CUTSCENE",
+        "jhash": "0x8434CB43",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

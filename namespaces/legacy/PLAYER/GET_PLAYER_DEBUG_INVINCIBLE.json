@@ -1,0 +1,15 @@
+{
+    "0xDCC07526B8EC45AF": {
+        "name": "GET_PLAYER_DEBUG_INVINCIBLE",
+        "jhash": "",
+        "comment": "Always returns false.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1868"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x422F32CC7E56ABAD": {
+        "name": "NETWORK_IS_ENTITY_FADING",
+        "jhash": "0xB5087ACF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

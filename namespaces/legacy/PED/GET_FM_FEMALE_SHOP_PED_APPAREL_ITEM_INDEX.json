@@ -1,0 +1,15 @@
+{
+    "0xF033419D1B81FAE8": {
+        "name": "GET_FM_FEMALE_SHOP_PED_APPAREL_ITEM_INDEX",
+        "jhash": "0x8FDDB5DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

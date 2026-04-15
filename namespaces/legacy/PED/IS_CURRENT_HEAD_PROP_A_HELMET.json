@@ -1,0 +1,15 @@
+{
+    "0xF2385935BFFD4D92": {
+        "name": "IS_CURRENT_HEAD_PROP_A_HELMET",
+        "jhash": "0xFFF149FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x473151EBC762C6DA": {
+        "name": "GET_CURRENT_NUMBER_OF_CLOUD_PHOTOS",
+        "jhash": "0x21DBF0C9",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUMBER_OF_PHOTOS",
+            "_GET_CURRENT_NUMBER_OF_PHOTOS"
+        ]
+    }
+}

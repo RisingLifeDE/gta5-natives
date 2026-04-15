@@ -1,0 +1,19 @@
+{
+    "0xD465A8599DFF6814": {
+        "name": "SET_PLAYER_CAN_USE_COVER",
+        "jhash": "0x13CAFAFA",
+        "comment": "Sets whether this player can take cover.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

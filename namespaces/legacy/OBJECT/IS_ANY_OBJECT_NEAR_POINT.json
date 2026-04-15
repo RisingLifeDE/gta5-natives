@@ -1,0 +1,31 @@
+{
+    "0x397DC58FF00298D1": {
+        "name": "IS_ANY_OBJECT_NEAR_POINT",
+        "jhash": "0xE9E46941",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA86911979638106F": {
+        "name": "END_TEXT_COMMAND_OVERRIDE_BUTTON_TEXT",
+        "jhash": "0x6E7FDA1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_END_TEXT_COMMAND_TIMER"
+        ]
+    }
+}

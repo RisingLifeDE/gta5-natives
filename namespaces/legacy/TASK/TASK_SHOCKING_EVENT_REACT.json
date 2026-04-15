@@ -1,0 +1,19 @@
+{
+    "0x452419CBD838065B": {
+        "name": "TASK_SHOCKING_EVENT_REACT",
+        "jhash": "0x9BD00ACF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "eventHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

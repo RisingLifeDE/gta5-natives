@@ -1,0 +1,19 @@
+{
+    "0x063AE2B2CC273588": {
+        "name": "SET_SHOULD_LERP_FROM_AI_TO_FULL_RECORDING",
+        "jhash": "0x2EF8435C",
+        "comment": "A vehicle recording playback flag only used in jewelry_heist",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA36BFB5EE89F3D82": {
+        "name": "OPEN_PATROL_ROUTE",
+        "jhash": "0xF33F83CA",
+        "comment": " patrolRoutes found in the b617d scripts:\n \"miss_Ass0\",\n \"miss_Ass1\",\n \"miss_Ass2\",\n \"miss_Ass3\",\n \"miss_Ass4\",\n \"miss_Ass5\",\n \"miss_Ass6\",\n \"MISS_PATROL_6\",\n \"MISS_PATROL_7\",\n \"MISS_PATROL_8\",\n \"MISS_PATROL_9\",\n \"miss_Tower_01\",\n \"miss_Tower_02\",\n \"miss_Tower_03\",\n \"miss_Tower_04\",\n \"miss_Tower_05\",\n \"miss_Tower_06\",\n \"miss_Tower_07\",\n \"miss_Tower_08\",\n \"miss_Tower_10\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "patrolRoute"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

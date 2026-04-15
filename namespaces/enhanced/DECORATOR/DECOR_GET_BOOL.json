@@ -1,0 +1,19 @@
+{
+    "0xDACE671663F2F5DB": {
+        "name": "DECOR_GET_BOOL",
+        "jhash": "0xDBCE51E0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

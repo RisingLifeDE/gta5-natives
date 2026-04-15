@@ -1,0 +1,15 @@
+{
+    "0x1654F24A88A8E3FE": {
+        "name": "CLEAR_CUSTOM_RADIO_TRACK_LIST",
+        "jhash": "0x1D766976",
+        "comment": "3 calls in the b617d scripts, removed duplicate.\n\nAUDIO::CLEAR_CUSTOM_RADIO_TRACK_LIST(\"RADIO_16_SILVERLAKE\");\nAUDIO::CLEAR_CUSTOM_RADIO_TRACK_LIST(\"RADIO_01_CLASS_ROCK\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

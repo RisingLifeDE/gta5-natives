@@ -1,0 +1,13 @@
+{
+    "0xB8C0BB75D8A77DB3": {
+        "name": "IS_JAPANESE_VERSION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2545",
+        "old_names": [
+            "_IS_JAPANESE_VERSION"
+        ]
+    }
+}

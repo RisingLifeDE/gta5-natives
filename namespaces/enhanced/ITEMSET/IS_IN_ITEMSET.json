@@ -1,0 +1,19 @@
+{
+    "0x2D0FC594D1E9C107": {
+        "name": "IS_IN_ITEMSET",
+        "jhash": "0x0D4B9730",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            },
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

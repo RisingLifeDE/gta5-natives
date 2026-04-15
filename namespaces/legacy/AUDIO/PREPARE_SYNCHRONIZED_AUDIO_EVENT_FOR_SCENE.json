@@ -1,0 +1,19 @@
+{
+    "0x029FE7CD1B7E2E75": {
+        "name": "PREPARE_SYNCHRONIZED_AUDIO_EVENT_FOR_SCENE",
+        "jhash": "0x7652DD49",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "const char*",
+                "name": "audioEvent"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

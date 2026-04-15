@@ -1,0 +1,47 @@
+{
+    "0x14BA4BA137AF6CEC": {
+        "name": "GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA",
+        "jhash": "0xAEC0D176",
+        "comment": "Returns a handle to the first entity within the a circle spawned inside the 2 points from a radius.\n\nexplosionType: See ADD_EXPLOSION.",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323",
+        "old_names": [
+            "_GET_PED_INSIDE_EXPLOSION_AREA",
+            "_GET_ENTITY_INSIDE_EXPLOSION_AREA"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x0D0A9F0E7BD91E3C": {
+        "name": "STAT_SLOT_IS_LOADED",
+        "jhash": "0x7A299C13",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "statSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

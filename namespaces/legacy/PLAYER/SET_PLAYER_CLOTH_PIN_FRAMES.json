@@ -1,0 +1,19 @@
+{
+    "0x749FADDF97DFE930": {
+        "name": "SET_PLAYER_CLOTH_PIN_FRAMES",
+        "jhash": "0xF7A0F00F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

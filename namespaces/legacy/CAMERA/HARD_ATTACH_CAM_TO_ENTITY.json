@@ -1,0 +1,50 @@
+{
+    "0x202A5ED9CE01D6E7": {
+        "name": "HARD_ATTACH_CAM_TO_ENTITY",
+        "jhash": "",
+        "comment": "Example from am_mp_drone script: \n\nCAM::HARD_ATTACH_CAM_TO_ENTITY(Local_190.f_169, NETWORK::NET_TO_OBJ(Local_190.f_159), 0f, 0f, 180f, Var0, 1);",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRelative"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_ATTACH_CAM_TO_ENTITY_WITH_FIXED_DIRECTION"
+        ]
+    }
+}

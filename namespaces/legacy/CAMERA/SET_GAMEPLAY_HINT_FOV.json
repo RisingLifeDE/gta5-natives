@@ -1,0 +1,15 @@
+{
+    "0x513403FB9C56211F": {
+        "name": "SET_GAMEPLAY_HINT_FOV",
+        "jhash": "0x96FD173B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "FOV"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

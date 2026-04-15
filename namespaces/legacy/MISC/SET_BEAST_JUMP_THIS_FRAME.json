@@ -1,0 +1,18 @@
+{
+    "0x438822C279B73B93": {
+        "name": "SET_BEAST_JUMP_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_SET_BEAST_MODE_ACTIVE"
+        ]
+    }
+}

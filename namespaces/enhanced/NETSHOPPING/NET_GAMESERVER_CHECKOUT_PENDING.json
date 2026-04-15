@@ -1,0 +1,15 @@
+{
+    "0x4B64CD6D18474126": {
+        "name": "NET_GAMESERVER_CHECKOUT_PENDING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3570"
+    }
+}

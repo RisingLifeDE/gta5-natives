@@ -1,0 +1,23 @@
+{
+    "0xBD2A8EC3AF4DE7DB": {
+        "name": "TASK_USE_MOBILE_PHONE",
+        "jhash": "0x225A38C8",
+        "comment": "Actually has 3 params, not 2.\n\np0: Ped\np1: int (or bool?)\np2: int",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "usePhone"
+            },
+            {
+                "type": "int",
+                "name": "desiredPhoneMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

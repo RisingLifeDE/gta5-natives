@@ -1,0 +1,10 @@
+{
+    "0xCBD02360C5E16871": {
+        "name": "NETWORK_SYNC_CLOCK_TIME_OVERRIDE",
+        "jhash": "",
+        "comment": "Does nothing in final builds.",
+        "params": [],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

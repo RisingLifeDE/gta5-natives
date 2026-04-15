@@ -1,0 +1,19 @@
+{
+    "0x1F9FB66F3A3842D2": {
+        "name": "SET_VEHICLE_ACT_AS_IF_HIGH_SPEED_FOR_FRAG_SMASHING",
+        "jhash": "0x4D840FC4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

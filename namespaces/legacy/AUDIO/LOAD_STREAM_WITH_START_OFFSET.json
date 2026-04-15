@@ -1,0 +1,23 @@
+{
+    "0x59C16B79F53B3712": {
+        "name": "LOAD_STREAM_WITH_START_OFFSET",
+        "jhash": "0xE5B5745C",
+        "comment": "Example:\nAUDIO::LOAD_STREAM_WITH_START_OFFSET(\"STASH_TOXIN_STREAM\", 2400, \"FBI_05_SOUNDS\");\n\nOnly called a few times in the scripts.\n\nFull list of audio / sound names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/soundNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "streamName"
+            },
+            {
+                "type": "int",
+                "name": "startOffset"
+            },
+            {
+                "type": "const char*",
+                "name": "soundSet"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

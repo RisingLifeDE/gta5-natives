@@ -1,0 +1,10 @@
+{
+    "0x8E2A065ABDAE6994": {
+        "name": "ALLOW_PLAYER_SWITCH_ASCENT",
+        "jhash": "0x5B1E995D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

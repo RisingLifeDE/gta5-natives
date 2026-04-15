@@ -1,0 +1,15 @@
+{
+    "0xEB0F4468467B4528": {
+        "name": "SET_WIND_DIRECTION",
+        "jhash": "0x381AEEE9",
+        "comment": "The wind direction in radians\n180 degrees (PI), wind will blow from the south. Setting this value to a negative number resumes the random wind direction changes provided by the game.",
+        "params": [
+            {
+                "type": "float",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

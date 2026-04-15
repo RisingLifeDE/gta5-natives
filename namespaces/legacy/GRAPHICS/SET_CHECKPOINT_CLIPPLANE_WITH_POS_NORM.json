@@ -1,0 +1,39 @@
+{
+    "0xF51D36185993515D": {
+        "name": "SET_CHECKPOINT_CLIPPLANE_WITH_POS_NORM",
+        "jhash": "0x20EABD0F",
+        "comment": "This does not move an existing checkpoint... so wtf.",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "unkX"
+            },
+            {
+                "type": "float",
+                "name": "unkY"
+            },
+            {
+                "type": "float",
+                "name": "unkZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

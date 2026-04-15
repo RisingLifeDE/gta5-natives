@@ -1,0 +1,15 @@
+{
+    "0x213B91045D09B983": {
+        "name": "GET_ENTITY_ROTATION_VELOCITY",
+        "jhash": "0x9BF8A73F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

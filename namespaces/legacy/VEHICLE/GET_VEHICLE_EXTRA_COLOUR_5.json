@@ -1,0 +1,23 @@
+{
+    "0x7D1464D472D32136": {
+        "name": "GET_VEHICLE_EXTRA_COLOUR_5",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_GET_VEHICLE_INTERIOR_COLOUR",
+            "_GET_VEHICLE_INTERIOR_COLOR"
+        ]
+    }
+}

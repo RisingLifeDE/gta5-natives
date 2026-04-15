@@ -1,0 +1,23 @@
+{
+    "0x900086F371220B6F": {
+        "name": "SET_GPS_CUSTOM_ROUTE_RENDER",
+        "jhash": "0xDA0AF00E",
+        "comment": "radarThickness: The width of the GPS route on the radar\nmapThickness: The width of the GPS route on the map",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "radarThickness"
+            },
+            {
+                "type": "int",
+                "name": "mapThickness"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

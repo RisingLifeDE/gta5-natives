@@ -1,0 +1,15 @@
+{
+    "0xB4A53E05F68B6FA1": {
+        "name": "GET_MOBILE_PHONE_RENDER_ID",
+        "jhash": "0x88E4FECE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "renderId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

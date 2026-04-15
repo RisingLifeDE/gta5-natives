@@ -1,0 +1,18 @@
+{
+    "0xC3AC2FFF9612AC81": {
+        "name": "START_REPLAY_RECORDING",
+        "jhash": "",
+        "comment": "Starts recording a replay.\nIf mode is 0, turns on action replay.\nIf mode is 1, starts recording.\nIf already recording a replay, does nothing.",
+        "params": [
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_START_RECORDING"
+        ]
+    }
+}

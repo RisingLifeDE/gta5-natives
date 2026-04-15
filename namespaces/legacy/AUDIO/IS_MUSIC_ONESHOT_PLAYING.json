@@ -1,0 +1,10 @@
+{
+    "0xA097AB275061FB21": {
+        "name": "IS_MUSIC_ONESHOT_PLAYING",
+        "jhash": "0x2705C4D5",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

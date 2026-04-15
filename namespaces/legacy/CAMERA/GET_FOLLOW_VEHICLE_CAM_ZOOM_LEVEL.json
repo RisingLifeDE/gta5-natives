@@ -1,0 +1,10 @@
+{
+    "0xEE82280AB767B690": {
+        "name": "GET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL",
+        "jhash": "0x8CD67DE3",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

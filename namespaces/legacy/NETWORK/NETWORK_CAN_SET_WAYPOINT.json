@@ -1,0 +1,10 @@
+{
+    "0xC927EC229934AF60": {
+        "name": "NETWORK_CAN_SET_WAYPOINT",
+        "jhash": "0x009E68F3",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

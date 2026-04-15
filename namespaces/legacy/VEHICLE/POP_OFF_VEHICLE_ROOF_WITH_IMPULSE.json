@@ -1,0 +1,30 @@
+{
+    "0xE38CB9D7D39FDBCC": {
+        "name": "POP_OFF_VEHICLE_ROOF_WITH_IMPULSE",
+        "jhash": "0xFDA7B6CA",
+        "comment": "Pops off the \"roof\" bone in the direction of the specified offset from the vehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_EJECT_JB700_ROOF"
+        ]
+    }
+}

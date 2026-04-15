@@ -1,0 +1,15 @@
+{
+    "0x10BDDBFC529428DD": {
+        "name": "END_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED",
+        "jhash": "0xF63A13EC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

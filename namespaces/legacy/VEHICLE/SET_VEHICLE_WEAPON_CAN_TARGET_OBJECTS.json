@@ -1,0 +1,22 @@
+{
+    "0x86B4B6212CB8B627": {
+        "name": "SET_VEHICLE_WEAPON_CAN_TARGET_OBJECTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011",
+        "old_names": [
+            "_SET_VEHICLE_WEAPONS_DISABLED"
+        ]
+    }
+}

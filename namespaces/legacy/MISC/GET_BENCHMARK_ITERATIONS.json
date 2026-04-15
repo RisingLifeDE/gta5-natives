@@ -1,0 +1,13 @@
+{
+    "0x4750FC27570311EC": {
+        "name": "GET_BENCHMARK_ITERATIONS",
+        "jhash": "",
+        "comment": "Returns value of the '-benchmarkIterations' command line option.",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_BENCHMARK_ITERATIONS_FROM_COMMAND_LINE"
+        ]
+    }
+}

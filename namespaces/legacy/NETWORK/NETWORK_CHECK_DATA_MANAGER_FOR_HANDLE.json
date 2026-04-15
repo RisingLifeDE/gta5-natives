@@ -1,0 +1,19 @@
+{
+    "0x4AD490AE1536933B": {
+        "name": "NETWORK_CHECK_DATA_MANAGER_FOR_HANDLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "372"
+    }
+}

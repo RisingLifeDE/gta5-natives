@@ -1,0 +1,19 @@
+{
+    "0xEFFED78E9011134D": {
+        "name": "GET_PED_WEAPONTYPE_IN_SLOT",
+        "jhash": "0x9BC64E16",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponSlot"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

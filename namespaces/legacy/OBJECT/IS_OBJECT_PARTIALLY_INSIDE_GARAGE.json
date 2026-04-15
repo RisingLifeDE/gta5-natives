@@ -1,0 +1,23 @@
+{
+    "0xF0EED5A6BC7B237A": {
+        "name": "IS_OBJECT_PARTIALLY_INSIDE_GARAGE",
+        "jhash": "0x95A9AB2B",
+        "comment": "Despite the name, it does work for any entity type.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

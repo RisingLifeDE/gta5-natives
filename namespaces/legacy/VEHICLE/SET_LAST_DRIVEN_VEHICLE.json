@@ -1,0 +1,15 @@
+{
+    "0xACFB2463CC22BED2": {
+        "name": "SET_LAST_DRIVEN_VEHICLE",
+        "jhash": "0xD1B71A25",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

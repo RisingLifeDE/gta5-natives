@@ -1,0 +1,31 @@
+{
+    "0x673ED815D6E323B7": {
+        "name": "IS_ANY_ENTITY_ENTIRELY_INSIDE_GARAGE",
+        "jhash": "0x7B44D659",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x71EEE69745088DA0": {
+        "name": "APP_HAS_LINKED_SOCIAL_CLUB_ACCOUNT",
+        "jhash": "0xD368BA15",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

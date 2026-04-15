@@ -1,0 +1,15 @@
+{
+    "0x7085228842B13A67": {
+        "name": "IS_PEDHEADSHOT_READY",
+        "jhash": "0x761CD02E",
+        "comment": "gtaforums.com/topic/885580-ped-headshotmugshot-txd/",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

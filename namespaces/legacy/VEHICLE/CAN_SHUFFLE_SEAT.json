@@ -1,0 +1,19 @@
+{
+    "0x30785D90C956BF35": {
+        "name": "CAN_SHUFFLE_SEAT",
+        "jhash": "0xB3EB01ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

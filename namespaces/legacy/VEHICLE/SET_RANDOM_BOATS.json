@@ -1,0 +1,15 @@
+{
+    "0x84436EC293B1415F": {
+        "name": "SET_RANDOM_BOATS",
+        "jhash": "0xB505BD89",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

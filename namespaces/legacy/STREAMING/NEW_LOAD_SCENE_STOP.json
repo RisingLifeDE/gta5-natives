@@ -1,0 +1,10 @@
+{
+    "0xC197616D221FF4A4": {
+        "name": "NEW_LOAD_SCENE_STOP",
+        "jhash": "0x7C05B1F6",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

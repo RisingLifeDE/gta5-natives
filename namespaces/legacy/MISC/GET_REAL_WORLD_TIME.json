@@ -1,0 +1,10 @@
+{
+    "0x3F60413F5DF65748": {
+        "name": "GET_REAL_WORLD_TIME",
+        "jhash": "",
+        "comment": "GET_GAME_TIMER() / 1000",
+        "params": [],
+        "return_type": "int",
+        "build": "2612"
+    }
+}

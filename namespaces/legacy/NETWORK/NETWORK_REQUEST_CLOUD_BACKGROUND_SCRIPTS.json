@@ -1,0 +1,13 @@
+{
+    "0x924426BFFD82E915": {
+        "name": "NETWORK_REQUEST_CLOUD_BACKGROUND_SCRIPTS",
+        "jhash": "0x98EFB921",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_REQUEST_CLOUD_BACKGROUND_SCRIPTS"
+        ]
+    }
+}

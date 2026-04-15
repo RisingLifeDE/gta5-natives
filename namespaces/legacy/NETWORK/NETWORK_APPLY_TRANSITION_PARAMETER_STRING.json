@@ -1,0 +1,23 @@
+{
+    "0xEBEFC2E77084F599": {
+        "name": "NETWORK_APPLY_TRANSITION_PARAMETER_STRING",
+        "jhash": "0xE0C28DB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "string"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x46B05BCAE43856B0": {
+        "name": "PED_HAS_SEXINESS_FLAG_SET",
+        "jhash": "0x79543043",
+        "comment": "Checks if the specified sexiness flag is set\n\nenum eSexinessFlags\n{\n SF_JEER_AT_HOT_PED = 0,\n SF_HURRIEDFEMALES_SEXY = 1,\n SF_HOT_PERSON = 2,\n };",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "sexinessFlag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

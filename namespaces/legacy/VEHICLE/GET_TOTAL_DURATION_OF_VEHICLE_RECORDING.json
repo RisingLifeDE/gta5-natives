@@ -1,0 +1,19 @@
+{
+    "0x0E48D1C262390950": {
+        "name": "GET_TOTAL_DURATION_OF_VEHICLE_RECORDING",
+        "jhash": "0x5B35EEB7",
+        "comment": "See REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x20C12650830A64EC": {
+        "name": "_NETWORK_DOES_COMMUNICATION_GROUP_HAVE_SETTINGS_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "communicationType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3570"
+    }
+}

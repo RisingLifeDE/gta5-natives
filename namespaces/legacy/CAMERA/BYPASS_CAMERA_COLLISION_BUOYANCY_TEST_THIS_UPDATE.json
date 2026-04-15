@@ -1,0 +1,10 @@
+{
+    "0xA7092AFE81944852": {
+        "name": "BYPASS_CAMERA_COLLISION_BUOYANCY_TEST_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

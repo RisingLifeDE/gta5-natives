@@ -1,0 +1,15 @@
+{
+    "0xD3A58A12C77D9D4B": {
+        "name": "APP_GET_INT",
+        "jhash": "0x2942AAD2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

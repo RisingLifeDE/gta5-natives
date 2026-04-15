@@ -1,0 +1,22 @@
+{
+    "0x897433D292B44130": {
+        "name": "NET_GAMESERVER_GET_SESSION_STATE_AND_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_GET_TRANSACTION_MANAGER_DATA"
+        ]
+    }
+}

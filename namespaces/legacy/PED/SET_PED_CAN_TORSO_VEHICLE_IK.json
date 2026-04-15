@@ -1,0 +1,19 @@
+{
+    "0x6647C5F6F5792496": {
+        "name": "SET_PED_CAN_TORSO_VEHICLE_IK",
+        "jhash": "0x0FDA62DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

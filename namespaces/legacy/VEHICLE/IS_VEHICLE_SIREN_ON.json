@@ -1,0 +1,15 @@
+{
+    "0x4C9BF537BE2634B2": {
+        "name": "IS_VEHICLE_SIREN_ON",
+        "jhash": "0x25EB5873",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

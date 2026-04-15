@@ -1,0 +1,22 @@
+{
+    "0xBCFDE9EDE4CF27DC": {
+        "name": "SET_PLAYER_WEAPON_MINIGUN_DEFENSE_MODIFIER",
+        "jhash": "",
+        "comment": "modifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_PLAYER_WEAPON_DEFENSE_MODIFIER_2"
+        ]
+    }
+}

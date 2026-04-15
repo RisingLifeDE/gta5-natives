@@ -1,0 +1,19 @@
+{
+    "0x515B4A22E4D3C6D7": {
+        "name": "NETWORK_EARN_FROM_AI_TARGET_KILL",
+        "jhash": "0x866004A8",
+        "comment": "DSPORT",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

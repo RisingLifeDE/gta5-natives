@@ -1,0 +1,15 @@
+{
+    "0x6FE601A64180D423": {
+        "name": "SET_DISPATCH_IDEAL_SPAWN_DISTANCE",
+        "jhash": "0x6283BE32",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

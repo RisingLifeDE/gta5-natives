@@ -1,0 +1,43 @@
+{
+    "0x3D45B0B355C5E0C9": {
+        "name": "TASK_MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS",
+        "jhash": "",
+        "comment": "Used only once in the scripts (am_mp_nightclub)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "network"
+            },
+            {
+                "type": "int*",
+                "name": "initialParameters"
+            },
+            {
+                "type": "float",
+                "name": "blendDuration"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowOverrideCloneUpdate"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_TASK_MOVE_NETWORK_SCRIPTED",
+            "_TASK_MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS"
+        ]
+    }
+}

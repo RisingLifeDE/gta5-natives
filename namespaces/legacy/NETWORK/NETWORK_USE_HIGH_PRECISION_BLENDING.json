@@ -1,0 +1,22 @@
+{
+    "0x2B1813ABA29016C5": {
+        "name": "NETWORK_USE_HIGH_PRECISION_BLENDING",
+        "jhash": "0x155465EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SET_NETWORK_ID_DYNAMIC"
+        ]
+    }
+}

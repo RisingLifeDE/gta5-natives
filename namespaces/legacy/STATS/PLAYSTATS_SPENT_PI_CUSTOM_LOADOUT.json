@@ -1,0 +1,18 @@
+{
+    "0xBE509B0A3693DE8B": {
+        "name": "PLAYSTATS_SPENT_PI_CUSTOM_LOADOUT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_SPENT_PI_CUSTOM_LOADOUT"
+        ]
+    }
+}

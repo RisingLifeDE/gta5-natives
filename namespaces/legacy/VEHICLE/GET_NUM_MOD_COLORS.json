@@ -1,0 +1,19 @@
+{
+    "0xA551BE18C11A476D": {
+        "name": "GET_NUM_MOD_COLORS",
+        "jhash": "0x73722CD9",
+        "comment": "paintType:\n0: Normal\n1: Metallic\n2: Pearl\n3: Matte\n4: Metal\n5: Chrome\n6: Chameleon",
+        "params": [
+            {
+                "type": "int",
+                "name": "paintType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5E5E99285AE812DB": {
+        "name": "RESET_DEEP_OCEAN_SCALER",
+        "jhash": "0x4AD23212",
+        "comment": "Sets the waves intensity back to original (1.0 in most cases).",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_WAVES_INTENSITY",
+            "_RESET_CURRENT_INTENSITY"
+        ]
+    }
+}

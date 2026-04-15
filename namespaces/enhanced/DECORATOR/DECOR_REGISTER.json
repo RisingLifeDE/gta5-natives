@@ -1,0 +1,19 @@
+{
+    "0x9FD90732F56403CE": {
+        "name": "DECOR_REGISTER",
+        "jhash": "0x68BD42A9",
+        "comment": "https://alloc8or.re/gta5/doc/enums/eDecorType.txt",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

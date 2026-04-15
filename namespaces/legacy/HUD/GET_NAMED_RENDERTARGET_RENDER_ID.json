@@ -1,0 +1,15 @@
+{
+    "0x1A6478B61C6BDC3B": {
+        "name": "GET_NAMED_RENDERTARGET_RENDER_ID",
+        "jhash": "0xF9D7A401",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

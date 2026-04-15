@@ -1,0 +1,10 @@
+{
+    "0x3A17A27D75C74887": {
+        "name": "UGC_GET_CONTENT_HASH",
+        "jhash": "0x8E1D8F78",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

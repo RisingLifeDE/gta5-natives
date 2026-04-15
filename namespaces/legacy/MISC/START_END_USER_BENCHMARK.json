@@ -1,0 +1,13 @@
+{
+    "0x92790862E36C2ADA": {
+        "name": "START_END_USER_BENCHMARK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_START_BENCHMARK_RECORDING"
+        ]
+    }
+}

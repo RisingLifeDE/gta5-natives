@@ -1,0 +1,19 @@
+{
+    "0x3C08A8E30363B353": {
+        "name": "TASK_VEHICLE_CHASE",
+        "jhash": "0x55634798",
+        "comment": "chases targetEnt fast and aggressively\n--\nMakes ped (needs to be in vehicle) chase targetEnt.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEnt"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

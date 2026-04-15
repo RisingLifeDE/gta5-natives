@@ -1,0 +1,10 @@
+{
+    "0xA7E4E2D361C2627F": {
+        "name": "SET_WAYPOINT_OFF",
+        "jhash": "0xB3496E1B",
+        "comment": "This native removes the current waypoint from the map.\n\nExample:\nC#:\nFunction.Call(Hash.SET_WAYPOINT_OFF);\n\nC++:\nHUD::SET_WAYPOINT_OFF();",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

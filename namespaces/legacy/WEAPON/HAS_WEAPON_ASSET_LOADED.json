@@ -1,0 +1,15 @@
+{
+    "0x36E353271F0E90EE": {
+        "name": "HAS_WEAPON_ASSET_LOADED",
+        "jhash": "0x1891D5BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

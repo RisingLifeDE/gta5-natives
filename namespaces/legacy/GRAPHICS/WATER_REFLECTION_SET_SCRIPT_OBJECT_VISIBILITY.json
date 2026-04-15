@@ -1,0 +1,15 @@
+{
+    "0xCA465D9CC0D231BA": {
+        "name": "WATER_REFLECTION_SET_SCRIPT_OBJECT_VISIBILITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

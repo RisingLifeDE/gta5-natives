@@ -1,0 +1,15 @@
+{
+    "0xCA575C391FEA25CC": {
+        "name": "NETWORK_DISABLE_VOICE_BANDWIDTH_RESTRICTION",
+        "jhash": "0xE797A4B6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

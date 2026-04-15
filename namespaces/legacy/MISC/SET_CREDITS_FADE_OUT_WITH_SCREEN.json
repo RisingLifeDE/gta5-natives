@@ -1,0 +1,15 @@
+{
+    "0xB51B9AB9EF81868C": {
+        "name": "SET_CREDITS_FADE_OUT_WITH_SCREEN",
+        "jhash": "0x75B06B5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

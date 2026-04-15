@@ -1,0 +1,10 @@
+{
+    "0xB0034A223497FFCB": {
+        "name": "IS_PAUSE_MENU_ACTIVE",
+        "jhash": "0xD3600591",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x6CE50E47F5543D0C": {
+        "name": "NETWORK_CLEAR_QUEUED_JOIN_REQUEST",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "573"
+    }
+}

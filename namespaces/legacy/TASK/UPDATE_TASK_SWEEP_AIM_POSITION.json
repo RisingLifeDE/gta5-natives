@@ -1,0 +1,27 @@
+{
+    "0xBB106883F5201FC4": {
+        "name": "UPDATE_TASK_SWEEP_AIM_POSITION",
+        "jhash": "0x6345EC80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

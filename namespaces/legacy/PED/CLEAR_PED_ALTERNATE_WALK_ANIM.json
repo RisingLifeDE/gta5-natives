@@ -1,0 +1,19 @@
+{
+    "0x8844BBFCE30AA9E9": {
+        "name": "CLEAR_PED_ALTERNATE_WALK_ANIM",
+        "jhash": "0x5736FB23",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

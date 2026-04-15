@@ -1,0 +1,35 @@
+{
+    "0x01D8B04D02F1217F": {
+        "name": "_PLAYSTATS_DEATH_INFO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "victimPed"
+            },
+            {
+                "type": "Ped",
+                "name": "killerPed"
+            },
+            {
+                "type": "int",
+                "name": "mentalState"
+            },
+            {
+                "type": "BOOL",
+                "name": "revengeKill"
+            },
+            {
+                "type": "int",
+                "name": "victimKvK"
+            },
+            {
+                "type": "int",
+                "name": "killerKvK"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

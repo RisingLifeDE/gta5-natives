@@ -1,0 +1,15 @@
+{
+    "0xBC8983F38F78ED51": {
+        "name": "FORCE_CLEANUP",
+        "jhash": "0xFDAAEA2B",
+        "comment": "used with 1,2,8,64,128 in the scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

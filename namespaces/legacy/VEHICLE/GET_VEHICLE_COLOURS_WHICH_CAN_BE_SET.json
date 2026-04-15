@@ -1,0 +1,15 @@
+{
+    "0xEEBFC7A7EFDC35B4": {
+        "name": "GET_VEHICLE_COLOURS_WHICH_CAN_BE_SET",
+        "jhash": "0x749DEEA2",
+        "comment": "Some kind of flags.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

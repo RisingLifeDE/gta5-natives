@@ -1,0 +1,19 @@
+{
+    "0x5F28ECF5FC84772F": {
+        "name": "SET_MISSION_NAME",
+        "jhash": "0x68DCAE10",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

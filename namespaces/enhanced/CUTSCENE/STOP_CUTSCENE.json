@@ -1,0 +1,15 @@
+{
+    "0xC7272775B4DC786E": {
+        "name": "STOP_CUTSCENE",
+        "jhash": "0x5EE84DC7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

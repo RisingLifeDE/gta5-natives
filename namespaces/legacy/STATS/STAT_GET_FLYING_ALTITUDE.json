@@ -1,0 +1,18 @@
+{
+    "0x1A8EA222F9C67DBB": {
+        "name": "STAT_GET_FLYING_ALTITUDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float*",
+                "name": "outValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_HEIGHT_ABOVE_GROUND"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "0x8117E09A19EEF4D3": {
+        "name": "GET_UTC_TIME",
+        "jhash": "0xC589CD7D",
+        "comment": "Gets current UTC time",
+        "params": [
+            {
+                "type": "int*",
+                "name": "year"
+            },
+            {
+                "type": "int*",
+                "name": "month"
+            },
+            {
+                "type": "int*",
+                "name": "day"
+            },
+            {
+                "type": "int*",
+                "name": "hour"
+            },
+            {
+                "type": "int*",
+                "name": "minute"
+            },
+            {
+                "type": "int*",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_LOCAL_TIME",
+            "_GET_UTC_TIME"
+        ]
+    }
+}

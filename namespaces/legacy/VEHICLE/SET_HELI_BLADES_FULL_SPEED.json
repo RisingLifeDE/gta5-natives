@@ -1,0 +1,15 @@
+{
+    "0xA178472EBB8AE60D": {
+        "name": "SET_HELI_BLADES_FULL_SPEED",
+        "jhash": "0x033A9408",
+        "comment": "Equivalent of SET_HELI_BLADES_SPEED(vehicleHandle, 1.0f);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

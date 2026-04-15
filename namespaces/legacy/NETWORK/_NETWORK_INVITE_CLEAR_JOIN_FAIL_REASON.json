@@ -1,0 +1,10 @@
+{
+    "0x8EF5F5811A940F82": {
+        "name": "_NETWORK_INVITE_CLEAR_JOIN_FAIL_REASON",
+        "jhash": "",
+        "comment": "Clears the failed invite join alert reason",
+        "params": [],
+        "return_type": "void",
+        "build": "3179"
+    }
+}

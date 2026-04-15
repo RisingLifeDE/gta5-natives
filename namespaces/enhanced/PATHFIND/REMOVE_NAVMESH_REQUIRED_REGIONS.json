@@ -1,0 +1,10 @@
+{
+    "0x916F0A3CDEC3445E": {
+        "name": "REMOVE_NAVMESH_REQUIRED_REGIONS",
+        "jhash": "0x637BB680",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

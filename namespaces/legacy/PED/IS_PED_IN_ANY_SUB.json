@@ -1,0 +1,15 @@
+{
+    "0xFBFC01CCFB35D99E": {
+        "name": "IS_PED_IN_ANY_SUB",
+        "jhash": "0xE65F8059",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

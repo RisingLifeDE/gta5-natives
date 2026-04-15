@@ -1,0 +1,15 @@
+{
+    "0x5B73C77D9EB66E24": {
+        "name": "SET_USE_ADJUSTED_MOUSE_COORDS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

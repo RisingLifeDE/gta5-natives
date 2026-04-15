@@ -1,0 +1,15 @@
+{
+    "0x430A7631A84C9BE7": {
+        "name": "SET_GROUND_EFFECT_REDUCES_DRAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

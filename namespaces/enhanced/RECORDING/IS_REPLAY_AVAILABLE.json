@@ -1,0 +1,10 @@
+{
+    "0x4282E08174868BE3": {
+        "name": "IS_REPLAY_AVAILABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

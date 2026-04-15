@@ -1,0 +1,15 @@
+{
+    "0xF9800AA1A771B000": {
+        "name": "WAS_PED_KILLED_BY_STEALTH",
+        "jhash": "0x2EA4B54E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

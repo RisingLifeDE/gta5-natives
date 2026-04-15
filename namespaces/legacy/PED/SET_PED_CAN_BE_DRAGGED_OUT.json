@@ -1,0 +1,19 @@
+{
+    "0xC1670E958EEE24E5": {
+        "name": "SET_PED_CAN_BE_DRAGGED_OUT",
+        "jhash": "0xAA7F1131",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

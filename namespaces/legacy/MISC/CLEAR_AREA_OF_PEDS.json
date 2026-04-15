@@ -1,0 +1,31 @@
+{
+    "0xBE31FD6CE464AC59": {
+        "name": "CLEAR_AREA_OF_PEDS",
+        "jhash": "0x25BE7FA8",
+        "comment": "Example:       CLEAR_AREA_OF_PEDS(0, 0, 0, 10000, 1);",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

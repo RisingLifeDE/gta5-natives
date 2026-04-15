@@ -1,0 +1,15 @@
+{
+    "0x31F924B53EADDF65": {
+        "name": "SET_ONLY_ALLOW_AMMO_COLLECTION_WHEN_LOW",
+        "jhash": "0xDB18FA01",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

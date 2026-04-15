@@ -1,0 +1,19 @@
+{
+    "0x960C9FF8F616E41C": {
+        "name": "DISPLAY_HELP_TEXT_THIS_FRAME",
+        "jhash": "0x18E3360A",
+        "comment": "The messages are localized strings.\nExamples:\n\"No_bus_money\"\n\"Enter_bus\"\n\"Tour_help\"\n\"LETTERS_HELP2\"\n\"Dummy\"\n\n**The bool appears to always be false (if it even is a bool, as it's represented by a zero)**\n--------\np1 doesn't seem to make a difference, regardless of the state it's in. \n\n\npicture of where on the screen this is displayed? ",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "message"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x428EAF89E24F6C36": {
+        "name": "STAT_NETWORK_INCREMENT_ON_SUICIDE",
+        "jhash": "0xEE292B91",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x8F719973E1445BA2": {
+        "name": "SET_BOAT_SINKS_WHEN_WRECKED",
+        "jhash": "0x35614622",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BOAT_EXPLODES_ON_WRECKED_ACTION"
+        ]
+    }
+}

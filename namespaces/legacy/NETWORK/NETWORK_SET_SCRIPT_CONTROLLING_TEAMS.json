@@ -1,0 +1,15 @@
+{
+    "0x265559DA40B3F327": {
+        "name": "NETWORK_SET_SCRIPT_CONTROLLING_TEAMS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

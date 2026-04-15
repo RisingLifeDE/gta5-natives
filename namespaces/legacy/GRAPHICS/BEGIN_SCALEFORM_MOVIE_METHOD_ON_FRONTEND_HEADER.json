@@ -1,0 +1,18 @@
+{
+    "0xB9449845F73F5E9C": {
+        "name": "BEGIN_SCALEFORM_MOVIE_METHOD_ON_FRONTEND_HEADER",
+        "jhash": "0x5E219B67",
+        "comment": "Starts frontend (pause menu) scaleform movie methods for header options.\nUse `BEGIN_SCALEFORM_MOVIE_METHOD_ON_FRONTEND` to customize the content inside the frontend menus.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "methodName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_BEGIN_SCALEFORM_MOVIE_METHOD_V"
+        ]
+    }
+}

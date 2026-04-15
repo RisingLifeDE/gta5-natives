@@ -1,0 +1,15 @@
+{
+    "0xC13C38E47EA5DF31": {
+        "name": "NET_GAMESERVER_RETRIEVE_SESSION_ERROR_CODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

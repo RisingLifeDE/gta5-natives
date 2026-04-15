@@ -1,0 +1,18 @@
+{
+    "0x6889498B3E19C797": {
+        "name": "DATAARRAY_ADD_DICT",
+        "jhash": "0xC174C71B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_ADD_OBJECT"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xB2A592B04648A9CB": {
+        "name": "BUSYSPINNER_IS_DISPLAYING",
+        "jhash": "0x3AF34DEF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

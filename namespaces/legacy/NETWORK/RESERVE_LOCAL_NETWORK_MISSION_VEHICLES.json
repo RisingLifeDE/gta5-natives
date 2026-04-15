@@ -1,0 +1,18 @@
+{
+    "0x42613035157E4208": {
+        "name": "RESERVE_LOCAL_NETWORK_MISSION_VEHICLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_RESERVE_NETWORK_LOCAL_VEHICLES"
+        ]
+    }
+}

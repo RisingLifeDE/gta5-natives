@@ -1,0 +1,23 @@
+{
+    "0x8935624F8C5592CC": {
+        "name": "GET_MOD_TEXT_LABEL",
+        "jhash": "0x0BA39CA7",
+        "comment": "Returns the text label of a mod type for a given vehicle\n\nUse GET_FILENAME_FOR_AUDIO_CONVERSATION to get the part name in the game's language",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "int",
+                "name": "modValue"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

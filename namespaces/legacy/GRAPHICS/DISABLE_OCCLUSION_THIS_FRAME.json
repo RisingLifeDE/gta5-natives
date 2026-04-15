@@ -1,0 +1,10 @@
+{
+    "0x3669F1B198DCAA4F": {
+        "name": "DISABLE_OCCLUSION_THIS_FRAME",
+        "jhash": "0x0DCC0B8B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

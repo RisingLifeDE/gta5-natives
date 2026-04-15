@@ -1,0 +1,10 @@
+{
+    "0x7472BB270D7B4F3E": {
+        "name": "POPULATE_NOW",
+        "jhash": "0x72C20700",
+        "comment": "spawns a few distant/out-of-sight peds, vehicles, animals etc each time it is called",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xF47E567B3630DD12": {
+        "name": "OVERRIDE_MP_TEXT_CHAT_COLOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "hudColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "678",
+        "old_names": [
+            "_OVERRIDE_MULTIPLAYER_CHAT_COLOUR"
+        ]
+    }
+}

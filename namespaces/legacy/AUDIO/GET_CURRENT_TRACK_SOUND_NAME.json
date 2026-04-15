@@ -1,0 +1,18 @@
+{
+    "0x34D66BC058019CE0": {
+        "name": "GET_CURRENT_TRACK_SOUND_NAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStationName"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1493",
+        "old_names": [
+            "_GET_CURRENT_RADIO_TRACK_NAME"
+        ]
+    }
+}

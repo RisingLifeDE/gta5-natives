@@ -1,0 +1,15 @@
+{
+    "0xCD74233600C4EA6B": {
+        "name": "SET_FAKE_SPECTATOR_MODE",
+        "jhash": "",
+        "comment": "Setter for GET_FAKE_SPECTATOR_MODE",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

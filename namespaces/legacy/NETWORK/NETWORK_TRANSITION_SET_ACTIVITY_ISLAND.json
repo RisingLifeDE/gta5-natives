@@ -1,0 +1,15 @@
+{
+    "0xF6F4383B7C92F11A": {
+        "name": "NETWORK_TRANSITION_SET_ACTIVITY_ISLAND",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

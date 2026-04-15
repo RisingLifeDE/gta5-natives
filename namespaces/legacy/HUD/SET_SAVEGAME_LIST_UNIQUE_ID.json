@@ -1,0 +1,15 @@
+{
+    "0x0CF54F20DE43879C": {
+        "name": "SET_SAVEGAME_LIST_UNIQUE_ID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

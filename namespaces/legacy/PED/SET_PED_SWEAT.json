@@ -1,0 +1,19 @@
+{
+    "0x27B0405F59637D1F": {
+        "name": "SET_PED_SWEAT",
+        "jhash": "0x76A1DB9F",
+        "comment": "Sweat is set to 100.0 or 0.0 in the decompiled scripts.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "sweat"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

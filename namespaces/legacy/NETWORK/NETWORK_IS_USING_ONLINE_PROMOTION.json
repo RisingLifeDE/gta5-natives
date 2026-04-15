@@ -1,0 +1,10 @@
+{
+    "0x906CA41A4B74ECA4": {
+        "name": "NETWORK_IS_USING_ONLINE_PROMOTION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1493"
+    }
+}

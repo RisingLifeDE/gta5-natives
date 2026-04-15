@@ -1,0 +1,22 @@
+{
+    "0x544996C0081ABDEB": {
+        "name": "SET_GLIDER_ACTIVE",
+        "jhash": "",
+        "comment": "Set state to true to extend the wings, false to retract them.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_OPPRESSOR_TRANSFORM_STATE"
+        ]
+    }
+}

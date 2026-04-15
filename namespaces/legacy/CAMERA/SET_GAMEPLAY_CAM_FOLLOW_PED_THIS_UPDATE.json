@@ -1,0 +1,15 @@
+{
+    "0x8BBACBF51DA047A8": {
+        "name": "SET_GAMEPLAY_CAM_FOLLOW_PED_THIS_UPDATE",
+        "jhash": "0x7D3007A2",
+        "comment": "Forces gameplay cam to specified ped as if you were the ped or spectating it",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

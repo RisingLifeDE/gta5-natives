@@ -1,0 +1,27 @@
+{
+    "0x9AFEFF481A85AB2E": {
+        "name": "SET_PED_COORDS_KEEP_VEHICLE",
+        "jhash": "0xD66AE1D3",
+        "comment": "teleports ped to coords along with the vehicle ped is in",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

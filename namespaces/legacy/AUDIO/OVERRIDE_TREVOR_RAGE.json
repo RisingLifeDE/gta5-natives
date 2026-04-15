@@ -1,0 +1,15 @@
+{
+    "0x13AD665062541A7E": {
+        "name": "OVERRIDE_TREVOR_RAGE",
+        "jhash": "0x05B9B5CF",
+        "comment": "This native enables the audio flag \"TrevorRageIsOverridden\" and sets the voice effect to `voiceEffect`",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "voiceEffect"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

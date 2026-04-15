@@ -1,0 +1,19 @@
+{
+    "0x9F343285A00B4BB6": {
+        "name": "SET_AUTO_GIVE_PARACHUTE_WHEN_ENTER_PLANE",
+        "jhash": "0xA97C2059",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

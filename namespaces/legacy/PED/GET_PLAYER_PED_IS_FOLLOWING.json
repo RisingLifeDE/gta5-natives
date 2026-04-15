@@ -1,0 +1,15 @@
+{
+    "0x6A3975DEA89F9A17": {
+        "name": "GET_PLAYER_PED_IS_FOLLOWING",
+        "jhash": "0xDE7442EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

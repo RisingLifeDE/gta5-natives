@@ -1,0 +1,18 @@
+{
+    "0x7C06330BFDDA182E": {
+        "name": "STOP_BRINGING_VEHICLE_TO_HALT",
+        "jhash": "",
+        "comment": "Stops CTaskBringVehicleToHalt",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_STOP_BRING_VEHICLE_TO_HALT"
+        ]
+    }
+}

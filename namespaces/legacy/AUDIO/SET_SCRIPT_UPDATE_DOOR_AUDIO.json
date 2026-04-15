@@ -1,0 +1,19 @@
+{
+    "0x06C0023BED16DD6B": {
+        "name": "SET_SCRIPT_UPDATE_DOOR_AUDIO",
+        "jhash": "0xE61110A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x367E5E33E7F0DD1A": {
+        "name": "_NETWORK_GET_TUNABLES_REGISTRATION_FLOAT",
+        "jhash": "",
+        "comment": "Checks if the given tunable exists and returns its value. Otherwise returns defaultValue.\nPossible tunable contexts must first be set up using _NETWORK_SET_TUNABLES_REGISTRATION_CONTEXTS.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "float",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "float",
+        "build": "3258"
+    }
+}

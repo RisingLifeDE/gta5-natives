@@ -1,0 +1,23 @@
+{
+    "0xCAC2031EBF79B1A8": {
+        "name": "SHOW_GOLD_TICK_ON_BLIP",
+        "jhash": "",
+        "comment": "Adds a orange checkmark on top of a given blip handle: https://imgur.com/a/aw5OTMF\n_SHOW_FRIEND_INDICATOR_ON_BLIP* - _SHOW_HEADING_INDICATOR_ON_BLIP*",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_SHOW_TICK_ON_BLIP_2",
+            "_SHOW_HAS_COMPLETED_INDICATOR_ON_BLIP"
+        ]
+    }
+}

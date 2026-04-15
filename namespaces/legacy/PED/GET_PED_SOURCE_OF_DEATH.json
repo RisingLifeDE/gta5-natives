@@ -1,0 +1,18 @@
+{
+    "0x93C8B64DEB84728C": {
+        "name": "GET_PED_SOURCE_OF_DEATH",
+        "jhash": "0x84ADF9EB",
+        "comment": "Returns the Entity (Ped, Vehicle, or ?Object?) that killed the 'ped'\n\nIs best to check if the Ped is dead before asking for its killer.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "323",
+        "old_names": [
+            "_GET_PED_KILLER"
+        ]
+    }
+}

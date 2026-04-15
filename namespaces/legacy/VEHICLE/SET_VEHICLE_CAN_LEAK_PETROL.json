@@ -1,0 +1,19 @@
+{
+    "0x192547247864DFDD": {
+        "name": "SET_VEHICLE_CAN_LEAK_PETROL",
+        "jhash": "0x90D6EE57",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

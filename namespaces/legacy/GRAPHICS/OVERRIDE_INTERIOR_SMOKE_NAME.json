@@ -1,0 +1,15 @@
+{
+    "0x2A2A52824DB96700": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_NAME",
+        "jhash": "0x0F486429",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

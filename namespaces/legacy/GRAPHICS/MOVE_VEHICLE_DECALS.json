@@ -1,0 +1,19 @@
+{
+    "0x84C8D7C2D30D3280": {
+        "name": "MOVE_VEHICLE_DECALS",
+        "jhash": "0xCE9E6CF2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

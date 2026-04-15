@@ -1,0 +1,15 @@
+{
+    "0x1980F68872CC2C3D": {
+        "name": "_SET_VEHICLE_USE_HORN_BUTTON_FOR_NITROUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

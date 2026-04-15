@@ -1,0 +1,15 @@
+{
+    "0xDA07819E452FFE8F": {
+        "name": "SET_POSITIONED_PLAYER_VEHICLE_RADIO_EMITTER_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

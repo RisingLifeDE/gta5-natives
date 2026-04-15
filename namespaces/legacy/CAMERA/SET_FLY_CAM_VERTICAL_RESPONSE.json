@@ -1,0 +1,30 @@
+{
+    "0xE827B9382CFB41BA": {
+        "name": "SET_FLY_CAM_VERTICAL_RESPONSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_FLY_CAM_VERTICAL_SPEED_MULTIPLIER"
+        ]
+    }
+}

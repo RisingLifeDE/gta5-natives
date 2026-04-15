@@ -1,0 +1,10 @@
+{
+    "0x76EF28DA05EA395A": {
+        "name": "NETWORK_GET_VC_BANK_BALANCE",
+        "jhash": "0x16184FB5",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

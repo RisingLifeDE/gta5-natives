@@ -1,0 +1,10 @@
+{
+    "0xEA16670E7BA4743C": {
+        "name": "RESET_AI_WEAPON_DAMAGE_MODIFIER",
+        "jhash": "0x6E965420",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

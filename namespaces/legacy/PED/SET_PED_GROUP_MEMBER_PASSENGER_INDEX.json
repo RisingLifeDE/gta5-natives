@@ -1,0 +1,19 @@
+{
+    "0x0BDDB8D9EC6BCF3C": {
+        "name": "SET_PED_GROUP_MEMBER_PASSENGER_INDEX",
+        "jhash": "0x2AB3670B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

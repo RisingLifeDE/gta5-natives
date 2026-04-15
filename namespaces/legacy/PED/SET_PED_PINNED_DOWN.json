@@ -1,0 +1,23 @@
+{
+    "0xAAD6D1ACF08F4612": {
+        "name": "SET_PED_PINNED_DOWN",
+        "jhash": "0xCC78999D",
+        "comment": "i could be time. Only example in the decompiled scripts uses it as -1.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "pinned"
+            },
+            {
+                "type": "int",
+                "name": "i"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

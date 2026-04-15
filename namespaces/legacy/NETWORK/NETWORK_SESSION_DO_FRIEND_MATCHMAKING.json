@@ -1,0 +1,26 @@
+{
+    "0x2CFC76E0D087C994": {
+        "name": "NETWORK_SESSION_DO_FRIEND_MATCHMAKING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "NETWORK_SESSION_FRIEND_MATCHMAKING"
+        ]
+    }
+}

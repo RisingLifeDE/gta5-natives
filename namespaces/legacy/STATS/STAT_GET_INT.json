@@ -1,0 +1,23 @@
+{
+    "0x767FBC2AC802EF3D": {
+        "name": "STAT_GET_INT",
+        "jhash": "0x1C6FE43E",
+        "comment": "p2 appears to always be -1\n",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "int*",
+                "name": "outValue"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

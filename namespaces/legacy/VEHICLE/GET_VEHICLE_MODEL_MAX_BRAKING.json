@@ -1,0 +1,15 @@
+{
+    "0xDC53FD41B4ED944C": {
+        "name": "GET_VEHICLE_MODEL_MAX_BRAKING",
+        "jhash": "0x7EF02883",
+        "comment": "Returns max braking of the specified vehicle model.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

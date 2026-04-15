@@ -1,0 +1,31 @@
+{
+    "0xA7E30DE9272B6D49": {
+        "name": "NETWORK_OVERRIDE_COORDS_AND_HEADING",
+        "jhash": "0x644141C5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

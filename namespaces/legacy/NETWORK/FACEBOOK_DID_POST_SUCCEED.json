@@ -1,0 +1,13 @@
+{
+    "0xA75E2B6733DA5142": {
+        "name": "FACEBOOK_DID_POST_SUCCEED",
+        "jhash": "0x11E8B5CD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_FACEBOOK_DO_UNK_CHECK"
+        ]
+    }
+}

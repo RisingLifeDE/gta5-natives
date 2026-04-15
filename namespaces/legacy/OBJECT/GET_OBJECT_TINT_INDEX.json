@@ -1,0 +1,18 @@
+{
+    "0xE84EB93729C5F36A": {
+        "name": "GET_OBJECT_TINT_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "int",
+        "build": "757",
+        "old_names": [
+            "_GET_OBJECT_TEXTURE_VARIATION"
+        ]
+    }
+}

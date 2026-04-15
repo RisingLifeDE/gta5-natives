@@ -1,0 +1,15 @@
+{
+    "0x7239B21A38F536BA": {
+        "name": "DOES_ENTITY_EXIST",
+        "jhash": "0x3AC90869",
+        "comment": "Checks whether an entity exists in the game world.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

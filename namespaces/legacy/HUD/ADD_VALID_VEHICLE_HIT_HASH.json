@@ -1,0 +1,15 @@
+{
+    "0xE4C3B169876D33D7": {
+        "name": "ADD_VALID_VEHICLE_HIT_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

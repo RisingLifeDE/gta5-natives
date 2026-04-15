@@ -1,0 +1,19 @@
+{
+    "0x54318C915D27E4CE": {
+        "name": "SET_BLIP_HIDDEN_ON_LEGEND",
+        "jhash": "0x43996428",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

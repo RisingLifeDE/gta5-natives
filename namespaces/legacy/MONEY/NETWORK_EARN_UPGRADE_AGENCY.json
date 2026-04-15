@@ -1,0 +1,22 @@
+{
+    "0xD07C7C3F1995108C": {
+        "name": "NETWORK_EARN_UPGRADE_AGENCY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_EARN_FROM_UPGRADE_AGENCY_LOCATION"
+        ]
+    }
+}

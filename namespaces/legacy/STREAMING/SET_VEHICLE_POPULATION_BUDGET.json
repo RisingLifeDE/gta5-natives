@@ -1,0 +1,15 @@
+{
+    "0xCB9E1EB3BE2AF4E9": {
+        "name": "SET_VEHICLE_POPULATION_BUDGET",
+        "jhash": "0x1D56993C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

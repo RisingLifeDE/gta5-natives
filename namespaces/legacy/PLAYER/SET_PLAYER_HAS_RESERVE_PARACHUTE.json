@@ -1,0 +1,15 @@
+{
+    "0x7DDAB28D31FAC363": {
+        "name": "SET_PLAYER_HAS_RESERVE_PARACHUTE",
+        "jhash": "0xA3E4798E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

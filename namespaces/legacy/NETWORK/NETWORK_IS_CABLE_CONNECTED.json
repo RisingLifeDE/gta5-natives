@@ -1,0 +1,10 @@
+{
+    "0xEFFB25453D8600F9": {
+        "name": "NETWORK_IS_CABLE_CONNECTED",
+        "jhash": "0x5C065D55",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

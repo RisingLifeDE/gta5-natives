@@ -1,0 +1,23 @@
+{
+    "0xEC5E3AF5289DCA81": {
+        "name": "BAD_SPORT_PLAYER_LEFT_DETECTED",
+        "jhash": "0x4C2C6B6A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "event"
+            },
+            {
+                "type": "int",
+                "name": "amountReceived"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

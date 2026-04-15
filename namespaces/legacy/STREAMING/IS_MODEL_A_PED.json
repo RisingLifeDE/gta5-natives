@@ -1,0 +1,15 @@
+{
+    "0x75816577FEA6DAD5": {
+        "name": "IS_MODEL_A_PED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1103"
+    }
+}

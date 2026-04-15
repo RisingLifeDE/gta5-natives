@@ -1,0 +1,22 @@
+{
+    "0x3E200C2BCF4164EB": {
+        "name": "NETWORK_SET_RICH_PRESENCE_STRING",
+        "jhash": "0x017E6777",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "textLabel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SET_RICH_PRESENCE_2"
+        ]
+    }
+}

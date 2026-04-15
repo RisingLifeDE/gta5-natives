@@ -1,0 +1,19 @@
+{
+    "0x79DF7E806202CE01": {
+        "name": "SET_VEHICLE_EXTENDED_REMOVAL_RANGE",
+        "jhash": "0xAEF9611C",
+        "comment": "Max value is 32767",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

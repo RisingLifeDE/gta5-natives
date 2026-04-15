@@ -1,0 +1,15 @@
+{
+    "0xB7EF5850C39FABCA": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

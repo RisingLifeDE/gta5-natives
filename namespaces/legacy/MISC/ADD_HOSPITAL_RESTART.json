@@ -1,0 +1,31 @@
+{
+    "0x1F464EF988465A81": {
+        "name": "ADD_HOSPITAL_RESTART",
+        "jhash": "0x4F3E3104",
+        "comment": "Returns the index of the newly created hospital spawn point.\n\np3 might be radius?",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

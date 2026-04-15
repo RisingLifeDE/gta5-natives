@@ -1,0 +1,31 @@
+{
+    "0x7F8F65877F88783B": {
+        "name": "SET_PARTICLE_FX_LOOPED_COLOUR",
+        "jhash": "0x5219D530",
+        "comment": "only works on some fx's\n\np4 = 0",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

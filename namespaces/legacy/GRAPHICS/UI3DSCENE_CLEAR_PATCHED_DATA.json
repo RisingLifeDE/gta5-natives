@@ -1,0 +1,10 @@
+{
+    "0x7A42B2E236E71415": {
+        "name": "UI3DSCENE_CLEAR_PATCHED_DATA",
+        "jhash": "0x431AA036",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

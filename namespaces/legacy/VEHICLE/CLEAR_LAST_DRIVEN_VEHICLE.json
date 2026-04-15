@@ -1,0 +1,10 @@
+{
+    "0xE01903C47C7AC89E": {
+        "name": "CLEAR_LAST_DRIVEN_VEHICLE",
+        "jhash": "0x07186AD9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

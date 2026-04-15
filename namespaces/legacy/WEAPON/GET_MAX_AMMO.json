@@ -1,0 +1,23 @@
+{
+    "0xDC16122C7A20C933": {
+        "name": "GET_MAX_AMMO",
+        "jhash": "0x0B294796",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

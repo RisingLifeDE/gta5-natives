@@ -1,0 +1,13 @@
+{
+    "0x112CEF1615A1139F": {
+        "name": "NET_GAMESERVER_DELETE_SET_TELEMETRY_NONCE_SEED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_DELETE_SET_TELEMETRY_NONCE_SEED"
+        ]
+    }
+}

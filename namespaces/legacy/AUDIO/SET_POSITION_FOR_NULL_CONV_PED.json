@@ -1,0 +1,27 @@
+{
+    "0x33E3C6C6F2F0B506": {
+        "name": "SET_POSITION_FOR_NULL_CONV_PED",
+        "jhash": "0x73C6F979",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

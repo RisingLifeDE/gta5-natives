@@ -1,0 +1,22 @@
+{
+    "0x5835D9CD92E83184": {
+        "name": "NETWORK_CLAN_GET_EMBLEM_TXD_NAME",
+        "jhash": "0xBA672146",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "netHandle"
+            },
+            {
+                "type": "char*",
+                "name": "txdName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_PLAYER_CREW_EMBLEM_TXD_NAME"
+        ]
+    }
+}

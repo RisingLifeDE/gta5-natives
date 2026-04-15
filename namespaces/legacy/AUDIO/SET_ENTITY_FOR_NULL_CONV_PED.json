@@ -1,0 +1,19 @@
+{
+    "0x892B6AB8F33606F5": {
+        "name": "SET_ENTITY_FOR_NULL_CONV_PED",
+        "jhash": "0x88203DDA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

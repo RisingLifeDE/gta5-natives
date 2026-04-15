@@ -1,0 +1,47 @@
+{
+    "0xFDDC2B4ED3C69DF0": {
+        "name": "DRAW_TV_CHANNEL",
+        "jhash": "0x8129EF89",
+        "comment": "All calls to this native are preceded by calls to GRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER and GRAPHICS::SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU, respectively.\n\n\"act_cinema.ysc\", line 1483:\nHUD::SET_HUD_COMPONENT_POSITION(15, 0.0, -0.0375);\nHUD::SET_TEXT_RENDER_ID(l_AE);\nGRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(4);\nGRAPHICS::SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU(1);\nif (GRAPHICS::IS_TVSHOW_CURRENTLY_PLAYING(${movie_arthouse})) {\n    GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 0.7375, 1.0, 0.0, 255, 255, 255, 255);\n} else { \n    GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 1.0, 1.0, 0.0, 255, 255, 255, 255);\n}\n\n\"am_mp_property_int.ysc\", line 102545:\nif (ENTITY::DOES_ENTITY_EXIST(a_2._f3)) {\n    if (HUD::IS_NAMED_RENDERTARGET_LINKED(ENTITY::GET_ENTITY_MODEL(a_2._f3))) {\n        HUD::SET_TEXT_RENDER_ID(a_2._f1);\n        GRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(4);\n        GRAPHICS::SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU(1);\n        GRAPHICS::DRAW_TV_CHANNEL(0.5, 0.5, 1.0, 1.0, 0.0, 255, 255, 255, 255);\n        if (GRAPHICS::GET_TV_CHANNEL() == -1) {\n            sub_a8fa5(a_2, 1);\n        } else { \n            sub_a8fa5(a_2, 1);\n            GRAPHICS::ATTACH_TV_AUDIO_TO_ENTITY(a_2._f3);\n        }\n        HUD::SET_TEXT_RENDER_ID(HUD::GET_DEFAULT_SCRIPT_RENDERTARGET_RENDER_ID());\n    }\n}\n",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "xScale"
+            },
+            {
+                "type": "float",
+                "name": "yScale"
+            },
+            {
+                "type": "float",
+                "name": "rotation"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

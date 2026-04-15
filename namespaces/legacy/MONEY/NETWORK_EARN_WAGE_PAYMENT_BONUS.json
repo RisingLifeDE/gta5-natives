@@ -1,0 +1,18 @@
+{
+    "0x005ACA7100BD101D": {
+        "name": "NETWORK_EARN_WAGE_PAYMENT_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_NETWORK_EARN_FROM_WAGE_PAYMENT_BONUS"
+        ]
+    }
+}

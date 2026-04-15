@@ -1,0 +1,15 @@
+{
+    "0xA342A3763B3AFB6C": {
+        "name": "_FORCE_ALLOW_SNOW_FOOT_VFX_ON_ICE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

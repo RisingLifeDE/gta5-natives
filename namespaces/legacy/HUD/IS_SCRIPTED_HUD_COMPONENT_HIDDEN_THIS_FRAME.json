@@ -1,0 +1,15 @@
+{
+    "0x09C0403ED9A751C2": {
+        "name": "IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME",
+        "jhash": "0xE8C8E535",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

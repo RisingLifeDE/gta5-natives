@@ -1,0 +1,30 @@
+{
+    "0x3F7325574E41B44D": {
+        "name": "SET_PED_HELMET_VISOR_PROP_INDICES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_PED_HELMET_UNK"
+        ]
+    }
+}

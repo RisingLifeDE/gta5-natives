@@ -1,0 +1,67 @@
+{
+    "0xD8B9A8AC5608FF94": {
+        "name": "DRAW_DEBUG_LINE_WITH_TWO_COLOURS",
+        "jhash": "0xE8BFF632",
+        "comment": "NOTE: Debugging functions are not present in the retail version of the game.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "r1"
+            },
+            {
+                "type": "int",
+                "name": "g1"
+            },
+            {
+                "type": "int",
+                "name": "b1"
+            },
+            {
+                "type": "int",
+                "name": "r2"
+            },
+            {
+                "type": "int",
+                "name": "g2"
+            },
+            {
+                "type": "int",
+                "name": "b2"
+            },
+            {
+                "type": "int",
+                "name": "alpha1"
+            },
+            {
+                "type": "int",
+                "name": "alpha2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xDF729E8D20CF7327": {
+        "name": "GET_BLIP_COLOUR",
+        "jhash": "0xDD6A1E54",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

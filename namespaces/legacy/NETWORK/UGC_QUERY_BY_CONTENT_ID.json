@@ -1,0 +1,23 @@
+{
+    "0x158EC424F35EC469": {
+        "name": "UGC_QUERY_BY_CONTENT_ID",
+        "jhash": "0xDED82A6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "latestVersion"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

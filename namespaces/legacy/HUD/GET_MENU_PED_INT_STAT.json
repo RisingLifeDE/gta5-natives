@@ -1,0 +1,22 @@
+{
+    "0xEF4CED81CEBEDC6D": {
+        "name": "GET_MENU_PED_INT_STAT",
+        "jhash": "0x4370999E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_USERIDS_UIHIDDEN"
+        ]
+    }
+}

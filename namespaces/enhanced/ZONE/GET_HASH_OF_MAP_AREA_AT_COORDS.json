@@ -1,0 +1,23 @@
+{
+    "0x7EE64D51E8498728": {
+        "name": "GET_HASH_OF_MAP_AREA_AT_COORDS",
+        "jhash": "0xB5C5C99B",
+        "comment": "Returns a hash representing which part of the map the given coords are located.\n\nPossible return values:\n(Hash of) city -> -289320599\n(Hash of) countryside -> 2072609373\n\nC# Example :\n\nPed player = Game.Player.Character;\nHash h = Function.Call<Hash>(Hash.GET_HASH_OF_MAP_AREA_AT_COORDS, player.Position.X, player.Position.Y, player.Position.Z);",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

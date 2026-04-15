@@ -1,0 +1,15 @@
+{
+    "0xC64DED7EF0D2FE37": {
+        "name": "CLOUD_DELETE_MEMBER_FILE",
+        "jhash": "0x2B7B57B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

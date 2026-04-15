@@ -1,0 +1,15 @@
+{
+    "0x90370EBE0FEE1A3D": {
+        "name": "CREATE_GROUP",
+        "jhash": "0x8DC0368D",
+        "comment": "Creates a new ped group.\nGroups can contain up to 8 peds.\n\nThe parameter is unused.\n\nReturns a handle to the created group, or 0 if a group couldn't be created.",
+        "params": [
+            {
+                "type": "int",
+                "name": "unused"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

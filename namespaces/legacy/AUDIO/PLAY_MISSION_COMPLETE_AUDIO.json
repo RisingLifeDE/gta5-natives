@@ -1,0 +1,15 @@
+{
+    "0xB138AAB8A70D3C69": {
+        "name": "PLAY_MISSION_COMPLETE_AUDIO",
+        "jhash": "0x3033EA1D",
+        "comment": "Called 38 times in the scripts. There are 5 different audioNames used.\n One unknown removed below.\n\nAUDIO::PLAY_MISSION_COMPLETE_AUDIO(\"DEAD\");\nAUDIO::PLAY_MISSION_COMPLETE_AUDIO(\"FRANKLIN_BIG_01\");\nAUDIO::PLAY_MISSION_COMPLETE_AUDIO(\"GENERIC_FAILED\");\nAUDIO::PLAY_MISSION_COMPLETE_AUDIO(\"TREVOR_SMALL_01\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0D01D20616FC73FB": {
+        "name": "SET_FREEMODE_PROLOGUE_DONE",
+        "jhash": "0x2180AE13",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x2708FC083123F9FF": {
+        "name": "CUSTOM_MINIMAP_CLEAR_BLIPS",
+        "jhash": "0xCBEC9369",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_RACE_GALLERY_BLIPS"
+        ]
+    }
+}

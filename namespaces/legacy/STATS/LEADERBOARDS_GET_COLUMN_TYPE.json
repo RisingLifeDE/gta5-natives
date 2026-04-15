@@ -1,0 +1,23 @@
+{
+    "0xBF4FEF46DB7894D3": {
+        "name": "LEADERBOARDS_GET_COLUMN_TYPE",
+        "jhash": "0x6F2820F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

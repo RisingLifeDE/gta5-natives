@@ -1,0 +1,22 @@
+{
+    "0x33D72899E24C3365": {
+        "name": "STAT_START_RECORD_STAT",
+        "jhash": "",
+        "comment": "enum StatTrackingType\n{\n\tLongestWheelie = 1,\n\tLongestStoppie = 2,\n\tNoCrashes = 3,\n\tHighestSpeed = 4,\n\t_MostFlips = 5,\n\t_LongestSpin = 6,\n\t_HighestJumpReached = 7,\n\tLongestJump = 8,\n\t_NearMissesNoCrash = 9,\n\tLongestFallSurvived = 10,\n\tLowestParachute = 11,\n\tReverseDriving = 12,\n\tLongestFreefall = 13,\n\tVehiclesStolen = 14,\n\t_SomeCFireEventCount = 15,\n\t_Unk16 = 16,\n\t_LowFlyingTime = 17,\n\tLowFlying = 18,\n\t_InvertedFlyingTime = 19,\n\tInvertedFlying = 20,\n\t_PlaneSpinCount = 21,\n\tMeleeKills = 22, // Players\n\t_LongestSniperKill = 23,\n\tSniperSkills = 24, // Players\n\tDrivebyKills = 25, // Players\n\tHeadshotKills = 26, // Players\n\tLongestBail = 27,\n\t_TotalRammedByCar = 28,\n\tNearMissesPrecise = 29,\n\t_FreefallTime = 30,\n\tUnk31 = 31,\n}\n\nenum StatTrackingValueType\n{\n\tTotal,\n\tMax,\n\tMin\n}",
+        "params": [
+            {
+                "type": "int",
+                "name": "statType"
+            },
+            {
+                "type": "int",
+                "name": "valueType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_STAT_TRACKING_ENABLE"
+        ]
+    }
+}

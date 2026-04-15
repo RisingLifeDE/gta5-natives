@@ -1,0 +1,15 @@
+{
+    "0xA49C426ED0CA4AB7": {
+        "name": "SET_SPECIAL_ABILITY_MULTIPLIER",
+        "jhash": "0xFF1BC556",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

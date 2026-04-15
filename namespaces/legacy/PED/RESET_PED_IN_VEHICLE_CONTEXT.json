@@ -1,0 +1,15 @@
+{
+    "0x22EF8FF8778030EB": {
+        "name": "RESET_PED_IN_VEHICLE_CONTEXT",
+        "jhash": "0x3C94D88A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

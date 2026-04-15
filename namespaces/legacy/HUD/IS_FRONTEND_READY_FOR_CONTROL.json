@@ -1,0 +1,10 @@
+{
+    "0x3BAB9A4E4F2FF5C7": {
+        "name": "IS_FRONTEND_READY_FOR_CONTROL",
+        "jhash": "0xD3BF3ABD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

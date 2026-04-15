@@ -1,0 +1,15 @@
+{
+    "0x5C4EBFFA98BDB41C": {
+        "name": "SC_LICENSEPLATE_GET_ISVALID_STATUS",
+        "jhash": "0x9AA2BA3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

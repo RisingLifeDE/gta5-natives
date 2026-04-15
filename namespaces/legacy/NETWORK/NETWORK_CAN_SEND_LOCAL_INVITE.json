@@ -1,0 +1,15 @@
+{
+    "0x021ABCBD98EC4320": {
+        "name": "NETWORK_CAN_SEND_LOCAL_INVITE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

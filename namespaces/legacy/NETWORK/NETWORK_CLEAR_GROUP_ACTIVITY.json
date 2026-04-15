@@ -1,0 +1,10 @@
+{
+    "0x1888694923EF4591": {
+        "name": "NETWORK_CLEAR_GROUP_ACTIVITY",
+        "jhash": "0x157D44D3",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "393"
+    }
+}

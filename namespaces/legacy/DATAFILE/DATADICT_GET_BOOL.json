@@ -1,0 +1,22 @@
+{
+    "0x1186940ED72FFEEC": {
+        "name": "DATADICT_GET_BOOL",
+        "jhash": "0x8876C872",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_GET_BOOLEAN"
+        ]
+    }
+}

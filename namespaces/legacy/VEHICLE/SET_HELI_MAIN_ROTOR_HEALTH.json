@@ -1,0 +1,22 @@
+{
+    "0x4056EA1105F5ABD7": {
+        "name": "SET_HELI_MAIN_ROTOR_HEALTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_HELI_MAIN_ROTOR_HEALTH"
+        ]
+    }
+}

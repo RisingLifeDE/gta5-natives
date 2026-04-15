@@ -1,0 +1,10 @@
+{
+    "0x56581E7E219D6263": {
+        "name": "_GET_MAXIMUM_NUMBER_OF_WATER_CANNONS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "3717"
+    }
+}

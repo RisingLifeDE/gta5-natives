@@ -1,0 +1,19 @@
+{
+    "0x0F42323798A58C8C": {
+        "name": "IS_ENTITY_TOUCHING_MODEL",
+        "jhash": "0x307E7611",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

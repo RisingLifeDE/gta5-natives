@@ -1,0 +1,10 @@
+{
+    "0xD3C2E180A40F031E": {
+        "name": "IS_CUTSCENE_PLAYING",
+        "jhash": "0xA3A78392",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

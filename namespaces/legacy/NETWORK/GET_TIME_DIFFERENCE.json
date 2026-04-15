@@ -1,0 +1,19 @@
+{
+    "0xA2C6FC031D46FFF0": {
+        "name": "GET_TIME_DIFFERENCE",
+        "jhash": "0x5666A837",
+        "comment": "Subtracts the second argument from the first.",
+        "params": [
+            {
+                "type": "int",
+                "name": "timeA"
+            },
+            {
+                "type": "int",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

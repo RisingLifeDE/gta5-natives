@@ -1,0 +1,19 @@
+{
+    "0x2C9F302398E13141": {
+        "name": "SET_BLIP_USE_HEIGHT_INDICATOR_ON_EDGE",
+        "jhash": "0xCA95C487",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

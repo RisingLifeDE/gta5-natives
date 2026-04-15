@@ -1,0 +1,10 @@
+{
+    "0xAC7BFD5C1D83EA75": {
+        "name": "RESET_DISPATCH_SPAWN_BLOCKING_AREAS",
+        "jhash": "0x9A17F835",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

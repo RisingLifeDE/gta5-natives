@@ -1,0 +1,19 @@
+{
+    "0x1DB21A44B09E8BA3": {
+        "name": "MP_TEXT_CHAT_DISABLE",
+        "jhash": "",
+        "comment": "Hides the chat history, closes the input box and makes it unable to be opened unless called again with FALSE.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TEXT_CHAT_UNK",
+            "_MULTIPLAYER_CHAT_SET_DISABLED"
+        ]
+    }
+}

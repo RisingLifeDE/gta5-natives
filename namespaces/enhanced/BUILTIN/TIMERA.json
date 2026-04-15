@@ -1,0 +1,10 @@
+{
+    "0x83666F9FB8FEBD4B": {
+        "name": "TIMERA",
+        "jhash": "0x45C8C188",
+        "comment": "Counts up. Every 1000 is 1 real-time second. Use SETTIMERA(int value) to set the timer (e.g.: SETTIMERA(0)).",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x2DFC81C9B9608549": {
+        "name": "CAN_PED_SHUFFLE_TO_OR_FROM_EXTRA_SEAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944"
+    }
+}

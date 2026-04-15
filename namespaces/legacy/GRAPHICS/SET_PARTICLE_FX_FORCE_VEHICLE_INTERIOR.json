@@ -1,0 +1,15 @@
+{
+    "0x8CDE909A0370BB3A": {
+        "name": "SET_PARTICLE_FX_FORCE_VEHICLE_INTERIOR",
+        "jhash": "",
+        "comment": "Used only once in the scripts (taxi_clowncar)",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

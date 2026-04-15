@@ -1,0 +1,19 @@
+{
+    "0xB9CFD27A5D578D83": {
+        "name": "NETWORK_SESSION_HOST_FRIENDS_ONLY",
+        "jhash": "0x26864403",
+        "comment": "Does nothing in online but in offline it will cause the screen to fade to black. Nothing happens past then, the screen will sit at black until you restart GTA. Other stuff must be needed to actually host a session.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

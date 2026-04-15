@@ -1,0 +1,15 @@
+{
+    "0x524AC5ECEA15343E": {
+        "name": "IS_ENTITY_A_PED",
+        "jhash": "0x55D33EAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

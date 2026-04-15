@@ -1,0 +1,23 @@
+{
+    "0x8423541E8B3A1589": {
+        "name": "SET_TASK_MOVE_NETWORK_ANIM_SET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "clipSet"
+            },
+            {
+                "type": "Hash",
+                "name": "variableClipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493"
+    }
+}

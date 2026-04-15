@@ -1,0 +1,15 @@
+{
+    "0x9A1B3FCDB36C8697": {
+        "name": "NETWORK_START_SYNCHRONISED_SCENE",
+        "jhash": "0xA9DFDC40",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA135AC892A58FC07": {
+        "name": "NET_GAMESERVER_START_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "charSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_START_SESSION"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x4FEF53183C3C6414": {
+        "name": "STAT_SAVE_MIGRATION_CANCEL_PENDING_OPERATION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_STAT_SAVE_MIGRATION_CANCEL"
+        ]
+    }
+}

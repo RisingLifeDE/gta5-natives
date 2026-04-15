@@ -1,0 +1,15 @@
+{
+    "0xE154B48B68EF72BC": {
+        "name": "HAS_VC_WITHDRAWAL_COMPLETED",
+        "jhash": "0x531E4892",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

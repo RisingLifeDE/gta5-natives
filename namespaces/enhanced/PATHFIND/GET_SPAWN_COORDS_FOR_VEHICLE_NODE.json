@@ -1,0 +1,35 @@
+{
+    "0x809549AFC7AEC597": {
+        "name": "GET_SPAWN_COORDS_FOR_VEHICLE_NODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeAddress"
+            },
+            {
+                "type": "float",
+                "name": "towardsCoorsX"
+            },
+            {
+                "type": "float",
+                "name": "towardsCoorsY"
+            },
+            {
+                "type": "float",
+                "name": "towardsCoorsZ"
+            },
+            {
+                "type": "Vector3*",
+                "name": "centrePoint"
+            },
+            {
+                "type": "float*",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0299FA38396A4940": {
+        "name": "SET_PLAYER_TEAM",
+        "jhash": "0x725ADCF2",
+        "comment": "Set player team on deathmatch and last team standing..",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

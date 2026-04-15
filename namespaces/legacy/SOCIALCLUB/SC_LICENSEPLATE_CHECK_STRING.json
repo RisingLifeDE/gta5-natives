@@ -1,0 +1,19 @@
+{
+    "0xF6BAAAF762E1BF40": {
+        "name": "SC_LICENSEPLATE_CHECK_STRING",
+        "jhash": "0x7AA36406",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

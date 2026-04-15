@@ -1,0 +1,27 @@
+{
+    "0x1C9ADDA3244A1FBF": {
+        "name": "START_CUTSCENE_AT_COORDS",
+        "jhash": "0x58BEA436",
+        "comment": "flags: Usually 0.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

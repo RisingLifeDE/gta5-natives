@@ -1,0 +1,27 @@
+{
+    "0xACDE7185B374177C": {
+        "name": "NETWORK_SPENT_CALL_PLAYER",
+        "jhash": "0x1A89B5FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

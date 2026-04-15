@@ -1,0 +1,10 @@
+{
+    "0xD3A10FC7FD8D98CD": {
+        "name": "UI3DSCENE_IS_AVAILABLE",
+        "jhash": "0xE40A0F1A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

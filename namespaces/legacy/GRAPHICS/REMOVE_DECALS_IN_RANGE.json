@@ -1,0 +1,27 @@
+{
+    "0x5D6B2D4830A67C62": {
+        "name": "REMOVE_DECALS_IN_RANGE",
+        "jhash": "0x06A619A0",
+        "comment": "Removes all decals in range from a position, it includes the bullet holes, blood pools, petrol...",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

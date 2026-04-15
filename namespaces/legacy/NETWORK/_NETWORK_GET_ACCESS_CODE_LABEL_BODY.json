@@ -1,0 +1,15 @@
+{
+    "0x214CA1730793EBA8": {
+        "name": "_NETWORK_GET_ACCESS_CODE_LABEL_BODY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "accessCode"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "3570"
+    }
+}

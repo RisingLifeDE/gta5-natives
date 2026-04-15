@@ -1,0 +1,19 @@
+{
+    "0x1C1B69FAE509BA97": {
+        "name": "SET_PICKUP_UNCOLLECTABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

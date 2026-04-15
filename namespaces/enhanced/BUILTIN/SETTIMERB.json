@@ -1,0 +1,15 @@
+{
+    "0x5AE11BC36633DE4E": {
+        "name": "SETTIMERB",
+        "jhash": "0x27C1B7C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x67722AEB798E5FAB": {
+        "name": "IS_PED_ON_VEHICLE",
+        "jhash": "0xA1AE7CC7",
+        "comment": "Gets a value indicating whether the specified ped is on top of any vehicle.\n\nReturn 1 when ped is on vehicle.\nReturn 0 when ped is not on a vehicle.\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

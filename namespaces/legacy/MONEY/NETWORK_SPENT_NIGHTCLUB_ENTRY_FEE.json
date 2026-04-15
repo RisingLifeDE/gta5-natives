@@ -1,0 +1,34 @@
+{
+    "0x876056684281655D": {
+        "name": "NETWORK_SPENT_NIGHTCLUB_ENTRY_FEE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_NETWORK_SPENT_NIGHTCLUB_ENTRY_FEE"
+        ]
+    }
+}

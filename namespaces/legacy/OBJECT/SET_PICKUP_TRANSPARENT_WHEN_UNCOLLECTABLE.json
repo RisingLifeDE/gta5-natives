@@ -1,0 +1,19 @@
+{
+    "0x858EC9FD25DE04AA": {
+        "name": "SET_PICKUP_TRANSPARENT_WHEN_UNCOLLECTABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

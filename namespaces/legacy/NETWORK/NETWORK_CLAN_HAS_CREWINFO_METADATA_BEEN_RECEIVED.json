@@ -1,0 +1,10 @@
+{
+    "0xC32EA7A2F6CA7557": {
+        "name": "NETWORK_CLAN_HAS_CREWINFO_METADATA_BEEN_RECEIVED",
+        "jhash": "0x966C90FD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

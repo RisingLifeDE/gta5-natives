@@ -1,0 +1,15 @@
+{
+    "0x886913BBEACA68C1": {
+        "name": "STAT_GET_SAVE_MIGRATION_STATUS",
+        "jhash": "0xE3F0D62D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

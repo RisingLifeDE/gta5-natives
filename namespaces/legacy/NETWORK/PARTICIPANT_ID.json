@@ -1,0 +1,10 @@
+{
+    "0x90986E8876CE0A83": {
+        "name": "PARTICIPANT_ID",
+        "jhash": "0x9C35A221",
+        "comment": "Return the local Participant ID",
+        "params": [],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

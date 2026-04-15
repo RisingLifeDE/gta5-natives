@@ -1,0 +1,18 @@
+{
+    "0xB2092A1EAA7FD45F": {
+        "name": "IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757",
+        "old_names": [
+            "_IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER"
+        ]
+    }
+}

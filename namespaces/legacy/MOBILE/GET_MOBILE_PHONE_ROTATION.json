@@ -1,0 +1,19 @@
+{
+    "0x1CEFB61F193070AE": {
+        "name": "GET_MOBILE_PHONE_ROTATION",
+        "jhash": "0x17A29F23",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "rotation"
+            },
+            {
+                "type": "Vehicle",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

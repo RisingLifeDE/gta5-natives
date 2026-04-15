@@ -1,0 +1,23 @@
+{
+    "0x2A69FFD1B42BFF9E": {
+        "name": "TRANSFORM_TO_CAR",
+        "jhash": "0xD8B90941",
+        "comment": "Transforms the `stormberg`/`toreador` to its \"road vehicle\" variant. If the vehicle is already in that state then the vehicle transformation audio will still play, but the vehicle won't change at all.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "noAnimation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_TRANSFORM_STORMBERG_TO_ROAD_VEHICLE",
+            "_TRANSFORM_SUBMARINE_TO_VEHICLE"
+        ]
+    }
+}

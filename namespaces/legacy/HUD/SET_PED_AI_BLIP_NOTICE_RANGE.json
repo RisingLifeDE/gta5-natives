@@ -1,0 +1,22 @@
+{
+    "0x97C65887D4B37FA9": {
+        "name": "SET_PED_AI_BLIP_NOTICE_RANGE",
+        "jhash": "0xF9DC2AF7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_AI_BLIP_MAX_DISTANCE"
+        ]
+    }
+}

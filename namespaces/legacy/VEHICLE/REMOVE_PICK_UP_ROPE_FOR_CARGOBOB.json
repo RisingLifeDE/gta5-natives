@@ -1,0 +1,18 @@
+{
+    "0x9768CF648F54C804": {
+        "name": "REMOVE_PICK_UP_ROPE_FOR_CARGOBOB",
+        "jhash": "0xA8211EE9",
+        "comment": "Retracts the hook on the cargobob.\n\nNote: after you retract it the natives for dropping the hook no longer work",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RETRACT_CARGOBOB_HOOK"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xB5A4DB34FE89B88A": {
+        "name": "INIT_CREATOR_BUDGET",
+        "jhash": "0xE243B2AF",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_LOAD_MISSION_CREATOR_DATA"
+        ]
+    }
+}

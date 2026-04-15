@@ -1,0 +1,15 @@
+{
+    "0xFC04745FBE67C19A": {
+        "name": "DOES_SCRIPT_EXIST",
+        "jhash": "0xDEAB87AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

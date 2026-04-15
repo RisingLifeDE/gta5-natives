@@ -1,0 +1,13 @@
+{
+    "0xA6C90FBC38E395EE": {
+        "name": "NETWORK_GET_MAX_NUM_PARTICIPANTS",
+        "jhash": "0xCCD8C02D",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_NUM_PARTICIPANTS_HOST"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6D0858B8EDFD2B7D": {
+        "name": "SET_GAMEPLAY_CAM_RELATIVE_PITCH",
+        "jhash": "0x6381B963",
+        "comment": "This native sets the camera's pitch (rotation on the x-axis).",
+        "params": [
+            {
+                "type": "float",
+                "name": "angle"
+            },
+            {
+                "type": "float",
+                "name": "scalingFactor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

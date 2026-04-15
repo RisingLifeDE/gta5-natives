@@ -1,0 +1,27 @@
+{
+    "0x1F0B79228E461EC9": {
+        "name": "IS_ENTITY_PLAYING_ANIM",
+        "jhash": "0x0D130D34",
+        "comment": "See also PED::IS_SCRIPTED_SCENARIO_PED_USING_CONDITIONAL_ANIM 0x6EC47A344923E1ED 0x3C30B447\n\nTaken from ENTITY::IS_ENTITY_PLAYING_ANIM(PLAYER::PLAYER_PED_ID(), \"creatures@shark@move\", \"attack_player\", 3)\n\np4 is always 3 in the scripts.\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "int",
+                "name": "taskFlag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

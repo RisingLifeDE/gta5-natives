@@ -1,0 +1,10 @@
+{
+    "0xDA1DF03D5A315F4E": {
+        "name": "RESET_WORLD_BOUNDARY_FOR_PLAYER",
+        "jhash": "0xA97C2F6C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

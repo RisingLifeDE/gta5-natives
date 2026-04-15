@@ -1,0 +1,27 @@
+{
+    "0x741B0129D4560F31": {
+        "name": "CREATE_CINEMATIC_SHOT",
+        "jhash": "0xAC494E35",
+        "comment": "hash is always JOAAT(\"CAMERA_MAN_SHOT\") in decompiled scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

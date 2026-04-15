@@ -1,0 +1,15 @@
+{
+    "0x729072355FA39EC9": {
+        "name": "IS_ANY_SPEECH_PLAYING",
+        "jhash": "0x2B74A6D6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

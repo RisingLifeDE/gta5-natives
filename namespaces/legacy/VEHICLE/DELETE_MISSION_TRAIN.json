@@ -1,0 +1,15 @@
+{
+    "0x5B76B14AE875C795": {
+        "name": "DELETE_MISSION_TRAIN",
+        "jhash": "0x86C9497D",
+        "comment": "",
+        "params": [
+            {
+                "type": "const Vehicle*",
+                "name": "train"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

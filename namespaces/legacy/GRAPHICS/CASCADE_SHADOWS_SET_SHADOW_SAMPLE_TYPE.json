@@ -1,0 +1,18 @@
+{
+    "0xB11D94BC55F41932": {
+        "name": "CASCADE_SHADOWS_SET_SHADOW_SAMPLE_TYPE",
+        "jhash": "0xDE10BA1F",
+        "comment": "Possible values:\n\"CSM_ST_POINT\"\n\"CSM_ST_LINEAR\"\n\"CSM_ST_TWOTAP\"\n\"CSM_ST_BOX3x3\"\n\"CSM_ST_BOX4x4\"\n\"CSM_ST_DITHER2_LINEAR\"\n\"CSM_ST_CUBIC\"\n\"CSM_ST_DITHER4\"\n\"CSM_ST_DITHER16\"\n\"CSM_ST_SOFT16\"\n\"CSM_ST_DITHER16_RPDB\"\n\"CSM_ST_POISSON16_RPDB_GNORM\"\n\"CSM_ST_HIGHRES_BOX4x4\"\n\"CSM_ST_CLOUDS_SIMPLE\"\n\"CSM_ST_CLOUDS_LINEAR\"\n\"CSM_ST_CLOUDS_TWOTAP\"\n\"CSM_ST_CLOUDS_BOX3x3\"\n\"CSM_ST_CLOUDS_BOX4x4\"\n\"CSM_ST_CLOUDS_DITHER2_LINEAR\"\n\"CSM_ST_CLOUDS_SOFT16\"\n\"CSM_ST_CLOUDS_DITHER16_RPDB\"\n\"CSM_ST_CLOUDS_POISSON16_RPDB_GNORM\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CASCADESHADOWS_SET_TYPE"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xED6D8E27A43B8CDE": {
+        "name": "IS_PED_HAIR_TINT_FOR_CREATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_HAIR_COLOR_VALID_2",
+            "_IS_PED_HAIR_VALID_CREATOR_COLOR"
+        ]
+    }
+}

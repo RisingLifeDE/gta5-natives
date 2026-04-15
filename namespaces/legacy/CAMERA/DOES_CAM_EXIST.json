@@ -1,0 +1,15 @@
+{
+    "0xA7A932170592B50E": {
+        "name": "DOES_CAM_EXIST",
+        "jhash": "0x1EF89DC0",
+        "comment": "Returns whether or not the passed camera handle exists.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

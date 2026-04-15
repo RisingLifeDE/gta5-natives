@@ -1,0 +1,19 @@
+{
+    "0xE6869BECDD8F2403": {
+        "name": "REMOVE_POP_MULTIPLIER_SPHERE",
+        "jhash": "0x92E7E4EB",
+        "comment": "Removes population multiplier sphere",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

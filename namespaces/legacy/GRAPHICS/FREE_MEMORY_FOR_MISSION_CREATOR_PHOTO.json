@@ -1,0 +1,10 @@
+{
+    "0x0A46AF8A78DC5E0A": {
+        "name": "FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO",
+        "jhash": "0x9E553002",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF2FD55CB574BCC55": {
+        "name": "NETWORK_GAMER_HAS_HEADSET",
+        "jhash": "0xD036DA4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

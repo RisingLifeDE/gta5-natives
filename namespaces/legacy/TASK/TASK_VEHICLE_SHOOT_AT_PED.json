@@ -1,0 +1,23 @@
+{
+    "0x10AB107B887214D8": {
+        "name": "TASK_VEHICLE_SHOOT_AT_PED",
+        "jhash": "0x59677BA0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "fireTolerance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

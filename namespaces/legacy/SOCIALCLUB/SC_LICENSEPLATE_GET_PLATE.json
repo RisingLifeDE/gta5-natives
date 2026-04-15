@@ -1,0 +1,19 @@
+{
+    "0x1D4446A62D35B0D0": {
+        "name": "SC_LICENSEPLATE_GET_PLATE",
+        "jhash": "0x4CE9BAA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            },
+            {
+                "type": "int",
+                "name": "plateIndex"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

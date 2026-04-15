@@ -1,0 +1,15 @@
+{
+    "0x55E1D2758F34E437": {
+        "name": "CLEAR_VEHICLE_CUSTOM_PRIMARY_COLOUR",
+        "jhash": "0x51E1E33D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

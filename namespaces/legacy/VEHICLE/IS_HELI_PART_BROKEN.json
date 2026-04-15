@@ -1,0 +1,27 @@
+{
+    "0xBC74B4BE25EB6C8A": {
+        "name": "IS_HELI_PART_BROKEN",
+        "jhash": "0xF4E4C439",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

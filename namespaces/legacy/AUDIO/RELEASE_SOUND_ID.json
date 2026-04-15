@@ -1,0 +1,15 @@
+{
+    "0x353FC880830B88FA": {
+        "name": "RELEASE_SOUND_ID",
+        "jhash": "0x9C080899",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

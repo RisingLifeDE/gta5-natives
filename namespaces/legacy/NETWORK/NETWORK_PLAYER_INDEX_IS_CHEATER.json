@@ -1,0 +1,18 @@
+{
+    "0x565E430DB3B05BEC": {
+        "name": "NETWORK_PLAYER_INDEX_IS_CHEATER",
+        "jhash": "0xD265B049",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_PLAYER_SOMETHING"
+        ]
+    }
+}

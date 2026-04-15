@@ -1,0 +1,19 @@
+{
+    "0xFB680D403909DC70": {
+        "name": "NETWORK_ALLOW_GANG_TO_JOIN_TUTORIAL_SESSION",
+        "jhash": "0xFFB2ADA1",
+        "comment": "teamId must be < 3, instanceId must be < 64",
+        "params": [
+            {
+                "type": "int",
+                "name": "teamId"
+            },
+            {
+                "type": "int",
+                "name": "instanceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

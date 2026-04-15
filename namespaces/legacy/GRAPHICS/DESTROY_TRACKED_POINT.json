@@ -1,0 +1,15 @@
+{
+    "0xB25DC90BAD56CA42": {
+        "name": "DESTROY_TRACKED_POINT",
+        "jhash": "0x14AC675F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

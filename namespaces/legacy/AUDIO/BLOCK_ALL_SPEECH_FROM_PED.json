@@ -1,0 +1,23 @@
+{
+    "0xF8AD2EED7C47E8FE": {
+        "name": "BLOCK_ALL_SPEECH_FROM_PED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

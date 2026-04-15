@@ -1,0 +1,15 @@
+{
+    "0x6B0E6172C9A4D902": {
+        "name": "SET_AMBIENT_PEDS_DROP_MONEY",
+        "jhash": "0x30B98369",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x9049FE339D5F6F6F": {
+        "name": "IS_PAUSEMAP_IN_INTERIOR_MODE",
+        "jhash": "0x199DED14",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_MINIMAP_IN_INTERIOR"
+        ]
+    }
+}

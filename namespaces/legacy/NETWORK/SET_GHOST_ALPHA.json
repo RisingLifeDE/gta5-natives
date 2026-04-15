@@ -1,0 +1,18 @@
+{
+    "0x658500AE6D723A7E": {
+        "name": "SET_GHOST_ALPHA",
+        "jhash": "",
+        "comment": "Must be a value between 1 and 254",
+        "params": [
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_GHOSTED_ENTITY_ALPHA"
+        ]
+    }
+}

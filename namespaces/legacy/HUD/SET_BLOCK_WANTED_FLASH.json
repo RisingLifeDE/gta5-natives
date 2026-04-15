@@ -1,0 +1,15 @@
+{
+    "0xD1942374085C8469": {
+        "name": "SET_BLOCK_WANTED_FLASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

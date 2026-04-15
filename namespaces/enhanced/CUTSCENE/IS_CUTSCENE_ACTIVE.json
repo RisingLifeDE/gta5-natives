@@ -1,0 +1,10 @@
+{
+    "0x991251AFC3981F84": {
+        "name": "IS_CUTSCENE_ACTIVE",
+        "jhash": "0xCCE2FE9D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

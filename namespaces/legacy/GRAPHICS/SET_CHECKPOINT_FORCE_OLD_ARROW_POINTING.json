@@ -1,0 +1,15 @@
+{
+    "0xFCF6788FC4860CD4": {
+        "name": "SET_CHECKPOINT_FORCE_OLD_ARROW_POINTING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

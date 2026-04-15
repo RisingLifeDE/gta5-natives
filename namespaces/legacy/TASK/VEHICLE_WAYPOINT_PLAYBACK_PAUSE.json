@@ -1,0 +1,15 @@
+{
+    "0x8A4E6AC373666BC5": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_PAUSE",
+        "jhash": "0x7C00B415",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

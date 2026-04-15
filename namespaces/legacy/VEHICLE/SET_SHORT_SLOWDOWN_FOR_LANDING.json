@@ -1,0 +1,15 @@
+{
+    "0x107A473D7A6647A9": {
+        "name": "SET_SHORT_SLOWDOWN_FOR_LANDING",
+        "jhash": "",
+        "comment": "Used on helicopters and blimps during the CTaskVehicleLand task. Sets a value on the task to 10f",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

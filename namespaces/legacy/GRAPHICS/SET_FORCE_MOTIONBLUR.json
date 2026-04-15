@@ -1,0 +1,15 @@
+{
+    "0x6A51F78772175A51": {
+        "name": "SET_FORCE_MOTIONBLUR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

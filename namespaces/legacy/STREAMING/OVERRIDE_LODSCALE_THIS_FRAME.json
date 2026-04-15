@@ -1,0 +1,15 @@
+{
+    "0xA76359FC80B2438E": {
+        "name": "OVERRIDE_LODSCALE_THIS_FRAME",
+        "jhash": "0xE5612C1A",
+        "comment": "This allows you to override \"extended distance scaling\" setting. Needs to be called each frame.\nMax scaling seems to be 200.0, normal is 1.0\nSee https://gfycat.com/DetailedHauntingIncatern",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaling"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

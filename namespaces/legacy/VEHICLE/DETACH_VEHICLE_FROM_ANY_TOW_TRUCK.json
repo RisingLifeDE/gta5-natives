@@ -1,0 +1,15 @@
+{
+    "0xD0E9CE05A1E68CD8": {
+        "name": "DETACH_VEHICLE_FROM_ANY_TOW_TRUCK",
+        "jhash": "0x3BF93651",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x8B32ACE6326A7546": {
+        "name": "IS_OBJECT_VISIBLE",
+        "jhash": "0xF4FD8AE4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB1FA61371AF7C4B7": {
+        "name": "GIVE_WEAPON_OBJECT_TO_PED",
+        "jhash": "0x639AF3EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3054F114121C21EA": {
+        "name": "UGC_GET_CONTENT_IS_PUBLISHED",
+        "jhash": "0xA850DDE1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

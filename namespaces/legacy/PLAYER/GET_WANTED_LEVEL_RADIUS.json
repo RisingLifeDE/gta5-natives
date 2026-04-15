@@ -1,0 +1,15 @@
+{
+    "0x085DEB493BE80812": {
+        "name": "GET_WANTED_LEVEL_RADIUS",
+        "jhash": "0x1CF7D7DA",
+        "comment": "Remnant from GTA IV. Does nothing in GTA V.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

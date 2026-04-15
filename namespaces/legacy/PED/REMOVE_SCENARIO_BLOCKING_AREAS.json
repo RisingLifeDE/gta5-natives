@@ -1,0 +1,10 @@
+{
+    "0xD37401D78A929A49": {
+        "name": "REMOVE_SCENARIO_BLOCKING_AREAS",
+        "jhash": "0x4DDF845F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

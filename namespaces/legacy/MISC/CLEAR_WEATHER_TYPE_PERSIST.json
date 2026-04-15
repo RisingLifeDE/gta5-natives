@@ -1,0 +1,10 @@
+{
+    "0xCCC39339BEF76CF5": {
+        "name": "CLEAR_WEATHER_TYPE_PERSIST",
+        "jhash": "0x6AB757D8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

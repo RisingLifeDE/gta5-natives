@@ -1,0 +1,19 @@
+{
+    "0x5FBD7095FE7AE57F": {
+        "name": "GET_MENU_PED_FLOAT_STAT",
+        "jhash": "0x51972B04",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "float*",
+                "name": "outValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

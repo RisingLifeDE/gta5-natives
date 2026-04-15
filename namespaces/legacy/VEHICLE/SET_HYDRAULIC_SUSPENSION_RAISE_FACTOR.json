@@ -1,0 +1,27 @@
+{
+    "0x84EA99C62CB3EF0C": {
+        "name": "SET_HYDRAULIC_SUSPENSION_RAISE_FACTOR",
+        "jhash": "",
+        "comment": "Works only on vehicles that support hydraulics.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelId"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_HYDRAULIC_STATE",
+            "_SET_HYDRAULIC_WHEEL_VALUE"
+        ]
+    }
+}

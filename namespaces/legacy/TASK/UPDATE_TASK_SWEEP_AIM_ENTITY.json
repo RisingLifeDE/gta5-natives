@@ -1,0 +1,19 @@
+{
+    "0xE4973DBDBE6E44B3": {
+        "name": "UPDATE_TASK_SWEEP_AIM_ENTITY",
+        "jhash": "0xF65F0F4F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

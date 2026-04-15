@@ -1,0 +1,27 @@
+{
+    "0x0368B3A838070348": {
+        "name": "GET_HASH_NAME_FOR_COMPONENT",
+        "jhash": "0xC8A4BF12",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableVariant"
+            },
+            {
+                "type": "int",
+                "name": "textureVariant"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

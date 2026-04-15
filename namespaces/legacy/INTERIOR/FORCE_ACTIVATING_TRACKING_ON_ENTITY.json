@@ -1,0 +1,19 @@
+{
+    "0x38C1CB1CB119A016": {
+        "name": "FORCE_ACTIVATING_TRACKING_ON_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493"
+    }
+}

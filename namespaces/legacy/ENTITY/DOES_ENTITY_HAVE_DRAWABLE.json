@@ -1,0 +1,15 @@
+{
+    "0x060D6E96F8B8E48D": {
+        "name": "DOES_ENTITY_HAVE_DRAWABLE",
+        "jhash": "0xA5B33300",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "0xC3675780C92F90F9": {
+        "name": "ATTACH_ENTITY_TO_ENTITY_PHYSICALLY",
+        "jhash": "0x0547417F",
+        "comment": "breakForce is the amount of force required to break the bond.\np14 - is always 1 in scripts\np15 - is 1 or 0 in scripts - unknoun what it does\np16 - controls collision between the two entities (FALSE disables collision).\np17 - do not teleport entity to be attached to the position of the bone Index of the target entity (if 1, entity will not be teleported to target bone)\np18 - is always 2 in scripts.\n\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex1"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex2"
+            },
+            {
+                "type": "float",
+                "name": "xPos1"
+            },
+            {
+                "type": "float",
+                "name": "yPos1"
+            },
+            {
+                "type": "float",
+                "name": "zPos1"
+            },
+            {
+                "type": "float",
+                "name": "xPos2"
+            },
+            {
+                "type": "float",
+                "name": "yPos2"
+            },
+            {
+                "type": "float",
+                "name": "zPos2"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "breakForce"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p15"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            },
+            {
+                "type": "int",
+                "name": "p18"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

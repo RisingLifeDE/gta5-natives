@@ -1,0 +1,22 @@
+{
+    "0x3B2FD68DB5F8331C": {
+        "name": "SET_OBJECT_IS_VISIBLE_IN_MIRRORS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_SET_OBJECT_COLOUR"
+        ]
+    }
+}

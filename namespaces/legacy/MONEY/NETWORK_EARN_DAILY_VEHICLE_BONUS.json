@@ -1,0 +1,18 @@
+{
+    "0xFE65AFE7308E32B2": {
+        "name": "NETWORK_EARN_DAILY_VEHICLE_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_EARN_FROM_VEHICLE_AUTOSHOP_BONUS"
+        ]
+    }
+}

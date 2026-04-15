@@ -1,0 +1,13 @@
+{
+    "0x705A844002B39DC0": {
+        "name": "IS_NAVMESH_REQUIRED_REGION_IN_USE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_IS_NAVMESH_REQUIRED_REGION_OWNED_BY_ANY_THREAD"
+        ]
+    }
+}

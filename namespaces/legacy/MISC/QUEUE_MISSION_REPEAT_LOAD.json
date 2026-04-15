@@ -1,0 +1,10 @@
+{
+    "0x72DE52178C291CB5": {
+        "name": "QUEUE_MISSION_REPEAT_LOAD",
+        "jhash": "0xF62B3C48",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

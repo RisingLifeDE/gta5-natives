@@ -1,0 +1,13 @@
+{
+    "0xC0D2AF00BCC234CA": {
+        "name": "NETWORK_IS_PUSH_TO_TALK_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "NETWORK_IS_LOCAL_TALKING"
+        ]
+    }
+}

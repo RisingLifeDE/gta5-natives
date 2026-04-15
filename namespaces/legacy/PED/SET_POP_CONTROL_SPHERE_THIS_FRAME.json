@@ -1,0 +1,31 @@
+{
+    "0xD8C3BE3EE94CAF2D": {
+        "name": "SET_POP_CONTROL_SPHERE_THIS_FRAME",
+        "jhash": "0x4BBE5E2C",
+        "comment": "Min and max are usually 100.0 and 200.0",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "min"
+            },
+            {
+                "type": "float",
+                "name": "max"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

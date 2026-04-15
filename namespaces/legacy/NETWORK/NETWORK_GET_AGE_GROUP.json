@@ -1,0 +1,10 @@
+{
+    "0x9614B71F8ADB982B": {
+        "name": "NETWORK_GET_AGE_GROUP",
+        "jhash": "0xAB07CBBE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

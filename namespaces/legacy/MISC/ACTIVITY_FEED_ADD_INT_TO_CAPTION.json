@@ -1,0 +1,15 @@
+{
+    "0x97E7E2C04245115B": {
+        "name": "ACTIVITY_FEED_ADD_INT_TO_CAPTION",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

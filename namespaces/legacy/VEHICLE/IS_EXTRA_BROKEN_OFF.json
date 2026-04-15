@@ -1,0 +1,22 @@
+{
+    "0x534E36D4DB9ECC5D": {
+        "name": "IS_EXTRA_BROKEN_OFF",
+        "jhash": "",
+        "comment": "Returns true if specified extra part is broken off. It only works for extras that can break off during collisions, non-breakable extras always return false. Also returns true if the breakable extra is toggled off through script.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "extraId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1493",
+        "old_names": [
+            "_DOES_VEHICLE_TYRE_EXIST"
+        ]
+    }
+}

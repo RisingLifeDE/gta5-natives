@@ -1,0 +1,15 @@
+{
+    "0xBABEC9E69A91C57B": {
+        "name": "NETWORK_SET_VOICE_ACTIVE",
+        "jhash": "0x8011247F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

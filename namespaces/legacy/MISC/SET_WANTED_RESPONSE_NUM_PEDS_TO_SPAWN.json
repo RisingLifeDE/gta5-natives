@@ -1,0 +1,19 @@
+{
+    "0xE532EC1A63231B4F": {
+        "name": "SET_WANTED_RESPONSE_NUM_PEDS_TO_SPAWN",
+        "jhash": "0xA0D8C749",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x47E4E977581C5B55": {
+        "name": "IS_PED_RAGDOLL",
+        "jhash": "0xC833BBE1",
+        "comment": "If the ped handle passed through the parenthesis is in a ragdoll state this will return true.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x899BA936634A322E": {
+        "name": "GET_STATE_OF_RAYFIRE_MAP_OBJECT",
+        "jhash": "0xF1B8817A",
+        "comment": "Get a destructible object's state.\nSubstract 1 to get the real state.\nSee SET_STATE_OF_RAYFIRE_MAP_OBJECT to see the different states\nFor example, if the object just spawned (state 2), the native will return 3.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_DES_OBJECT_STATE"
+        ]
+    }
+}

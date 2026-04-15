@@ -1,0 +1,23 @@
+{
+    "0xCE2B43770B655F8F": {
+        "name": "SET_DISABLE_VERTICAL_FLIGHT_MODE_TRANSITION",
+        "jhash": "",
+        "comment": "True stops vtols from switching modes. Doesn't stop the sound though.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_PLANE_VTOL_ANIMATION_DISABLED",
+            "_SET_DISABLE_VEHICLE_FLIGHT_NOZZLE_POSITION"
+        ]
+    }
+}

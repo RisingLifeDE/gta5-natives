@@ -1,0 +1,10 @@
+{
+    "0xB2D06FAEDE65B577": {
+        "name": "GET_LAST_DRIVEN_VEHICLE",
+        "jhash": "0xFEB0C0C8",
+        "comment": "",
+        "params": [],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

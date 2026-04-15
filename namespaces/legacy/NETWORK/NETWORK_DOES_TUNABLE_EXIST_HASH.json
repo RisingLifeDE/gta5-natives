@@ -1,0 +1,22 @@
+{
+    "0xE4E53E1419D81127": {
+        "name": "NETWORK_DOES_TUNABLE_EXIST_HASH",
+        "jhash": "0x25915CB9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_DOES_TUNABLE_EXIST_HASH"
+        ]
+    }
+}

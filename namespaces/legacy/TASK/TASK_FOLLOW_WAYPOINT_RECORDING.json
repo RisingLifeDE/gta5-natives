@@ -1,0 +1,31 @@
+{
+    "0x0759591819534F7B": {
+        "name": "TASK_FOLLOW_WAYPOINT_RECORDING",
+        "jhash": "0xADF9904D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

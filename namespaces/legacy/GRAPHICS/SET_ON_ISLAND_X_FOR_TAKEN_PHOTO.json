@@ -1,0 +1,15 @@
+{
+    "0xADD6627C4D325458": {
+        "name": "SET_ON_ISLAND_X_FOR_TAKEN_PHOTO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

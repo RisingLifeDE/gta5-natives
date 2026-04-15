@@ -1,0 +1,19 @@
+{
+    "0xC396F5B86FF9FEBD": {
+        "name": "SET_PED_LEG_IK_MODE",
+        "jhash": "0xFDDB042E",
+        "comment": "\"IK\" stands for \"Inverse kinematics.\" I assume this has something to do with how the ped uses his legs to balance. In the scripts, the second parameter is always an int with a value of 2, 0, or sometimes 1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

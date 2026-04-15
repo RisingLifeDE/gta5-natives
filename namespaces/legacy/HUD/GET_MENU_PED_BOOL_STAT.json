@@ -1,0 +1,19 @@
+{
+    "0x052991E59076E4E4": {
+        "name": "GET_MENU_PED_BOOL_STAT",
+        "jhash": "0xD43BB56D",
+        "comment": "p0 was always 0xAE2602A3.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "BOOL*",
+                "name": "outValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xBCF3026912A8647D": {
+        "name": "DETACH_ROPE_FROM_ENTITY",
+        "jhash": "0x3E720BEE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

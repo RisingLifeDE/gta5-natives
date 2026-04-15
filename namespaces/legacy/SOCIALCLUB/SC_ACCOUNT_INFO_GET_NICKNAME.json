@@ -1,0 +1,13 @@
+{
+    "0x198D161F458ECC7F": {
+        "name": "SC_ACCOUNT_INFO_GET_NICKNAME",
+        "jhash": "",
+        "comment": "Returns the nickname of the logged-in Rockstar Social Club account.",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_SC_GET_NICKNAME"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x867458251D47CCB2": {
+        "name": "HIDE_PORTABLE_PICKUP_WHEN_DETACHED",
+        "jhash": "0x1F63B042",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_HIDE_PICKUP"
+        ]
+    }
+}

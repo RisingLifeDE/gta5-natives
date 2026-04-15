@@ -1,0 +1,19 @@
+{
+    "0x78015C9B4B3ECC9D": {
+        "name": "SET_PICKUP_REGENERATION_TIME",
+        "jhash": "0xAB11267D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

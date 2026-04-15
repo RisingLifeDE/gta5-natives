@@ -1,0 +1,51 @@
+{
+    "0x97465886D35210E9": {
+        "name": "TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY",
+        "jhash": "0x68E36B7A",
+        "comment": "shootatEntity:\nIf true, peds will shoot at Entity till it is dead.\nIf false, peds will just walk till they reach the entity and will cease shooting.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToWalkTo"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToAimAt"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "shootatEntity"
+            },
+            {
+                "type": "float",
+                "name": "targetRadius"
+            },
+            {
+                "type": "float",
+                "name": "slowDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "useNavMesh"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantBlendToAim"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

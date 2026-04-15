@@ -1,0 +1,15 @@
+{
+    "0x7F6DB52EEFC96DF8": {
+        "name": "IS_THIS_MODEL_A_CAR",
+        "jhash": "0x60E4C22F",
+        "comment": "To check if the model is an amphibious car, use IS_THIS_MODEL_AN_AMPHIBIOUS_CAR.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x597F8DBA9B206FC7": {
+        "name": "UGC_GET_CREATOR_NUM",
+        "jhash": "0x410C61D1",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

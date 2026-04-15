@@ -1,0 +1,27 @@
+{
+    "0x6B38ECB05A63A685": {
+        "name": "NETWORK_SPENT_CINEMA",
+        "jhash": "0x1100CAF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

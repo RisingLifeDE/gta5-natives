@@ -1,0 +1,19 @@
+{
+    "0x21D2E5662C1F6FED": {
+        "name": "RESET_VEHICLE_WHEELS",
+        "jhash": "0xD5FFE779",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

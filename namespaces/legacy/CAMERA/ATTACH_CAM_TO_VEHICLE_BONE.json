@@ -1,0 +1,58 @@
+{
+    "0x8DB3F12A02CAEF72": {
+        "name": "ATTACH_CAM_TO_VEHICLE_BONE",
+        "jhash": "",
+        "comment": "This native works with vehicles only. Bone indexes are usually given by this native GET_ENTITY_BONE_INDEX_BY_NAME.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "relativeRotation"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedDirection"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_ATTACH_CAM_TO_VEHICLE_BONE"
+        ]
+    }
+}

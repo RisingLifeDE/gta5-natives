@@ -1,0 +1,19 @@
+{
+    "0x527803286A8B6C81": {
+        "name": "_SET_FREEMODE_REPORT_DATA",
+        "jhash": "",
+        "comment": "reportData includes mc, ceo, yacht and licenceplate names",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "Any*",
+                "name": "reportData"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

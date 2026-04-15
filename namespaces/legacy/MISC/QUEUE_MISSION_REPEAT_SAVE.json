@@ -1,0 +1,10 @@
+{
+    "0x44A0BDC559B35F6E": {
+        "name": "QUEUE_MISSION_REPEAT_SAVE",
+        "jhash": "0x3589452B",
+        "comment": "Shows the screen which is visible before you redo a mission? The game will make a restoration point where you will cameback when the mission is over.\nReturns 1 if the message isn't currently on screen",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

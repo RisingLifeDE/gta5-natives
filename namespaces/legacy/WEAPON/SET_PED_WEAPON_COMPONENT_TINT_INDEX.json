@@ -1,0 +1,30 @@
+{
+    "0x9FE5633880ECD8ED": {
+        "name": "SET_PED_WEAPON_COMPONENT_TINT_INDEX",
+        "jhash": "",
+        "comment": "Colors:\n0 = Gray\n1 = Dark Gray\n2 = Black\n3 = White\n4 = Blue\n5 = Cyan\n6 = Aqua\n7 = Cool Blue\n8 = Dark Blue\n9 = Royal Blue\n10 = Plum\n11 = Dark Purple\n12 = Purple\n13 = Red\n14 = Wine Red\n15 = Magenta\n16 = Pink\n17 = Salmon\n18 = Hot Pink\n19 = Rust Orange\n20 = Brown\n21 = Earth\n22 = Orange\n23 = Light Orange\n24 = Dark Yellow\n25 = Yellow\n26 = Light Brown\n27 = Lime Green\n28 = Olive\n29 = Moss\n30 = Turquoise\n31 = Dark Green\nFull list of weapons, components, tint indexes & weapon liveries by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "camoComponentHash"
+            },
+            {
+                "type": "int",
+                "name": "colorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_PED_WEAPON_LIVERY_COLOR"
+        ]
+    }
+}

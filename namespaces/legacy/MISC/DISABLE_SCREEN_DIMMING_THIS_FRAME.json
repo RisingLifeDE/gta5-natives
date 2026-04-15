@@ -1,0 +1,10 @@
+{
+    "0x23227DF0B2115469": {
+        "name": "DISABLE_SCREEN_DIMMING_THIS_FRAME",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

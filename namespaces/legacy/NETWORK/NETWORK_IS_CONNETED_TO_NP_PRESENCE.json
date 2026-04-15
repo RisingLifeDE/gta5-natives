@@ -1,0 +1,10 @@
+{
+    "0x7808619F31FF22DB": {
+        "name": "NETWORK_IS_CONNETED_TO_NP_PRESENCE",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

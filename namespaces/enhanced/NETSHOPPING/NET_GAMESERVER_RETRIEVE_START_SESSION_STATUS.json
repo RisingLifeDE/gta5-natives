@@ -1,0 +1,15 @@
+{
+    "0x170910093218C8B9": {
+        "name": "NET_GAMESERVER_RETRIEVE_START_SESSION_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x8F17BC8BA08DA62B": {
+        "name": "GET_VEHICLE_DIRT_LEVEL",
+        "jhash": "0xFD15C065",
+        "comment": "Dirt level does not become greater than 15.0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

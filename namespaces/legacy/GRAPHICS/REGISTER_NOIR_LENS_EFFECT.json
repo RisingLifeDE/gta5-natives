@@ -1,0 +1,13 @@
+{
+    "0xA44FF770DFBC5DAE": {
+        "name": "REGISTER_NOIR_LENS_EFFECT",
+        "jhash": "",
+        "comment": "Used with 'NG_filmnoir_BW{01,02}' timecycles and the \"NOIR_FILTER_SOUNDS\" audioref.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REGISTER_NOIR_SCREEN_EFFECT_THIS_FRAME"
+        ]
+    }
+}

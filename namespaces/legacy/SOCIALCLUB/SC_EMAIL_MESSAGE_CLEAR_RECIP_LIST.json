@@ -1,0 +1,10 @@
+{
+    "0x55DF6DB45179236E": {
+        "name": "SC_EMAIL_MESSAGE_CLEAR_RECIP_LIST",
+        "jhash": "0xD094F11A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

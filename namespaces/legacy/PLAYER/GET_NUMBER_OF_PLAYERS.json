@@ -1,0 +1,10 @@
+{
+    "0x407C7F91DDB46C16": {
+        "name": "GET_NUMBER_OF_PLAYERS",
+        "jhash": "0x4C1B8867",
+        "comment": "Gets the number of players in the current session.\nIf not multiplayer, always returns 1.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x5F2013F8BC24EE69": {
+        "name": "SET_PLAYER_SHORT_SWITCH_STYLE",
+        "jhash": "0xF0BD420D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x8821196D91FA2DE5": {
+        "name": "SET_VEHICLE_FORCE_INTERIORLIGHT",
+        "jhash": "",
+        "comment": "Sets some bit of vehicle",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

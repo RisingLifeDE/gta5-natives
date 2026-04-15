@@ -1,0 +1,15 @@
+{
+    "0xAD7E85FC227197C4": {
+        "name": "GET_VEHICLE_MAX_BRAKING",
+        "jhash": "0x03B926F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

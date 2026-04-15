@@ -1,0 +1,47 @@
+{
+    "0x0FA6E4B75F302400": {
+        "name": "TASK_VEHICLE_ESCORT",
+        "jhash": "0x9FDCB250",
+        "comment": "Makes a ped follow the targetVehicle with <minDistance> in between.\n\nnote: minDistance is ignored if drivingstyle is avoiding traffic, but Rushed is fine.\n\nMode: The mode defines the relative position to the targetVehicle. The ped will try to position its vehicle there.\n-1 = behind\n0 = ahead\n1 = left\n2 = right\n3 = back left\n4 = back right\n\nif the target is closer than noRoadsDistance, the driver will ignore pathing/roads and follow you directly.\n\nDriving Styles guide: gtaforums.com/topic/822314-guide-driving-styles/",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            },
+            {
+                "type": "int",
+                "name": "minHeightAboveTerrain"
+            },
+            {
+                "type": "float",
+                "name": "noRoadsDistance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

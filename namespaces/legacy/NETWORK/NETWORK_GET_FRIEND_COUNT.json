@@ -1,0 +1,10 @@
+{
+    "0x203F1CFD823B27A4": {
+        "name": "NETWORK_GET_FRIEND_COUNT",
+        "jhash": "0xA396ACDE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

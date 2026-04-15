@@ -1,0 +1,15 @@
+{
+    "0x017568A8182D98A6": {
+        "name": "GET_SHOP_PED_APPAREL_FORCED_PROP_COUNT",
+        "jhash": "0xC560D7C0",
+        "comment": "Returns number of possible values of the forcedPropIndex argument of GET_FORCED_PROP.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

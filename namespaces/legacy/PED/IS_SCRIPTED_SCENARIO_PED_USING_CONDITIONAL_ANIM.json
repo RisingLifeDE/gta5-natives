@@ -1,0 +1,23 @@
+{
+    "0x6EC47A344923E1ED": {
+        "name": "IS_SCRIPTED_SCENARIO_PED_USING_CONDITIONAL_ANIM",
+        "jhash": "0x3C30B447",
+        "comment": "Full list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "anim"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

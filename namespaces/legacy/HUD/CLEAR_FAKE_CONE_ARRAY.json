@@ -1,0 +1,10 @@
+{
+    "0x8410C5E0CD847B9D": {
+        "name": "CLEAR_FAKE_CONE_ARRAY",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x2EAC52B4019E2782": {
+        "name": "IS_COMMERCE_STORE_OPEN",
+        "jhash": "0x25E2DBA9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

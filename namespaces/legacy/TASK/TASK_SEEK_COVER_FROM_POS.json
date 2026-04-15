@@ -1,0 +1,35 @@
+{
+    "0x75AC2B60386D89F2": {
+        "name": "TASK_SEEK_COVER_FROM_POS",
+        "jhash": "0x83F18EE9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowPeekingAndFiring"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xEFC13B1CE30D755D": {
+        "name": "SET_SCRIPT_RAMP_IMPULSE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "impulseScale"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_RAMP_LAUNCH_MODIFIER"
+        ]
+    }
+}

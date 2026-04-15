@@ -1,0 +1,18 @@
+{
+    "0x9507D4271988E1AE": {
+        "name": "NET_GAMESERVER_SET_TELEMETRY_NONCE_SEED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_SET_TELEMETRY_NONCE_SEED"
+        ]
+    }
+}

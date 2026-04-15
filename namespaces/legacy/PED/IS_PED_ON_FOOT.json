@@ -1,0 +1,15 @@
+{
+    "0x01FEE67DB37F59B2": {
+        "name": "IS_PED_ON_FOOT",
+        "jhash": "0xC60D0785",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

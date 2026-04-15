@@ -1,0 +1,26 @@
+{
+    "0x44CD1F493DB2A0A6": {
+        "name": "SET_VEHICLE_WEAPON_RESTRICTED_AMMO",
+        "jhash": "",
+        "comment": "Set vehicle's primary mounted weapon 2 ammo. For example, use it on APC.\nFor example, you can \"remove\" any vehicle weapon from any vehicle.\nammoAmount -1 = infinite ammo (default value for any spawned vehicle tho)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "weaponIndex"
+            },
+            {
+                "type": "int",
+                "name": "capacity"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_WEAPON_CAPACITY"
+        ]
+    }
+}

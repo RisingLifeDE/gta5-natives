@@ -1,0 +1,10 @@
+{
+    "0x50EEAAD86232EE55": {
+        "name": "DO_AUTO_SAVE",
+        "jhash": "0x54C44B1A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

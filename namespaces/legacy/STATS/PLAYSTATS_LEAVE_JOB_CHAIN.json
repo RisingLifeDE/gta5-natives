@@ -1,0 +1,31 @@
+{
+    "0xC5BE134EC7BA96A0": {
+        "name": "PLAYSTATS_LEAVE_JOB_CHAIN",
+        "jhash": "0xC960E161",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x55E86AF2712B36A1": {
+        "name": "ACTIVATE_INTERIOR_ENTITY_SET",
+        "jhash": "0xC80A5DDF",
+        "comment": "More info: http://gtaforums.com/topic/836367-adding-props-to-interiors/\n\nFull list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ENABLE_INTERIOR_PROP"
+        ]
+    }
+}

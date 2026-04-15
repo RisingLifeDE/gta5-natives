@@ -1,0 +1,19 @@
+{
+    "0xF10B44FD479D69F3": {
+        "name": "GET_IS_PLAYER_DRIVING_WRECKLESS",
+        "jhash": "0x1E359CC8",
+        "comment": "Only 1 occurrence. p1 was 2.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

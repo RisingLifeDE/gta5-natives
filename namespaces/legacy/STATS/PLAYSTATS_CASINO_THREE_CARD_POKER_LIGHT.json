@@ -1,0 +1,18 @@
+{
+    "0xC9001364B4388F22": {
+        "name": "PLAYSTATS_CASINO_THREE_CARD_POKER_LIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_THREECARDPOKER_LIGHT"
+        ]
+    }
+}

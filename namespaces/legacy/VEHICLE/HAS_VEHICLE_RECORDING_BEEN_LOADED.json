@@ -1,0 +1,19 @@
+{
+    "0x300D614A4C785FC4": {
+        "name": "HAS_VEHICLE_RECORDING_BEEN_LOADED",
+        "jhash": "0xF52CD7F5",
+        "comment": "See REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x2801D0012266DF07": {
+        "name": "CLEAR_GPS_DISABLED_ZONE_AT_INDEX",
+        "jhash": "0x59090745",
+        "comment": "Clears a disabled GPS route area from a certain index previously set using `SET_GPS_DISABLED_ZONE_AT_INDEX`.",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_GPS_DISABLED_ZONE_AT_INDEX"
+        ]
+    }
+}

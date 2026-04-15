@@ -1,0 +1,15 @@
+{
+    "0x28D3FED7190D3A0B": {
+        "name": "IS_ENTITY_ON_FIRE",
+        "jhash": "0x8C73E64F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

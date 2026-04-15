@@ -1,0 +1,26 @@
+{
+    "0xB09D25E77C33EB3F": {
+        "name": "IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "outIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xFFE5C16F402D851D": {
+        "name": "SC_INBOX_MESSAGE_GET_DATA_BOOL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SC_INBOX_MESSAGE_GET_DATA_BOOL"
+        ]
+    }
+}

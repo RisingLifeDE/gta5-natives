@@ -1,0 +1,31 @@
+{
+    "0x4852FC386E2E1BB5": {
+        "name": "GET_PED_HAIR_TINT_COLOR",
+        "jhash": "",
+        "comment": "Input: Haircolor index, value between 0 and 63 (inclusive).\nOutput: RGB values for the haircolor specified in the input.\n\nThis is used with the hair color swatches scaleform.\nUse `GET_PED_MAKEUP_TINT_COLOR` to get the makeup colors.",
+        "params": [
+            {
+                "type": "int",
+                "name": "hairColorIndex"
+            },
+            {
+                "type": "int*",
+                "name": "outR"
+            },
+            {
+                "type": "int*",
+                "name": "outG"
+            },
+            {
+                "type": "int*",
+                "name": "outB"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_HAIR_RGB_COLOR",
+            "_GET_PED_HAIR_RGB_COLOR"
+        ]
+    }
+}

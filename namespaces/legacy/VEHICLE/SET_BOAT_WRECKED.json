@@ -1,0 +1,19 @@
+{
+    "0xBD32E46AA95C1DD2": {
+        "name": "SET_BOAT_WRECKED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_SET_BOAT_SINKING",
+            "_SET_BOAT_IS_SINKING"
+        ]
+    }
+}

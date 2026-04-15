@@ -1,0 +1,19 @@
+{
+    "0x2735233A786B1BEF": {
+        "name": "SET_CORPSE_RAGDOLL_FRICTION",
+        "jhash": "0x373CC405",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

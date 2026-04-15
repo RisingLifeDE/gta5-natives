@@ -1,0 +1,19 @@
+{
+    "0xCB7553CDCEF4A735": {
+        "name": "SET_PED_CAN_COWER_IN_COVER",
+        "jhash": "0x5194658B",
+        "comment": "It simply makes the said ped to cower behind cover object(wall, desk, car)\n\nPeds flee attributes must be set to not to flee, first. Else, most of the peds, will just flee from gunshot sounds or any other panic situations.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

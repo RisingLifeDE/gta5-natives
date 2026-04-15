@@ -1,0 +1,19 @@
+{
+    "0x648EE3E7F38877DD": {
+        "name": "IS_CONTROL_RELEASED",
+        "jhash": "0x1F91A06E",
+        "comment": "Returns whether a control is currently _not_ pressed.\ncontrol: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

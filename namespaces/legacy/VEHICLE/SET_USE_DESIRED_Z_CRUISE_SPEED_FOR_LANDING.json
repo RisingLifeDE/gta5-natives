@@ -1,0 +1,19 @@
+{
+    "0xB68CFAF83A02768D": {
+        "name": "SET_USE_DESIRED_Z_CRUISE_SPEED_FOR_LANDING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

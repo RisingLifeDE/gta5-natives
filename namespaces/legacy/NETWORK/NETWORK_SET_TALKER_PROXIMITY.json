@@ -1,0 +1,15 @@
+{
+    "0xCBF12D65F95AD686": {
+        "name": "NETWORK_SET_TALKER_PROXIMITY",
+        "jhash": "0x67555C66",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

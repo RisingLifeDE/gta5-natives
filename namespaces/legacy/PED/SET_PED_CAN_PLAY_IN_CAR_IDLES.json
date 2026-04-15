@@ -1,0 +1,22 @@
+{
+    "0x820E9892A77E97CD": {
+        "name": "SET_PED_CAN_PLAY_IN_CAR_IDLES",
+        "jhash": "",
+        "comment": "Toggles config flag CPED_CONFIG_FLAG_CanPlayInCarIdles.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_PED_CAN_PLAY_IN_CAR_IDLES"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x4740D62BC1B4EBEA": {
+        "name": "NETWORK_SPEND_UPGRADE_CASINO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_SPENT_UPGRADE_CASINO"
+        ]
+    }
+}

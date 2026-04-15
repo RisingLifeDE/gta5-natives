@@ -1,0 +1,15 @@
+{
+    "0x71D93B57D07F9804": {
+        "name": "SQRT",
+        "jhash": "0x145C7701",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

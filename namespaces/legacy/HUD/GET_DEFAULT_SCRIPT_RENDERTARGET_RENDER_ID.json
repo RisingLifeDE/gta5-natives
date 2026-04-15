@@ -1,0 +1,10 @@
+{
+    "0x52F0982D7FD156B6": {
+        "name": "GET_DEFAULT_SCRIPT_RENDERTARGET_RENDER_ID",
+        "jhash": "0x8188935F",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

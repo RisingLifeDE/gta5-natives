@@ -1,0 +1,15 @@
+{
+    "0xF46C581C61718916": {
+        "name": "STOP_GAMEPLAY_HINT",
+        "jhash": "0x1BC28B7B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

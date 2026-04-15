@@ -1,0 +1,18 @@
+{
+    "0x5AA3F878A178C4FC": {
+        "name": "GET_BOAT_VEHICLE_MODEL_AGILITY",
+        "jhash": "0x87C5D271",
+        "comment": "Full list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_MOVE_RESISTANCE"
+        ]
+    }
+}

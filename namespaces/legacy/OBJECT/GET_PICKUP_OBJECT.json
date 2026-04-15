@@ -1,0 +1,15 @@
+{
+    "0x5099BC55630B25AE": {
+        "name": "GET_PICKUP_OBJECT",
+        "jhash": "0x6052E62E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "Object",
+        "build": "323"
+    }
+}

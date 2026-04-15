@@ -1,0 +1,10 @@
+{
+    "0x4167EFE0527D706E": {
+        "name": "IS_HOVERING_OVER_MISSION_CREATOR_BLIP",
+        "jhash": "0xC5EB849A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

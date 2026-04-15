@@ -1,0 +1,31 @@
+{
+    "0x9C30613D50A6ADEF": {
+        "name": "WASH_DECALS_IN_RANGE",
+        "jhash": "0xDEECBC57",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

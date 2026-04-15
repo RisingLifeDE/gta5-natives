@@ -1,0 +1,15 @@
+{
+    "0x7813E8B8C4AE4799": {
+        "name": "SET_PICKUP_OBJECT_COLLECTABLE_IN_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

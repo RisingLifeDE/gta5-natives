@@ -1,0 +1,10 @@
+{
+    "0x72D0706CD6CCDB58": {
+        "name": "RELEASE_ALL_COMMERCE_ITEM_IMAGES",
+        "jhash": "0xCA7A0A49",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

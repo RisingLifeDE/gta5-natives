@@ -1,0 +1,27 @@
+{
+    "0x2F09F7976C512404": {
+        "name": "GET_IS_PETROL_DECAL_IN_RANGE",
+        "jhash": "0x242C6A04",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xCoord"
+            },
+            {
+                "type": "float",
+                "name": "yCoord"
+            },
+            {
+                "type": "float",
+                "name": "zCoord"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

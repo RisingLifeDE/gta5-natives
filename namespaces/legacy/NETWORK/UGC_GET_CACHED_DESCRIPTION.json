@@ -1,0 +1,19 @@
+{
+    "0x40F7E66472DF3E5C": {
+        "name": "UGC_GET_CACHED_DESCRIPTION",
+        "jhash": "0x70A2845C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x6636C535F6CC2725": {
+        "name": "GET_BOAT_BOOM_POSITION_RATIO",
+        "jhash": "0x7C8D6464",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

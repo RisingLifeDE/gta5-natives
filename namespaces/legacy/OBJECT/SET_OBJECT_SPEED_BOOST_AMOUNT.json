@@ -1,0 +1,22 @@
+{
+    "0x96EE0EBA0163DF80": {
+        "name": "SET_OBJECT_SPEED_BOOST_AMOUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_SET_OBJECT_STUNT_PROP_SPEEDUP"
+        ]
+    }
+}

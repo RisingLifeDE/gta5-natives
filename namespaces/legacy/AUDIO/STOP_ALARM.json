@@ -1,0 +1,19 @@
+{
+    "0xA1CADDCD98415A41": {
+        "name": "STOP_ALARM",
+        "jhash": "0xF987BE8C",
+        "comment": "Example:\n\nThis will stop the alarm at Fort Zancudo.\n\nAUDIO::STOP_ALARM(\"PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS\", 1);\n\nFirst parameter (char) is the name of the alarm.\nSecond parameter (bool) has to be true (1) to have any effect.\nFull list of alarm names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/alarmSounds.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "alarmName"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

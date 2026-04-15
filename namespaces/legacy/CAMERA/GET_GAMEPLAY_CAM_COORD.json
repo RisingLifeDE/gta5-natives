@@ -1,0 +1,10 @@
+{
+    "0x14D6F5678D8F1B37": {
+        "name": "GET_GAMEPLAY_CAM_COORD",
+        "jhash": "0x9388CF79",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

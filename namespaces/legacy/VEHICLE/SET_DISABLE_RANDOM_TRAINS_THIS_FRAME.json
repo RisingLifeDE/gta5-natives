@@ -1,0 +1,18 @@
+{
+    "0xD4B8E3D1917BC86B": {
+        "name": "SET_DISABLE_RANDOM_TRAINS_THIS_FRAME",
+        "jhash": "0x09462665",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SOMETHING_MULTIPLIER_THIS_FRAME"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xD00D76A7DFC9D852": {
+        "name": "REMOVE_CUT_FILE",
+        "jhash": "0xB70D7C6D",
+        "comment": "Simply unloads the cutscene and doesn't do extra stuff that REMOVE_CUTSCENE does.\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

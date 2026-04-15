@@ -1,0 +1,15 @@
+{
+    "0x0290F35C0AD97864": {
+        "name": "IS_CAM_SPLINE_PAUSED",
+        "jhash": "0x60B34FF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

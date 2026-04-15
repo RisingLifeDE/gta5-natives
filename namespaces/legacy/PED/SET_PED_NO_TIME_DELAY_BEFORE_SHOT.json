@@ -1,0 +1,15 @@
+{
+    "0xA52D5247A4227E14": {
+        "name": "SET_PED_NO_TIME_DELAY_BEFORE_SHOT",
+        "jhash": "0xB52BA5F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

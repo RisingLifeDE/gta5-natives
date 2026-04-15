@@ -1,0 +1,10 @@
+{
+    "0x617F49C2668E6155": {
+        "name": "NETWORK_GET_NUM_TRANSITION_NON_ASYNC_GAMERS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "757"
+    }
+}

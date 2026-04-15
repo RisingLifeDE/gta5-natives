@@ -1,0 +1,19 @@
+{
+    "0x2E8AABFA40A84F8C": {
+        "name": "SET_DISABLE_AMBIENT_MELEE_MOVE",
+        "jhash": "0xCCD937E7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

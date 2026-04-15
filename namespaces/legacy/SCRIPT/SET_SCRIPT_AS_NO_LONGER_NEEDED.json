@@ -1,0 +1,15 @@
+{
+    "0xC90D2DCACD56184C": {
+        "name": "SET_SCRIPT_AS_NO_LONGER_NEEDED",
+        "jhash": "0x6FCB7795",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

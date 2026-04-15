@@ -1,0 +1,15 @@
+{
+    "0x61767F73EACEED21": {
+        "name": "WAS_PED_KNOCKED_OUT",
+        "jhash": "0x3993092B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

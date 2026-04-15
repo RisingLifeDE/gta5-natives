@@ -1,0 +1,31 @@
+{
+    "0x0725A4CCFDED9A70": {
+        "name": "SET_PED_CURRENT_WEAPON_VISIBLE",
+        "jhash": "0x00BECD77",
+        "comment": "Has 5 parameters since latest patches.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "visible"
+            },
+            {
+                "type": "BOOL",
+                "name": "deselectWeapon"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

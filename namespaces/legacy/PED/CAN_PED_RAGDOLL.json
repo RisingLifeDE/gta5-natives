@@ -1,0 +1,15 @@
+{
+    "0x128F79EDCECE4FD5": {
+        "name": "CAN_PED_RAGDOLL",
+        "jhash": "0xC0EFB7A3",
+        "comment": "Prevents the ped from going limp.\n\n[Example: Can prevent peds from falling when standing on moving vehicles.]",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x9245E81072704B8A": {
+        "name": "DISABLE_PAUSEMENU_SPINNER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_PAUSE_MENU_BUSYSPINNER"
+        ]
+    }
+}

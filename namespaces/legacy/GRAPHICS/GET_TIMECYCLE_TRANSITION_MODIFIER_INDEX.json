@@ -1,0 +1,10 @@
+{
+    "0x459FD2C8D0AB78BC": {
+        "name": "GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX",
+        "jhash": "0x03C44E4B",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

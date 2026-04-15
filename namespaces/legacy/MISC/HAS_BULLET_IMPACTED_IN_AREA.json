@@ -1,0 +1,35 @@
+{
+    "0x9870ACFB89A90995": {
+        "name": "HAS_BULLET_IMPACTED_IN_AREA",
+        "jhash": "0x902BC7D9",
+        "comment": "p3 - possibly radius?",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

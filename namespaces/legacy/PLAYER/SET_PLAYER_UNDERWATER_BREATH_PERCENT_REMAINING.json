@@ -1,0 +1,22 @@
+{
+    "0xA0D3E4F7AAFB7E78": {
+        "name": "SET_PLAYER_UNDERWATER_BREATH_PERCENT_REMAINING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "float",
+        "build": "757",
+        "old_names": [
+            "_SET_PLAYER_UNDERWATER_TIME_REMAINING"
+        ]
+    }
+}

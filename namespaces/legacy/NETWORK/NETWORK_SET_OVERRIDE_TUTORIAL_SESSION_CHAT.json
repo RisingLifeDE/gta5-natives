@@ -1,0 +1,15 @@
+{
+    "0x3C5C1E2C2FF814B1": {
+        "name": "NETWORK_SET_OVERRIDE_TUTORIAL_SESSION_CHAT",
+        "jhash": "0xC9DDA85B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

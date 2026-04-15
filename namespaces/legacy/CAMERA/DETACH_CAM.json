@@ -1,0 +1,15 @@
+{
+    "0xA2FABBE87F4BAD82": {
+        "name": "DETACH_CAM",
+        "jhash": "0xF4FBF14A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

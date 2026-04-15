@@ -1,0 +1,19 @@
+{
+    "0x5FAF9754E789FB47": {
+        "name": "GET_NUMBER_OF_PED_PROP_DRAWABLE_VARIATIONS",
+        "jhash": "0xC9780B95",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "propId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

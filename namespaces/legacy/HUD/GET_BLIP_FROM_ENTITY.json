@@ -1,0 +1,15 @@
+{
+    "0xBC8DBDCA2436F7E8": {
+        "name": "GET_BLIP_FROM_ENTITY",
+        "jhash": "0x005A2A47",
+        "comment": "Returns the Blip handle of given Entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

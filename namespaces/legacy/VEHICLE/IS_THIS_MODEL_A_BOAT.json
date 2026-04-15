@@ -1,0 +1,15 @@
+{
+    "0x45A9187928F4B9E3": {
+        "name": "IS_THIS_MODEL_A_BOAT",
+        "jhash": "0x10F6085C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

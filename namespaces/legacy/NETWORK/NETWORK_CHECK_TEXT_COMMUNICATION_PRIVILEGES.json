@@ -1,0 +1,23 @@
+{
+    "0x07EAB372C8841D99": {
+        "name": "NETWORK_CHECK_TEXT_COMMUNICATION_PRIVILEGES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1011"
+    }
+}

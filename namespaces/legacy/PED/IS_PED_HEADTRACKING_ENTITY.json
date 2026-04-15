@@ -1,0 +1,19 @@
+{
+    "0x813A0A7C9D2E831F": {
+        "name": "IS_PED_HEADTRACKING_ENTITY",
+        "jhash": "0x233C9ACF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

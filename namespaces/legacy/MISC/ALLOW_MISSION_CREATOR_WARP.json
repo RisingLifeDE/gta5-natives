@@ -1,0 +1,15 @@
+{
+    "0xDEA36202FC3382DF": {
+        "name": "ALLOW_MISSION_CREATOR_WARP",
+        "jhash": "0x082BA6F2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

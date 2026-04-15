@@ -1,0 +1,15 @@
+{
+    "0xF34EE736CF047844": {
+        "name": "FLOOR",
+        "jhash": "0x32E9BE04",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

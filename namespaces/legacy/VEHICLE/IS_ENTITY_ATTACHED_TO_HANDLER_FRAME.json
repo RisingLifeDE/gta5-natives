@@ -1,0 +1,23 @@
+{
+    "0x57715966069157AD": {
+        "name": "IS_ENTITY_ATTACHED_TO_HANDLER_FRAME",
+        "jhash": "0x7FB25568",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "SET_PED_ENABLED_BIKE_RINGTONE",
+            "_IS_VEHICLE_NEAR_ENTITY"
+        ]
+    }
+}

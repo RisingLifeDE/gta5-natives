@@ -1,0 +1,15 @@
+{
+    "0xDEA92412FCAEB3F5": {
+        "name": "GET_PED_COMBAT_MOVEMENT",
+        "jhash": "0xF3E7730E",
+        "comment": "See SET_PED_COMBAT_MOVEMENT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

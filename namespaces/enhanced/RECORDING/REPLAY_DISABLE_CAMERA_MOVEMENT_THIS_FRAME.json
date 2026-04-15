@@ -1,0 +1,13 @@
+{
+    "0xAF66DCEE6609B148": {
+        "name": "REPLAY_DISABLE_CAMERA_MOVEMENT_THIS_FRAME",
+        "jhash": "",
+        "comment": "This will disable the ability to make camera changes in R* Editor.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISABLE_ROCKSTAR_EDITOR_CAMERA_CHANGES"
+        ]
+    }
+}

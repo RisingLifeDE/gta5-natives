@@ -1,0 +1,22 @@
+{
+    "0xC4278F70131BAA6D": {
+        "name": "SET_BLIP_EXTENDED_HEIGHT_THRESHOLD",
+        "jhash": "0x6AA6A1CC",
+        "comment": "Must be toggled before being queued for animation",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BLIP_DISPLAY_INDICATOR_ON_BLIP"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xD11FA52EB849D978": {
+        "name": "IS_STREAM_PLAYING",
+        "jhash": "0xF1F51A14",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

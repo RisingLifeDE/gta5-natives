@@ -1,0 +1,30 @@
+{
+    "0xC4BB298BD441BE78": {
+        "name": "START_NEW_SCRIPT_WITH_NAME_HASH_AND_ARGS",
+        "jhash": "0xE38A3AD4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            },
+            {
+                "type": "int",
+                "name": "argCount"
+            },
+            {
+                "type": "int",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_START_NEW_STREAMED_SCRIPT_WITH_ARGS"
+        ]
+    }
+}

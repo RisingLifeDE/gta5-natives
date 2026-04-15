@@ -1,0 +1,18 @@
+{
+    "0x516FC96EB88EEFE5": {
+        "name": "PLAYSTATS_BAN_ALERT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011",
+        "old_names": [
+            "_PLAYSTATS_BAN_ALERT"
+        ]
+    }
+}

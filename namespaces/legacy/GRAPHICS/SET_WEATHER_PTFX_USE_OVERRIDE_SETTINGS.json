@@ -1,0 +1,15 @@
+{
+    "0xA46B73FAA3460AE1": {
+        "name": "SET_WEATHER_PTFX_USE_OVERRIDE_SETTINGS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

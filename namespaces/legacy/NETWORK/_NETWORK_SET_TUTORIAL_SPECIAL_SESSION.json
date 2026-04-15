@@ -1,0 +1,15 @@
+{
+    "0x35AEB4AC7C73C6E1": {
+        "name": "_NETWORK_SET_TUTORIAL_SPECIAL_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

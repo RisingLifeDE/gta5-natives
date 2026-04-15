@@ -1,0 +1,55 @@
+{
+    "0x132F52BBA570FE92": {
+        "name": "GET_CLOSEST_ROAD",
+        "jhash": "0x567B0E11",
+        "comment": "p1 seems to be always 1.0f in the scripts",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "Vector3*",
+                "name": "p5"
+            },
+            {
+                "type": "Vector3*",
+                "name": "p6"
+            },
+            {
+                "type": "Any*",
+                "name": "p7"
+            },
+            {
+                "type": "Any*",
+                "name": "p8"
+            },
+            {
+                "type": "float*",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

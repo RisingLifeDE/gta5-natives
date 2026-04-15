@@ -1,0 +1,15 @@
+{
+    "0xC5C8F970D4EDFF71": {
+        "name": "SET_DEPTHWRITING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

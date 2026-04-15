@@ -1,0 +1,15 @@
+{
+    "0x62E849B7EB28E770": {
+        "name": "SET_MINIMAP_FOW_DO_NOT_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x093D6DDCA5B8FBAE": {
+        "name": "GET_SUBMARINE_NUMBER_OF_AIR_LEAKS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "submarine"
+            }
+        ],
+        "return_type": "int",
+        "build": "2189",
+        "old_names": [
+            "_GET_SUBMARINE_CRUSH_DEPTH_WARNING_STATE"
+        ]
+    }
+}

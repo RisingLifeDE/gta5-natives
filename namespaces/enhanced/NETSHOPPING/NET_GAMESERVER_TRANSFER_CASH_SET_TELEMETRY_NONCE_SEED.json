@@ -1,0 +1,14 @@
+{
+    "0x498C1E05CE5F7877": {
+        "name": "NET_GAMESERVER_TRANSFER_CASH_SET_TELEMETRY_NONCE_SEED",
+        "jhash": "",
+        "comment": "Used to be NETWORK_SHOP_CASH_TRANSFER_SET_TELEMETRY_NONCE_SEED",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_CASH_TRANSFER_SET_TELEMETRY_NONCE_SEED",
+            "_NET_GAMESERVER_TRANSFER_CASH_SET_TELEMETRY_NONCE_SEED"
+        ]
+    }
+}

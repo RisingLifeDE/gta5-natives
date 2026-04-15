@@ -1,0 +1,15 @@
+{
+    "0xC53EB42A499A7E90": {
+        "name": "REMOVE_VEHICLE_UPSIDEDOWN_CHECK",
+        "jhash": "0xF390BA1B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

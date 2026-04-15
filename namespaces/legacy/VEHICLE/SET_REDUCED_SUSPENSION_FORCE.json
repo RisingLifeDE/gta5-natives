@@ -1,0 +1,22 @@
+{
+    "0x3A375167F5782A65": {
+        "name": "SET_REDUCED_SUSPENSION_FORCE",
+        "jhash": "",
+        "comment": "Lowers the vehicle's stance. Only works for vehicles that have strAdvancedFlags 0x8000 and 0x4000000 set.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_REDUCE_DRIFT_VEHICLE_SUSPENSION"
+        ]
+    }
+}

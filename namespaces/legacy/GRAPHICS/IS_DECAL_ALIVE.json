@@ -1,0 +1,15 @@
+{
+    "0xC694D74949CAFD0C": {
+        "name": "IS_DECAL_ALIVE",
+        "jhash": "0xCDD4A61A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "decal"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

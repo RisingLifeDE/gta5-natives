@@ -1,0 +1,27 @@
+{
+    "0x503F5920162365B2": {
+        "name": "SET_FLY_CAM_HORIZONTAL_RESPONSE",
+        "jhash": "0x56F9ED27",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

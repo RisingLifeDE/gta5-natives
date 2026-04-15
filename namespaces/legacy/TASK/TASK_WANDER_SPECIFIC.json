@@ -1,0 +1,27 @@
+{
+    "0x6919A2F136426098": {
+        "name": "TASK_WANDER_SPECIFIC",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "conditionalAnimGroupStr"
+            },
+            {
+                "type": "const char*",
+                "name": "conditionalAnimStr"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB4AB419E0D86ACAE": {
+        "name": "NETWORK_SESSION_CHANGE_SLOTS",
+        "jhash": "0x6BB93227",
+        "comment": "num player slots allowed in session, seems to work? 32 max",
+        "params": [
+            {
+                "type": "int",
+                "name": "slots"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

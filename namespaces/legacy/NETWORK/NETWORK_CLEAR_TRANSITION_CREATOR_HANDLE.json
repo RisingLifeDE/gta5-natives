@@ -1,0 +1,10 @@
+{
+    "0xFB3272229A82C759": {
+        "name": "NETWORK_CLEAR_TRANSITION_CREATOR_HANDLE",
+        "jhash": "0x8BB336F7",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

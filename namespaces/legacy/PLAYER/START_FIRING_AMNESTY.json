@@ -1,0 +1,15 @@
+{
+    "0xBF9BD71691857E48": {
+        "name": "START_FIRING_AMNESTY",
+        "jhash": "0x5F8A22A6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

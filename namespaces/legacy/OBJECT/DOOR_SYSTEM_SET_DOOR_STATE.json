@@ -1,0 +1,30 @@
+{
+    "0x6BAB9442830C7F53": {
+        "name": "DOOR_SYSTEM_SET_DOOR_STATE",
+        "jhash": "0xDF83DB47",
+        "comment": "Lockstates not applied and CNetObjDoor's not created until DOOR_SYSTEM_GET_IS_PHYSICS_LOADED returns true.\n`requestDoor` on true, and when door system is configured to, i.e., \"persists w/o netobj\", generate a CRequestDoorEvent.\n`forceUpdate` on true, forces an update on the door system (same path as netObjDoor_applyDoorStuff)\nDoor lock states:\n0: UNLOCKED\n1: LOCKED\n2: DOORSTATE_FORCE_LOCKED_UNTIL_OUT_OF_AREA\n3: DOORSTATE_FORCE_UNLOCKED_THIS_FRAME\n4: DOORSTATE_FORCE_LOCKED_THIS_FRAME\n5: DOORSTATE_FORCE_OPEN_THIS_FRAME\n6: DOORSTATE_FORCE_CLOSED_THIS_FRAME",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DOOR_ACCELERATION_LIMIT"
+        ]
+    }
+}

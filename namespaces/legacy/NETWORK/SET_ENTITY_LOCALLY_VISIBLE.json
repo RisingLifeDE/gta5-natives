@@ -1,0 +1,15 @@
+{
+    "0x241E289B5C059EDC": {
+        "name": "SET_ENTITY_LOCALLY_VISIBLE",
+        "jhash": "0x235A57B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

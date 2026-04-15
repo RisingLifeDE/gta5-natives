@@ -1,0 +1,10 @@
+{
+    "0x9BA54B3CFB82ADDD": {
+        "name": "_NETWORK_HAS_ROS_PRIVILEGE_REPORTING",
+        "jhash": "",
+        "comment": "Checks for privilege 31",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6F0F77FBA9A8F2E6": {
+        "name": "SET_CAM_MOTION_BLUR_STRENGTH",
+        "jhash": "0xFD6E0D67",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xD138FA15C9776837": {
+        "name": "SET_SPECIAL_FLIGHT_MODE_RATIO",
+        "jhash": "",
+        "comment": "Used in conjunction with SET_SPECIAL_FLIGHT_MODE_TARGET_RATIO, in Rockstar's scripts. Using this will instantly transform the vehicle into hover mode starting from the given ratio (ranging from 0.0 to 1.0, values greater than 1.0 will put the vehicle into a glitched state.) If this is not used alongside SET_SPECIAL_FLIGHT_MODE_TARGET_RATIO, the vehicle will automatically transform back into car mode.\n\nUsable only with the deluxo and other vehicles with deluxo-like hover mode toggle, modded or otherwise. Does nothing when used on oppressor2.\n\nExample:\nPed playerPed = PLAYER::PLAYER_PED_ID();\nVehicle veh = PED::GET_VEHICLE_PED_IS_USING(playerPed);\nVEHICLE::SET_SPECIAL_FLIGHT_MODE_RATIO(veh, 0.7f);\nVEHICLE::SET_SPECIAL_FLIGHT_MODE_TARGET_RATIO(veh, 1.0f);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "ratio"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_VEHICLE_HOVER_TRANSFORM_RATIO"
+        ]
+    }
+}

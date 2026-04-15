@@ -1,0 +1,15 @@
+{
+    "0x65F0C5AE05943EC7": {
+        "name": "IS_PED_CURRENT_WEAPON_SILENCED",
+        "jhash": "0xBAF7BFBE",
+        "comment": "This native returns a true or false value.\n\nPed ped = The ped whose weapon you want to check.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x127DE7B20C60A6A3": {
+        "name": "SET_BLIP_NAME_TO_PLAYER_NAME",
+        "jhash": "0x03A0B8F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "0xEAF66ACDDC794793": {
+        "name": "TASK_RAPPEL_DOWN_WALL_USING_CLIPSET_OVERRIDE",
+        "jhash": "",
+        "comment": "Attaches a ped to a rope and allows player control to rappel down a wall. Disables all collisions while on the rope.\np10: Usually 1 in the scripts, clipSet: Clipset to use for the task, minZ: Minimum Z that the player can descend to, ropeHandle: Rope to attach this task to created with ADD_ROPE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "minZ"
+            },
+            {
+                "type": "int",
+                "name": "ropeHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "TASK_RAPPEL_DOWN_WALL"
+        ]
+    }
+}

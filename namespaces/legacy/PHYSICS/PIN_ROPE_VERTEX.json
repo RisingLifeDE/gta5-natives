@@ -1,0 +1,31 @@
+{
+    "0x2B320CF14146B69A": {
+        "name": "PIN_ROPE_VERTEX",
+        "jhash": "0xAE1D101B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "vertex"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

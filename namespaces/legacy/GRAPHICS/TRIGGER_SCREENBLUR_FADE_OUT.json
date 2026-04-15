@@ -1,0 +1,18 @@
+{
+    "0xEFACC8AEF94430D5": {
+        "name": "TRIGGER_SCREENBLUR_FADE_OUT",
+        "jhash": "0x46617502",
+        "comment": "time in ms to transition from fully blurred to normal",
+        "params": [
+            {
+                "type": "float",
+                "name": "transitionTime"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_TRANSITION_FROM_BLURRED"
+        ]
+    }
+}

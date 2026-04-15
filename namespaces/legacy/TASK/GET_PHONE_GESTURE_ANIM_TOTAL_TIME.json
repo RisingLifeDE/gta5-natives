@@ -1,0 +1,15 @@
+{
+    "0x1EE0F68A7C25DEC6": {
+        "name": "GET_PHONE_GESTURE_ANIM_TOTAL_TIME",
+        "jhash": "0xEF8C3959",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

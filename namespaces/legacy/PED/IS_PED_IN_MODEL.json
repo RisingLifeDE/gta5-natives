@@ -1,0 +1,19 @@
+{
+    "0x796D90EFB19AA332": {
+        "name": "IS_PED_IN_MODEL",
+        "jhash": "0xA6438D4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

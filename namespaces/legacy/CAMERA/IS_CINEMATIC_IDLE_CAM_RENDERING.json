@@ -1,0 +1,10 @@
+{
+    "0xCA9D2AA3E326D720": {
+        "name": "IS_CINEMATIC_IDLE_CAM_RENDERING",
+        "jhash": "0x96A07066",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

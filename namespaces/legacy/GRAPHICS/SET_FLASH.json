@@ -1,0 +1,31 @@
+{
+    "0x0AB84296FED9CFC6": {
+        "name": "SET_FLASH",
+        "jhash": "0x7E55A1EE",
+        "comment": "Purpose of p0 and p1 unknown.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "fadeIn"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "fadeOut"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

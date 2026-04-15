@@ -1,0 +1,10 @@
+{
+    "0x02ADA21EA2F6918F": {
+        "name": "UGC_HAS_GET_FINISHED",
+        "jhash": "0x50296140",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

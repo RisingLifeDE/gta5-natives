@@ -1,0 +1,18 @@
+{
+    "0x2B1784DB08AFEA79": {
+        "name": "IS_RADIO_STATION_FAVOURITED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_IS_RADIO_STATION_VISIBLE"
+        ]
+    }
+}

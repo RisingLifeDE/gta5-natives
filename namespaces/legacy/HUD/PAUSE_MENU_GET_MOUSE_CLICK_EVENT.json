@@ -1,0 +1,23 @@
+{
+    "0xC8E1071177A23BE5": {
+        "name": "PAUSE_MENU_GET_MOUSE_CLICK_EVENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

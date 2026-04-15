@@ -1,0 +1,10 @@
+{
+    "0xA34CB6E6F0DF4A0B": {
+        "name": "LEADERBOARDS_READ_CLEAR_ALL",
+        "jhash": "0x233E058A",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

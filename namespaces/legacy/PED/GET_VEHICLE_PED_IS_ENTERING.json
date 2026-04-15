@@ -1,0 +1,18 @@
+{
+    "0xF92691AED837A5FC": {
+        "name": "GET_VEHICLE_PED_IS_ENTERING",
+        "jhash": "0x56E0C163",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323",
+        "old_names": [
+            "SET_EXCLUSIVE_PHONE_RELATIONSHIPS"
+        ]
+    }
+}

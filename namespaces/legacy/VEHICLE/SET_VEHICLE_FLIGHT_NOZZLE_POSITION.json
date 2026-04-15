@@ -1,0 +1,23 @@
+{
+    "0x30D779DE7C4F6DD3": {
+        "name": "SET_VEHICLE_FLIGHT_NOZZLE_POSITION",
+        "jhash": "0xA7DF64D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "angleRatio"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_DESIRED_VERTICAL_FLIGHT_PHASE",
+            "_SET_PLANE_VTOL_DESIRED_DIRECTION"
+        ]
+    }
+}

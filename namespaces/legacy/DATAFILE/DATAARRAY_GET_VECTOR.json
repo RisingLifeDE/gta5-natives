@@ -1,0 +1,22 @@
+{
+    "0x8D2064E5B64A628A": {
+        "name": "DATAARRAY_GET_VECTOR",
+        "jhash": "0x80E3DA55",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_GET_VECTOR3"
+        ]
+    }
+}

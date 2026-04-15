@@ -1,0 +1,18 @@
+{
+    "0xCD79A550999D7D4F": {
+        "name": "DOES_AIR_DEFENCE_SPHERE_EXIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_DOES_AIR_DEFENSE_ZONE_EXIST"
+        ]
+    }
+}

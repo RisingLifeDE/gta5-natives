@@ -1,0 +1,23 @@
+{
+    "0xD9B067E55253E3DD": {
+        "name": "NETWORK_BUY_HEALTHCARE",
+        "jhash": "0x832150E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cost"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

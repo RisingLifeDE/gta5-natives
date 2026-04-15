@@ -1,0 +1,15 @@
+{
+    "0x70EA8DA57840F9BE": {
+        "name": "UGC_GET_CONTENT_HAS_PLAYER_RECORD",
+        "jhash": "0x11DC0F27",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

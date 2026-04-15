@@ -1,0 +1,27 @@
+{
+    "0xD68A5FF8A3A89874": {
+        "name": "SET_SCRIPT_VARIABLE_HUD_COLOUR",
+        "jhash": "0x0E41E45C",
+        "comment": "Sets the color of HUD_COLOUR_SCRIPT_VARIABLE",
+        "params": [
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

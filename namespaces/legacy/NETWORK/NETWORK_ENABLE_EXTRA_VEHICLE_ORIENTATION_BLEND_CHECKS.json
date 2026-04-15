@@ -1,0 +1,19 @@
+{
+    "0xE6717E652B8C8D8A": {
+        "name": "NETWORK_ENABLE_EXTRA_VEHICLE_ORIENTATION_BLEND_CHECKS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "617"
+    }
+}

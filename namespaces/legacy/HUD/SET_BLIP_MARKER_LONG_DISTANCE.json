@@ -1,0 +1,19 @@
+{
+    "0xB552929B85FC27EC": {
+        "name": "SET_BLIP_MARKER_LONG_DISTANCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

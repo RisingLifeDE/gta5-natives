@@ -1,0 +1,19 @@
+{
+    "0x17FFC1B2BA35A494": {
+        "name": "IS_ENTITY_TOUCHING_ENTITY",
+        "jhash": "0x6B931477",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

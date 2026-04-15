@@ -1,0 +1,23 @@
+{
+    "0x37181417CE7C8900": {
+        "name": "START_SHAPE_TEST_BOUND",
+        "jhash": "0x13BC46C0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flags1"
+            },
+            {
+                "type": "int",
+                "name": "flags2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

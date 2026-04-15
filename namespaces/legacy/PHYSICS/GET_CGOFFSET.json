@@ -1,0 +1,15 @@
+{
+    "0x8214A4B5A7A33612": {
+        "name": "GET_CGOFFSET",
+        "jhash": "0x49A11F0D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

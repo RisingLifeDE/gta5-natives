@@ -1,0 +1,19 @@
+{
+    "0xEE831F15A8D0D94A": {
+        "name": "_SET_TV_CHANNEL_PLAYLIST_DIRTY",
+        "jhash": "",
+        "comment": "Does not actually return anything.",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "3095"
+    }
+}

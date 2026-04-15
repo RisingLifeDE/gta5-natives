@@ -1,0 +1,10 @@
+{
+    "0xCDCA26E80FAECB8F": {
+        "name": "PAUSE_MENUCEPTION_THE_KICK",
+        "jhash": "0xC84BE309",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

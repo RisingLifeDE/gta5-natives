@@ -1,0 +1,30 @@
+{
+    "0xDEE612F2D71B0308": {
+        "name": "NETWORK_EARN_SMUGGLER_AGENCY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_NETWORK_EARN_FROM_SMUGGLING"
+        ]
+    }
+}

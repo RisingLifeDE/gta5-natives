@@ -1,0 +1,10 @@
+{
+    "0x793FF272D5B365F4": {
+        "name": "UGC_DID_MODIFY_SUCCEED",
+        "jhash": "0xF0211AC1",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

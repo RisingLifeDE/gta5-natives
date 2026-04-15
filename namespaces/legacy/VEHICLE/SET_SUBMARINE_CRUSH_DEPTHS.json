@@ -1,0 +1,34 @@
+{
+    "0xC59872A5134879C7": {
+        "name": "SET_SUBMARINE_CRUSH_DEPTHS",
+        "jhash": "0x4A46E814",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "depth1"
+            },
+            {
+                "type": "float",
+                "name": "depth2"
+            },
+            {
+                "type": "float",
+                "name": "depth3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_JITTER_VEHICLE"
+        ]
+    }
+}

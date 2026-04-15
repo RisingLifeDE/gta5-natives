@@ -1,0 +1,10 @@
+{
+    "0x59328EB08C5CEB2B": {
+        "name": "IS_USER_OLD_ENOUGH_TO_ACCESS_STORE",
+        "jhash": "0x70F6D3AD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xDF6E5987D2B4D140": {
+        "name": "HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED",
+        "jhash": "0x79B43255",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudComponent"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_HUD_SCALEFORM_LOADED"
+        ]
+    }
+}

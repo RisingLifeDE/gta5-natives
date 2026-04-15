@@ -1,0 +1,31 @@
+{
+    "0x7C9C91AB74A0360F": {
+        "name": "GET_HUD_COLOUR",
+        "jhash": "0x63F66A0B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColorIndex"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            },
+            {
+                "type": "int*",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

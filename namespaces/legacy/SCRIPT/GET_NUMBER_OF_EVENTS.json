@@ -1,0 +1,15 @@
+{
+    "0x5F92A689A06620AA": {
+        "name": "GET_NUMBER_OF_EVENTS",
+        "jhash": "0xA3525D60",
+        "comment": "eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork)",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

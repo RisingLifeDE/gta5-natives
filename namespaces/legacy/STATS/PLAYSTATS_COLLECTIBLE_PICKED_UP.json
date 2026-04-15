@@ -1,0 +1,58 @@
+{
+    "0xCD0A8A9338681CF2": {
+        "name": "PLAYSTATS_COLLECTIBLE_PICKED_UP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "objectHash"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "moneyAmount"
+            },
+            {
+                "type": "int",
+                "name": "rpAmount"
+            },
+            {
+                "type": "int",
+                "name": "chipsAmount"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_COLLECTIBLE"
+        ]
+    }
+}

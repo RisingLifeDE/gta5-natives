@@ -1,0 +1,18 @@
+{
+    "0xD8295AF639FD9CB8": {
+        "name": "SWITCH_TO_MULTI_SECONDPART",
+        "jhash": "0x2349373B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SWITCH_IN_PLAYER"
+        ]
+    }
+}

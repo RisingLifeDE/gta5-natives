@@ -1,0 +1,10 @@
+{
+    "0xC87E740D9F3872CC": {
+        "name": "UGC_WAS_QUERY_FORCE_CANCELLED",
+        "jhash": "0xC1487110",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

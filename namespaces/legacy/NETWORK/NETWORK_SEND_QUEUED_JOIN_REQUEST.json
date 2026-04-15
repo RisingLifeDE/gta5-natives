@@ -1,0 +1,10 @@
+{
+    "0xFA2888E3833C8E96": {
+        "name": "NETWORK_SEND_QUEUED_JOIN_REQUEST",
+        "jhash": "0x7F70C15A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

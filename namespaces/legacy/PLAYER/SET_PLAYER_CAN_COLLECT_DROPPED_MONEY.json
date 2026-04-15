@@ -1,0 +1,19 @@
+{
+    "0xCAC57395B151135F": {
+        "name": "SET_PLAYER_CAN_COLLECT_DROPPED_MONEY",
+        "jhash": "0x00563E0D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

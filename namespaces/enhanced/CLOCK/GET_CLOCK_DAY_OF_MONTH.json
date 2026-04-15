@@ -1,0 +1,10 @@
+{
+    "0x3D10BC92A4DB1D35": {
+        "name": "GET_CLOCK_DAY_OF_MONTH",
+        "jhash": "0xC7A5ACB7",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

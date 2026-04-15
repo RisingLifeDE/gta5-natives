@@ -1,0 +1,15 @@
+{
+    "0xDB663CC9FF3407A9": {
+        "name": "NETWORK_GET_PLAYER_ACCOUNT_ID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1734"
+    }
+}

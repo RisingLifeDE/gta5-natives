@@ -1,0 +1,27 @@
+{
+    "0xBB779C0CA917E865": {
+        "name": "SET_MOBILE_PHONE_ROTATION",
+        "jhash": "0x209C28CF",
+        "comment": "Last parameter is unknown and always zero.",
+        "params": [
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

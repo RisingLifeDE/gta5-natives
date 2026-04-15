@@ -1,0 +1,19 @@
+{
+    "0xC50CE861B55EAB8B": {
+        "name": "SET_VEHICLE_LIMIT_SPEED_WHEN_PLAYER_INACTIVE",
+        "jhash": "0x40C323AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

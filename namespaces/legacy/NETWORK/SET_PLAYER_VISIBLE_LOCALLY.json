@@ -1,0 +1,19 @@
+{
+    "0xFAA10F1FAFB11AF2": {
+        "name": "SET_PLAYER_VISIBLE_LOCALLY",
+        "jhash": "0xBA2BB4B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "bIncludePlayersVehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

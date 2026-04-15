@@ -1,0 +1,15 @@
+{
+    "0x0A6EB355EE14A2DB": {
+        "name": "ARE_PLAYER_STARS_GREYED_OUT",
+        "jhash": "0x5E72AB72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

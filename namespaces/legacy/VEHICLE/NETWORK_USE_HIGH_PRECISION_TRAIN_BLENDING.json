@@ -1,0 +1,22 @@
+{
+    "0xEC0C1D4922AF9754": {
+        "name": "NETWORK_USE_HIGH_PRECISION_TRAIN_BLENDING",
+        "jhash": "",
+        "comment": "Implemented only for trains.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_USE_HIGH_PRECISION_VEHICLE_BLENDING"
+        ]
+    }
+}

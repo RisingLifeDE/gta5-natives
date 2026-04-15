@@ -1,0 +1,15 @@
+{
+    "0xFC058F5121E54C32": {
+        "name": "GET_VEHICLE_MOD_KIT_TYPE",
+        "jhash": "0xE5F76765",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

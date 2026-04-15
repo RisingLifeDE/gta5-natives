@@ -1,0 +1,10 @@
+{
+    "0x340F1415B68AEADE": {
+        "name": "REMOVE_SHOCKING_EVENT_SPAWN_BLOCKING_AREAS",
+        "jhash": "0xA0CE89C8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

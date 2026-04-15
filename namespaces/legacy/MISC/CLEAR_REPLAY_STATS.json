@@ -1,0 +1,10 @@
+{
+    "0x1B1AB132A16FDA55": {
+        "name": "CLEAR_REPLAY_STATS",
+        "jhash": "0xC47DFF02",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

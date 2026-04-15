@@ -1,0 +1,35 @@
+{
+    "0x07E5B515DB0636FC": {
+        "name": "RENDER_SCRIPT_CAMS",
+        "jhash": "0x74337969",
+        "comment": "ease - smooth transition between the camera's positions\neaseTime - Time in milliseconds for the transition to happen\n\nIf you have created a script (rendering) camera, and want to go back to the \ncharacter (gameplay) camera, call this native with render set to 0.\nSetting ease to 1 will smooth the transition.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "render"
+            },
+            {
+                "type": "BOOL",
+                "name": "ease"
+            },
+            {
+                "type": "int",
+                "name": "easeTime"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

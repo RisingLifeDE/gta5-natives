@@ -1,0 +1,19 @@
+{
+    "0x2A7819605465FBCE": {
+        "name": "SET_PED_AS_GROUP_LEADER",
+        "jhash": "0x7265BEA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x1C6CD14A876FFE39": {
+        "name": "TASK_PUT_PED_DIRECTLY_INTO_MELEE",
+        "jhash": "0x79E1D27D",
+        "comment": "from armenian3.c4\n\nTASK::TASK_PUT_PED_DIRECTLY_INTO_MELEE(PlayerPed, armenianPed, 0.0, -1.0, 0.0, 0);\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "meleeTarget"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "float",
+                "name": "timeInMelee"
+            },
+            {
+                "type": "float",
+                "name": "strafePhaseSync"
+            },
+            {
+                "type": "int",
+                "name": "aiCombatFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

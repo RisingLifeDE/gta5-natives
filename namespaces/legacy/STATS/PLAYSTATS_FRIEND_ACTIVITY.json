@@ -1,0 +1,19 @@
+{
+    "0x0F71DE29AB2258F1": {
+        "name": "PLAYSTATS_FRIEND_ACTIVITY",
+        "jhash": "0xD1FA1BDB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

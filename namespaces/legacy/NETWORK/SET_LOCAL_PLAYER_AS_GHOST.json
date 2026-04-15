@@ -1,0 +1,22 @@
+{
+    "0x5FFE9B4144F9712F": {
+        "name": "SET_LOCAL_PLAYER_AS_GHOST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_LOCAL_PLAYER_AS_GHOST"
+        ]
+    }
+}

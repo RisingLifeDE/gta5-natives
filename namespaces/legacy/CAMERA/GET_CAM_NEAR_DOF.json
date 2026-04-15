@@ -1,0 +1,18 @@
+{
+    "0xC2612D223D915A1C": {
+        "name": "GET_CAM_NEAR_DOF",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "2699",
+        "old_names": [
+            "_GET_CAM_NEAR_DOF"
+        ]
+    }
+}

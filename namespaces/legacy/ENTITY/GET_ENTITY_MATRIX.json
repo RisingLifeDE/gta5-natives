@@ -1,0 +1,31 @@
+{
+    "0xECB2FC7235A7D137": {
+        "name": "GET_ENTITY_MATRIX",
+        "jhash": "0xEB9EB001",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Vector3*",
+                "name": "forwardVector"
+            },
+            {
+                "type": "Vector3*",
+                "name": "rightVector"
+            },
+            {
+                "type": "Vector3*",
+                "name": "upVector"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

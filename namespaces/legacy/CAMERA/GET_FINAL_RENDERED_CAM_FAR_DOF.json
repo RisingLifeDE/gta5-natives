@@ -1,0 +1,13 @@
+{
+    "0x9780F32BCAF72431": {
+        "name": "GET_FINAL_RENDERED_CAM_FAR_DOF",
+        "jhash": "0xF24777CA",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_FAR_DOF"
+        ]
+    }
+}

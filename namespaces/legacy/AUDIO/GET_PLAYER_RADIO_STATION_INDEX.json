@@ -1,0 +1,10 @@
+{
+    "0xE8AF77C4C06ADC93": {
+        "name": "GET_PLAYER_RADIO_STATION_INDEX",
+        "jhash": "0x1C4946AC",
+        "comment": "Returns 255 (radio off index) if the function fails.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

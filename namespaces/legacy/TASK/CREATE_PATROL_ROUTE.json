@@ -1,0 +1,10 @@
+{
+    "0xAF8A443CCC8018DC": {
+        "name": "CREATE_PATROL_ROUTE",
+        "jhash": "0x0A6C7864",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x60EEDC12AF66E846": {
+        "name": "PLAYSTATS_HIT_CONTRABAND_DESTROY_LIMIT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_HIT_CONTRABAND_DESTROY_LIMIT"
+        ]
+    }
+}

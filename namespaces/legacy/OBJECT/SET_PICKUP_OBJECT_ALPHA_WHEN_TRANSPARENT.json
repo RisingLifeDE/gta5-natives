@@ -1,0 +1,15 @@
+{
+    "0x8CFF648FBD7330F1": {
+        "name": "SET_PICKUP_OBJECT_ALPHA_WHEN_TRANSPARENT",
+        "jhash": "",
+        "comment": "p0 is either 0 or 50 in scripts.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

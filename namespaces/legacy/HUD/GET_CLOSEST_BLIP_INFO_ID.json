@@ -1,0 +1,18 @@
+{
+    "0xD484BF71050CA1EE": {
+        "name": "GET_CLOSEST_BLIP_INFO_ID",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "blipSprite"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "1180",
+        "old_names": [
+            "_GET_CLOSEST_BLIP_OF_TYPE"
+        ]
+    }
+}

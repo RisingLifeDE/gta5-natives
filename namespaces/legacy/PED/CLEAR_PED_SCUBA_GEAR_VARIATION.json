@@ -1,0 +1,18 @@
+{
+    "0xB50EB4CCB29704AC": {
+        "name": "CLEAR_PED_SCUBA_GEAR_VARIATION",
+        "jhash": "0x080275EE",
+        "comment": "Removes the scubagear (for mp male: component id: 8, drawableId: 123, textureId: any) from peds. Does not play the 'remove scuba gear' animation, but instantly removes it.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_PED_SCUBA_GEAR_NOW"
+        ]
+    }
+}

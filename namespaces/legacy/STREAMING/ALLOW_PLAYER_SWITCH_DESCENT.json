@@ -1,0 +1,10 @@
+{
+    "0xAD5FDF34B81BFE79": {
+        "name": "ALLOW_PLAYER_SWITCH_DESCENT",
+        "jhash": "0x4B4B9A13",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

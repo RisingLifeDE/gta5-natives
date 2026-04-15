@@ -1,0 +1,51 @@
+{
+    "0x54972ADAF0294A93": {
+        "name": "DRAW_SCALEFORM_MOVIE",
+        "jhash": "0x48DA6A58",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

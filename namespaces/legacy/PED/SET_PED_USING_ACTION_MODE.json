@@ -1,0 +1,27 @@
+{
+    "0xD75ACCF5E0FB5367": {
+        "name": "SET_PED_USING_ACTION_MODE",
+        "jhash": "0x8802F696",
+        "comment": "p2 is usually -1 in the scripts. action is either 0 or \"DEFAULT_ACTION\".",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "action"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

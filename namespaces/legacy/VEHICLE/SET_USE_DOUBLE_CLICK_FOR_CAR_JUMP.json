@@ -1,0 +1,15 @@
+{
+    "0x5BBCF35BF6E456F7": {
+        "name": "SET_USE_DOUBLE_CLICK_FOR_CAR_JUMP",
+        "jhash": "",
+        "comment": "Changes the car jump control to require a double-tap to activate.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

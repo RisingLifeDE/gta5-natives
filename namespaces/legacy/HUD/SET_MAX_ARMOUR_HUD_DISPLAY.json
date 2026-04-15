@@ -1,0 +1,15 @@
+{
+    "0x06A320535F5F0248": {
+        "name": "SET_MAX_ARMOUR_HUD_DISPLAY",
+        "jhash": "0x827F14DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maximumValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

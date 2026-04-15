@@ -1,0 +1,15 @@
+{
+    "0x762DB2D380B48D04": {
+        "name": "CLEAR_PICKUP_REWARD_TYPE_SUPPRESSION",
+        "jhash": "0xD1BAAFB7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "rewardType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

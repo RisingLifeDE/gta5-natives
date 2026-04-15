@@ -1,0 +1,19 @@
+{
+    "0x6D8EB211944DCE08": {
+        "name": "SET_SCALEFORM_MOVIE_TO_USE_SYSTEM_TIME",
+        "jhash": "0x18C9DE8D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

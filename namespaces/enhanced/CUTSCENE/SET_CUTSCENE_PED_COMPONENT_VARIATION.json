@@ -1,0 +1,31 @@
+{
+    "0xBA01E7B6DEEFBBC9": {
+        "name": "SET_CUTSCENE_PED_COMPONENT_VARIATION",
+        "jhash": "0x6AF994A1",
+        "comment": "Full list of ped components by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedComponentVariations.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

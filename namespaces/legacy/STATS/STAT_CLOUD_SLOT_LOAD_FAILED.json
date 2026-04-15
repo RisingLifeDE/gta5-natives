@@ -1,0 +1,15 @@
+{
+    "0x7F2C4CDF2E82DF4C": {
+        "name": "STAT_CLOUD_SLOT_LOAD_FAILED",
+        "jhash": "0x0BF0F4B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

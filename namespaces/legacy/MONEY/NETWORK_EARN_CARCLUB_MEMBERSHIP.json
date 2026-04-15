@@ -1,0 +1,18 @@
+{
+    "0xBC6227792A188E2E": {
+        "name": "NETWORK_EARN_CARCLUB_MEMBERSHIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_EARN_FROM_CARCLUB_MEMBERSHIP"
+        ]
+    }
+}

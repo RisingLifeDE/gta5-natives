@@ -1,0 +1,15 @@
+{
+    "0xB9BB18E2C40142ED": {
+        "name": "LEADERBOARDS_CACHE_DATA_ROW",
+        "jhash": "0x44F7D82B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

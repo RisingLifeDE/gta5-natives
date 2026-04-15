@@ -1,0 +1,55 @@
+{
+    "0x4EF47FE21698A8B6": {
+        "name": "SET_PED_DEFENSIVE_AREA_ATTACHED_TO_PED",
+        "jhash": "0x74BDA7CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "attachPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

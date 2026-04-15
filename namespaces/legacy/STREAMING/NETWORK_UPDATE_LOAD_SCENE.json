@@ -1,0 +1,10 @@
+{
+    "0xC4582015556D1C46": {
+        "name": "NETWORK_UPDATE_LOAD_SCENE",
+        "jhash": "0xC76E023C",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

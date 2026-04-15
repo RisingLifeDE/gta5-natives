@@ -1,0 +1,18 @@
+{
+    "0x68D353AB88B97E0C": {
+        "name": "GET_PED_HEAD_BLEND_FIRST_INDEX",
+        "jhash": "0x211DEFEC",
+        "comment": "Type equals 0 for male non-dlc, 1 for female non-dlc, 2 for male dlc, and 3 for female dlc.\n\nUsed when calling SET_PED_HEAD_BLEND_DATA.",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_FIRST_PARENT_ID_FOR_PED_TYPE"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xAE540335B4ABC4E2": {
+        "name": "SET_PLAYER_MELEE_WEAPON_DEFENSE_MODIFIER",
+        "jhash": "0x9F3D577F",
+        "comment": "modifier's min value is 0.1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

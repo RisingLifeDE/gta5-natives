@@ -1,0 +1,19 @@
+{
+    "0x19BD6E3C0E16A8FA": {
+        "name": "SHOW_FOR_SALE_ICON_ON_BLIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

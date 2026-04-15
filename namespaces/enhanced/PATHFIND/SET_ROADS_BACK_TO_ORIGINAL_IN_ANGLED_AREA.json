@@ -1,0 +1,43 @@
+{
+    "0x0027501B9F3B407E": {
+        "name": "SET_ROADS_BACK_TO_ORIGINAL_IN_ANGLED_AREA",
+        "jhash": "0x9DB5D209",
+        "comment": "See IS_POINT_IN_ANGLED_AREA for the definition of an angled area.\nbool p7 - always 1",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

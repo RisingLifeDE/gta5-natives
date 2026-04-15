@@ -1,0 +1,15 @@
+{
+    "0x6058665D72302D3F": {
+        "name": "PLAYSTATS_CHEAT_APPLIED",
+        "jhash": "0x345166F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cheat"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

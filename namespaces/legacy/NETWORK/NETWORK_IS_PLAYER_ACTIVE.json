@@ -1,0 +1,15 @@
+{
+    "0xB8DFD30D6973E135": {
+        "name": "NETWORK_IS_PLAYER_ACTIVE",
+        "jhash": "0x43657B17",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

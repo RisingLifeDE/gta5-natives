@@ -1,0 +1,15 @@
+{
+    "0x0A6DB4965674D243": {
+        "name": "GET_SELECTED_PED_WEAPON",
+        "jhash": "0xD240123E",
+        "comment": "Returns the hash of the weapon. \n\n            var num7 = WEAPON::GET_SELECTED_PED_WEAPON(num4);\n            sub_27D3(num7);\n            switch (num7)\n            {\n                case 0x24B17070:\n\nAlso see WEAPON::GET_CURRENT_PED_WEAPON. Difference?\n\n-------------------------------------------------------------------------\n\nThe difference is that GET_SELECTED_PED_WEAPON simply returns the ped's current weapon hash but GET_CURRENT_PED_WEAPON also checks the weapon object and returns true if the hash of the weapon object equals the weapon hash\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

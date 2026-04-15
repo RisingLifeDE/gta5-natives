@@ -1,0 +1,23 @@
+{
+    "0xC86D67D52A707CF8": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY_ENTITY",
+        "jhash": "0x07FC77E0",
+        "comment": "Entity 1 = Victim\nEntity 2 = Attacker\n\np2 seems to always be 1",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB2CBCD0930DFB420": {
+        "name": "CAN_SET_EXIT_STATE_FOR_CAMERA",
+        "jhash": "0xEDAE6C02",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

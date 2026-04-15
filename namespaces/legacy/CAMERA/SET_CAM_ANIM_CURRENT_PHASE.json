@@ -1,0 +1,19 @@
+{
+    "0x4145A4C44FF3B5A6": {
+        "name": "SET_CAM_ANIM_CURRENT_PHASE",
+        "jhash": "0x3CB1D17F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "phase"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

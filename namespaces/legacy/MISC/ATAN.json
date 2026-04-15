@@ -1,0 +1,15 @@
+{
+    "0xA9D1795CD5043663": {
+        "name": "ATAN",
+        "jhash": "0x7A03CC8E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

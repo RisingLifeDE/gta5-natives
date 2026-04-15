@@ -1,0 +1,15 @@
+{
+    "0x7FF548385680673F": {
+        "name": "REMOVE_SCRIPT_FIRE",
+        "jhash": "0x6B21FE26",
+        "comment": "",
+        "params": [
+            {
+                "type": "FireId",
+                "name": "fireHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x78C0D93253149435": {
+        "name": "GET_PLAYER_SWITCH_JUMP_CUT_INDEX",
+        "jhash": "0x02BA7AC2",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

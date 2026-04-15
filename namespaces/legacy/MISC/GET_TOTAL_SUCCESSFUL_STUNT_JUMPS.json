@@ -1,0 +1,10 @@
+{
+    "0x6856EC3D35C81EA4": {
+        "name": "GET_TOTAL_SUCCESSFUL_STUNT_JUMPS",
+        "jhash": "0x495BE324",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

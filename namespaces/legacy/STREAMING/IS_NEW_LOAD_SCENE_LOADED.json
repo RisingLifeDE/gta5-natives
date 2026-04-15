@@ -1,0 +1,10 @@
+{
+    "0x01B8247A7A8B9AD1": {
+        "name": "IS_NEW_LOAD_SCENE_LOADED",
+        "jhash": "0x3ECD839F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

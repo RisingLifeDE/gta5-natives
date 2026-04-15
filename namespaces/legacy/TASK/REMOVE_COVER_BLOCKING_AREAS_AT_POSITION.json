@@ -1,0 +1,26 @@
+{
+    "0xFA83CA6776038F64": {
+        "name": "REMOVE_COVER_BLOCKING_AREAS_AT_POSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_REMOVE_COVER_BLOCKING_AREAS_AT_COORD"
+        ]
+    }
+}

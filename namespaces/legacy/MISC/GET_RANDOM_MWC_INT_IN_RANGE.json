@@ -1,0 +1,22 @@
+{
+    "0xF2D49816A804D134": {
+        "name": "GET_RANDOM_MWC_INT_IN_RANGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "startRange"
+            },
+            {
+                "type": "int",
+                "name": "endRange"
+            }
+        ],
+        "return_type": "int",
+        "build": "1734",
+        "old_names": [
+            "_GET_RANDOM_INT_IN_RANGE_2"
+        ]
+    }
+}

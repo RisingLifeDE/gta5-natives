@@ -1,0 +1,15 @@
+{
+    "0x3ED1438C1F5C6612": {
+        "name": "NEXT_ONSCREEN_KEYBOARD_RESULT_WILL_DISPLAY_USING_THESE_FONTS",
+        "jhash": "0x3301EA47",
+        "comment": "p0 was always 2 in R* scripts.\nCalled before calling DISPLAY_ONSCREEN_KEYBOARD if the input needs to be saved.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

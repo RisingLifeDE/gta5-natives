@@ -1,0 +1,18 @@
+{
+    "0x11D862A3E977A9EF": {
+        "name": "ARE_ALL_VEHICLE_WINDOWS_INTACT",
+        "jhash": "0xBB619744",
+        "comment": "Appears to return false if any window is broken.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_ARE_ALL_VEHICLE_WINDOWS_INTACT"
+        ]
+    }
+}

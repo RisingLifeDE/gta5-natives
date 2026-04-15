@@ -1,0 +1,10 @@
+{
+    "0xFC859E2374407556": {
+        "name": "GET_ALLOW_MOVEMENT_WHILE_ZOOMED",
+        "jhash": "0xC0823820",
+        "comment": "Returns profile setting 17.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

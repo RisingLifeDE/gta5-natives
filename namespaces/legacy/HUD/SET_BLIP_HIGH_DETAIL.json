@@ -1,0 +1,19 @@
+{
+    "0xE2590BC29220CEBB": {
+        "name": "SET_BLIP_HIGH_DETAIL",
+        "jhash": "0xD5842BFF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "0x18FF00FC7EFF559E": {
+        "name": "APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS",
+        "jhash": "0x28924E98",
+        "comment": "Applies a force to the specified entity.\n\n**List of force types (p1)**:\npublic enum ForceType\n{\n    MinForce = 0,\n    MaxForceRot = 1,\n    MinForce2 = 2,\n    MaxForceRot2 = 3,\n    ForceNoRot = 4,\n    ForceRotPlusForce = 5\n}\nResearch/documentation on the gtaforums can be found here https://gtaforums.com/topic/885669-precisely-define-object-physics/) and here https://gtaforums.com/topic/887362-apply-forces-and-momentums-to-entityobject/.\n\np6/relative - makes the xyz force not relative to world coords, but to something else\np7/highForce - setting false will make the force really low",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "forceType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "isDirectionRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "isForceRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

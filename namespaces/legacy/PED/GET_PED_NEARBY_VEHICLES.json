@@ -1,0 +1,19 @@
+{
+    "0xCFF869CBFA210D82": {
+        "name": "GET_PED_NEARBY_VEHICLES",
+        "jhash": "0xCB716F68",
+        "comment": "Returns size of array, passed into the second variable.\n\nSee below for usage information.\n\nThis function actually requires a struct, where the first value is the maximum number of elements to return.  Here is a sample of how I was able to get it to work correctly, without yet knowing the struct format.\n\n//Setup the array\n const int numElements = 10;\n   const int arrSize = numElements * 2 + 2;\n  Any veh[arrSize];\n //0 index is the size of the array\n    veh[0] = numElements;\n\n   int count = PED::GET_PED_NEARBY_VEHICLES(PLAYER::PLAYER_PED_ID(), veh);\n\n if (veh != NULL)\n  {\n     //Simple loop to go through results\n       for (int i = 0; i < count; i++)\n        {\n         int offsettedID = i * 2 + 2;\n          //Make sure it exists\n         if (veh[offsettedID] != NULL && ENTITY::DOES_ENTITY_EXIST(veh[offsettedID]))\n          {\n             //Do something\n            }\n     }\n }  ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "sizeAndVehs"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

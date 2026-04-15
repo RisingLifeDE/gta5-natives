@@ -1,0 +1,19 @@
+{
+    "0xD4196117AF7BB974": {
+        "name": "SET_DISABLE_DAMAGE_WITH_PICKED_UP_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "757"
+    }
+}

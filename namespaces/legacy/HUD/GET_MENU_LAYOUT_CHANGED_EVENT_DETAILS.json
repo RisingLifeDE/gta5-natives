@@ -1,0 +1,26 @@
+{
+    "0x7E17BE53E1AAABAF": {
+        "name": "GET_MENU_LAYOUT_CHANGED_EVENT_DETAILS",
+        "jhash": "0x6025AA2F",
+        "comment": "lastItemMenuId: this is the menuID of the last selected item minus 1000 (lastItem.menuID - 1000)\nselectedItemMenuId: same as lastItemMenuId except for the currently selected menu item\nselectedItemUniqueId: this is uniqueID of the currently selected menu item\n\nwhen the pausemenu is closed:\nlastItemMenuId = -1\nselectedItemMenuId = -1\nselectedItemUniqueId = 0\n\nwhen the header gains focus:\nlastItemMenuId updates as normal or 0 if the pausemenu was just opened\nselectedItemMenuId becomes a unique id for the pausemenu page that focus was taken from (?) or 0 if the pausemenu was just opened\nselectedItemUniqueId = -1\n\nwhen focus is moved from the header to a pausemenu page:\nlastItemMenuId becomes a unique id for the pausemenu page that focus was moved to (?)\nselectedItemMenuId = -1\nselectedItemUniqueId updates as normal",
+        "params": [
+            {
+                "type": "int*",
+                "name": "lastItemMenuId"
+            },
+            {
+                "type": "int*",
+                "name": "selectedItemMenuId"
+            },
+            {
+                "type": "int*",
+                "name": "selectedItemUniqueId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_PAUSE_MENU_SELECTION_DATA"
+        ]
+    }
+}

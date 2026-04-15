@@ -1,0 +1,10 @@
+{
+    "0xD19C0826DC20CF1C": {
+        "name": "ARE_CREDITS_RUNNING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2802"
+    }
+}

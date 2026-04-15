@@ -1,0 +1,15 @@
+{
+    "0x78DCDC15C9F116B4": {
+        "name": "IS_NAMED_RENDERTARGET_REGISTERED",
+        "jhash": "0x284057F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

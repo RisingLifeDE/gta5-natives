@@ -1,0 +1,18 @@
+{
+    "0x89C8553DD3274AAE": {
+        "name": "RESET_PARTICLE_FX_OVERRIDE",
+        "jhash": "0x9E8D8B72",
+        "comment": "Resets the effect of SET_PARTICLE_FX_OVERRIDE\n\nFull list of particle effect dictionaries and effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/particleEffectsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_PARTICLE_FX_ASSET_OLD_TO_NEW"
+        ]
+    }
+}

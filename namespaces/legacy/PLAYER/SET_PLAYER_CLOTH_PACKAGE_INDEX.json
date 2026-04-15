@@ -1,0 +1,15 @@
+{
+    "0x9F7BBA2EA6372500": {
+        "name": "SET_PLAYER_CLOTH_PACKAGE_INDEX",
+        "jhash": "0xB8209F16",
+        "comment": "Every occurrence was either 0 or 2.",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

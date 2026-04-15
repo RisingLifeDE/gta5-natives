@@ -1,0 +1,22 @@
+{
+    "0xF35425A4204367EC": {
+        "name": "SET_PED_PATH_MAY_ENTER_WATER",
+        "jhash": "0x9C606EE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "mayEnterWater"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_PED_PATHS_WIDTH_PLANT"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xB8FBC8B1330CA9B4": {
+        "name": "SET_VEHICLE_KEEP_ENGINE_ON_WHEN_ABANDONED",
+        "jhash": "0x51E0064F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_JET_ENGINE_ON"
+        ]
+    }
+}

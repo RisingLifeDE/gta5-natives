@@ -1,0 +1,13 @@
+{
+    "0xAF42195A42C63BBA": {
+        "name": "IS_WARNING_MESSAGE_READY_FOR_CONTROL",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_WARNING_MESSAGE_ACTIVE_2"
+        ]
+    }
+}

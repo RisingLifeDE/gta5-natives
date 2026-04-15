@@ -1,0 +1,23 @@
+{
+    "0xF75B0D629E1C063D": {
+        "name": "SET_PED_INTO_VEHICLE",
+        "jhash": "0x07500C79",
+        "comment": "Ped: The ped to warp.\nvehicle: The vehicle to warp the ped into.\nSeat_Index: [-1 is driver seat, -2 first free passenger seat]\n\nMoreinfo of Seat Index\nDriverSeat = -1\nPassenger = 0\nLeft Rear = 1\nRightRear = 2",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

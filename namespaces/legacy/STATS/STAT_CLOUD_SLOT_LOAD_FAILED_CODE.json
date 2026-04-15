@@ -1,0 +1,15 @@
+{
+    "0xE496A53BA5F50A56": {
+        "name": "STAT_CLOUD_SLOT_LOAD_FAILED_CODE",
+        "jhash": "0xCE6B62B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

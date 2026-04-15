@@ -1,0 +1,14 @@
+{
+    "0x32888337579A5970": {
+        "name": "THEFEED_HIDE",
+        "jhash": "",
+        "comment": "Stops loading screen tips shown by invoking `THEFEED_SHOW`",
+        "params": [],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_THEFEED_DISABLE",
+            "_THEFEED_DISABLE_LOADING_SCREEN_TIPS"
+        ]
+    }
+}

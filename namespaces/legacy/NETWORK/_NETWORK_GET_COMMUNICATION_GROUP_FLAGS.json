@@ -1,0 +1,15 @@
+{
+    "0x40DF02F371F40883": {
+        "name": "_NETWORK_GET_COMMUNICATION_GROUP_FLAGS",
+        "jhash": "",
+        "comment": "Returns communicationGroupFlag\ncommunicationType: see 0xDBDF80673BBA3D65\n\nenum eCommunicationGroupFlag\n{\n\tCOMMUNICATION_GROUP_LOCAL_PLAYER = 1 << 0,\n\tCOMMUNICATION_GROUP_FRIENDS = 1 << 1,\n\tCOMMUNICATION_GROUP_SMALL_CREW = 1 << 2,\n\tCOMMUNICATION_GROUP_LARGE_CREW = 1 << 3,\n\tCOMMUNICATION_GROUP_RECENT_PLAYER = 1 << 4,\n\tCOMMUNICATION_GROUP_SAME_SESSION = 1 << 5,\n\tCOMMUNICATION_GROUP_SAME_TEAM = 1 << 6,\n\tCOMMUNICATION_GROUP_INVALID = 1 << 7,\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "communicationType"
+            }
+        ],
+        "return_type": "int",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xFEAD16FC8F9DFC0F": {
+        "name": "GET_NUMBER_OF_FREE_STACKS_OF_THIS_SIZE",
+        "jhash": "0x11A178B8",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_FREE_STACK_SLOTS_COUNT"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xB91B4C20085BD12F": {
+        "name": "GET_VEHICLE_LIGHTS_STATE",
+        "jhash": "0x7C278621",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL*",
+                "name": "lightsOn"
+            },
+            {
+                "type": "BOOL*",
+                "name": "highbeamsOn"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xFCC75460ABA29378": {
+        "name": "END_TEXT_COMMAND_CLEAR_PRINT",
+        "jhash": "0x67785AF2",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xC33E7CBC06EC1A8D": {
+        "name": "UGC_HAS_PERMISSION_TO_WRITE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

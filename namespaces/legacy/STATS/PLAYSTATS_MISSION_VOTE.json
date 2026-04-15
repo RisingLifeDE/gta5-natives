@@ -1,0 +1,18 @@
+{
+    "0xC03FAB2C2F92289B": {
+        "name": "PLAYSTATS_MISSION_VOTE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_PLAYSTATS_MISSION_VOTE"
+        ]
+    }
+}

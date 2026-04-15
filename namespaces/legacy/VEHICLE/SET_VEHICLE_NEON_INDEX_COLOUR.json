@@ -1,0 +1,22 @@
+{
+    "0xB93B2867F7B479D1": {
+        "name": "SET_VEHICLE_NEON_INDEX_COLOUR",
+        "jhash": "",
+        "comment": "Index references CVehicleModelColor",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_VEHICLE_NEON_LIGHTS_COLOUR_INDEX"
+        ]
+    }
+}

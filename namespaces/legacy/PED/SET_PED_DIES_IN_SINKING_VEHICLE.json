@@ -1,0 +1,19 @@
+{
+    "0xD718A22995E2B4BC": {
+        "name": "SET_PED_DIES_IN_SINKING_VEHICLE",
+        "jhash": "0x8D4D9ABB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

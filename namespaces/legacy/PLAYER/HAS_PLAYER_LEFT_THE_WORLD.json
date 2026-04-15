@@ -1,0 +1,15 @@
+{
+    "0xD55DDFB47991A294": {
+        "name": "HAS_PLAYER_LEFT_THE_WORLD",
+        "jhash": "0xFEA40B6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3BD3F52BA9B1E4E8": {
+        "name": "SET_GPS_ACTIVE",
+        "jhash": "0x0FC3379A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

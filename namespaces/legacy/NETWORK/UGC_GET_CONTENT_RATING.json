@@ -1,0 +1,19 @@
+{
+    "0x1ACCFBA3D8DAB2EE": {
+        "name": "UGC_GET_CONTENT_RATING",
+        "jhash": "0x1E34953F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

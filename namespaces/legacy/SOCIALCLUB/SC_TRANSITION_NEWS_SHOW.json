@@ -1,0 +1,15 @@
+{
+    "0x6BFB12CE158E3DD4": {
+        "name": "SC_TRANSITION_NEWS_SHOW",
+        "jhash": "0x24D84334",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

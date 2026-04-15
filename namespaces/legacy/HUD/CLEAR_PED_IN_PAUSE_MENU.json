@@ -1,0 +1,10 @@
+{
+    "0x5E62BE5DC58E9E06": {
+        "name": "CLEAR_PED_IN_PAUSE_MENU",
+        "jhash": "0x28058ACF",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

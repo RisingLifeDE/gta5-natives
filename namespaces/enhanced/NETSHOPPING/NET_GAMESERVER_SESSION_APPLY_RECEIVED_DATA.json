@@ -1,0 +1,18 @@
+{
+    "0x2F41D51BA3BCD1F1": {
+        "name": "NET_GAMESERVER_SESSION_APPLY_RECEIVED_DATA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "charSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_SHOP_SESSION_APPLY_RECEIVED_DATA"
+        ]
+    }
+}

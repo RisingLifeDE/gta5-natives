@@ -1,0 +1,19 @@
+{
+    "0x208784099002BC30": {
+        "name": "REPLAY_CHECK_FOR_EVENT_THIS_FRAME",
+        "jhash": "",
+        "comment": "-This function appears to be deprecated/ unused. Tracing the call internally leads to a _nullsub -\n\nfirst one seems to be a string of a mission name, second one seems to be a bool/toggle\n\np1 was always 0.\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "missionNameLabel"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

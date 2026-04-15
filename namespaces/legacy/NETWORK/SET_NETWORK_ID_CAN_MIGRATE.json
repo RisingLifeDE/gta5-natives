@@ -1,0 +1,19 @@
+{
+    "0x299EEB23175895FC": {
+        "name": "SET_NETWORK_ID_CAN_MIGRATE",
+        "jhash": "0x47C8E5FF",
+        "comment": "Whether or not another player is allowed to take control of the entity",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

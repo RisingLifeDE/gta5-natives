@@ -1,0 +1,10 @@
+{
+    "0x047CBED6F6F8B63C": {
+        "name": "STAT_SET_CHEAT_IS_ACTIVE",
+        "jhash": "0xA063CABD",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

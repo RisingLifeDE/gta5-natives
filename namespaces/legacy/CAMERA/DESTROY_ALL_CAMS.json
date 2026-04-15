@@ -1,0 +1,15 @@
+{
+    "0x8E5FB15663F79120": {
+        "name": "DESTROY_ALL_CAMS",
+        "jhash": "0x10C151CE",
+        "comment": "BOOL param indicates whether the cam should be destroyed if it belongs to the calling script.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "bScriptHostCam"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

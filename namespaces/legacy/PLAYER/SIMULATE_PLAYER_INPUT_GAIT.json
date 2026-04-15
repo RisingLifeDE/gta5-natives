@@ -1,0 +1,39 @@
+{
+    "0x477D5D63E63ECA5D": {
+        "name": "SIMULATE_PLAYER_INPUT_GAIT",
+        "jhash": "0x0D77CC34",
+        "comment": "This is to make the player walk without accepting input from INPUT.\n\ngaitType is in increments of 100s. 2000, 500, 300, 200, etc.\n\np4 is always 1 and p5 is always 0.\n\nC# Example :\n\nFunction.Call(Hash.SIMULATE_PLAYER_INPUT_GAIT, Game.Player, 1.0f, 100, 1.0f, 1, 0); //Player will go forward for 100ms",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "gaitType"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

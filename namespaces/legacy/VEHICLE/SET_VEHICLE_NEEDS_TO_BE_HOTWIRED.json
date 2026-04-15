@@ -1,0 +1,19 @@
+{
+    "0xFBA550EA44404EE6": {
+        "name": "SET_VEHICLE_NEEDS_TO_BE_HOTWIRED",
+        "jhash": "0xD8260751",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

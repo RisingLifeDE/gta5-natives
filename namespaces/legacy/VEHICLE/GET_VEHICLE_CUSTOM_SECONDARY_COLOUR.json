@@ -1,0 +1,27 @@
+{
+    "0x8389CD56CA8072DC": {
+        "name": "GET_VEHICLE_CUSTOM_SECONDARY_COLOUR",
+        "jhash": "0x3FF247A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

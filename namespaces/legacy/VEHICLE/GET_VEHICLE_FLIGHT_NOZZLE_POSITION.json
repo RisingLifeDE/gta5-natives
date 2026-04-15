@@ -1,0 +1,21 @@
+{
+    "0xDA62027C8BDB326E": {
+        "name": "GET_VEHICLE_FLIGHT_NOZZLE_POSITION",
+        "jhash": "0xAD40AD55",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "plane"
+            }
+        ],
+        "return_type": "float",
+        "build": "1180",
+        "old_names": [
+            "_GET_PLANE_HOVER_MODE_PERCENTAGE",
+            "_GET_VEHICLE_HOVER_MODE_PERCENTAGE",
+            "_GET_PLANE_VTOL_DIRECTION",
+            "_GET_VEHICLE_FLIGHT_NOZZLE_POSITION"
+        ]
+    }
+}

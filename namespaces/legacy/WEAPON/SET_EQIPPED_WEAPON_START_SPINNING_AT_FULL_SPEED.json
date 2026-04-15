@@ -1,0 +1,15 @@
+{
+    "0xE4DCEC7FD5B739A5": {
+        "name": "SET_EQIPPED_WEAPON_START_SPINNING_AT_FULL_SPEED",
+        "jhash": "0x64646F1D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

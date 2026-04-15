@@ -1,0 +1,10 @@
+{
+    "0x846AA8E7D55EE5B6": {
+        "name": "APP_DATA_VALID",
+        "jhash": "0x72BDE002",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

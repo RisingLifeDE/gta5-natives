@@ -1,0 +1,27 @@
+{
+    "0x2BBA30B854534A0C": {
+        "name": "TASK_COMBAT_HATED_TARGETS_AROUND_PED_TIMED",
+        "jhash": "0xF127AD6A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "combatFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

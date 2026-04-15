@@ -1,0 +1,23 @@
+{
+    "0xC64A06D939F826F5": {
+        "name": "GET_NEXT_AUDIBLE_BEAT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float*",
+                "name": "out1"
+            },
+            {
+                "type": "float*",
+                "name": "out2"
+            },
+            {
+                "type": "int*",
+                "name": "out3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1493"
+    }
+}

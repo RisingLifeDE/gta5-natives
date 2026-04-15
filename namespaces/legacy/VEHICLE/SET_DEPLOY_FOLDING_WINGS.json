@@ -1,0 +1,26 @@
+{
+    "0xB251E0B33E58B424": {
+        "name": "SET_DEPLOY_FOLDING_WINGS",
+        "jhash": "",
+        "comment": "Only used with the \"akula\" and \"annihilator2\" in the decompiled native scripts.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "deploy"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_DEPLOY_HELI_STUB_WINGS"
+        ]
+    }
+}

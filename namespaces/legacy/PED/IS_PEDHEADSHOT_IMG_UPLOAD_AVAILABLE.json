@@ -1,0 +1,10 @@
+{
+    "0xEBB376779A760AA8": {
+        "name": "IS_PEDHEADSHOT_IMG_UPLOAD_AVAILABLE",
+        "jhash": "0x810158F8",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

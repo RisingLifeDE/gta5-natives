@@ -1,0 +1,42 @@
+{
+    "0x2F074C904D85129E": {
+        "name": "SET_COP_PERCEPTION_OVERRIDES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "seeingRange"
+            },
+            {
+                "type": "float",
+                "name": "seeingRangePeripheral"
+            },
+            {
+                "type": "float",
+                "name": "hearingRange"
+            },
+            {
+                "type": "float",
+                "name": "visualFieldMinAzimuthAngle"
+            },
+            {
+                "type": "float",
+                "name": "visualFieldMaxAzimuthAngle"
+            },
+            {
+                "type": "float",
+                "name": "fieldOfGazeMaxAngle"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "393",
+        "old_names": [
+            "_SET_PED_PERCEPTION_OVERRIDE_THIS_FRAME"
+        ]
+    }
+}

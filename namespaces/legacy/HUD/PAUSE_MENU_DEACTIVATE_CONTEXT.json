@@ -1,0 +1,18 @@
+{
+    "0x444D8CF241EC25C5": {
+        "name": "PAUSE_MENU_DEACTIVATE_CONTEXT",
+        "jhash": "0x0029046E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "OBJECT_DECAL_TOGGLE"
+        ]
+    }
+}

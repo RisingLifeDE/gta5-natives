@@ -1,0 +1,10 @@
+{
+    "0x4C89FE2BDEB3F169": {
+        "name": "STAT_MIGRATE_CHECK_ALREADY_DONE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

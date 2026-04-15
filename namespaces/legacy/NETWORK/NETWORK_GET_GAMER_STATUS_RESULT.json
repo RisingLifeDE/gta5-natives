@@ -1,0 +1,19 @@
+{
+    "0x02A8BEC6FD9AF660": {
+        "name": "NETWORK_GET_GAMER_STATUS_RESULT",
+        "jhash": "0xB5ABC4B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

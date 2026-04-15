@@ -1,0 +1,15 @@
+{
+    "0x9C51349BE6CDFE2C": {
+        "name": "LEADERBOARDS_GET_CACHE_EXISTS",
+        "jhash": "0xFC8A71F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xEAD42DE3610D0721": {
+        "name": "CAN_PED_IN_COMBAT_SEE_TARGET",
+        "jhash": "0xCCD525E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

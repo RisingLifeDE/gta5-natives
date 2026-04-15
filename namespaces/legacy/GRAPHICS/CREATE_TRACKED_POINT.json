@@ -1,0 +1,10 @@
+{
+    "0xE2C9439ED45DEA60": {
+        "name": "CREATE_TRACKED_POINT",
+        "jhash": "0x3129C31A",
+        "comment": "Creates a tracked point, useful for checking the visibility of a 3D point on screen.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

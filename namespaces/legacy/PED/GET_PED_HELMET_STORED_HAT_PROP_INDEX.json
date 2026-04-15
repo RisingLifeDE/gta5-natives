@@ -1,0 +1,15 @@
+{
+    "0x451294E859ECC018": {
+        "name": "GET_PED_HELMET_STORED_HAT_PROP_INDEX",
+        "jhash": "0x8A3A3116",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xEF398BEEE4EF45F9": {
+        "name": "SET_EXPOSURETWEAK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

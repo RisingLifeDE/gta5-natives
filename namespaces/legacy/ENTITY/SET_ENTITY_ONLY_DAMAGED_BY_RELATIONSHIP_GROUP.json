@@ -1,0 +1,23 @@
+{
+    "0x7022BD828FA0B082": {
+        "name": "SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "jhash": "0x202237E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

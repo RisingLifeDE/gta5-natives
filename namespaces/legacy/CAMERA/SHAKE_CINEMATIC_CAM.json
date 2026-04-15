@@ -1,0 +1,19 @@
+{
+    "0xDCE214D9ED58F3CF": {
+        "name": "SHAKE_CINEMATIC_CAM",
+        "jhash": "0x61815F31",
+        "comment": "p0 argument found in the b617d scripts: \"DRUNK_SHAKE\"\n\nFull list of cam shake types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/camShakeTypesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "shakeType"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

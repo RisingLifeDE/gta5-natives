@@ -1,0 +1,15 @@
+{
+    "0xFCBDCE714A7C88E5": {
+        "name": "HAS_SOUND_FINISHED",
+        "jhash": "0xE85AEC2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

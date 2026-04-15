@@ -1,0 +1,10 @@
+{
+    "0x769951E2455E2EB5": {
+        "name": "UGC_GET_CONTENT_TOTAL",
+        "jhash": "0x81BD8D3B",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA8B6AFDAC320AC87": {
+        "name": "SET_BLIP_ROTATION_WITH_FLOAT",
+        "jhash": "",
+        "comment": "Does not require whole number/integer rotations.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_BLIP_SQUARED_ROTATION"
+        ]
+    }
+}

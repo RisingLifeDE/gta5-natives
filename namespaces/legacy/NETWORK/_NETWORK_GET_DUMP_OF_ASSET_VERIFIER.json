@@ -1,0 +1,15 @@
+{
+    "0x69D05E1EAD74B9DD": {
+        "name": "_NETWORK_GET_DUMP_OF_ASSET_VERIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

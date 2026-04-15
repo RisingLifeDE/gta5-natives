@@ -1,0 +1,19 @@
+{
+    "0xE38E9162A2500646": {
+        "name": "GET_NUM_VEHICLE_MODS",
+        "jhash": "0x8A814FF9",
+        "comment": "Returns how many possible mods a vehicle has for a given mod type",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

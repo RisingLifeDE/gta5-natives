@@ -1,0 +1,23 @@
+{
+    "0x3882114BDE571AD4": {
+        "name": "SET_ENTITY_INVINCIBLE",
+        "jhash": "0xC1213A21",
+        "comment": "Sets a ped or an object totally invincible. It doesn't take any kind of damage. Peds will not ragdoll on explosions and the tazer animation won't apply either.\n\nIf you use this for a ped and you want Ragdoll to stay enabled, then do:\n*(DWORD *)(pedAddress + 0x188) |= (1 << 9);\n\nUse this if you want to get the invincibility status:\n  bool IsPedInvincible(Ped ped)\n {\n     auto addr = getScriptHandleBaseAddress(ped);    \n\n        if (addr)\n     {\n         DWORD flag = *(DWORD *)(addr + 0x188);\n            return ((flag & (1 << 8)) != 0) || ((flag & (1 << 9)) != 0);\n      }\n\n       return false;\n }",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "dontResetOnCleanup"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

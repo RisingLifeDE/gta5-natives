@@ -1,0 +1,10 @@
+{
+    "0xA13B0222F3D94A94": {
+        "name": "SET_USE_HI_DOF",
+        "jhash": "0x8BBF2950",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

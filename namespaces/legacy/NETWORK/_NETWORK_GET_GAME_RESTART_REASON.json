@@ -1,0 +1,10 @@
+{
+    "0x7F7E8401F81CB65B": {
+        "name": "_NETWORK_GET_GAME_RESTART_REASON",
+        "jhash": "",
+        "comment": "enum eNetworkGameRestartReason\n{\n\tBE_RESTART_SERVICE_NOT_RUNNING = 1, \t// BattlEye service not running\n\tBE_RESTART_SERVICE_NEEDS_UPDATE, \t\t// BattlEye service needs an update\n\tBE_RESTART_UNKNOWN_REASON,\t\t\t\t// Unknown BattlEye reason\n\tBE_RESTART_EF_DISABLED_WITH_BE,\t\t\t// BattlEye Enforcement Flag is disabled, but BattlEye is active\n\tBE_RESTART_EF_ENABLED_NO_BE,\t\t\t// BattlEye Enforcement Flag is enabled, but BattlEye is not active\n\tBE_RESTART_BE_MODULES_FAILED_TO_LOAD,\t// BattlEye modules failed to load\n\tNUM_NETWORK_GAME_RESTART_REASONS\n};",
+        "params": [],
+        "return_type": "int",
+        "build": "3323"
+    }
+}

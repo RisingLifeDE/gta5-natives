@@ -1,0 +1,27 @@
+{
+    "0x717C8481234E3B88": {
+        "name": "HAS_VEHICLE_GOT_PROJECTILE_ATTACHED",
+        "jhash": "0xA57E2E80",
+        "comment": "Fourth Parameter = unsure, almost always -1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

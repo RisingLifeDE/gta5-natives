@@ -1,0 +1,10 @@
+{
+    "0x5A556B229A169402": {
+        "name": "STAT_COMMUNITY_START_SYNCH",
+        "jhash": "0x46F21343",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

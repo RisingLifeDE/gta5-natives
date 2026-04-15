@@ -1,0 +1,19 @@
+{
+    "0x295D82A8559F9150": {
+        "name": "SET_ENTITY_MOTION_BLUR",
+        "jhash": "0xE90005B8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

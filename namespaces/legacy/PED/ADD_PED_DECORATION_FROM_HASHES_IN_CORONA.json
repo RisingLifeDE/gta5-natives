@@ -1,0 +1,26 @@
+{
+    "0x5619BFA07CFD7833": {
+        "name": "ADD_PED_DECORATION_FROM_HASHES_IN_CORONA",
+        "jhash": "0x8CD3E487",
+        "comment": "Full list of ped overlays / decorations by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedOverlayCollections.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "collection"
+            },
+            {
+                "type": "Hash",
+                "name": "overlay"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_FACIAL_DECORATION"
+        ]
+    }
+}

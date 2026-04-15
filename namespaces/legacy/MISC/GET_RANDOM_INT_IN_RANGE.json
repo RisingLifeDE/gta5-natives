@@ -1,0 +1,19 @@
+{
+    "0xD53343AA4FB7DD28": {
+        "name": "GET_RANDOM_INT_IN_RANGE",
+        "jhash": "0x4051115B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "startRange"
+            },
+            {
+                "type": "int",
+                "name": "endRange"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

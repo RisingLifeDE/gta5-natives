@@ -1,0 +1,22 @@
+{
+    "0xDCB194B85EF7B541": {
+        "name": "SET_PARTICLE_FX_LOOPED_FAR_CLIP_DIST",
+        "jhash": "0x233DE879",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PARTICLE_FX_LOOPED_RANGE"
+        ]
+    }
+}

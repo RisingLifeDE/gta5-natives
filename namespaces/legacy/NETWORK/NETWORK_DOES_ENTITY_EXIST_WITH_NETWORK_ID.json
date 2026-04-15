@@ -1,0 +1,15 @@
+{
+    "0x18A47D074708FD68": {
+        "name": "NETWORK_DOES_ENTITY_EXIST_WITH_NETWORK_ID",
+        "jhash": "0x1E2E3177",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

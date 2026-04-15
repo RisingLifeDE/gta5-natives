@@ -1,0 +1,10 @@
+{
+    "0x109697E2FFBAC8A1": {
+        "name": "DOES_PLAYER_VEH_HAVE_RADIO",
+        "jhash": "0x46B0C696",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

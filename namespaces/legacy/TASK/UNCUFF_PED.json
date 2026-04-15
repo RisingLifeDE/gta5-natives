@@ -1,0 +1,15 @@
+{
+    "0x67406F2C8F87FC4F": {
+        "name": "UNCUFF_PED",
+        "jhash": "0xA23A1D61",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x99B72C7ABDE5C910": {
+        "name": "NETWORK_APPLY_CACHED_PLAYER_HEAD_BLEND_DATA",
+        "jhash": "0x99F58A07",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_COPY_PED_BLEND_DATA"
+        ]
+    }
+}

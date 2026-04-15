@@ -1,0 +1,18 @@
+{
+    "0xA6F54BB2FFCA35EA": {
+        "name": "PLAYSTATS_BW_BELLY_OF_THE_BEAST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PLAYSTATS_BW_BELLY_OF_THE_BEAST"
+        ]
+    }
+}

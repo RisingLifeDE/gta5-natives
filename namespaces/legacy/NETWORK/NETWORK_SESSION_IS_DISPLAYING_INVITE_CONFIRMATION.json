@@ -1,0 +1,10 @@
+{
+    "0xBDB6F89C729CF388": {
+        "name": "NETWORK_SESSION_IS_DISPLAYING_INVITE_CONFIRMATION",
+        "jhash": "0x9374523F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

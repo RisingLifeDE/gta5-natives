@@ -1,0 +1,18 @@
+{
+    "0x2605663BD4F23B5D": {
+        "name": "PLAYSTATS_DEFEND_CONTRABAND_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_DEFEND_CONTRABAND"
+        ]
+    }
+}

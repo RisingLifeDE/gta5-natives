@@ -1,0 +1,13 @@
+{
+    "0x85F6C9ABA1DE2BCF": {
+        "name": "NET_GAMESERVER_GET_CATALOG_CLOUD_CRC",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_GET_CATALOG_CRC"
+        ]
+    }
+}

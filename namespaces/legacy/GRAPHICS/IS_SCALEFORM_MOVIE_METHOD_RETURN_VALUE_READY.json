@@ -1,0 +1,18 @@
+{
+    "0x768FF8961BA904D6": {
+        "name": "IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY",
+        "jhash": "0x5CD7C3C0",
+        "comment": "methodReturn: The return value of this native: END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE\nReturns true if the return value of a scaleform function is ready to be collected (using GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_STRING or GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_INT).",
+        "params": [
+            {
+                "type": "int",
+                "name": "methodReturn"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_BOOL"
+        ]
+    }
+}

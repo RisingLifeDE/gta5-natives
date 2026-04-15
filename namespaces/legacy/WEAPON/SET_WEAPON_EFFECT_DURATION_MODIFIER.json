@@ -1,0 +1,19 @@
+{
+    "0xE6D2CEDD370FF98E": {
+        "name": "SET_WEAPON_EFFECT_DURATION_MODIFIER",
+        "jhash": "",
+        "comment": "ex, WEAPON::SET_WEAPON_EFFECT_DURATION_MODIFIER(joaat(\"vehicle_weapon_mine_slick\"), 1.0);",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372"
+    }
+}

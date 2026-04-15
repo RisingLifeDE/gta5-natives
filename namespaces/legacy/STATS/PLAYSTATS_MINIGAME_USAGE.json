@@ -1,0 +1,26 @@
+{
+    "0xC14BD9F5337219B2": {
+        "name": "PLAYSTATS_MINIGAME_USAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_PLAYSTATS_MINIGAME_USAGE"
+        ]
+    }
+}

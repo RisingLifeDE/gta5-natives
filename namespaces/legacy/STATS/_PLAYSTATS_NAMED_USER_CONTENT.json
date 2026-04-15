@@ -1,0 +1,39 @@
+{
+    "0xAA434D7D0A89A95C": {
+        "name": "_PLAYSTATS_NAMED_USER_CONTENT",
+        "jhash": "",
+        "comment": "Known text types: NAME_YACHT, NAME_ORG_OFFICE",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "isBoss"
+            },
+            {
+                "type": "int",
+                "name": "bossType"
+            },
+            {
+                "type": "int",
+                "name": "bossId1"
+            },
+            {
+                "type": "int",
+                "name": "bossId2"
+            },
+            {
+                "type": "int",
+                "name": "textType"
+            },
+            {
+                "type": "const char*",
+                "name": "textString"
+            },
+            {
+                "type": "int",
+                "name": "textSource"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

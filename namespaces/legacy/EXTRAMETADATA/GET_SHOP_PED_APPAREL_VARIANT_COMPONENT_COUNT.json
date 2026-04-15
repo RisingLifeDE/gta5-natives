@@ -1,0 +1,15 @@
+{
+    "0xC17AD0E5752BECDA": {
+        "name": "GET_SHOP_PED_APPAREL_VARIANT_COMPONENT_COUNT",
+        "jhash": "0x159751B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

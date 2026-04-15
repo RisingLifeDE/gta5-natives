@@ -1,0 +1,26 @@
+{
+    "0xCD015E5BB0D96A57": {
+        "name": "END_TEXT_COMMAND_DISPLAY_TEXT",
+        "jhash": "0x6F8350CE",
+        "comment": "After applying the properties to the text (See HUD::SET_TEXT_), this will draw the text in the applied position. Also 0.0f < x, y < 1.0f, percentage of the axis.\n\nUsed to be known as _DRAW_TEXT",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DRAW_TEXT"
+        ]
+    }
+}

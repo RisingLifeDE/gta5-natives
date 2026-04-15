@@ -1,0 +1,14 @@
+{
+    "0xA0AD7E2AF5349F61": {
+        "name": "NETWORK_HAVE_ROS_CREATE_TICKET_PRIV",
+        "jhash": "0xBDBB5948",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_SOCIALCLUB_BANNED",
+            "_NETWORK_HAVE_SOCIAL_CLUB_PRIVILEGE"
+        ]
+    }
+}

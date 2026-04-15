@@ -1,0 +1,10 @@
+{
+    "0xF46851AB8B02EF40": {
+        "name": "GET_WAYPOINT_CLEAR_ON_ARRIVAL_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "3717"
+    }
+}

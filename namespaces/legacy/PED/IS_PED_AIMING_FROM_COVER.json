@@ -1,0 +1,15 @@
+{
+    "0x3998B1276A3300E5": {
+        "name": "IS_PED_AIMING_FROM_COVER",
+        "jhash": "0xDEBAB2AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

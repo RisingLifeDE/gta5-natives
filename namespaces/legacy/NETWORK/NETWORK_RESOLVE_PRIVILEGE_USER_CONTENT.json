@@ -1,0 +1,10 @@
+{
+    "0xDE9225854F37BF72": {
+        "name": "NETWORK_RESOLVE_PRIVILEGE_USER_CONTENT",
+        "jhash": "",
+        "comment": "Hardcoded to return true.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

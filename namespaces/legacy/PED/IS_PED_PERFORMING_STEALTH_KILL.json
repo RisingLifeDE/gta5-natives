@@ -1,0 +1,15 @@
+{
+    "0xFD4CCDBCC59941B7": {
+        "name": "IS_PED_PERFORMING_STEALTH_KILL",
+        "jhash": "0x9ADD7B21",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x47619ABE8B268C60": {
+        "name": "GET_PHONE_GESTURE_ANIM_CURRENT_TIME",
+        "jhash": "0x7B72AFD1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

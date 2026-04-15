@@ -1,0 +1,10 @@
+{
+    "0x25D990F8E0E3F13C": {
+        "name": "NETWORK_REMOVE_ALL_QUEUED_JOIN_REQUESTS",
+        "jhash": "0x4FD83F5B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "0x5A4A6A6D3DC64F52": {
+        "name": "TASK_PED_SLIDE_TO_COORD_HDG_RATE",
+        "jhash": "0x38A995C1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "headingChangeRate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

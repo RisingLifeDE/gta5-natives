@@ -1,0 +1,23 @@
+{
+    "0x27040C25DE6CB2F4": {
+        "name": "GET_ZONE_AT_COORDS",
+        "jhash": "0xC9018181",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

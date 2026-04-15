@@ -1,0 +1,10 @@
+{
+    "0x394CD08E31313C28": {
+        "name": "FORCE_PICKUP_ROTATE_FACE_UP",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "944"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xFD325494792302D7": {
+        "name": "SET_USE_CAMERA_HEADING_FOR_DESIRED_DIRECTION_LOCK_ON_TEST",
+        "jhash": "0x7F67671D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_TIME_EXCLUSIVE_DISPLAY_TEXTURE"
+        ]
+    }
+}

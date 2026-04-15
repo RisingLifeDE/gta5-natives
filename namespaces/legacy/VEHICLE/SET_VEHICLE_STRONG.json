@@ -1,0 +1,19 @@
+{
+    "0x3E8C8727991A8A0B": {
+        "name": "SET_VEHICLE_STRONG",
+        "jhash": "0xC758D19F",
+        "comment": "If set to true, vehicle will not take crash damage, but is still susceptible to damage from bullets and explosives",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

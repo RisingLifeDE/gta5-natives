@@ -1,0 +1,19 @@
+{
+    "0xF99F62004024D506": {
+        "name": "SET_ENABLE_SCUBA",
+        "jhash": "0x7BF61471",
+        "comment": "Enables diving motion when underwater.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

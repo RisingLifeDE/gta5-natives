@@ -1,0 +1,15 @@
+{
+    "0xB60FEBA45333D36F": {
+        "name": "RESERVE_NETWORK_MISSION_PEDS",
+        "jhash": "0x54998C37",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

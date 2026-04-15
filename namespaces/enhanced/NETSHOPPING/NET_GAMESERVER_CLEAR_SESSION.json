@@ -1,0 +1,15 @@
+{
+    "0x74A0FD0688F1EE45": {
+        "name": "NET_GAMESERVER_CLEAR_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xCD17B554996A8D9E": {
+        "name": "SET_PED_PRIMARY_LOOKAT",
+        "jhash": "0x6DEF6F1C",
+        "comment": "This is only called once in the scripts.\n\nsub_1CD9(&l_49, 0, getElem(3, &l_34, 4), \"MICHAEL\", 0, 1);\n                    sub_1CA8(\"WORLD_HUMAN_SMOKING\", 2);\n                    PED::SET_PED_PRIMARY_LOOKAT(getElem(3, &l_34, 4), PLAYER::PLAYER_PED_ID());",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "lookAt"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

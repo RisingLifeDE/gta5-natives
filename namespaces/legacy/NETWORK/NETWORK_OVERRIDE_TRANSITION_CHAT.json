@@ -1,0 +1,15 @@
+{
+    "0xAF66059A131AA269": {
+        "name": "NETWORK_OVERRIDE_TRANSITION_CHAT",
+        "jhash": "0xCAB21090",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

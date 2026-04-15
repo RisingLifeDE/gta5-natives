@@ -1,0 +1,18 @@
+{
+    "0x4F5070AA58F69279": {
+        "name": "GET_VEHICLE_NODE_IS_SWITCHED_OFF",
+        "jhash": "0x56737A3C",
+        "comment": "Returns true when the node is Offroad. Alleys, some dirt roads, and carparks return true.\nNormal roads where plenty of Peds spawn will return false",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_IS_SLOW_ROAD_FLAG"
+        ]
+    }
+}

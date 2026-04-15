@@ -1,0 +1,15 @@
+{
+    "0x2E0BF682CC778D49": {
+        "name": "NETWORK_HAS_BONE_BEEN_HIT_BY_KILLER",
+        "jhash": "0xBFAA349B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

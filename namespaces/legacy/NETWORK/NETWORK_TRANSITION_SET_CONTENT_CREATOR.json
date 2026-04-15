@@ -1,0 +1,15 @@
+{
+    "0x1F8E00FB18239600": {
+        "name": "NETWORK_TRANSITION_SET_CONTENT_CREATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

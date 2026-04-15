@@ -1,0 +1,19 @@
+{
+    "0x5343532C01A07234": {
+        "name": "WAYPOINT_RECORDING_GET_NUM_POINTS",
+        "jhash": "0xF5F9B71E",
+        "comment": "Full list of waypoint recordings by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/waypointRecordings.json\nFor a full list of the points, see here: goo.gl/wIH0vn",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int*",
+                "name": "points"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

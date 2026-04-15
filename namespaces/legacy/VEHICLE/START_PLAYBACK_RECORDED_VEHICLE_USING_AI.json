@@ -1,0 +1,31 @@
+{
+    "0x29DE5FA52D00428C": {
+        "name": "START_PLAYBACK_RECORDED_VEHICLE_USING_AI",
+        "jhash": "0x8DE8E24E",
+        "comment": "AI abides by the provided driving style (e.g., stopping at red lights or waiting behind traffic) while executing the specificed vehicle recording.\n\nFORCE_PLAYBACK_RECORDED_VEHICLE_UPDATE is a related native that deals with the AI physics for such recordings.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

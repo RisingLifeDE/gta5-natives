@@ -1,0 +1,13 @@
+{
+    "0x6E0A5253375C4584": {
+        "name": "STAT_GET_CHALLENGE_FLYING_DIST",
+        "jhash": "",
+        "comment": "Fly low to the ground for the longest distance",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_LOW_FLYING"
+        ]
+    }
+}

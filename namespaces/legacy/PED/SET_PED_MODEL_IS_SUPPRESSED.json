@@ -1,0 +1,19 @@
+{
+    "0xE163A4BCE4DE6F11": {
+        "name": "SET_PED_MODEL_IS_SUPPRESSED",
+        "jhash": "0x7820CA43",
+        "comment": "Full list of peds by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/peds.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

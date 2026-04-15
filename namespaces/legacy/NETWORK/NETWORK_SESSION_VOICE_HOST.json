@@ -1,0 +1,10 @@
+{
+    "0x9C1556705F864230": {
+        "name": "NETWORK_SESSION_VOICE_HOST",
+        "jhash": "0x345C2980",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xCBB203C04D1ABD27": {
+        "name": "LOAD_ROPE_DATA",
+        "jhash": "0x9E8F1644",
+        "comment": "Rope presets can be found in the gamefiles. One example is \"ropeFamily3\", it is NOT a hash but rather a string.",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "const char*",
+                "name": "rope_preset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

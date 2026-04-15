@@ -1,0 +1,10 @@
+{
+    "0x393BD2275CEB7793": {
+        "name": "GET_LIGHT_OVERRIDE_MAX_INTENSITY_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1103"
+    }
+}

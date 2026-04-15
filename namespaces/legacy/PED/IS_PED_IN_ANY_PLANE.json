@@ -1,0 +1,15 @@
+{
+    "0x5FFF4CFC74D8FB80": {
+        "name": "IS_PED_IN_ANY_PLANE",
+        "jhash": "0x51BBCE7E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

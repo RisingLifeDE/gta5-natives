@@ -1,0 +1,19 @@
+{
+    "0x7912F7FC4F6264B6": {
+        "name": "IS_PLAYER_TARGETTING_ENTITY",
+        "jhash": "0xF3240B77",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

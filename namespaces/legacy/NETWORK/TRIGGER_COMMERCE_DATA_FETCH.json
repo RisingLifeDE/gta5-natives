@@ -1,0 +1,15 @@
+{
+    "0xB606E6CC59664972": {
+        "name": "TRIGGER_COMMERCE_DATA_FETCH",
+        "jhash": "0x866D1B67",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

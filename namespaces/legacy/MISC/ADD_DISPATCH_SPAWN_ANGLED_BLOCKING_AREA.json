@@ -1,0 +1,42 @@
+{
+    "0x918C7B2D2FF3928B": {
+        "name": "ADD_DISPATCH_SPAWN_ANGLED_BLOCKING_AREA",
+        "jhash": "0xF557BAF9",
+        "comment": "To remove, see: REMOVE_DISPATCH_SPAWN_BLOCKING_AREA\nSee IS_POINT_IN_ANGLED_AREA for the definition of an angled area.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_ADD_DISPATCH_SPAWN_BLOCKING_ANGLED_AREA"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "0xBB7454BAFF08FE25": {
+        "name": "SET_FOCUS_POS_AND_VEL",
+        "jhash": "0x14680A60",
+        "comment": "Override the area where the camera will render the terrain.\np3, p4 and p5 are usually set to 0.0\n",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_FOCUS_AREA"
+        ]
+    }
+}

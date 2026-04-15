@@ -1,0 +1,15 @@
+{
+    "0xCA52279A7271517F": {
+        "name": "APP_HAS_SYNCED_DATA",
+        "jhash": "0x1DE2A63D",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

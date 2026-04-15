@@ -1,0 +1,15 @@
+{
+    "0x6FF8FF40B6357D45": {
+        "name": "NETWORK_IS_PARTICIPANT_ACTIVE",
+        "jhash": "0x4E2C348B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

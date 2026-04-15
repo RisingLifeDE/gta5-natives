@@ -1,0 +1,30 @@
+{
+    "0x631F1CB8FB4130AA": {
+        "name": "NETWORK_EARN_ARENA_WAR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_ARENA_WAR"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1FC877464A04FC4F": {
+        "name": "GET_BLIP_SPRITE",
+        "jhash": "0x72FF2E73",
+        "comment": "Blips Images + IDs:\ngtaxscripting.blogspot.com/2016/05/gta-v-blips-id-and-image.html",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

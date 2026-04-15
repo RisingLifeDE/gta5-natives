@@ -1,0 +1,15 @@
+{
+    "0x1098355A16064BB3": {
+        "name": "SET_MOBILE_RADIO_ENABLED_DURING_GAMEPLAY",
+        "jhash": "0x990085F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

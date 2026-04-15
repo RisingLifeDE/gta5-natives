@@ -1,0 +1,26 @@
+{
+    "0x49B856B1360C47C7": {
+        "name": "SET_WANTED_LEVEL_HIDDEN_ESCAPE_TIME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "int",
+                "name": "lossTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_SET_WANTED_LEVEL_HIDDEN_EVASION_TIME"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xAB935175B22E822B": {
+        "name": "IS_THIS_MODEL_A_TRAIN",
+        "jhash": "0xF87DCFFD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

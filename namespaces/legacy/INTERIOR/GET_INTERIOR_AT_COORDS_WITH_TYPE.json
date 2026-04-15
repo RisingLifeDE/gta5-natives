@@ -1,0 +1,27 @@
+{
+    "0x05B7A89BD78797FC": {
+        "name": "GET_INTERIOR_AT_COORDS_WITH_TYPE",
+        "jhash": "0x96525B06",
+        "comment": "Returns the interior ID representing the requested interior at that location (if found?). The supplied interior string is not the same as the one used to load the interior.\n\nUse: INTERIOR::UNPIN_INTERIOR(INTERIOR::GET_INTERIOR_AT_COORDS_WITH_TYPE(x, y, z, interior))\n\nInterior types include: \"V_Michael\", \"V_Franklins\", \"V_Franklinshouse\", etc.. you can find them in the scripts.\n\nNot a very useful native as you could just use GET_INTERIOR_AT_COORDS instead and get the same result, without even having to specify the interior type.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "const char*",
+                "name": "interiorType"
+            }
+        ],
+        "return_type": "Interior",
+        "build": "323"
+    }
+}

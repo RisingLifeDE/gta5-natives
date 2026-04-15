@@ -1,0 +1,15 @@
+{
+    "0x97F35B898D2D067F": {
+        "name": "_NETWORK_GET_COMMUNICATION_GROUP_DEFAULT_FLAGS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "communicationType"
+            }
+        ],
+        "return_type": "int",
+        "build": "3570"
+    }
+}

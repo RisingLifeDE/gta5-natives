@@ -1,0 +1,10 @@
+{
+    "0x5A859503B0C08678": {
+        "name": "IS_SCREEN_FADED_IN",
+        "jhash": "0x4F37276D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

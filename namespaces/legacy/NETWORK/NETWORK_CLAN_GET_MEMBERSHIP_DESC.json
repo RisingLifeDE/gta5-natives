@@ -1,0 +1,19 @@
+{
+    "0x48DE78AF2C8885B8": {
+        "name": "NETWORK_CLAN_GET_MEMBERSHIP_DESC",
+        "jhash": "0x3369DD1F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "memberDesc"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

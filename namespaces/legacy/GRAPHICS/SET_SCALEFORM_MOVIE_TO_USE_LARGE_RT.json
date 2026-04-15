@@ -1,0 +1,19 @@
+{
+    "0x32F34FF7F617643B": {
+        "name": "SET_SCALEFORM_MOVIE_TO_USE_LARGE_RT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

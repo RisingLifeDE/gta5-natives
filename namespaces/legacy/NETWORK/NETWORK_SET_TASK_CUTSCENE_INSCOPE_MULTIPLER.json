@@ -1,0 +1,15 @@
+{
+    "0xC6FCEE21C6FCEE21": {
+        "name": "NETWORK_SET_TASK_CUTSCENE_INSCOPE_MULTIPLER",
+        "jhash": "",
+        "comment": "A value between 1.0 and 5.0",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545"
+    }
+}

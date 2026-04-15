@@ -1,0 +1,15 @@
+{
+    "0x2BB9230590DA5E8A": {
+        "name": "GET_VEHICLE_LIVERY",
+        "jhash": "0xEC82A51D",
+        "comment": "-1 = no livery",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

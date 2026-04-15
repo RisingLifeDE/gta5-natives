@@ -1,0 +1,15 @@
+{
+    "0x8C95333CFC3340F3": {
+        "name": "SET_PED_POPULATION_BUDGET",
+        "jhash": "0xD2D026CD",
+        "comment": "Control how many new (ambient?) peds will spawn in the game world.\nRange for p0 seems to be 0-3, where 0 is none and 3 is the normal level.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

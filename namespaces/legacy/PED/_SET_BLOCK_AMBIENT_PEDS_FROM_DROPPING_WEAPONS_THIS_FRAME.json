@@ -1,0 +1,10 @@
+{
+    "0xC73EFFC5E043A8BA": {
+        "name": "_SET_BLOCK_AMBIENT_PEDS_FROM_DROPPING_WEAPONS_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

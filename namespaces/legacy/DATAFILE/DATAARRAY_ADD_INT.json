@@ -1,0 +1,22 @@
+{
+    "0xCABDB751D86FE93B": {
+        "name": "DATAARRAY_ADD_INT",
+        "jhash": "0xF29C0B36",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_ADD_INTEGER"
+        ]
+    }
+}

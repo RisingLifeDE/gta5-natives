@@ -1,0 +1,19 @@
+{
+    "0x06582AFF74894C75": {
+        "name": "SET_VEHICLE_INACTIVE_DURING_PLAYBACK",
+        "jhash": "0x50F89338",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

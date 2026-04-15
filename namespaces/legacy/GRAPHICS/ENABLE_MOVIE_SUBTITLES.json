@@ -1,0 +1,15 @@
+{
+    "0x873FA65C778AD970": {
+        "name": "ENABLE_MOVIE_SUBTITLES",
+        "jhash": "0xC2DEBA3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

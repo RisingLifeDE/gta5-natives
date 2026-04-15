@@ -1,0 +1,19 @@
+{
+    "0xD01015C7316AE176": {
+        "name": "REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION",
+        "jhash": "0x885724DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

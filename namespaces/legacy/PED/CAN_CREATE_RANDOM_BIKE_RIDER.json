@@ -1,0 +1,10 @@
+{
+    "0xEACEEDA81751915C": {
+        "name": "CAN_CREATE_RANDOM_BIKE_RIDER",
+        "jhash": "0x7018BE31",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

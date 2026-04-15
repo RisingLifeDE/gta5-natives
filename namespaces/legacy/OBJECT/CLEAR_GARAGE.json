@@ -1,0 +1,22 @@
+{
+    "0xDA05194260CDCDF9": {
+        "name": "CLEAR_GARAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "void",
+        "build": "678",
+        "old_names": [
+            "_CLEAR_GARAGE_AREA"
+        ]
+    }
+}

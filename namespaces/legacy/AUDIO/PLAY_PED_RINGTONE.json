@@ -1,0 +1,23 @@
+{
+    "0xF9E56683CA8E11A5": {
+        "name": "PLAY_PED_RINGTONE",
+        "jhash": "0x1D530E47",
+        "comment": "All found occurrences in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/RFb4GTny\n\nAUDIO::PLAY_PED_RINGTONE(\"Remote_Ring\", PLAYER::PLAYER_PED_ID(), 1);\nAUDIO::PLAY_PED_RINGTONE(\"Dial_and_Remote_Ring\", PLAYER::PLAYER_PED_ID(), 1);\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ringtoneName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

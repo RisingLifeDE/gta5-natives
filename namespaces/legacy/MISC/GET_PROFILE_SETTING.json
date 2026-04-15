@@ -1,0 +1,15 @@
+{
+    "0xC488FF2356EA7791": {
+        "name": "GET_PROFILE_SETTING",
+        "jhash": "0xD374BEBC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "profileSetting"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

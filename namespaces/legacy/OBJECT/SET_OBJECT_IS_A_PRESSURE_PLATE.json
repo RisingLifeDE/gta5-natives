@@ -1,0 +1,19 @@
+{
+    "0x734E1714D077DA9A": {
+        "name": "SET_OBJECT_IS_A_PRESSURE_PLATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

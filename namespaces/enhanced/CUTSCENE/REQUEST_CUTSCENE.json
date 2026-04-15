@@ -1,0 +1,19 @@
+{
+    "0x7A86743F475D9E09": {
+        "name": "REQUEST_CUTSCENE",
+        "jhash": "0xB5977853",
+        "comment": "flags: Usually 8\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

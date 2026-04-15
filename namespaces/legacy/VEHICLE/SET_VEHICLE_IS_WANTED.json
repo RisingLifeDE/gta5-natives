@@ -1,0 +1,19 @@
+{
+    "0xF7EC25A3EBEEC726": {
+        "name": "SET_VEHICLE_IS_WANTED",
+        "jhash": "0xDAA388E8",
+        "comment": "Sets the wanted state of this vehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x405DC2AEF6AF95B9": {
+        "name": "SET_ROOM_FOR_GAME_VIEWPORT_BY_KEY",
+        "jhash": "0x0E9529CC",
+        "comment": "Usage: INTERIOR::SET_ROOM_FOR_GAME_VIEWPORT_BY_KEY(INTERIOR::GET_KEY_FOR_ENTITY_IN_ROOM(PLAYER::PLAYER_PED_ID()));",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "roomHashKey"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

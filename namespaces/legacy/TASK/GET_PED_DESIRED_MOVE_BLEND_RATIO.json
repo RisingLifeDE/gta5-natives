@@ -1,0 +1,15 @@
+{
+    "0x8517D4A6CA8513ED": {
+        "name": "GET_PED_DESIRED_MOVE_BLEND_RATIO",
+        "jhash": "0x5FEFAB72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

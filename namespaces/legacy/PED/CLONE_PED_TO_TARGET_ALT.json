@@ -1,0 +1,26 @@
+{
+    "0x148B08C2D2ACB884": {
+        "name": "CLONE_PED_TO_TARGET_ALT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_CLONE_PED_TO_TARGET_EX"
+        ]
+    }
+}

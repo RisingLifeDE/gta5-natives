@@ -1,0 +1,15 @@
+{
+    "0xFA1E2BF8B10598F9": {
+        "name": "IS_PLAYER_PRESSING_HORN",
+        "jhash": "0xED1D1662",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

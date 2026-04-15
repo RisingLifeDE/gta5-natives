@@ -1,0 +1,15 @@
+{
+    "0xF79F9DEF0AADE61A": {
+        "name": "RELEASE_PED_PRELOAD_PROP_DATA",
+        "jhash": "0xFD103BA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

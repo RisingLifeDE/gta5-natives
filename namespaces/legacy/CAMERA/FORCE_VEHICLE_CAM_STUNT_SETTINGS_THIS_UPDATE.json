@@ -1,0 +1,10 @@
+{
+    "0x0AA27680A0BD43FA": {
+        "name": "FORCE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

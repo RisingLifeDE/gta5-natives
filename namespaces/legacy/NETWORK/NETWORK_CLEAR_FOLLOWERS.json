@@ -1,0 +1,10 @@
+{
+    "0x058F43EC59A8631A": {
+        "name": "NETWORK_CLEAR_FOLLOWERS",
+        "jhash": "0x5E557307",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x9F3F689B814F2599": {
+        "name": "SET_VEHICLE_BLIP_THROTTLE_RANDOMLY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

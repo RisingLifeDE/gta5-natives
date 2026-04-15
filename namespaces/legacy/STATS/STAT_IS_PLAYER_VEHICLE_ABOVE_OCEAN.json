@@ -1,0 +1,13 @@
+{
+    "0xF9F2922717B819EC": {
+        "name": "STAT_IS_PLAYER_VEHICLE_ABOVE_OCEAN",
+        "jhash": "",
+        "comment": "Or non-flyable area",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "_STAT_IS_ABOVE_DEEP_WATER"
+        ]
+    }
+}

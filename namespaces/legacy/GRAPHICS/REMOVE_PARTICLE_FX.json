@@ -1,0 +1,19 @@
+{
+    "0xC401503DFE8D53CF": {
+        "name": "REMOVE_PARTICLE_FX",
+        "jhash": "0x6BA48C7E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xDFC8CBC606FDB0FC": {
+        "name": "GET_FINAL_RENDERED_CAM_FAR_CLIP",
+        "jhash": "0x46CB3A49",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_FAR_CLIP"
+        ]
+    }
+}

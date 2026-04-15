@@ -1,0 +1,15 @@
+{
+    "0x7F08E26039C7347C": {
+        "name": "WAS_PED_KILLED_BY_TAKEDOWN",
+        "jhash": "0xBDD3CE69",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

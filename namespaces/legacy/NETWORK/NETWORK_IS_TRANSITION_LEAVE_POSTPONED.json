@@ -1,0 +1,10 @@
+{
+    "0xC571D0E77D8BBC29": {
+        "name": "NETWORK_IS_TRANSITION_LEAVE_POSTPONED",
+        "jhash": "0x4F4BB300",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE3D969D2785FFB5E": {
+        "name": "PREVENT_ARREST_STATE_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

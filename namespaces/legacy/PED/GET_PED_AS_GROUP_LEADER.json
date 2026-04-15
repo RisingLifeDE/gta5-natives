@@ -1,0 +1,18 @@
+{
+    "0x5CCE68DBD5FE93EC": {
+        "name": "GET_PED_AS_GROUP_LEADER",
+        "jhash": "0x52873C6A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupID"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323",
+        "old_names": [
+            "_GET_PED_AS_GROUP_LEADER"
+        ]
+    }
+}

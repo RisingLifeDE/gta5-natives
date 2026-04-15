@@ -1,0 +1,23 @@
+{
+    "0x4F548CABEAE553BC": {
+        "name": "SET_SAVE_HOUSE",
+        "jhash": "0xC3240BB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "savehouseHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

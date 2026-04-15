@@ -1,0 +1,10 @@
+{
+    "0x5EDEF0CF8C1DAB3C": {
+        "name": "CAN_USE_MOBILE_PHONE_DURING_CUTSCENE",
+        "jhash": "0xDBD88708",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

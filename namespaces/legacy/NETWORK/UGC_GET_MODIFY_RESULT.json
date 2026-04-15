@@ -1,0 +1,10 @@
+{
+    "0x5A0A3D1A186A5508": {
+        "name": "UGC_GET_MODIFY_RESULT",
+        "jhash": "0x1F0DD8AF",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

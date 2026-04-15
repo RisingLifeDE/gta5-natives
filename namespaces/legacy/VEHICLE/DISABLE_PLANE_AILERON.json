@@ -1,0 +1,23 @@
+{
+    "0x23428FC53C60919C": {
+        "name": "DISABLE_PLANE_AILERON",
+        "jhash": "0x7E84C45C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

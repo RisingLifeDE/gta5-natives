@@ -1,0 +1,19 @@
+{
+    "0xFB18DF9CB95E0105": {
+        "name": "NETWORK_GIVE_PLAYER_JOBSHARE_CASH",
+        "jhash": "0xC6047FDB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

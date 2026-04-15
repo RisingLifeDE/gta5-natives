@@ -1,0 +1,15 @@
+{
+    "0xA6DB27D19ECBB7DA": {
+        "name": "DOES_BLIP_EXIST",
+        "jhash": "0xAE92DD96",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

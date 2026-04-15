@@ -1,0 +1,15 @@
+{
+    "0x60734CC207C9833C": {
+        "name": "ALLOW_SONAR_BLIPS",
+        "jhash": "0xE7E1E32B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

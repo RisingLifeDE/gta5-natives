@@ -1,0 +1,13 @@
+{
+    "0x928DBFB892638EF3": {
+        "name": "PLAYSTATS_START_TRACKING_STUNTS",
+        "jhash": "",
+        "comment": "Allows CEventNetworkStuntPerformed to be triggered.",
+        "params": [],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_PLAYSTATS_STUNT_PERFORMED_EVENT_ALLOW_TRIGGER"
+        ]
+    }
+}

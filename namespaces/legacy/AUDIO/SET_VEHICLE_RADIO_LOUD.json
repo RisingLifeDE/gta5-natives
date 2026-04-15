@@ -1,0 +1,19 @@
+{
+    "0xBB6F1CAEC68B0BCE": {
+        "name": "SET_VEHICLE_RADIO_LOUD",
+        "jhash": "0x8D9EDD99",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

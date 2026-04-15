@@ -1,0 +1,31 @@
+{
+    "0x190428512B240692": {
+        "name": "CLEAR_OBJECTS_INSIDE_GARAGE",
+        "jhash": "0xA565E27E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "vehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "peds"
+            },
+            {
+                "type": "BOOL",
+                "name": "objects"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x0BCA1D2C47B0D269": {
+        "name": "LEADERBOARDS_WRITE_ADD_COLUMN",
+        "jhash": "0x7524E27B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

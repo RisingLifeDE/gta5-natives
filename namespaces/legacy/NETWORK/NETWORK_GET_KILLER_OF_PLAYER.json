@@ -1,0 +1,22 @@
+{
+    "0x2DA41ED6E1FCD7A5": {
+        "name": "NETWORK_GET_KILLER_OF_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Player",
+        "build": "463",
+        "old_names": [
+            "_NETWORK_GET_PLAYER_KILLER_OF_PLAYER"
+        ]
+    }
+}

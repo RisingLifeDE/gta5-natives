@@ -1,0 +1,10 @@
+{
+    "0xFDB423997FA30340": {
+        "name": "THEFEED_PAUSE",
+        "jhash": "0x4D0449C6",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

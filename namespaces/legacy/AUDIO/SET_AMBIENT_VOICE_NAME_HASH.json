@@ -1,0 +1,22 @@
+{
+    "0x9A53DED9921DE990": {
+        "name": "SET_AMBIENT_VOICE_NAME_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_AMBIENT_VOICE_NAME_HASH"
+        ]
+    }
+}

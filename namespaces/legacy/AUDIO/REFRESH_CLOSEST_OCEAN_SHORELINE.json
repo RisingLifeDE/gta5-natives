@@ -1,0 +1,10 @@
+{
+    "0x5D2BFAAB8D956E0E": {
+        "name": "REFRESH_CLOSEST_OCEAN_SHORELINE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "573"
+    }
+}

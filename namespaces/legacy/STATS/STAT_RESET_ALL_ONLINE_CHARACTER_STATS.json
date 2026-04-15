@@ -1,0 +1,15 @@
+{
+    "0x26D7399B9587FE89": {
+        "name": "STAT_RESET_ALL_ONLINE_CHARACTER_STATS",
+        "jhash": "0x343B27E2",
+        "comment": "p0 seems to range from 0 to 7",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

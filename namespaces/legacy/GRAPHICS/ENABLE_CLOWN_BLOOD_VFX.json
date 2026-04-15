@@ -1,0 +1,18 @@
+{
+    "0xD821490579791273": {
+        "name": "ENABLE_CLOWN_BLOOD_VFX",
+        "jhash": "0xC61C75E9",
+        "comment": "Creates cartoon effect when Michel smokes the weed",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_CAMERA_ENDTIME"
+        ]
+    }
+}

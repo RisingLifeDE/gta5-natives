@@ -1,0 +1,19 @@
+{
+    "0xA69AC4ADE82B57A4": {
+        "name": "DATAFILE_SELECT_UGC_DATA",
+        "jhash": "0xE8D56DA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

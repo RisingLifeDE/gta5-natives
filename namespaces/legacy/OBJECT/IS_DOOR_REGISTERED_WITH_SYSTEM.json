@@ -1,0 +1,18 @@
+{
+    "0xC153C43EA202C8C1": {
+        "name": "IS_DOOR_REGISTERED_WITH_SYSTEM",
+        "jhash": "0x5AFCD8A1",
+        "comment": "if (OBJECT::IS_DOOR_REGISTERED_WITH_SYSTEM(doorHash)) \n{\n    OBJECT::REMOVE_DOOR_FROM_SYSTEM(doorHash);\n}",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_DOES_DOOR_EXIST"
+        ]
+    }
+}

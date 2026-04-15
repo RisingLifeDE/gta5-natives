@@ -1,0 +1,26 @@
+{
+    "0xDB8A58AEAA67CD07": {
+        "name": "SET_PACKED_STAT_BOOL_CODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_SET_PACKED_STAT_BOOL"
+        ]
+    }
+}

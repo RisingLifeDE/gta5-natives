@@ -1,0 +1,19 @@
+{
+    "0x76A18844E743BF91": {
+        "name": "HAS_WEAPON_GOT_WEAPON_COMPONENT",
+        "jhash": "0x1D368510",
+        "comment": "see DOES_WEAPON_TAKE_WEAPON_COMPONENT for full list of weapons & components",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weapon"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

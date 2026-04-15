@@ -1,0 +1,35 @@
+{
+    "0x6E01E9E8D89F8276": {
+        "name": "TASK_WARP_PED_DIRECTLY_INTO_COVER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowPeekingAndFiring"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceInitialFacingDirection"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceFaceLeft"
+            },
+            {
+                "type": "int",
+                "name": "identifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545"
+    }
+}

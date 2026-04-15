@@ -1,0 +1,31 @@
+{
+    "0x0A1CB9094635D1A6": {
+        "name": "CLEAR_AREA_OF_PROJECTILES",
+        "jhash": "0x18DB5434",
+        "comment": "flags is usually 0 in the scripts.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x11B56FBBF7224868": {
+        "name": "PRELOAD_CLOUD_HAT",
+        "jhash": "0x8727A4C5",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

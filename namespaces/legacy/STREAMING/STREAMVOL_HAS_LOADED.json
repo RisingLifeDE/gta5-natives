@@ -1,0 +1,15 @@
+{
+    "0x7D41E9D2D17C5B2D": {
+        "name": "STREAMVOL_HAS_LOADED",
+        "jhash": "0x1B3521F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

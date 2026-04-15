@@ -1,0 +1,34 @@
+{
+    "0x30FD873ECE50E9F6": {
+        "name": "NETWORK_BUY_CONTRABAND_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_NETWORK_BUY_CONTRABAND"
+        ]
+    }
+}

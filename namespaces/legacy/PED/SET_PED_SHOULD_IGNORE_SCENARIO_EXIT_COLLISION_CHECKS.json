@@ -1,0 +1,19 @@
+{
+    "0x425AECF167663F48": {
+        "name": "SET_PED_SHOULD_IGNORE_SCENARIO_EXIT_COLLISION_CHECKS",
+        "jhash": "0x5BC276AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

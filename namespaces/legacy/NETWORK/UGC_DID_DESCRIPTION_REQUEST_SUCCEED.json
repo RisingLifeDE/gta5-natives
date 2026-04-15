@@ -1,0 +1,15 @@
+{
+    "0x162C23CA83ED0A62": {
+        "name": "UGC_DID_DESCRIPTION_REQUEST_SUCCEED",
+        "jhash": "0xB3BBD241",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

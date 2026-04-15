@@ -1,0 +1,19 @@
+{
+    "0xFFEE8FA29AB9A18E": {
+        "name": "UPDATE_SPECIAL_ABILITY_FROM_STAT",
+        "jhash": "0x5D0FE25B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

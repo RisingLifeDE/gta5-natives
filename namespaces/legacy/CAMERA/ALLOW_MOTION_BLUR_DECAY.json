@@ -1,0 +1,19 @@
+{
+    "0x271017B9BA825366": {
+        "name": "ALLOW_MOTION_BLUR_DECAY",
+        "jhash": "0x43220969",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

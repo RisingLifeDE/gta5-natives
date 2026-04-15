@@ -1,0 +1,15 @@
+{
+    "0xF70EFA14FE091429": {
+        "name": "WITHDRAW_VC",
+        "jhash": "0x8B755993",
+        "comment": "Does nothing and always returns 0.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

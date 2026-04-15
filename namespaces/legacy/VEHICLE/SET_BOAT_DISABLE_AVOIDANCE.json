@@ -1,0 +1,19 @@
+{
+    "0x0A6A279F3AA4FD70": {
+        "name": "SET_BOAT_DISABLE_AVOIDANCE",
+        "jhash": "0x4C0E4031",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

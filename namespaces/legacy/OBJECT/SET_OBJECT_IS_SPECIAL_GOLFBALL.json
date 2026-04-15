@@ -1,0 +1,19 @@
+{
+    "0xC6033D32241F6FB5": {
+        "name": "SET_OBJECT_IS_SPECIAL_GOLFBALL",
+        "jhash": "0xF4A1A14A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

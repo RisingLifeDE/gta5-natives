@@ -1,0 +1,10 @@
+{
+    "0x402F9ED62087E898": {
+        "name": "DISPLAY_HUD_WHEN_PAUSED_THIS_FRAME",
+        "jhash": "0xC47AB1B0",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

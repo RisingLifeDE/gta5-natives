@@ -1,0 +1,22 @@
+{
+    "0xE08256F972C7BB2C": {
+        "name": "NETWORK_EARN_ARENA_SKILL_LEVEL_PROGRESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_ARENA_SKILL_LEVEL_PROGRESSION"
+        ]
+    }
+}

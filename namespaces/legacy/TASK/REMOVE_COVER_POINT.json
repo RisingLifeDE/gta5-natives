@@ -1,0 +1,15 @@
+{
+    "0xAE287C923D891715": {
+        "name": "REMOVE_COVER_POINT",
+        "jhash": "0x0776888B",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "coverpoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

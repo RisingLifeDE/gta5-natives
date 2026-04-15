@@ -1,0 +1,19 @@
+{
+    "0x8BF907833BE275DE": {
+        "name": "SET_PED_INTERIOR_WALLA_DENSITY",
+        "jhash": "0x2CD26D69",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

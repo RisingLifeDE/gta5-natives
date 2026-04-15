@@ -1,0 +1,19 @@
+{
+    "0xA9B61A329BFDCBEA": {
+        "name": "SET_PED_IS_AVOIDED_BY_OTHERS",
+        "jhash": "0x2276DE0D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

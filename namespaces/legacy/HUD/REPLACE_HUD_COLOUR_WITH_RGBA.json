@@ -1,0 +1,34 @@
+{
+    "0xF314CF4F0211894E": {
+        "name": "REPLACE_HUD_COLOUR_WITH_RGBA",
+        "jhash": "0xF6E7E92B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColorIndex"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_HUD_COLOUR"
+        ]
+    }
+}

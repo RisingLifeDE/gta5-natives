@@ -1,0 +1,15 @@
+{
+    "0x7EF7649B64D7FF10": {
+        "name": "IS_ENTITY_IN_GHOST_COLLISION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4A2D4E8BF4265B0F": {
+        "name": "NETWORK_ENTITY_AREA_IS_OCCUPIED",
+        "jhash": "0xC6D53AA0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "areaHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

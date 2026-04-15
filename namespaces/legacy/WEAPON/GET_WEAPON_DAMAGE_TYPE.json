@@ -1,0 +1,15 @@
+{
+    "0x3BE0BB12D25FB305": {
+        "name": "GET_WEAPON_DAMAGE_TYPE",
+        "jhash": "0x013AFC13",
+        "comment": "enum class eDamageType\n{\n\tUNKNOWN = 0,\n\tNONE = 1,\n\tMELEE = 2,\n\tBULLET = 3,\n\tBULLET_RUBBER = 4,\n\tEXPLOSIVE = 5,\n\tFIRE = 6,\n\tCOLLISION = 7,\n\tFALL = 8,\n\tDROWN = 9,\n\tELECTRIC = 10,\n\tBARBED_WIRE = 11,\n\tFIRE_EXTINGUISHER = 12,\n\tSMOKE = 13,\n\tWATER_CANNON = 14,\n\tTRANQUILIZER = 15,\n};\n\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

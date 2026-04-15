@@ -1,0 +1,15 @@
+{
+    "0x1280804F7CFD2D6C": {
+        "name": "CLEAR_PED_PARACHUTE_PACK_VARIATION",
+        "jhash": "0x7BCD8991",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

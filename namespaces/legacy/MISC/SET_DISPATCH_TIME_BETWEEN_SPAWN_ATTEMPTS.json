@@ -1,0 +1,19 @@
+{
+    "0x44F7CBC1BEB3327D": {
+        "name": "SET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS",
+        "jhash": "0xABADB709",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

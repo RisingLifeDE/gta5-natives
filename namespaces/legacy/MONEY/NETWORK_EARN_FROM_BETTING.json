@@ -1,0 +1,19 @@
+{
+    "0x827A5BA1A44ACA6D": {
+        "name": "NETWORK_EARN_FROM_BETTING",
+        "jhash": "0xA0F7F07C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

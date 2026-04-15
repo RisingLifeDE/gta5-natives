@@ -1,0 +1,15 @@
+{
+    "0xBE2CACCF5A8AA805": {
+        "name": "SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED",
+        "jhash": "0xF07DDA38",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

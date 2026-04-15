@@ -1,0 +1,19 @@
+{
+    "0x89D9FCC2435112F1": {
+        "name": "TASK_CLIMB",
+        "jhash": "0x90847790",
+        "comment": "Climbs or vaults the nearest thing.\nusePlayerLaunchForce is unused.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "usePlayerLaunchForce"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

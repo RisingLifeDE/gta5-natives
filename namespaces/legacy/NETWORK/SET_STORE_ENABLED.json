@@ -1,0 +1,15 @@
+{
+    "0x9641A9FF718E9C5E": {
+        "name": "SET_STORE_ENABLED",
+        "jhash": "0xC1F6443B",
+        "comment": "Access to the store for shark cards etc...",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

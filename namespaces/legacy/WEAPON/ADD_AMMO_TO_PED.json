@@ -1,0 +1,23 @@
+{
+    "0x78F0424C34306220": {
+        "name": "ADD_AMMO_TO_PED",
+        "jhash": "0x7F0580C7",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

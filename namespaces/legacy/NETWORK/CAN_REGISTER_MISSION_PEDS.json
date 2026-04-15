@@ -1,0 +1,15 @@
+{
+    "0xBCBF4FEF9FA5D781": {
+        "name": "CAN_REGISTER_MISSION_PEDS",
+        "jhash": "0xCCAA5CE9",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

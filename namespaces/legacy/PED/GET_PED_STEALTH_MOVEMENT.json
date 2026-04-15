@@ -1,0 +1,15 @@
+{
+    "0x7C2AC9CA66575FBF": {
+        "name": "GET_PED_STEALTH_MOVEMENT",
+        "jhash": "0x40321B83",
+        "comment": "Returns whether the entity is in stealth mode",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

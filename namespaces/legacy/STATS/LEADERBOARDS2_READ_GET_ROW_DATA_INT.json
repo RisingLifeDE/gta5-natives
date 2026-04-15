@@ -1,0 +1,22 @@
+{
+    "0x88578F6EC36B4A3A": {
+        "name": "LEADERBOARDS2_READ_GET_ROW_DATA_INT",
+        "jhash": "0x6B90E730",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "LEADERBOARDS2_READ_BY_HELP_PURPLE_INT"
+        ]
+    }
+}

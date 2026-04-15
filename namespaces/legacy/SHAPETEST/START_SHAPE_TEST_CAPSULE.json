@@ -1,0 +1,54 @@
+{
+    "0x28579D1B8F8AAC80": {
+        "name": "START_SHAPE_TEST_CAPSULE",
+        "jhash": "0x591EA833",
+        "comment": "Raycast from point to point, where the ray has a radius. \n\nflags:\nvehicles=10\npeds =12\n\nIterating through flags yields many ped / vehicle/ object combinations\n\np9 = 7, but no idea what it does\n\nEntity is an entity to ignore",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_CAST_3D_RAY_POINT_TO_POINT"
+        ]
+    }
+}

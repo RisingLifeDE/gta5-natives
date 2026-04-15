@@ -1,0 +1,18 @@
+{
+    "0x40EB1EFD921822BC": {
+        "name": "REGISTER_SCRIPT_VARIABLE",
+        "jhash": "",
+        "comment": "Registers a protected variable that will be checked for modifications by the anticheat",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "variable"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_REGISTER_PROTECTED_VARIABLE"
+        ]
+    }
+}

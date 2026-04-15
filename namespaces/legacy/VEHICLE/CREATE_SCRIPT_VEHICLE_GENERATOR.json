@@ -1,0 +1,79 @@
+{
+    "0x9DEF883114668116": {
+        "name": "CREATE_SCRIPT_VEHICLE_GENERATOR",
+        "jhash": "0x25A9A261",
+        "comment": "Creates a script vehicle generator at the given coordinates. Most parameters after the model hash are unknown.\n\nParameters:\nx/y/z - Generator position\nheading - Generator heading\np4 - Unknown (always 5.0)\np5 - Unknown (always 3.0)\nmodelHash - Vehicle model hash\np7/8/9/10 - Unknown (always -1)\np11 - Unknown (usually TRUE, only one instance of FALSE)\np12/13 - Unknown (always FALSE)\np14 - Unknown (usally FALSE, only two instances of TRUE)\np15 - Unknown (always TRUE)\np16 - Unknown (always -1)\n\nVector3 coords = GET_ENTITY_COORDS(PLAYER_PED_ID(), 0);    CREATE_SCRIPT_VEHICLE_GENERATOR(coords.x, coords.y, coords.z, 1.0f, 5.0f, 3.0f, GET_HASH_KEY(\"adder\"), -1. -1, -1, -1, -1, true, false, false, false, true, -1);",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "p13"
+            },
+            {
+                "type": "BOOL",
+                "name": "p14"
+            },
+            {
+                "type": "BOOL",
+                "name": "p15"
+            },
+            {
+                "type": "int",
+                "name": "p16"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

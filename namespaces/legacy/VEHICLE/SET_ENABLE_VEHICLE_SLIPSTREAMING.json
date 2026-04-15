@@ -1,0 +1,15 @@
+{
+    "0xE6C0C80B8C867537": {
+        "name": "SET_ENABLE_VEHICLE_SLIPSTREAMING",
+        "jhash": "0xD2B8ACBD",
+        "comment": "Enable/Disables global slipstream physics",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xFB5045B7C42B75BF": {
+        "name": "SET_WEATHER_TYPE_OVERTIME_PERSIST",
+        "jhash": "0x386F0D25",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_WEATHER_TYPE_OVER_TIME"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xAA74EC0CB0AAEA2C": {
+        "name": "RESET_PED_MOVEMENT_CLIPSET",
+        "jhash": "0xB83CEE93",
+        "comment": "If p1 is 0.0, I believe you are back to normal. \nIf p1 is 1.0, it looks like you can only rotate the ped, not walk.\n\nUsing the following code to reset back to normal\nPED::RESET_PED_MOVEMENT_CLIPSET(PLAYER::PLAYER_PED_ID(), 0.0);",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

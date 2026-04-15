@@ -1,0 +1,19 @@
+{
+    "0xF41B5D290C99A3D6": {
+        "name": "IS_PED_BLUSH_TINT_FOR_CREATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_BLUSH_COLOR_VALID_2",
+            "_IS_PED_BLUSH_VALID_CREATOR_COLOR"
+        ]
+    }
+}

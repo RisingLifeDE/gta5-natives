@@ -1,0 +1,15 @@
+{
+    "0x0BD04E29640C9C12": {
+        "name": "IS_PED_IN_ANY_POLICE_VEHICLE",
+        "jhash": "0x84FA790D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

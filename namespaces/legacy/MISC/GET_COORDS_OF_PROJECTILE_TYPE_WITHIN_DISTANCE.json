@@ -1,0 +1,34 @@
+{
+    "0xDFB4138EEFED7B81": {
+        "name": "GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE",
+        "jhash": "0x6BDE5CE4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outCoords"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_PROJECTILE_NEAR_PED_COORDS"
+        ]
+    }
+}

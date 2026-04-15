@@ -1,0 +1,19 @@
+{
+    "0xA916396DF4154EE3": {
+        "name": "GET_VEHICLE_CAN_DEPLOY_PARACHUTE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_CAN_VEHICLE_PARACHUTE_BE_ACTIVATED",
+            "_GET_VEHICLE_CAN_ACTIVATE_PARACHUTE"
+        ]
+    }
+}

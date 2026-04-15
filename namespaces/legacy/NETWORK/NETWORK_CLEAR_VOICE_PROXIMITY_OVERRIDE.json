@@ -1,0 +1,10 @@
+{
+    "0xF03755696450470C": {
+        "name": "NETWORK_CLEAR_VOICE_PROXIMITY_OVERRIDE",
+        "jhash": "0x7F9B9052",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

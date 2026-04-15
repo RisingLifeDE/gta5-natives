@@ -1,0 +1,55 @@
+{
+    "0xADCDE75E1C60F32D": {
+        "name": "IS_POSITION_OCCUPIED",
+        "jhash": "0x452E8D9E",
+        "comment": "`range`: The range, seems to not be very accurate during testing.\n`p4`: Unknown, when set to true it seems to always return true no matter what I try.\n`checkVehicle`: Check for any vehicles in that area.\n`checkPeds`: Check for any peds in that area.\n`ignoreEntity`: This entity will be ignored if it's in the area. Set to 0 if you don't want to exclude any entities.\nThe BOOL parameters that are documented have not been confirmed. They are just documented from what I've found during testing. They may not work as expected in all cases.\n\nReturns true if there is anything in that location matching the provided parameters.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "checkVehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "checkPeds"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "Entity",
+                "name": "ignoreEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

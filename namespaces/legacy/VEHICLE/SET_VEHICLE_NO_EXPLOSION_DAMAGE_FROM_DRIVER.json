@@ -1,0 +1,19 @@
+{
+    "0x5E569EC46EC21CAE": {
+        "name": "SET_VEHICLE_NO_EXPLOSION_DAMAGE_FROM_DRIVER",
+        "jhash": "0xBC649C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

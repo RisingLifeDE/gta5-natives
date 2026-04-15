@@ -1,0 +1,18 @@
+{
+    "0x4F38DCA127DAAEA2": {
+        "name": "SHOW_SCRIPTED_HUD_COMPONENT_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_SHOW_SCRIPTED_HUD_COMPONENT_THIS_FRAME"
+        ]
+    }
+}

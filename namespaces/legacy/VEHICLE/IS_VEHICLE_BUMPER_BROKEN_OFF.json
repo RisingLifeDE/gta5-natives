@@ -1,0 +1,19 @@
+{
+    "0x468056A6BB6F3846": {
+        "name": "IS_VEHICLE_BUMPER_BROKEN_OFF",
+        "jhash": "0xAF25C027",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "frontBumper"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

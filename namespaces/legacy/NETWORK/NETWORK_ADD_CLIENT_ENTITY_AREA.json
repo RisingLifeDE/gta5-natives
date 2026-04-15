@@ -1,0 +1,38 @@
+{
+    "0x25B99872D588A101": {
+        "name": "NETWORK_ADD_CLIENT_ENTITY_AREA",
+        "jhash": "0x4C2C2B12",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "NETWORK_ADD_ENTITY_DISPLAYED_BOUNDARIES"
+        ]
+    }
+}

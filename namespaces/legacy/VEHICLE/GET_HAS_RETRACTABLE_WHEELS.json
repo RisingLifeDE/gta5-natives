@@ -1,0 +1,20 @@
+{
+    "0xDCA174A42133F08C": {
+        "name": "GET_HAS_RETRACTABLE_WHEELS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_GET_HAS_LOWERABLE_WHEELS",
+            "_DOES_VEHICLE_HAVE_RETRACTABLE_WHEELS",
+            "_GET_HAS_RETRACTABLE_WHEELS"
+        ]
+    }
+}

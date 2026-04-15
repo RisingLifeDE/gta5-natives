@@ -1,0 +1,19 @@
+{
+    "0xD5002D78B7162E1B": {
+        "name": "ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES",
+        "jhash": "0x01CAAFCC",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "route"
+            },
+            {
+                "type": "int",
+                "name": "props"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xCF3A965906452031": {
+        "name": "GET_NUM_RESERVED_MISSION_VEHICLES",
+        "jhash": "0xA9A308F3",
+        "comment": "p0 appears to be for MP",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

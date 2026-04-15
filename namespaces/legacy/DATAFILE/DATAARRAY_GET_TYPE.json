@@ -1,0 +1,22 @@
+{
+    "0x3A0014ADB172A3C5": {
+        "name": "DATAARRAY_GET_TYPE",
+        "jhash": "0xFA2402C8",
+        "comment": "Types:\n1 = Boolean\n2 = Integer\n3 = Float\n4 = String\n5 = Vector3\n6 = Object\n7 = Array",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_GET_TYPE"
+        ]
+    }
+}

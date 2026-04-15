@@ -1,0 +1,15 @@
+{
+    "0x15B8ECF844EE67ED": {
+        "name": "DOES_PED_HAVE_AI_BLIP",
+        "jhash": "0x3BE1257F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

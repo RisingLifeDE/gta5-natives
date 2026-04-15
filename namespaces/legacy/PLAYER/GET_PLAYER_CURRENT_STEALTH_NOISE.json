@@ -1,0 +1,15 @@
+{
+    "0x2F395D61F3A1F877": {
+        "name": "GET_PLAYER_CURRENT_STEALTH_NOISE",
+        "jhash": "0xC3B02362",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

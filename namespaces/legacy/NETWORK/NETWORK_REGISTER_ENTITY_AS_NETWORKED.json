@@ -1,0 +1,15 @@
+{
+    "0x06FAACD625D80CAA": {
+        "name": "NETWORK_REGISTER_ENTITY_AS_NETWORKED",
+        "jhash": "0x31A630A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

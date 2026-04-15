@@ -1,0 +1,19 @@
+{
+    "0xC8535819C450EBA8": {
+        "name": "DISABLE_HOSPITAL_RESTART",
+        "jhash": "0x09F49C72",
+        "comment": "The game by default has 5 hospital respawn points. Disabling them all will cause the player to respawn at the last position they were.",
+        "params": [
+            {
+                "type": "int",
+                "name": "hospitalIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

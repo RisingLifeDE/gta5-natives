@@ -1,0 +1,13 @@
+{
+    "0x18C1270EA7F199BC": {
+        "name": "GET_NO_LOADING_SCREEN",
+        "jhash": "0x27512BA0",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_NO_LOADING_SCREEN"
+        ]
+    }
+}

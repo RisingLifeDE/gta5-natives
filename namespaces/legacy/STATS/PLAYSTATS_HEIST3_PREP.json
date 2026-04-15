@@ -1,0 +1,18 @@
+{
+    "0x53C31853EC9531FF": {
+        "name": "PLAYSTATS_HEIST3_PREP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_PLAYSTATS_HEIST3_PREP"
+        ]
+    }
+}

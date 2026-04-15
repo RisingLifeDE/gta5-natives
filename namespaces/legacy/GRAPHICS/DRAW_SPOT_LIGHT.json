@@ -1,0 +1,67 @@
+{
+    "0xD0F64B265C8C8B33": {
+        "name": "DRAW_SPOT_LIGHT",
+        "jhash": "0xBDBC410C",
+        "comment": "Parameters:\n* pos - coordinate where the spotlight is located\n* dir - the direction vector the spotlight should aim at from its current position\n* r,g,b - color of the spotlight\n* distance - the maximum distance the light can reach\n* brightness - the brightness of the light\n* roundness - \"smoothness\" of the circle edge\n* radius - the radius size of the spotlight\n* falloff - the falloff size of the light's edge (example: www.i.imgur.com/DemAWeO.jpg)\n\nExample in C# (spotlight aims at the closest vehicle):\nVector3 myPos = Game.Player.Character.Position;\nVehicle nearest = World.GetClosestVehicle(myPos , 1000f);\nVector3 destinationCoords = nearest.Position;\nVector3 dirVector = destinationCoords - myPos;\ndirVector.Normalize();\nFunction.Call(Hash.DRAW_SPOT_LIGHT, pos.X, pos.Y, pos.Z, dirVector.X, dirVector.Y, dirVector.Z, 255, 255, 255, 100.0f, 1f, 0.0f, 13.0f, 1f);",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "int",
+                "name": "colorR"
+            },
+            {
+                "type": "int",
+                "name": "colorG"
+            },
+            {
+                "type": "int",
+                "name": "colorB"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "float",
+                "name": "brightness"
+            },
+            {
+                "type": "float",
+                "name": "hardness"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "falloff"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x386F6CE5BAF6091C": {
+        "name": "GET_RANDOM_VEHICLE_IN_SPHERE",
+        "jhash": "0x57216D03",
+        "comment": "Gets a random vehicle in a sphere at the specified position, of the specified radius.\n\nx: The X-component of the position of the sphere.\ny: The Y-component of the position of the sphere.\nz: The Z-component of the position of the sphere.\nradius: The radius of the sphere. Max is 9999.9004.\nmodelHash: The vehicle model to limit the selection to. Pass 0 for any model.\nflags: The bitwise flags that modifies the behaviour of this function.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

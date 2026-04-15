@@ -1,0 +1,19 @@
+{
+    "0x49733E92263139D1": {
+        "name": "SET_VEHICLE_ON_GROUND_PROPERLY",
+        "jhash": "0xE14FDBA6",
+        "comment": "Sets a vehicle on the ground on all wheels.  Returns whether or not the operation was successful.\n\nsfink: This has an additional param(Vehicle vehicle, float p1) which is always set to 5.0f in the b944 scripts.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x3658E8CD94FC121A": {
+        "name": "NETWORK_GET_NUM_SCRIPT_PARTICIPANTS",
+        "jhash": "0x8F7D9F46",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "instance_id"
+            },
+            {
+                "type": "int",
+                "name": "position_hash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

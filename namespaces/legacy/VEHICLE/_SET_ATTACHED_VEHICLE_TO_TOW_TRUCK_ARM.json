@@ -1,0 +1,19 @@
+{
+    "0x48BD57D0DD17786A": {
+        "name": "_SET_ATTACHED_VEHICLE_TO_TOW_TRUCK_ARM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "towTruck"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA3B0C41BA5CC0BB5": {
+        "name": "STOP_SOUND",
+        "jhash": "0xCD7F4030",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

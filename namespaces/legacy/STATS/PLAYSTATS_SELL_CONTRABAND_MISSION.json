@@ -1,0 +1,18 @@
+{
+    "0xC729991A9065376E": {
+        "name": "PLAYSTATS_SELL_CONTRABAND_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "757",
+        "old_names": [
+            "_PLAYSTATS_SELL_CONTRABAND"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x82ACC484FFA3B05F": {
+        "name": "ABORT_VEHICLE_CREW_EMBLEM_REQUEST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "372"
+    }
+}

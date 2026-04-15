@@ -1,0 +1,18 @@
+{
+    "0xBFAFDB5FAAA5C5AB": {
+        "name": "PLAYSTATS_FM_EVENT_VEHICLETARGET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_PLAYSTATS_FREEMODE_VEHICLE_TARGET"
+        ]
+    }
+}

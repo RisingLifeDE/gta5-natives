@@ -1,0 +1,23 @@
+{
+    "0xD8D19675ED5FBDCE": {
+        "name": "CLEAR_PED_ALTERNATE_MOVEMENT_ANIM",
+        "jhash": "0x7A7F5BC3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "stance"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

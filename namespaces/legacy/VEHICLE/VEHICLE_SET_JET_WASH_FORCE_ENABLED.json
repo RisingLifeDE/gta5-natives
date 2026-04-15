@@ -1,0 +1,15 @@
+{
+    "0x9D30687C57BAA0BB": {
+        "name": "VEHICLE_SET_JET_WASH_FORCE_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

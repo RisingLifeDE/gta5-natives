@@ -1,0 +1,22 @@
+{
+    "0x0E1E2FF3F4EC11AA": {
+        "name": "NETWORK_EARN_SELL_BASE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "baseNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_SELL_BASE"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "0x87D51D72255D4E78": {
+        "name": "DRAW_SCALEFORM_MOVIE_3D",
+        "jhash": "0xC4F63A89",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleform"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

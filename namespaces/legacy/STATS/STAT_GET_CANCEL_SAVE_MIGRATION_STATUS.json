@@ -1,0 +1,13 @@
+{
+    "0x567384DFA67029E6": {
+        "name": "STAT_GET_CANCEL_SAVE_MIGRATION_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_STAT_GET_CANCEL_SAVE_MIGRATION_STATUS"
+        ]
+    }
+}

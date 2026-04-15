@@ -1,0 +1,15 @@
+{
+    "0x2F794A877ADD4C92": {
+        "name": "STOP_ALL_ALARMS",
+        "jhash": "0xC3CB9DC6",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "stop"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "0x6FA46612594F7973": {
+        "name": "TASK_LOOK_AT_COORD",
+        "jhash": "0x7B784DD8",
+        "comment": "enum eScriptLookatFlags\n{\n\tSLF_SLOW_TURN_RATE            = 1,    // turn the head toward the target slowly\n\tSLF_FAST_TURN_RATE            = 2,    // turn the head toward the target quickly\n\tSLF_EXTEND_YAW_LIMIT        = 4,    // wide yaw head limits\n\tSLF_EXTEND_PITCH_LIMIT        = 8,    // wide pitch head limit\n\tSLF_WIDEST_YAW_LIMIT        = 16,   // widest yaw head limit\n\tSLF_WIDEST_PITCH_LIMIT        = 32,   // widest pitch head limit\n\tSLF_NARROW_YAW_LIMIT        = 64,   // narrow yaw head limits\n\tSLF_NARROW_PITCH_LIMIT        = 128,  // narrow pitch head limit\n\tSLF_NARROWEST_YAW_LIMIT        = 256,  // narrowest yaw head limit\n\tSLF_NARROWEST_PITCH_LIMIT    = 512,  // narrowest pitch head limit\n\tSLF_USE_TORSO                = 1024, // use the torso aswell as the neck and head (currently disabled)\n\tSLF_WHILE_NOT_IN_FOV        = 2048, // keep tracking the target even if they are not in the hard coded FOV\n\tSLF_USE_CAMERA_FOCUS        = 4096, // use the camera as the target\n\tSLF_USE_EYES_ONLY            = 8192, // only track the target with the eyes  \n\tSLF_USE_LOOK_DIR            = 16384, // use information in look dir DOF\n\tSLF_FROM_SCRIPT                = 32768, // internal use only\n\tSLF_USE_REF_DIR_ABSOLUTE    = 65536  // use absolute reference direction mode for solver\n};",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

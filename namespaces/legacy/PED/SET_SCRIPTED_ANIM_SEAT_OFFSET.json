@@ -1,0 +1,19 @@
+{
+    "0x5917BBA32D06C230": {
+        "name": "SET_SCRIPTED_ANIM_SEAT_OFFSET",
+        "jhash": "0x7CEFFA45",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

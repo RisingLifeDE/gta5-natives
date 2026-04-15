@@ -1,0 +1,15 @@
+{
+    "0x953DA1E1B12C0491": {
+        "name": "SET_VEHICLE_DEFORMATION_FIXED",
+        "jhash": "0xDD2920C8",
+        "comment": "This fixes the deformation of a vehicle but the vehicle health doesn't improve",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x3EE18B00CD86C54F": {
+        "name": "_GET_VEHICLE_MAX_EXHAUST_BONE_COUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "3095"
+    }
+}

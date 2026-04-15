@@ -1,0 +1,22 @@
+{
+    "0x69C922B677621428": {
+        "name": "PLAYSTATS_CARCLUB_PRIZE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_PLAYSTATS_CARCLUB_PRIZE"
+        ]
+    }
+}

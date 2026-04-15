@@ -1,0 +1,10 @@
+{
+    "0xD0A484CB2F829FBE": {
+        "name": "NETWORK_IS_TRANSITION_VISIBILITY_LOCKED",
+        "jhash": "0xF637166E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x6B24BFE83A2BE47B": {
+        "name": "IS_CAM_SHAKING",
+        "jhash": "0x0961FD9B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

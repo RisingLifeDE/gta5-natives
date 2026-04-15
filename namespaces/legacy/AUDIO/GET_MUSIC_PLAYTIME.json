@@ -1,0 +1,10 @@
+{
+    "0xE7A0D23DC414507B": {
+        "name": "GET_MUSIC_PLAYTIME",
+        "jhash": "0xD633C809",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0xB7257BA2550EA10A": {
+        "name": "PLAYSTATS_COPY_RANK_INTO_NEW_SLOT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_PLAYSTATS_COPY_RANK_INTO_NEW_SLOT"
+        ]
+    }
+}

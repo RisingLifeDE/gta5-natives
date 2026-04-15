@@ -1,0 +1,22 @@
+{
+    "0x35A1B3E1D1315CFA": {
+        "name": "NET_GAMESERVER_START_SESSION_RESTART",
+        "jhash": "",
+        "comment": "Note: only one of the arguments can be set to true at a time",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "inventory"
+            },
+            {
+                "type": "BOOL",
+                "name": "playerbalance"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_UPDATE_BALANCE"
+        ]
+    }
+}

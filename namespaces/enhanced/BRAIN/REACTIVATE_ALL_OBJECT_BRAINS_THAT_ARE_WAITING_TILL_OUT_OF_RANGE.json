@@ -1,0 +1,13 @@
+{
+    "0x4D953DF78EBF8158": {
+        "name": "REACTIVATE_ALL_OBJECT_BRAINS_THAT_ARE_WAITING_TILL_OUT_OF_RANGE",
+        "jhash": "0xF3A3AB08",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PREPARE_SCRIPT_BRAIN"
+        ]
+    }
+}

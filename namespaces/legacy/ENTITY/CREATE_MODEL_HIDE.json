@@ -1,0 +1,35 @@
+{
+    "0x8A97BCA30A0CE478": {
+        "name": "CREATE_MODEL_HIDE",
+        "jhash": "0x7BD5CF2F",
+        "comment": "p5 = sets as true in scripts\nSame as the comment for CREATE_MODEL_SWAP unless for some reason p5 affects it this only works with objects as well.\n\nNetwork players do not see changes done with this.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

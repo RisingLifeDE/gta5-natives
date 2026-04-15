@@ -1,0 +1,19 @@
+{
+    "0xAA6A47A573ABB75A": {
+        "name": "NETWORK_ACCESS_TUNABLE_BOOL",
+        "jhash": "0x8A04E1FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "const char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

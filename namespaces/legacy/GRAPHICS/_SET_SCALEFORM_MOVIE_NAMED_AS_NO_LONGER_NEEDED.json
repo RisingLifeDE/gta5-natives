@@ -1,0 +1,19 @@
+{
+    "0x2FDFB1B04C76E9C3": {
+        "name": "_SET_SCALEFORM_MOVIE_NAMED_AS_NO_LONGER_NEEDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xD79DEEFB53455EBA": {
+        "name": "STOP_SCRIPTED_CONVERSATION",
+        "jhash": "0xAB77DA7D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

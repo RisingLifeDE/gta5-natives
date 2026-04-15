@@ -1,0 +1,10 @@
+{
+    "0xBD545D44CCE70597": {
+        "name": "NETWORK_IS_NP_AVAILABLE",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

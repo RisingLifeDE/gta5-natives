@@ -1,0 +1,10 @@
+{
+    "0x58F735290861E6B4": {
+        "name": "PUSH_TIMECYCLE_MODIFIER",
+        "jhash": "0x7E082045",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

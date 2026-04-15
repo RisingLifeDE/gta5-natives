@@ -1,0 +1,15 @@
+{
+    "0x6806C51AD12B83B8": {
+        "name": "HIDE_HUD_COMPONENT_THIS_FRAME",
+        "jhash": "0xDB2D0762",
+        "comment": "This function hides various HUD (Heads-up Display) components.\nListed below are the integers and the corresponding HUD component.\n- 1 : WANTED_STARS\n- 2 : WEAPON_ICON\n- 3 : CASH\n- 4 : MP_CASH\n- 5 : MP_MESSAGE\n- 6 : VEHICLE_NAME\n- 7 : AREA_NAME\n- 8 : VEHICLE_CLASS\n- 9 : STREET_NAME\n- 10 : HELP_TEXT\n- 11 : FLOATING_HELP_TEXT_1\n- 12 : FLOATING_HELP_TEXT_2\n- 13 : CASH_CHANGE\n- 14 : RETICLE\n- 15 : SUBTITLE_TEXT\n- 16 : RADIO_STATIONS\n- 17 : SAVING_GAME\n- 18 : GAME_STREAM\n- 19 : WEAPON_WHEEL\n- 20 : WEAPON_WHEEL_STATS\n- 21 : HUD_COMPONENTS\n- 22 : HUD_WEAPONS\n\nThese integers also work for the `SHOW_HUD_COMPONENT_THIS_FRAME` native, but instead shows the HUD Component.",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

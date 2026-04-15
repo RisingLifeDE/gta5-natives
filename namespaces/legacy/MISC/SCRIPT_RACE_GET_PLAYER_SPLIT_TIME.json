@@ -1,0 +1,23 @@
+{
+    "0x8EF5573A1F801A5C": {
+        "name": "SCRIPT_RACE_GET_PLAYER_SPLIT_TIME",
+        "jhash": "0x07FF553F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

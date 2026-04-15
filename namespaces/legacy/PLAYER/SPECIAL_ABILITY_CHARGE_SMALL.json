@@ -1,0 +1,27 @@
+{
+    "0x2E7B9B683481687D": {
+        "name": "SPECIAL_ABILITY_CHARGE_SMALL",
+        "jhash": "0x6F463F56",
+        "comment": "Every occurrence of p1 & p2 were both true.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

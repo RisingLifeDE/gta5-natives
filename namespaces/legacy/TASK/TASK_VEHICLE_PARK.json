@@ -1,0 +1,47 @@
+{
+    "0x0F3E34E968EA374E": {
+        "name": "TASK_VEHICLE_PARK",
+        "jhash": "0x5C85FF90",
+        "comment": "Modes:\n0 - ignore heading\n1 - park forward\n2 - park backwards\n\nDepending on the angle of approach, the vehicle can park at the specified heading or at its exact opposite (-180) angle.\n\nRadius seems to define how close the vehicle has to be -after parking- to the position for this task considered completed. If the value is too small, the vehicle will try to park again until it's exactly where it should be. 20.0 Works well but lower values don't, like the radius is measured in centimeters or something.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "keepEngineOn"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

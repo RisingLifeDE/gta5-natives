@@ -1,0 +1,15 @@
+{
+    "0x8EDC335C943465C8": {
+        "name": "IS_HUD_COMPONENT_HIDDEN_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3717"
+    }
+}

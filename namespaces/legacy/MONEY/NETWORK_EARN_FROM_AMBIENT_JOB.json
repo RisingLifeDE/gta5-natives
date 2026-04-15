@@ -1,0 +1,26 @@
+{
+    "0xFB6DB092FBAE29E6": {
+        "name": "NETWORK_EARN_FROM_AMBIENT_JOB",
+        "jhash": "0xA14CC95D",
+        "comment": "Example for p1: \"AM_DISTRACT_COPS\"",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_EARN_FROM_AMBIENT_JOB"
+        ]
+    }
+}

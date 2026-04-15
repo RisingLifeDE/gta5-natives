@@ -1,0 +1,27 @@
+{
+    "0x6483C25849031C4F": {
+        "name": "PRESENCE_EVENT_UPDATESTAT_INT_WITH_STRING",
+        "jhash": "0x2FFD2FA5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

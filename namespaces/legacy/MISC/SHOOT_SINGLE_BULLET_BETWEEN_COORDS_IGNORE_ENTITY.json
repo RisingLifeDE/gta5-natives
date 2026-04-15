@@ -1,0 +1,74 @@
+{
+    "0xE3A7742E0B7A2F8B": {
+        "name": "SHOOT_SINGLE_BULLET_BETWEEN_COORDS_IGNORE_ENTITY",
+        "jhash": "0x52ACCB7B",
+        "comment": "entity - entity to ignore",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "damage"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ownerPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p14"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOOT_SINGLE_BULLET_BETWEEN_COORDS_PRESET_PARAMS"
+        ]
+    }
+}

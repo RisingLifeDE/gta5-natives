@@ -1,0 +1,15 @@
+{
+    "0x9FA4664CF62E47E8": {
+        "name": "RESET_PED_RAGDOLL_TIMER",
+        "jhash": "0xF2865370",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

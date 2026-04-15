@@ -1,0 +1,31 @@
+{
+    "0x678BB03C1A3BD51E": {
+        "name": "UGC_GET_GET_BY_CATEGORY",
+        "jhash": "0x67E74842",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

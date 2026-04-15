@@ -1,0 +1,18 @@
+{
+    "0x049F059625058A86": {
+        "name": "PLAYSTATS_CASINO_INSIDE_TRACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_CASINO_INSIDETRACK"
+        ]
+    }
+}

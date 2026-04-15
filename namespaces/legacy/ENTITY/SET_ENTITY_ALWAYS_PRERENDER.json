@@ -1,0 +1,19 @@
+{
+    "0xACAD101E1FB66689": {
+        "name": "SET_ENTITY_ALWAYS_PRERENDER",
+        "jhash": "0xD8FF798A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

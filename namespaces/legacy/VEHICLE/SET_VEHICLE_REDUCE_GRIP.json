@@ -1,0 +1,19 @@
+{
+    "0x222FF6A823D122E2": {
+        "name": "SET_VEHICLE_REDUCE_GRIP",
+        "jhash": "0x90D3A0D9",
+        "comment": "Reduces grip significantly so it's hard to go anywhere.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

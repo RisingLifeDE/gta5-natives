@@ -1,0 +1,15 @@
+{
+    "0x0C698D8F099174C7": {
+        "name": "USE_VEHICLE_TARGETING_RETICULE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

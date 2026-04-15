@@ -1,0 +1,15 @@
+{
+    "0x2763BBAA72A7BCB9": {
+        "name": "NETWORK_IS_ACTIVITY_SPECTATOR_FROM_HANDLE",
+        "jhash": "0x58F1DF7D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

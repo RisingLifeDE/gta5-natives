@@ -1,0 +1,15 @@
+{
+    "0x8D9DF6ECA8768583": {
+        "name": "SET_SCRIPT_CAN_START_CUTSCENE",
+        "jhash": "0x25A2CABC",
+        "comment": "Sets the cutscene's owning thread ID.",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

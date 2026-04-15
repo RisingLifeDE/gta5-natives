@@ -1,0 +1,23 @@
+{
+    "0xC1E8A365BF3B29F2": {
+        "name": "SET_PED_RESET_FLAG",
+        "jhash": "0xCFF6FF66",
+        "comment": "PED::SET_PED_RESET_FLAG(PLAYER::PLAYER_PED_ID(), 240, 1);\nKnown values:\nPRF_PreventGoingIntoStillInVehicleState = 236 *(fanatic2.c)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "doReset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

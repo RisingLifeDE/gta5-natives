@@ -1,0 +1,19 @@
+{
+    "0xEA61CA8E80F09E4D": {
+        "name": "GET_ROPE_VERTEX_COORD",
+        "jhash": "0x84374452",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "vertex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

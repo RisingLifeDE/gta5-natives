@@ -1,0 +1,15 @@
+{
+    "0x367EF5E2F439B4C6": {
+        "name": "NETWORK_SET_PLAYER_MENTAL_STATE",
+        "jhash": "0x53C9563C",
+        "comment": "p0 in the decompiled scripts is always the stat mesh_texblend * 0.07 to int",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

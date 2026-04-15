@@ -1,0 +1,15 @@
+{
+    "0xC2AB6BFE34E92F8B": {
+        "name": "LOAD_ALL_PATH_NODES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "set"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2802"
+    }
+}

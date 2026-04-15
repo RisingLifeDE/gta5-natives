@@ -1,0 +1,19 @@
+{
+    "0xBA7148484BD90365": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING",
+        "jhash": "0x4DAAD55B",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_STRING",
+            "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_STRING"
+        ]
+    }
+}

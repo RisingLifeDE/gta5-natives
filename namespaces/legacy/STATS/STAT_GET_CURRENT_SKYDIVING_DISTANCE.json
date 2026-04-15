@@ -1,0 +1,13 @@
+{
+    "0xAFF47709F1D5DCCE": {
+        "name": "STAT_GET_CURRENT_SKYDIVING_DISTANCE",
+        "jhash": "",
+        "comment": "Fall the longest distance with a parachute before opening it",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_LONGEST_FREEFALL"
+        ]
+    }
+}

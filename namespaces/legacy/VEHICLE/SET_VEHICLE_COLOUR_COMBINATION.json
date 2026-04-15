@@ -1,0 +1,19 @@
+{
+    "0x33E8CD3322E2FE31": {
+        "name": "SET_VEHICLE_COLOUR_COMBINATION",
+        "jhash": "0xA557AEAD",
+        "comment": "Sets the selected vehicle's colors to the specified index of the color combination found in the vehicle's carvariations.meta entry.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "colorCombination"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

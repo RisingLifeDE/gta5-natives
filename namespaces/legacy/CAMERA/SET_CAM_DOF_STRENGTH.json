@@ -1,0 +1,19 @@
+{
+    "0x5EE29B4D7D5DF897": {
+        "name": "SET_CAM_DOF_STRENGTH",
+        "jhash": "0x3CC4EB3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "dofStrength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x609278246A29CA34": {
+        "name": "ADD_CAM_SPLINE_NODE_USING_GAMEPLAY_FRAME",
+        "jhash": "0xB4737F03",
+        "comment": "p2 is always 2 in scripts. It might be smoothing style or rotation order.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

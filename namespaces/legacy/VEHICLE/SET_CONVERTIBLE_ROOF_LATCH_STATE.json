@@ -1,0 +1,19 @@
+{
+    "0x1A78AD3D8240536F": {
+        "name": "SET_CONVERTIBLE_ROOF_LATCH_STATE",
+        "jhash": "0x0858678C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "0x648E7A5434AF7969": {
+        "name": "UGC_UPDATE_CONTENT",
+        "jhash": "0x459F2683",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataCount"
+            },
+            {
+                "type": "const char*",
+                "name": "contentName"
+            },
+            {
+                "type": "const char*",
+                "name": "description"
+            },
+            {
+                "type": "const char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

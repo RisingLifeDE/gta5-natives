@@ -1,0 +1,10 @@
+{
+    "0xDDDF64C91BFCF0AA": {
+        "name": "NETWORK_IS_FINDING_GAMERS",
+        "jhash": "0xA6DAA79F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

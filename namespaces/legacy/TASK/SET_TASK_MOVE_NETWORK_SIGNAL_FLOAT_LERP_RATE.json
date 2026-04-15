@@ -1,0 +1,23 @@
+{
+    "0x8634CEF2522D987B": {
+        "name": "SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT_LERP_RATE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493"
+    }
+}

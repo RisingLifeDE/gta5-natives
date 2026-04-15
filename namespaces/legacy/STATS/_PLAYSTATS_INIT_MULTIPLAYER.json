@@ -1,0 +1,23 @@
+{
+    "0x7E5EED10B11CEDBA": {
+        "name": "_PLAYSTATS_INIT_MULTIPLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

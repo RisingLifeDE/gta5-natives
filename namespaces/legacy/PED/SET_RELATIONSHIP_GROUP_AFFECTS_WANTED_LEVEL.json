@@ -1,0 +1,22 @@
+{
+    "0x5615E0C5EB2BC6E2": {
+        "name": "SET_RELATIONSHIP_GROUP_AFFECTS_WANTED_LEVEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "group"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_RELATIONSHIP_GROUP_DONT_AFFECT_WANTED_LEVEL"
+        ]
+    }
+}

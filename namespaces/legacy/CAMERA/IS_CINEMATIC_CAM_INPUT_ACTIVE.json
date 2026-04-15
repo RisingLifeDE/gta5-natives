@@ -1,0 +1,13 @@
+{
+    "0xF5F1E89A970B7796": {
+        "name": "IS_CINEMATIC_CAM_INPUT_ACTIVE",
+        "jhash": "0x1A900C84",
+        "comment": "Tests some cinematic camera flags",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1493",
+        "old_names": [
+            "_IS_CINEMATIC_CAM_ACTIVE"
+        ]
+    }
+}

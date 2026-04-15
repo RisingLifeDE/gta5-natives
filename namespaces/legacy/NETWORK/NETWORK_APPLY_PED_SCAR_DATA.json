@@ -1,0 +1,19 @@
+{
+    "0xE66C690248F11150": {
+        "name": "NETWORK_APPLY_PED_SCAR_DATA",
+        "jhash": "0x4818ACD0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

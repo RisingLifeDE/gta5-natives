@@ -1,0 +1,15 @@
+{
+    "0xA4E8E696C532FBC7": {
+        "name": "CREATE_MOBILE_PHONE",
+        "jhash": "0x5BBC5E23",
+        "comment": "Creates a mobile phone of the specified type.\n\nPossible phone types:\n\n0 - Default phone / Michael's phone\n1 - Trevor's phone\n2 - Franklin's phone\n3 - Unused police phone\n4 - Prologue phone\n\nHigher values may crash your game.",
+        "params": [
+            {
+                "type": "int",
+                "name": "phoneType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

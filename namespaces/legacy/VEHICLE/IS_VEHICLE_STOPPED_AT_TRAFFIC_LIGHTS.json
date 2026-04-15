@@ -1,0 +1,15 @@
+{
+    "0x2959F696AE390A99": {
+        "name": "IS_VEHICLE_STOPPED_AT_TRAFFIC_LIGHTS",
+        "jhash": "0x69200FA4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x4AACB96203D11A31": {
+        "name": "CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED",
+        "jhash": "0x7E3BFBC5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

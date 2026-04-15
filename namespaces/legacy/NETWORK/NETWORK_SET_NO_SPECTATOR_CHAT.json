@@ -1,0 +1,15 @@
+{
+    "0xF46A1E03E8755980": {
+        "name": "NETWORK_SET_NO_SPECTATOR_CHAT",
+        "jhash": "0xD33AFF79",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xED34C0C02C098BB7": {
+        "name": "NETWORK_SESSION_HOST_CLOSED",
+        "jhash": "0x8AC9EA19",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

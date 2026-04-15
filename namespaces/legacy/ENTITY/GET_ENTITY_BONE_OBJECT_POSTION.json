@@ -1,0 +1,19 @@
+{
+    "0xCF1247CC86961FD6": {
+        "name": "GET_ENTITY_BONE_OBJECT_POSTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "2802"
+    }
+}

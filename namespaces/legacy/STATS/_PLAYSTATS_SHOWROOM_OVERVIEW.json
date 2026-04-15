@@ -1,0 +1,15 @@
+{
+    "0x151D6C04C9E2742F": {
+        "name": "_PLAYSTATS_SHOWROOM_OVERVIEW",
+        "jhash": "",
+        "comment": "Data struct contains various tunables related to test drives at Simeons Showroom or Luxury Showcase.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

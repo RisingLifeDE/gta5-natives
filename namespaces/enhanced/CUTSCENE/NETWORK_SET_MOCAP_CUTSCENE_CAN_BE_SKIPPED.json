@@ -1,0 +1,15 @@
+{
+    "0x2F137B508DE238F2": {
+        "name": "NETWORK_SET_MOCAP_CUTSCENE_CAN_BE_SKIPPED",
+        "jhash": "0x8338DA1D",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x4D1CB8DC40208A17": {
+        "name": "GET_WEAPON_COMPONENT_VARIANT_EXTRA_MODEL",
+        "jhash": "",
+        "comment": "Returns the model hash of the extra component at specified index.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "extraComponentIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "372",
+        "old_names": [
+            "_GET_WEAPON_COMPONENT_VARIANT_EXTRA_COMPONENT_MODEL"
+        ]
+    }
+}

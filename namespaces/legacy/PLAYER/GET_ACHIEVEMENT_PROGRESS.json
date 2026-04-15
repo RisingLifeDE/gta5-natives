@@ -1,0 +1,19 @@
+{
+    "0x1C186837D0619335": {
+        "name": "GET_ACHIEVEMENT_PROGRESS",
+        "jhash": "",
+        "comment": "For Steam.\nAlways returns 0 in retail version of the game.",
+        "params": [
+            {
+                "type": "int",
+                "name": "achievementId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_ACHIEVEMENT_PROGRESSION",
+            "_GET_ACHIEVEMENT_PROGRESS"
+        ]
+    }
+}

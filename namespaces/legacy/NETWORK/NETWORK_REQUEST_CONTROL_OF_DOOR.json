@@ -1,0 +1,15 @@
+{
+    "0x870DDFD5A4A796E4": {
+        "name": "NETWORK_REQUEST_CONTROL_OF_DOOR",
+        "jhash": "0xF60DAAF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "doorID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

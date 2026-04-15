@@ -1,0 +1,15 @@
+{
+    "0xCEDABC5900A0BF97": {
+        "name": "IS_PED_JUMPING",
+        "jhash": "0x07E5BC0E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

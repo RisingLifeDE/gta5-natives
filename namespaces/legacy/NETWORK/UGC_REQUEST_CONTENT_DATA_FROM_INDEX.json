@@ -1,0 +1,19 @@
+{
+    "0x171DF6A0C07FB3DC": {
+        "name": "UGC_REQUEST_CONTENT_DATA_FROM_INDEX",
+        "jhash": "0x84315226",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

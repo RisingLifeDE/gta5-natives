@@ -1,0 +1,22 @@
+{
+    "0xA6D3A8750DC73270": {
+        "name": "SET_VEHICLE_LIVERY2",
+        "jhash": "",
+        "comment": "Used to set the secondary livery (the roof on Tornado Custom being one such example.)\n\nLivery value is dependent on the amount of liveries present in the vehicle's texture dictionary, for Tornado Custom this would be 0-6.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "livery"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_VEHICLE_ROOF_LIVERY"
+        ]
+    }
+}

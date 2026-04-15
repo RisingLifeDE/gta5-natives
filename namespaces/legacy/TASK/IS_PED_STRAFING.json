@@ -1,0 +1,15 @@
+{
+    "0xE45B7F222DE47E09": {
+        "name": "IS_PED_STRAFING",
+        "jhash": "0xEFEED13C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

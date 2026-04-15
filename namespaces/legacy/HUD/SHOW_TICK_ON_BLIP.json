@@ -1,0 +1,22 @@
+{
+    "0x74513EA3E505181E": {
+        "name": "SHOW_TICK_ON_BLIP",
+        "jhash": "0x3DCF0092",
+        "comment": "Adds a green checkmark on top of a blip.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_BLIP_CHECKED"
+        ]
+    }
+}

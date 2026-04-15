@@ -1,0 +1,19 @@
+{
+    "0x29961D490E5814FD": {
+        "name": "SET_PLAYER_LOCKON_RANGE_OVERRIDE",
+        "jhash": "0x74D42C03",
+        "comment": "Affects the range of auto aim target.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

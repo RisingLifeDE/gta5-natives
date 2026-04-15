@@ -1,0 +1,15 @@
+{
+    "0x6D6840CEE8845831": {
+        "name": "REACTIVATE_NAMED_WORLD_BRAINS_WAITING_TILL_OUT_OF_RANGE",
+        "jhash": "0x949FE53E",
+        "comment": "Possible values:\n\nact_cinema\nam_mp_carwash_launch\nam_mp_carwash_control\nam_mp_property_ext\nchop\nfairgroundHub\nlauncher_BasejumpHeli\nlauncher_BasejumpPack\nlauncher_CarWash\nlauncher_golf\nlauncher_Hunting_Ambient\nlauncher_MrsPhilips\nlauncher_OffroadRacing\nlauncher_pilotschool\nlauncher_Racing\nlauncher_rampage\nlauncher_rampage\nlauncher_range\nlauncher_stunts\nlauncher_stunts\nlauncher_tennis\nlauncher_Tonya\nlauncher_Triathlon\nlauncher_Yoga\nob_mp_bed_low\nob_mp_bed_med",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

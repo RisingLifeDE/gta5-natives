@@ -1,0 +1,35 @@
+{
+    "0x5640BFF86B16E8DC": {
+        "name": "POINT_CAM_AT_ENTITY",
+        "jhash": "0x7597A0F7",
+        "comment": "p5 always seems to be 1 i.e TRUE",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

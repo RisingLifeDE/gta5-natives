@@ -1,0 +1,19 @@
+{
+    "0xEB7D0E1FCC8FE17A": {
+        "name": "_FORCE_VEHICLE_ENGINE_SYNTH",
+        "jhash": "",
+        "comment": "Called together with SET_VEHICLE_TYRES_CAN_BURST",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "force"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

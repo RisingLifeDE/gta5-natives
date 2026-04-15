@@ -1,0 +1,14 @@
+{
+    "0xA2716D40842EAF79": {
+        "name": "CLEAR_RESTART_COORD_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_NEXT_RESPAWN_TO_CUSTOM",
+            "_CLEAR_RESTART_CUSTOM_POSITION"
+        ]
+    }
+}

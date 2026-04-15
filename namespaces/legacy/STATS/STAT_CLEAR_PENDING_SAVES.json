@@ -1,0 +1,15 @@
+{
+    "0xA8733668D1047B51": {
+        "name": "STAT_CLEAR_PENDING_SAVES",
+        "jhash": "0x395D18B1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

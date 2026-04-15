@@ -1,0 +1,15 @@
+{
+    "0x53E8CB4F48BFE623": {
+        "name": "IS_PED_CLIMBING",
+        "jhash": "0xBCE03D35",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

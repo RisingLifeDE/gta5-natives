@@ -1,0 +1,26 @@
+{
+    "0xF3BBE884A14BB413": {
+        "name": "GET_CURR_WEATHER_STATE",
+        "jhash": "0x9A5C1D56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash*",
+                "name": "weatherType1"
+            },
+            {
+                "type": "Hash*",
+                "name": "weatherType2"
+            },
+            {
+                "type": "float*",
+                "name": "percentWeather2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_WEATHER_TYPE_TRANSITION"
+        ]
+    }
+}

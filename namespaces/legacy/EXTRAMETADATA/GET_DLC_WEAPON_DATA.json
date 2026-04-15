@@ -1,0 +1,19 @@
+{
+    "0x79923CD21BECE14E": {
+        "name": "GET_DLC_WEAPON_DATA",
+        "jhash": "0xD88EC8EA",
+        "comment": "\ndlcWeaponIndex takes a number from 0 - GET_NUM_DLC_WEAPONS() - 1.\nstruct DlcWeaponData\n{\nint emptyCheck; //use DLC1::IS_CONTENT_ITEM_LOCKED on this\nint padding1;\nint weaponHash;\nint padding2;\nint unk;\nint padding3;\nint weaponCost;\nint padding4;\nint ammoCost;\nint padding5;\nint ammoType;\nint padding6;\nint defaultClipSize;\nint padding7;\nchar nameLabel[64];\nchar descLabel[64];\nchar desc2Label[64]; // usually \"the\" + name\nchar upperCaseNameLabel[64];\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "dlcWeaponIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

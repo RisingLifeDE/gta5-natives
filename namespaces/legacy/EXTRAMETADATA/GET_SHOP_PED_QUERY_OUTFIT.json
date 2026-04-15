@@ -1,0 +1,19 @@
+{
+    "0x6D793F03A631FE56": {
+        "name": "GET_SHOP_PED_QUERY_OUTFIT",
+        "jhash": "0x2F8013A1",
+        "comment": "outfitIndex: from 0 to SETUP_SHOP_PED_OUTFIT_QUERY(characterIndex, false) - 1.\nSee https://git.io/JtcB8 for example and outfit struct.",
+        "params": [
+            {
+                "type": "int",
+                "name": "outfitIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outfit"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1BEDE233E6CD2A1F": {
+        "name": "GET_FIRST_BLIP_INFO_ID",
+        "jhash": "0x64C0273D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "blipSprite"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

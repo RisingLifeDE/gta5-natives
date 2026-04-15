@@ -1,0 +1,10 @@
+{
+    "0xC6E0E2616A7576BB": {
+        "name": "STAT_MIGRATE_CHECK_START",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

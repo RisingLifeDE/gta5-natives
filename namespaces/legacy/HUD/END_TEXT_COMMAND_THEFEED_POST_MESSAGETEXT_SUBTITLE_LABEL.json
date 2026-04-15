@@ -1,0 +1,40 @@
+{
+    "0xC6F580E4C94926AC": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_SUBTITLE_LABEL",
+        "jhash": "",
+        "comment": "This function can show pictures of every texture that can be requested by REQUEST_STREAMED_TEXTURE_DICT.\n\nNeeds more research.\n\nOnly one type of usage in the scripts:\n\nHUD::END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_SUBTITLE_LABEL(\"CHAR_ACTING_UP\", \"CHAR_ACTING_UP\", 0, 0, \"DI_FEED_CHAR\", a_0);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "txdName"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "flash"
+            },
+            {
+                "type": "int",
+                "name": "iconType"
+            },
+            {
+                "type": "const char*",
+                "name": "sender"
+            },
+            {
+                "type": "const char*",
+                "name": "subject"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_MESSAGE_3",
+            "_END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_ENTRY",
+            "_END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_GXT_ENTRY"
+        ]
+    }
+}

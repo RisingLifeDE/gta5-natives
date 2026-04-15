@@ -1,0 +1,23 @@
+{
+    "0x46F8696933A63C9B": {
+        "name": "GET_ENTITY_BONE_POSTION",
+        "jhash": "",
+        "comment": "Gets the world position of the specified bone of the specified entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "877",
+        "old_names": [
+            "_GET_WORLD_POSITION_OF_ENTITY_BONE_2",
+            "_GET_ENTITY_BONE_POSITION_2"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x11E65974A982637C": {
+        "name": "GET_DISABLED_CONTROL_NORMAL",
+        "jhash": "0x66FF4FAA",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

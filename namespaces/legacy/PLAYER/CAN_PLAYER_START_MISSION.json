@@ -1,0 +1,15 @@
+{
+    "0xDE7465A27D403C06": {
+        "name": "CAN_PLAYER_START_MISSION",
+        "jhash": "0x39E3CB3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

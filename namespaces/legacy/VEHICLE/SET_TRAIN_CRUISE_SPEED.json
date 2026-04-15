@@ -1,0 +1,19 @@
+{
+    "0x16469284DB8C62B5": {
+        "name": "SET_TRAIN_CRUISE_SPEED",
+        "jhash": "0xB507F51D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

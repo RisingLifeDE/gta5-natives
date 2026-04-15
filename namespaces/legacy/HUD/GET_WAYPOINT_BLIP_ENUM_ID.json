@@ -1,0 +1,13 @@
+{
+    "0x186E5D252FA50E7D": {
+        "name": "GET_WAYPOINT_BLIP_ENUM_ID",
+        "jhash": "0xB9827942",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_BLIP_INFO_ID_ITERATOR"
+        ]
+    }
+}

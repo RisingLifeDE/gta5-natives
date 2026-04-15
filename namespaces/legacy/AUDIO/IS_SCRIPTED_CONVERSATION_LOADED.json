@@ -1,0 +1,10 @@
+{
+    "0xDF0D54BE7A776737": {
+        "name": "IS_SCRIPTED_CONVERSATION_LOADED",
+        "jhash": "0xE1870EA9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

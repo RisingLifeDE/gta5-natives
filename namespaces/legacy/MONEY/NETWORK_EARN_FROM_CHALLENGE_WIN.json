@@ -1,0 +1,23 @@
+{
+    "0x2B171E6B2F64D8DF": {
+        "name": "NETWORK_EARN_FROM_CHALLENGE_WIN",
+        "jhash": "0x2BEFB6C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

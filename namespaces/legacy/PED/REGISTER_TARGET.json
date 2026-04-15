@@ -1,0 +1,19 @@
+{
+    "0x2F25D9AEFA34FBA2": {
+        "name": "REGISTER_TARGET",
+        "jhash": "0x50A95442",
+        "comment": "PED::REGISTER_TARGET(l_216, PLAYER::PLAYER_PED_ID()); from re_prisonbreak.txt.\n\nl_216 = RECSBRobber1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

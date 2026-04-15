@@ -1,0 +1,18 @@
+{
+    "0x4198AB0022B15F87": {
+        "name": "IS_PLANE_LANDING_GEAR_INTACT",
+        "jhash": "0xBD085DCA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "plane"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_VEHICLE_HAS_LANDING_GEAR"
+        ]
+    }
+}

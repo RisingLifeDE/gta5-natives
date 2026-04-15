@@ -1,0 +1,15 @@
+{
+    "0xDE18220B1C183EDA": {
+        "name": "DESTROY_ITEMSET",
+        "jhash": "0x83CE1A4C",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

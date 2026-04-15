@@ -1,0 +1,15 @@
+{
+    "0xDCE4334788AF94EA": {
+        "name": "IS_THIS_MODEL_A_HELI",
+        "jhash": "0x8AF7F568",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

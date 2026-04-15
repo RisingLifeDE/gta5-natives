@@ -1,0 +1,19 @@
+{
+    "0x62A456AA4769EF34": {
+        "name": "PLAY_VEHICLE_DOOR_CLOSE_SOUND",
+        "jhash": "0xBA2CF407",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

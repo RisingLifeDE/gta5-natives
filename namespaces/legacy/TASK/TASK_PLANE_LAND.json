@@ -1,0 +1,43 @@
+{
+    "0xBF19721FA34D32C0": {
+        "name": "TASK_PLANE_LAND",
+        "jhash": "0x5F7E23EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Vehicle",
+                "name": "plane"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartX"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartY"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartZ"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndX"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndY"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

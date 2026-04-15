@@ -1,0 +1,19 @@
+{
+    "0x659F9D71F52843F8": {
+        "name": "DISABLE_TIDYING_UP_IN_GARAGE",
+        "jhash": "",
+        "comment": "Sets a flag. A valid id is 0x157DC10D",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

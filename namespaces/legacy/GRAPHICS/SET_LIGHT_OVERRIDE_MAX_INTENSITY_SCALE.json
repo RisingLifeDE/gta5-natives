@@ -1,0 +1,15 @@
+{
+    "0x9641588DAB93B4B5": {
+        "name": "SET_LIGHT_OVERRIDE_MAX_INTENSITY_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x38B7C51AB1EDC7D8": {
+        "name": "NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_WEAPON_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xDF1AF8B5D56542FA": {
+        "name": "SET_ENABLE_HANDCUFFS",
+        "jhash": "0xAC9BBA23",
+        "comment": "ped can not pull out a weapon when true",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

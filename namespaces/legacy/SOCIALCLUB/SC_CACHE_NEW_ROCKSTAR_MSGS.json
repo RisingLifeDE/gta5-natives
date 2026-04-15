@@ -1,0 +1,18 @@
+{
+    "0xBFA0A56A817C6C7D": {
+        "name": "SC_CACHE_NEW_ROCKSTAR_MSGS",
+        "jhash": "0x2FB9F53C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_HANDLE_ROCKSTAR_MESSAGE_VIA_SCRIPT"
+        ]
+    }
+}

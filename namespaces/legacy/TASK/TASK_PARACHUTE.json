@@ -1,0 +1,23 @@
+{
+    "0xD2F1C53C97EE81AB": {
+        "name": "TASK_PARACHUTE",
+        "jhash": "0xEC3060A2",
+        "comment": "Second parameter is unused.\n\nsecond parameter was for jetpack in the early stages of gta and the hard coded code is now removed",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "giveParachuteItem"
+            },
+            {
+                "type": "BOOL",
+                "name": "instant"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

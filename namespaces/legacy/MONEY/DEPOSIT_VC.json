@@ -1,0 +1,15 @@
+{
+    "0xE260E0BB9CD995AC": {
+        "name": "DEPOSIT_VC",
+        "jhash": "0x8F266745",
+        "comment": "Does nothing and always returns false.",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

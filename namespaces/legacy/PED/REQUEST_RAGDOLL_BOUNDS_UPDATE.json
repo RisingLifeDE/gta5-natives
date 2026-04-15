@@ -1,0 +1,19 @@
+{
+    "0x1216E0BFA72CC703": {
+        "name": "REQUEST_RAGDOLL_BOUNDS_UPDATE",
+        "jhash": "0x7BD26837",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

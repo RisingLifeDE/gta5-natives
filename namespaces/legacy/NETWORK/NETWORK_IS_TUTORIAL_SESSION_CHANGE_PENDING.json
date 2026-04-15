@@ -1,0 +1,10 @@
+{
+    "0x35F0B98A8387274D": {
+        "name": "NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING",
+        "jhash": "0xA003C40B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

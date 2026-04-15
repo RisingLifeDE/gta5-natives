@@ -1,0 +1,15 @@
+{
+    "0x634148744F385576": {
+        "name": "IS_HELI_LANDING_AREA_BLOCKED",
+        "jhash": "0x6346B7CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

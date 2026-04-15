@@ -1,0 +1,31 @@
+{
+    "0x0546524ADE2E9723": {
+        "name": "SET_CUTSCENE_PED_PROP_VARIATION",
+        "jhash": "0x22E9A9DE",
+        "comment": "Thanks R*! ;)\n\nif ((l_161 == 0) || (l_161 == 2)) {\n    sub_2ea27(\"Trying to set Jimmy prop variation\");\n    CUTSCENE::SET_CUTSCENE_PED_PROP_VARIATION(\"Jimmy_Boston\", 1, 0, 0, 0);\n}\n\nFull list of ped components by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedComponentVariations.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

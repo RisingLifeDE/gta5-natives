@@ -1,0 +1,15 @@
+{
+    "0xC8D667EE52114ABA": {
+        "name": "ROPE_SET_UPDATE_PINVERTS",
+        "jhash": "0xEAF291A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

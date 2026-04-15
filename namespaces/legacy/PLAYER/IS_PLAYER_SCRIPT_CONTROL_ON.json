@@ -1,0 +1,15 @@
+{
+    "0x8A876A65283DD7D7": {
+        "name": "IS_PLAYER_SCRIPT_CONTROL_ON",
+        "jhash": "0x61B00A84",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

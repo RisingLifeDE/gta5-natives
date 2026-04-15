@@ -1,0 +1,15 @@
+{
+    "0x0EE21293DAD47C95": {
+        "name": "GET_VEHICLE_WINDOW_TINT",
+        "jhash": "0x13D53892",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

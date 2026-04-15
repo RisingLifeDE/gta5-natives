@@ -1,0 +1,10 @@
+{
+    "0xCEFA968912D0F78D": {
+        "name": "NETWORK_GET_NUM_PRESENCE_INVITES",
+        "jhash": "0x3FDA00F3",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

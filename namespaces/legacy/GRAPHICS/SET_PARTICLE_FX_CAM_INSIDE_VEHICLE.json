@@ -1,0 +1,15 @@
+{
+    "0xEEC4047028426510": {
+        "name": "SET_PARTICLE_FX_CAM_INSIDE_VEHICLE",
+        "jhash": "0x19EC0001",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB0B7DF5CB876FF5E": {
+        "name": "_SET_DISABLE_EXPLODE_FROM_BODY_DAMAGE_RECEIVED_BY_AI_VEHICLE",
+        "jhash": "",
+        "comment": "Prevents the vehicle from exploding when taking body damage if the inflictor is an AI-controlled vehicle. Only works for planes.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

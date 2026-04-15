@@ -1,0 +1,15 @@
+{
+    "0x662635855957C411": {
+        "name": "GET_COMMERCE_ITEM_ID",
+        "jhash": "0x4ACF110C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

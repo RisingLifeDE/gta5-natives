@@ -1,0 +1,23 @@
+{
+    "0xB8A850F20A067EB6": {
+        "name": "SET_SCRIPT_GFX_ALIGN",
+        "jhash": "0x228A2598",
+        "comment": "horizontalAlign: The horizontal alignment. This can be 67 ('C'), 76 ('L'), or 82 ('R').\nverticalAlign: The vertical alignment. This can be 67 ('C'), 66 ('B'), or 84 ('T').\n\nThis function anchors script draws to a side of the safe zone. This needs to be called to make the interface independent of the player's safe zone configuration.\n\nThese values are equivalent to alignX and alignY in common:/data/ui/frontend.xml, which can be used as a baseline for default alignment.\n\nUsing any other value (including 0) will result in the safe zone not being taken into account for this draw. The canonical value for this is 'I' (73).\n\nFor example, you can use SET_SCRIPT_GFX_ALIGN(0, 84) to only scale on the Y axis (to the top), but not change the X axis.\n\nTo reset the value, use RESET_SCRIPT_GFX_ALIGN.",
+        "params": [
+            {
+                "type": "int",
+                "name": "horizontalAlign"
+            },
+            {
+                "type": "int",
+                "name": "verticalAlign"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SCREEN_DRAW_POSITION",
+            "_SCREEN_DRAW_POSITION_BEGIN"
+        ]
+    }
+}

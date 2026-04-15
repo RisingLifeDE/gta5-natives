@@ -1,0 +1,10 @@
+{
+    "0xA9CBFD40B3FA3010": {
+        "name": "THEFEED_IS_PAUSED",
+        "jhash": "0xC5223796",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

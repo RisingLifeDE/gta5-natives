@@ -1,0 +1,19 @@
+{
+    "0xE37B76C387BE28ED": {
+        "name": "SET_INTERIOR_ACTIVE",
+        "jhash": "0xE1013910",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "interiorID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

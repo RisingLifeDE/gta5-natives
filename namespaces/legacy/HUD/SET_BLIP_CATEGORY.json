@@ -1,0 +1,19 @@
+{
+    "0x234CDD44D996FD9A": {
+        "name": "SET_BLIP_CATEGORY",
+        "jhash": "0xEF72F533",
+        "comment": "Example: https://i.imgur.com/skY6vAJ.png\n\nIndex:\n1 = No distance shown in legend\n2 = Distance shown in legend\n7 = \"Other Players\" category, also shows distance in legend\n10 = \"Property\" category\n11 = \"Owned Property\" category\n\nAny other value behaves like index = 1, index wraps around after 255\nBlips with categories 7, 10 or 11 will all show under the specific categories listing in the map legend, regardless of sprite or name.\nLegend entries:\n7 = Other Players (BLIP_OTHPLYR)\n10 = Property (BLIP_PROPCAT)\n11 = Owned Property (BLIP_APARTCAT)\n\nCategory needs to be `7` in order for blip names to show on the expanded minimap when using DISPLAY_PLAYER_NAME_TAGS_ON_BLIPS.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

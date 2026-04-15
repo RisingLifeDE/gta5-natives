@@ -1,0 +1,15 @@
+{
+    "0x12534C348C6CB68B": {
+        "name": "IS_PED_A_PLAYER",
+        "jhash": "0x404794CA",
+        "comment": "Returns true if the given ped has a valid pointer to CPlayerInfo in its CPed class. That's all.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3B963160CD65D41E": {
+        "name": "GET_NUMBER_OF_VEHICLE_COLOURS",
+        "jhash": "0xF2442EE2",
+        "comment": "Returns the total amount of color combinations found in the vehicle's carvariations.meta entry.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

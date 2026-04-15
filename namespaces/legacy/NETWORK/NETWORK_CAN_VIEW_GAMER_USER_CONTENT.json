@@ -1,0 +1,15 @@
+{
+    "0xB57A49545BA53CE7": {
+        "name": "NETWORK_CAN_VIEW_GAMER_USER_CONTENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

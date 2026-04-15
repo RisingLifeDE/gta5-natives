@@ -1,0 +1,19 @@
+{
+    "0x4100BF0346A8D2C3": {
+        "name": "_SET_PARTICLE_FX_LOOPED_CAMERA_BIAS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xB15162CB5826E9E8": {
+        "name": "IS_CINEMATIC_CAM_RENDERING",
+        "jhash": "0x80471AD9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

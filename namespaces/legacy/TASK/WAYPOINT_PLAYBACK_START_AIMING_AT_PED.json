@@ -1,0 +1,23 @@
+{
+    "0x20E330937C399D29": {
+        "name": "WAYPOINT_PLAYBACK_START_AIMING_AT_PED",
+        "jhash": "0x75E60CF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

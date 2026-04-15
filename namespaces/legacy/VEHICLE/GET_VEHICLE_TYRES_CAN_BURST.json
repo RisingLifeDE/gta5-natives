@@ -1,0 +1,15 @@
+{
+    "0x678B9BB8C3F58FEB": {
+        "name": "GET_VEHICLE_TYRES_CAN_BURST",
+        "jhash": "0x4D76CD2F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x2FC5650B0271CB57": {
+        "name": "NETWORK_IS_IN_PLATFORM_PARTY",
+        "jhash": "0xA812B6CB",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x63ECF581BC70E363": {
+        "name": "SET_PROJECTILES_SHOULD_EXPLODE_ON_CONTACT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365"
+    }
+}

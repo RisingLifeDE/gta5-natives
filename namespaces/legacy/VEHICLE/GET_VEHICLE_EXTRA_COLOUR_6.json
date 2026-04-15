@@ -1,0 +1,23 @@
+{
+    "0xB7635E80A5C31BFF": {
+        "name": "GET_VEHICLE_EXTRA_COLOUR_6",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_GET_VEHICLE_DASHBOARD_COLOUR",
+            "_GET_VEHICLE_DASHBOARD_COLOR"
+        ]
+    }
+}

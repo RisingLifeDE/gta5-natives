@@ -1,0 +1,18 @@
+{
+    "0xE851471AEFC3374F": {
+        "name": "DOOR_SYSTEM_GET_AUTOMATIC_DISTANCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "1868",
+        "old_names": [
+            "_DOOR_SYSTEM_GET_AUTOMATIC_DISTANCE"
+        ]
+    }
+}

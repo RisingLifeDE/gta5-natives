@@ -1,0 +1,30 @@
+{
+    "0x6DD8F5AA635EB4B2": {
+        "name": "GET_SCRIPT_GFX_ALIGN_POSITION",
+        "jhash": "",
+        "comment": "Calculates the effective X/Y fractions when applying the values set by SET_SCRIPT_GFX_ALIGN and SET_SCRIPT_GFX_ALIGN_PARAMS",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float*",
+                "name": "calculatedX"
+            },
+            {
+                "type": "float*",
+                "name": "calculatedY"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_SCRIPT_GFX_POSITION"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1AC8F4AD40E22127": {
+        "name": "CLOSE_MP_TEXT_CHAT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ABORT_TEXT_CHAT",
+            "_CLOSE_MULTIPLAYER_CHAT"
+        ]
+    }
+}

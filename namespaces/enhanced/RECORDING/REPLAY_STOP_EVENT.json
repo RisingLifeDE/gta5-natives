@@ -1,0 +1,10 @@
+{
+    "0x81CBAE94390F9F89": {
+        "name": "REPLAY_STOP_EVENT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

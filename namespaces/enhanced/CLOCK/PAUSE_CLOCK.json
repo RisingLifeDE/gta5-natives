@@ -1,0 +1,15 @@
+{
+    "0x4055E40BD2DBEC1D": {
+        "name": "PAUSE_CLOCK",
+        "jhash": "0xB02D6124",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

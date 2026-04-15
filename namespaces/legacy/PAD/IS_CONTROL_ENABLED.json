@@ -1,0 +1,19 @@
+{
+    "0x1CEA6BFDF248E5D9": {
+        "name": "IS_CONTROL_ENABLED",
+        "jhash": "0x9174AF84",
+        "comment": "control: 0: PLAYER_CONTROL, 1: CAMERA_CONTROL, 2: FRONTEND_CONTROL\nFor more info, see https://docs.fivem.net/docs/game-references/controls/",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x5EAAD83F8CFB4575": {
+        "name": "CONVERT_OLD_PICKUP_TYPE_TO_NEW",
+        "jhash": "0x6AE36192",
+        "comment": "returns pickup hash.\n\nFull list of pickup types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pickupTypes.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_PICKUP_HASH"
+        ]
+    }
+}

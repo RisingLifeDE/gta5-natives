@@ -1,0 +1,43 @@
+{
+    "0x212A8D0D2BABFAC2": {
+        "name": "NEW_LOAD_SCENE_START",
+        "jhash": "0xDF9C38B6",
+        "comment": "`radius` value is usually between `3f` and `7000f` in original 1868 scripts.\n`p7` is 0, 1, 2, 3 or 4 used in decompiled scripts, 0 is by far the most common.\nReturns True if success, used only 7 times in decompiled scripts of 1868",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

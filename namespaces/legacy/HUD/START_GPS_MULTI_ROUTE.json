@@ -1,0 +1,23 @@
+{
+    "0x3D3D15AF7BCAAF83": {
+        "name": "START_GPS_MULTI_ROUTE",
+        "jhash": "0xC3DCBEDB",
+        "comment": "Starts a new GPS multi-route, allowing you to create custom GPS paths.\nGPS functions like the waypoint, except it can contain multiple points it's forced to go through.\nOnce the player has passed a point, the GPS will no longer force its path through it.\n\nWorks independently from the player-placed waypoint and blip routes.\nExample result: https://i.imgur.com/ZZHQatX.png\nhudColor: The HUD color of the GPS path.\nrouteFromPlayer: Makes the GPS draw a path from the player to the next point, rather than the original path from the previous point.\ndisplayOnFoot: Draws the GPS path regardless if the player is in a vehicle or not.",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColor"
+            },
+            {
+                "type": "BOOL",
+                "name": "routeFromPlayer"
+            },
+            {
+                "type": "BOOL",
+                "name": "displayOnFoot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

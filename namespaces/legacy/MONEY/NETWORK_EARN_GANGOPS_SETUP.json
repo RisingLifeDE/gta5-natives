@@ -1,0 +1,22 @@
+{
+    "0xA9160796D47A2CF8": {
+        "name": "NETWORK_EARN_GANGOPS_SETUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_GANGOPS_JOBS_SETUP"
+        ]
+    }
+}

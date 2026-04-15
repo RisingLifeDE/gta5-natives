@@ -1,0 +1,23 @@
+{
+    "0x52923C4710DD9907": {
+        "name": "FORCE_ROOM_FOR_ENTITY",
+        "jhash": "0x10BD4435",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "Hash",
+                "name": "roomHashKey"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

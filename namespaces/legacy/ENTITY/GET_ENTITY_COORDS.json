@@ -1,0 +1,19 @@
+{
+    "0x3FEF770D40960D5A": {
+        "name": "GET_ENTITY_COORDS",
+        "jhash": "0x1647F1CB",
+        "comment": "Gets the current coordinates for a specified entity.\n`entity` = The entity to get the coordinates from.\n`alive` = Unused by the game, potentially used by debug builds of GTA in order to assert whether or not an entity was alive.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "alive"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

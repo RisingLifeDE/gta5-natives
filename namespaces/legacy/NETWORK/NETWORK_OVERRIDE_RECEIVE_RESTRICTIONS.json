@@ -1,0 +1,19 @@
+{
+    "0xDDF73E2B1FEC5AB4": {
+        "name": "NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS",
+        "jhash": "0x95F1C60D",
+        "comment": "R* uses this to hear all player when spectating. \nIt allows you to hear other online players when their chat is on none, crew and or friends",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

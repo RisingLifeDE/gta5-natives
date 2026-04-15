@@ -1,0 +1,15 @@
+{
+    "0x1E0B4DC0D990A4E7": {
+        "name": "SET_FADE_OUT_AFTER_ARREST",
+        "jhash": "0xCB074B9D",
+        "comment": "Sets whether the game should fade out after the player is arrested.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

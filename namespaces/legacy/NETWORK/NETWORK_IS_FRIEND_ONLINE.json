@@ -1,0 +1,15 @@
+{
+    "0x425A44533437B64D": {
+        "name": "NETWORK_IS_FRIEND_ONLINE",
+        "jhash": "0xE0A42430",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

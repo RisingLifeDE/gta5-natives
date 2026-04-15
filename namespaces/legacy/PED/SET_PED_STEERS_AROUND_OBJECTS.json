@@ -1,0 +1,19 @@
+{
+    "0x1509C089ADC208BF": {
+        "name": "SET_PED_STEERS_AROUND_OBJECTS",
+        "jhash": "0x3BD9B0A6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x733ADF241531E5C2": {
+        "name": "SET_VARIABLE_ON_UNDER_WATER_STREAM",
+        "jhash": "0x62D026BE",
+        "comment": "AUDIO::SET_VARIABLE_ON_UNDER_WATER_STREAM(\"inTunnel\", 1.0);\nAUDIO::SET_VARIABLE_ON_UNDER_WATER_STREAM(\"inTunnel\", 0.0);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

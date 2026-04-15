@@ -1,0 +1,15 @@
+{
+    "0x290E2780BB7AA598": {
+        "name": "REQUEST_ACTION_MODE_ASSET",
+        "jhash": "0x572BA553",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

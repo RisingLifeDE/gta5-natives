@@ -1,0 +1,15 @@
+{
+    "0x2982BF73F66E9DDC": {
+        "name": "SET_TV_VOLUME",
+        "jhash": "0xF3504F4D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

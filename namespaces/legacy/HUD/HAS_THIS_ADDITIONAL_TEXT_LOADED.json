@@ -1,0 +1,19 @@
+{
+    "0xADBF060E2B30C5BC": {
+        "name": "HAS_THIS_ADDITIONAL_TEXT_LOADED",
+        "jhash": "0x80A52040",
+        "comment": "Checks if the specified gxt has loaded into the passed slot.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxt"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x693478ACBD7F18E7": {
+        "name": "USE_ACTIVE_CAMERA_FOR_TIMESLICING_CENTRE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

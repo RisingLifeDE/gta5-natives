@@ -1,0 +1,19 @@
+{
+    "0xB782F8238512BAD5": {
+        "name": "SPAWNPOINTS_GET_SEARCH_RESULT_FLAGS",
+        "jhash": "0xBA699DDF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

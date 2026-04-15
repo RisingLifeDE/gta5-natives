@@ -1,0 +1,63 @@
+{
+    "0x2D3B147AFAD49DE0": {
+        "name": "DRAW_SPRITE_ARX",
+        "jhash": "",
+        "comment": "Used in arcade games and Beam hack minigame in Doomsday Heist. I will most certainly dive into this to try replicate arcade games.\nx position must be between 0.0 and 1.0 (1.0 being the most right side of the screen)\ny position must be between 0.0 and 1.0 (1.0 being the most bottom side of the screen)\nwidth 0.0 - 1.0 is the reasonable amount generally\nheight 0.0 - 1.0 is the reasonable amount generally\np6 almost always 0.0\np11 seems to be unknown but almost always 0 int",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            },
+            {
+                "type": "Any",
+                "name": "p12"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

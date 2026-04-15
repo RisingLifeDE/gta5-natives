@@ -1,0 +1,10 @@
+{
+    "0x4202BBCB8684563D": {
+        "name": "RESET_EXCLUSIVE_SCENARIO_GROUP",
+        "jhash": "0x17F9DFE8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

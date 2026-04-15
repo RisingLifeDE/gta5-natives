@@ -1,0 +1,15 @@
+{
+    "0xADF7BE450512C12F": {
+        "name": "DETACH_VEHICLE_FROM_ANY_CARGOBOB",
+        "jhash": "0x50E0EABE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

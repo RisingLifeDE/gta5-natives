@@ -1,0 +1,15 @@
+{
+    "0x37F4AD56ECBC0CD6": {
+        "name": "GET_PED_ACCURACY",
+        "jhash": "0x0A2A0AA0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

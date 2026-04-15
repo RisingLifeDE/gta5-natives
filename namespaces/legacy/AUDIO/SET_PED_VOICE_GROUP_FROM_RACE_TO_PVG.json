@@ -1,0 +1,22 @@
+{
+    "0x0BABC1345ABBFB16": {
+        "name": "SET_PED_VOICE_GROUP_FROM_RACE_TO_PVG",
+        "jhash": "",
+        "comment": "Dat151RelType == 29",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "voiceGroupHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_SET_PED_VOICE_GROUP_RACE"
+        ]
+    }
+}

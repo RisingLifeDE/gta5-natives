@@ -1,0 +1,15 @@
+{
+    "0x845BAD77CC770633": {
+        "name": "ATTACH_TV_AUDIO_TO_ENTITY",
+        "jhash": "0x784944DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

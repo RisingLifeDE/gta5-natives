@@ -1,0 +1,15 @@
+{
+    "0xB9351A07A0D458B1": {
+        "name": "NETWORK_SESSION_LEAVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2060"
+    }
+}

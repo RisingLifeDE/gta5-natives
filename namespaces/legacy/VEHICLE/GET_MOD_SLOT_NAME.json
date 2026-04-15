@@ -1,0 +1,19 @@
+{
+    "0x51F0FEB9F6AE98C0": {
+        "name": "GET_MOD_SLOT_NAME",
+        "jhash": "0x5E113483",
+        "comment": "Returns the name for the type of vehicle mod(Armour, engine etc)\n",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

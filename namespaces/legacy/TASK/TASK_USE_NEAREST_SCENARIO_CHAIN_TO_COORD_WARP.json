@@ -1,0 +1,35 @@
+{
+    "0x97A28E63F0BA5631": {
+        "name": "TASK_USE_NEAREST_SCENARIO_CHAIN_TO_COORD_WARP",
+        "jhash": "0xBAB4C0AE",
+        "comment": "p5 is always -1 or 0 in scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "timeToLeave"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

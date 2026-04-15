@@ -1,0 +1,47 @@
+{
+    "0x51F30DB60626A20E": {
+        "name": "GET_CAN_VEHICLE_BE_PLACED_HERE",
+        "jhash": "",
+        "comment": "Used in decompiled scripts in combination with GET_VEHICLE_SIZE\np7 is usually 2\np8 is usually 1",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1180"
+    }
+}

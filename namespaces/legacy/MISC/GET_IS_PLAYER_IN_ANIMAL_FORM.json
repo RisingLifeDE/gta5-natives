@@ -1,0 +1,10 @@
+{
+    "0x9689123E3F213AA5": {
+        "name": "GET_IS_PLAYER_IN_ANIMAL_FORM",
+        "jhash": "",
+        "comment": "Although we don't have a jenkins hash for this one, the name is 100% confirmed.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

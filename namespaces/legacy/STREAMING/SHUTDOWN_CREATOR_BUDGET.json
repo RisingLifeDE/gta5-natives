@@ -1,0 +1,10 @@
+{
+    "0xCCE26000E9A6FAD7": {
+        "name": "SHUTDOWN_CREATOR_BUDGET",
+        "jhash": "0x897A510F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

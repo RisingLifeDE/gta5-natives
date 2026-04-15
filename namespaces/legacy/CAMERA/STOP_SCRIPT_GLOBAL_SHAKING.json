@@ -1,0 +1,15 @@
+{
+    "0x1C9D7949FA533490": {
+        "name": "STOP_SCRIPT_GLOBAL_SHAKING",
+        "jhash": "0x26FCFB96",
+        "comment": "In drunk_controller.c4, sub_309\nif (CAM::IS_SCRIPT_GLOBAL_SHAKING()) {\n    CAM::STOP_SCRIPT_GLOBAL_SHAKING(0);\n}",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

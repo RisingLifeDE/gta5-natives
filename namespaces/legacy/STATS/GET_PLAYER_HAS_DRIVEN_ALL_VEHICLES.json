@@ -1,0 +1,10 @@
+{
+    "0x5EAD2BF6484852E4": {
+        "name": "GET_PLAYER_HAS_DRIVEN_ALL_VEHICLES",
+        "jhash": "0x23D70C39",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

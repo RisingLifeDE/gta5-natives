@@ -1,0 +1,15 @@
+{
+    "0xB252BC036B525623": {
+        "name": "TRACK_OBJECT_VISIBILITY",
+        "jhash": "0x46D06B9A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x313CE5879CEB6FCD": {
+        "name": "GET_RANDOM_FLOAT_IN_RANGE",
+        "jhash": "0x0562C4D0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "startRange"
+            },
+            {
+                "type": "float",
+                "name": "endRange"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

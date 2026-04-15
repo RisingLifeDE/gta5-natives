@@ -1,0 +1,19 @@
+{
+    "0xDBA71115ED9941A6": {
+        "name": "SET_PED_ALERTNESS",
+        "jhash": "0x2C32D9AE",
+        "comment": "value ranges from 0 to 3.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

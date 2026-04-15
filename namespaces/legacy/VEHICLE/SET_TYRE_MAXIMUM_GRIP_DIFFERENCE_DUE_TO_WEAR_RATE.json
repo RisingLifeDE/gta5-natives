@@ -1,0 +1,26 @@
+{
+    "0xC970D0E0FC31D768": {
+        "name": "SET_TYRE_MAXIMUM_GRIP_DIFFERENCE_DUE_TO_WEAR_RATE",
+        "jhash": "",
+        "comment": "Controls how much traction the wheel loses.\n\nDefault values from Rockstar's Open Wheel Race JSON's:\n\"owrtds\" (Soft): 0.05\n\"owrtdm\" (Medium): 0.45\n\"owrtdh\" (Hard): 0.8\n\nUsable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_SET_TYRE_TRACTION_LOSS_MULTIPLIER"
+        ]
+    }
+}

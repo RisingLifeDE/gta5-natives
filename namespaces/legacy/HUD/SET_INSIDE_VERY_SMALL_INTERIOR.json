@@ -1,0 +1,18 @@
+{
+    "0x504DFE62A1692296": {
+        "name": "SET_INSIDE_VERY_SMALL_INTERIOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_INTERIOR_ZOOM_LEVEL_INCREASED"
+        ]
+    }
+}

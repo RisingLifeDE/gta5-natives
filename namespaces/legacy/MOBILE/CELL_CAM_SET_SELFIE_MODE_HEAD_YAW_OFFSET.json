@@ -1,0 +1,15 @@
+{
+    "0xD6ADE981781FCA09": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_HEAD_YAW_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "yaw"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

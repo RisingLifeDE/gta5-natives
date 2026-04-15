@@ -1,0 +1,10 @@
+{
+    "0x61A23B7EDA9BDA24": {
+        "name": "IS_SNIPER_INVERTED",
+        "jhash": "0x5C3BF51B",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

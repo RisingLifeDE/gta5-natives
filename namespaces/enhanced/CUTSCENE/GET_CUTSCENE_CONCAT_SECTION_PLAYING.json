@@ -1,0 +1,10 @@
+{
+    "0x583DF8E3D4AFBD98": {
+        "name": "GET_CUTSCENE_CONCAT_SECTION_PLAYING",
+        "jhash": "0x5AE68AE6",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

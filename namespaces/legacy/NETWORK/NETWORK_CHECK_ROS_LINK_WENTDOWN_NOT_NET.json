@@ -1,0 +1,10 @@
+{
+    "0x60EDD13EB3AC1FF3": {
+        "name": "NETWORK_CHECK_ROS_LINK_WENTDOWN_NOT_NET",
+        "jhash": "0x4DEBC227",
+        "comment": "Returns true if profile setting 901 is set to true and sets it to false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xE435D3539EFDCD1B": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_GET_IS_PAUSED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3570"
+    }
+}

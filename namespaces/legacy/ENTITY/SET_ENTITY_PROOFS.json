@@ -1,0 +1,47 @@
+{
+    "0xFAEE099C6F890BB8": {
+        "name": "SET_ENTITY_PROOFS",
+        "jhash": "0x7E9EAB66",
+        "comment": "Enable / disable each type of damage.\n\nwaterProof is damage related to water not drowning\n--------------\np7 is to to '1' in am_mp_property_ext/int: ENTITY::SET_ENTITY_PROOFS(uParam0->f_19, true, true, true, true, true, true, 1, true);\n",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "bulletProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "fireProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "explosionProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "collisionProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "meleeProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "steamProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "dontResetOnCleanup"
+            },
+            {
+                "type": "BOOL",
+                "name": "waterProof"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

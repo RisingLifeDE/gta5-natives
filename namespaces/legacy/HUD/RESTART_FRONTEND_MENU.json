@@ -1,0 +1,19 @@
+{
+    "0x10706DC6AD2D49C0": {
+        "name": "RESTART_FRONTEND_MENU",
+        "jhash": "0xB07DAF98",
+        "comment": "Before using this native click the native above and look at the decription.\n\nExample:\nint GetHash = Function.Call<int>(Hash.GET_HASH_KEY, \"fe_menu_version_corona_lobby\");\nFunction.Call(Hash.ACTIVATE_FRONTEND_MENU, GetHash, 0, -1);\nFunction.Call(Hash.RESTART_FRONTEND_MENU(GetHash, -1);\n\nThis native refreshes the frontend menu.\n\np1 = Hash of Menu\np2 = Unknown but always works with -1.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "menuHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

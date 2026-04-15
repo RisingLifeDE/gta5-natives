@@ -1,0 +1,19 @@
+{
+    "0x09E7ECA981D9B210": {
+        "name": "IS_PED_BLUSH_FACEPAINT_TINT_FOR_BARBER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1290",
+        "old_names": [
+            "_IS_PED_BODY_BLEMISH_VALID",
+            "_IS_PED_BLUSH_FACEPAINT_VALID_BARBER_COLOR"
+        ]
+    }
+}

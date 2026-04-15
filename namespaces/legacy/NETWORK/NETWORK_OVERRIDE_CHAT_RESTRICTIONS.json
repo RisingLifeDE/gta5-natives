@@ -1,0 +1,19 @@
+{
+    "0x3039AE5AD2C9C0C4": {
+        "name": "NETWORK_OVERRIDE_CHAT_RESTRICTIONS",
+        "jhash": "0x74EE2D8B",
+        "comment": "Could possibly bypass being muted or automatically muted",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

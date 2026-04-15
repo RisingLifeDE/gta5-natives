@@ -1,0 +1,19 @@
+{
+    "0x759299C5BB31D2A9": {
+        "name": "UGC_GET_CONTENT_RATING_COUNT",
+        "jhash": "0x771FE190",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

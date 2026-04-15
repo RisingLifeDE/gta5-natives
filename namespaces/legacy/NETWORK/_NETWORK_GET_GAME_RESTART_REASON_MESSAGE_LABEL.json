@@ -1,0 +1,10 @@
+{
+    "0x47B11D51FC50A259": {
+        "name": "_NETWORK_GET_GAME_RESTART_REASON_MESSAGE_LABEL",
+        "jhash": "",
+        "comment": "Returns the restart reason as a string, see _NETWORK_GET_GAME_RESTART_REASON. Returns a null pointer when a restart hasn't been requested (reason == 0 or reason > 6).",
+        "params": [],
+        "return_type": "const char*",
+        "build": "3323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x1381539FEE034CDA": {
+        "name": "SET_CAM_SPLINE_DURATION",
+        "jhash": "0x3E91FC8A",
+        "comment": "I named p1 as timeDuration as it is obvious. I'm assuming tho it is ran in ms(Milliseconds) as usual.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "timeDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

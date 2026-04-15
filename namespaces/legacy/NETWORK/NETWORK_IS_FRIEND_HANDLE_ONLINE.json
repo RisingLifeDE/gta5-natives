@@ -1,0 +1,18 @@
+{
+    "0x87EB7A3FFCB314DB": {
+        "name": "NETWORK_IS_FRIEND_HANDLE_ONLINE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_IS_FRIEND_ONLINE_2"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xDAC073C7901F9E15": {
+        "name": "SET_HAS_SPECIALEDITION_CONTENT",
+        "jhash": "",
+        "comment": "Sets profile setting 866",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_HAS_CONTENT_UNLOCKS_FLAGS"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x0BE73DA6984A6E33": {
+        "name": "NETWORK_IS_PENDING_FRIEND",
+        "jhash": "0x5C85FF81",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

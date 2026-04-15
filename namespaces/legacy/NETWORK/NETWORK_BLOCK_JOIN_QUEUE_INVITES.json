@@ -1,0 +1,18 @@
+{
+    "0xCFEB8AF24FC1D0BB": {
+        "name": "NETWORK_BLOCK_JOIN_QUEUE_INVITES",
+        "jhash": "0x8AB4890B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_BLOCK_INVITES_2"
+        ]
+    }
+}

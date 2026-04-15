@@ -1,0 +1,19 @@
+{
+    "0xEDE476E5EE29EDB1": {
+        "name": "SET_INPUT_EXCLUSIVE",
+        "jhash": "0x4E8E29E6",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

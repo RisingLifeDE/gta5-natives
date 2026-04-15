@@ -1,0 +1,23 @@
+{
+    "0x3B458DDB57038F08": {
+        "name": "SET_VEHICLE_DOOR_AUTO_LOCK",
+        "jhash": "",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT\n\nUsually used alongside other vehicle door natives.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

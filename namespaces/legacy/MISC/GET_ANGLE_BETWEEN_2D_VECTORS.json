@@ -1,0 +1,27 @@
+{
+    "0x186FC4BE848E1C92": {
+        "name": "GET_ANGLE_BETWEEN_2D_VECTORS",
+        "jhash": "0xDBF75E58",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

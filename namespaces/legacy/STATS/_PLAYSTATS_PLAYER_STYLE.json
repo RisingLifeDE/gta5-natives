@@ -1,0 +1,15 @@
+{
+    "0x48FAC5DC7AC6EA99": {
+        "name": "_PLAYSTATS_PLAYER_STYLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

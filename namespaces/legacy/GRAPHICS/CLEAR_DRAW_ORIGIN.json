@@ -1,0 +1,10 @@
+{
+    "0xFF0B610F6BE0D7AF": {
+        "name": "CLEAR_DRAW_ORIGIN",
+        "jhash": "0xDD76B263",
+        "comment": "Resets the screen's draw-origin which was changed by the function GRAPHICS::SET_DRAW_ORIGIN(...) back to x=0,y=0.\n\nSee GRAPHICS::SET_DRAW_ORIGIN(...) for further information.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

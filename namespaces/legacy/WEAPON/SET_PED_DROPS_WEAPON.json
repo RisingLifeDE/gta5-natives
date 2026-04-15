@@ -1,0 +1,15 @@
+{
+    "0x6B7513D9966FBEC0": {
+        "name": "SET_PED_DROPS_WEAPON",
+        "jhash": "0x3D3329FA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

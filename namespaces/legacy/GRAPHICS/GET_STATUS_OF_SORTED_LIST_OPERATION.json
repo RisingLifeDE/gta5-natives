@@ -1,0 +1,15 @@
+{
+    "0xF5BED327CEA362B1": {
+        "name": "GET_STATUS_OF_SORTED_LIST_OPERATION",
+        "jhash": "0x596B900D",
+        "comment": "3 matches across 3 scripts. First 2 were 0, 3rd was 1. Possibly a bool.\nappcamera, appmedia, and cellphone_controller.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

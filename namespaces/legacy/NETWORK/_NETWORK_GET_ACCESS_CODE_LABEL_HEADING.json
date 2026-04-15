@@ -1,0 +1,15 @@
+{
+    "0x967E6FB554E1B6DE": {
+        "name": "_NETWORK_GET_ACCESS_CODE_LABEL_HEADING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "accessCode"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "3570"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x551DF99658DB6EE8": {
+        "name": "CUSTOM_MINIMAP_CREATE_BLIP",
+        "jhash": "0x786CA0A2",
+        "comment": "Add a BLIP_GALLERY at the specific coordinate. Used in fm_maintain_transition_players to display race track points.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_RACE_GALLERY_ADD_BLIP"
+        ]
+    }
+}

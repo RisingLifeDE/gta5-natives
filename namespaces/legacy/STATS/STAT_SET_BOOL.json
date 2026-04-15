@@ -1,0 +1,23 @@
+{
+    "0x4B33C4243DE0C432": {
+        "name": "STAT_SET_BOOL",
+        "jhash": "0x55D79DFB",
+        "comment": "Example:\n STATS::STAT_SET_BOOL(MISC::GET_HASH_KEY(\"MPPLY_MELEECHLENGECOMPLETED\"), trur, true);",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

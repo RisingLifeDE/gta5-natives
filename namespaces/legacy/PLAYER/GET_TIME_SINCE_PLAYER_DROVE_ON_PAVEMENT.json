@@ -1,0 +1,15 @@
+{
+    "0xD559D2BE9E37853B": {
+        "name": "GET_TIME_SINCE_PLAYER_DROVE_ON_PAVEMENT",
+        "jhash": "0x8836E732",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

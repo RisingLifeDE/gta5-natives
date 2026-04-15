@@ -1,0 +1,15 @@
+{
+    "0x445D79F995508307": {
+        "name": "RELEASE_PRELOAD_MODS",
+        "jhash": "0xD442521F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

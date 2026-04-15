@@ -1,0 +1,15 @@
+{
+    "0x85796B0549DDE156": {
+        "name": "ROLL_DOWN_WINDOWS",
+        "jhash": "0x51A16DC6",
+        "comment": "Roll down all the windows of the vehicle passed through the first parameter.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

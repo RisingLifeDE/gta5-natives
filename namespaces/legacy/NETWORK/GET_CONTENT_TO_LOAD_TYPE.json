@@ -1,0 +1,10 @@
+{
+    "0x8B0C2964BA471961": {
+        "name": "GET_CONTENT_TO_LOAD_TYPE",
+        "jhash": "",
+        "comment": "This function is hard-coded to always return 0.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

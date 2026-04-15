@@ -1,0 +1,22 @@
+{
+    "0x7BEB0C7A235F6F3B": {
+        "name": "CREATE_PICK_UP_ROPE_FOR_CARGOBOB",
+        "jhash": "0x4D3C9A99",
+        "comment": "Drops the Hook/Magnet on a cargobob\n\nstate\nenum eCargobobHook\n{\n  CARGOBOB_HOOK = 0,\n    CARGOBOB_MAGNET = 1,\n};",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ENABLE_CARGOBOB_HOOK"
+        ]
+    }
+}

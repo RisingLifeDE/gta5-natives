@@ -1,0 +1,27 @@
+{
+    "0xF2BFA0430F0A0FCB": {
+        "name": "SET_VEHICLE_DOOR_CONTROL",
+        "jhash": "0x572DD360",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "int",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

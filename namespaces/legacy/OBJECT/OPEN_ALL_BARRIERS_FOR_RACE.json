@@ -1,0 +1,15 @@
+{
+    "0xC7F29CA00F46350E": {
+        "name": "OPEN_ALL_BARRIERS_FOR_RACE",
+        "jhash": "0x9BF33E41",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

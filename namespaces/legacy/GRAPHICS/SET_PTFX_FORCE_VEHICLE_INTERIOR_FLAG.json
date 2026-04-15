@@ -1,0 +1,15 @@
+{
+    "0xC6730E0D14E50703": {
+        "name": "SET_PTFX_FORCE_VEHICLE_INTERIOR_FLAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545"
+    }
+}

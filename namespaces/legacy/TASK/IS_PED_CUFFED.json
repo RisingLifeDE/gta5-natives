@@ -1,0 +1,15 @@
+{
+    "0x74E559B3BC910685": {
+        "name": "IS_PED_CUFFED",
+        "jhash": "0x511CE741",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

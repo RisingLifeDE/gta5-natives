@@ -1,0 +1,15 @@
+{
+    "0x48164DBB970AC3F0": {
+        "name": "REQUEST_WEAPON_HIGH_DETAIL_MODEL",
+        "jhash": "0xE3BD00F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x1C491717107431C7": {
+        "name": "IS_PAUSE_MENU_RESTARTING",
+        "jhash": "0x3C4CF4D9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

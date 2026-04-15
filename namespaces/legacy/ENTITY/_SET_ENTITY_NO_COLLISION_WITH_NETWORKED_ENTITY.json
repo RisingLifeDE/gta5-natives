@@ -1,0 +1,19 @@
+{
+    "0x0A27A7827347B3B1": {
+        "name": "_SET_ENTITY_NO_COLLISION_WITH_NETWORKED_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            }
+        ],
+        "return_type": "void",
+        "build": "3407"
+    }
+}

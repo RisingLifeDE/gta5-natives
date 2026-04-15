@@ -1,0 +1,19 @@
+{
+    "0xE906EC930F5FE7C8": {
+        "name": "SET_PED_ENABLE_CREW_EMBLEM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "791"
+    }
+}

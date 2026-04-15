@@ -1,0 +1,15 @@
+{
+    "0x01BF60A500E28887": {
+        "name": "NETWORK_HAS_CONTROL_OF_ENTITY",
+        "jhash": "0x005FD797",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

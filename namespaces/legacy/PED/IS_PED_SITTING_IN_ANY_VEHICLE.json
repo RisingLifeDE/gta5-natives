@@ -1,0 +1,15 @@
+{
+    "0x826AA586EDB9FEF8": {
+        "name": "IS_PED_SITTING_IN_ANY_VEHICLE",
+        "jhash": "0x0EA9CA03",
+        "comment": "Detect if ped is in any vehicle\n[True/False]",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

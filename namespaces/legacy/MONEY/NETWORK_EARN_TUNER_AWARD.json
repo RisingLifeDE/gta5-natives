@@ -1,0 +1,26 @@
+{
+    "0xB846F547D3792DF6": {
+        "name": "NETWORK_EARN_TUNER_AWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_EARN_FROM_TUNER_AWARD"
+        ]
+    }
+}

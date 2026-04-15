@@ -1,0 +1,15 @@
+{
+    "0x7DBDD04862D95F04": {
+        "name": "GET_PED_RELATIONSHIP_GROUP_HASH",
+        "jhash": "0x354F283C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

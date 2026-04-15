@@ -1,0 +1,19 @@
+{
+    "0x75CC8931A11128C9": {
+        "name": "SC_PROFANITY_GET_PROFANE_WORD",
+        "jhash": "",
+        "comment": "Retrieves the profane part of the string with max size of 128.\nReturns true if profane term was retrieved.",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            },
+            {
+                "type": "char*",
+                "name": "outProfaneWord"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

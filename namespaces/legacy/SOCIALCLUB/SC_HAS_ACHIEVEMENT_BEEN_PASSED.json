@@ -1,0 +1,18 @@
+{
+    "0x418DC16FAE452C1C": {
+        "name": "SC_HAS_ACHIEVEMENT_BEEN_PASSED",
+        "jhash": "",
+        "comment": "Same as HAS_ACHIEVEMENT_BEEN_PASSED",
+        "params": [
+            {
+                "type": "int",
+                "name": "achievementId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SC_GET_HAS_ACHIEVEMENT_BEEN_PASSED"
+        ]
+    }
+}

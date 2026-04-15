@@ -1,0 +1,19 @@
+{
+    "0x52BBA29D5EC69356": {
+        "name": "SET_CAN_RESPRAY_VEHICLE",
+        "jhash": "0x37677590",
+        "comment": "Hardcoded to not work in multiplayer.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

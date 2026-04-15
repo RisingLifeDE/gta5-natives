@@ -1,0 +1,23 @@
+{
+    "0x46F917F6B4128FE4": {
+        "name": "PLAYSTATS_AWARD_XP",
+        "jhash": "0x8770017B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            },
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

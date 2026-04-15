@@ -1,0 +1,47 @@
+{
+    "0x189E955A8313E298": {
+        "name": "SET_GAMEPLAY_ENTITY_HINT",
+        "jhash": "0x66C32306",
+        "comment": "p8 could be some sort of flag. Scripts use:\n-244429742\n0\n1726668277\n1844968929",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "easeInTime"
+            },
+            {
+                "type": "int",
+                "name": "easeOutTime"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

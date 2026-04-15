@@ -1,0 +1,15 @@
+{
+    "0x8217150E1217EBFD": {
+        "name": "HAS_SCALEFORM_CONTAINER_MOVIE_LOADED_INTO_PARENT",
+        "jhash": "0x1DFE8D8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scaleformHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

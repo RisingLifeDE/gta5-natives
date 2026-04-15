@@ -1,0 +1,19 @@
+{
+    "0x183DADC6AA953186": {
+        "name": "SET_PED_INFINITE_AMMO_CLIP",
+        "jhash": "0x5A5E3B67",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

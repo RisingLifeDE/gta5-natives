@@ -1,0 +1,13 @@
+{
+    "0x350AA5EBC03D3BD2": {
+        "name": "NET_GAMESERVER_TRANSFER_WALLET_TO_BANK_GET_STATUS",
+        "jhash": "",
+        "comment": "Same as 0x23789E777D14CE44",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_TRANSFER_CASH_GET_STATUS_2"
+        ]
+    }
+}

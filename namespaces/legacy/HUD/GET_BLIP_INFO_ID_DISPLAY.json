@@ -1,0 +1,15 @@
+{
+    "0x1E314167F701DC3B": {
+        "name": "GET_BLIP_INFO_ID_DISPLAY",
+        "jhash": "0xD0FC19F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

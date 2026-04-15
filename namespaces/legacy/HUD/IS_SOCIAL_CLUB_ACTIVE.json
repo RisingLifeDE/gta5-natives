@@ -1,0 +1,10 @@
+{
+    "0xC406BE343FC4B9AF": {
+        "name": "IS_SOCIAL_CLUB_ACTIVE",
+        "jhash": "0xD4DA14EF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

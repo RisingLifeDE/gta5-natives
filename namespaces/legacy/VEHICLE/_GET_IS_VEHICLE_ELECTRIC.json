@@ -1,0 +1,15 @@
+{
+    "0x1FCB07FE230B6639": {
+        "name": "_GET_IS_VEHICLE_ELECTRIC",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3258"
+    }
+}

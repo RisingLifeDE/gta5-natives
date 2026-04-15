@@ -1,0 +1,19 @@
+{
+    "0x2FFB6B224F4B2926": {
+        "name": "GET_HEADING_FROM_VECTOR_2D",
+        "jhash": "0xD209D52B",
+        "comment": "dx = x1 - x2\ndy = y1 - y2",
+        "params": [
+            {
+                "type": "float",
+                "name": "dx"
+            },
+            {
+                "type": "float",
+                "name": "dy"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

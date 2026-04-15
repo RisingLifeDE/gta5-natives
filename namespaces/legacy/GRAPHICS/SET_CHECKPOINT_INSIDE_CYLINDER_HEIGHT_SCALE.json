@@ -1,0 +1,22 @@
+{
+    "0x4B5B4DA5D79F1943": {
+        "name": "SET_CHECKPOINT_INSIDE_CYLINDER_HEIGHT_SCALE",
+        "jhash": "0x80151CCF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CHECKPOINT_SCALE"
+        ]
+    }
+}

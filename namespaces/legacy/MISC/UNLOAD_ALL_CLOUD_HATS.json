@@ -1,0 +1,13 @@
+{
+    "0x957E790EA1727B64": {
+        "name": "UNLOAD_ALL_CLOUD_HATS",
+        "jhash": "0x2D7787BC",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_CLOUD_HAT"
+        ]
+    }
+}

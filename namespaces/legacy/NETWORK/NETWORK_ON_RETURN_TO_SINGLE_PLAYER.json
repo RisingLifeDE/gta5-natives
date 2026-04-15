@@ -1,0 +1,10 @@
+{
+    "0x283B6062A2C01E9B": {
+        "name": "NETWORK_ON_RETURN_TO_SINGLE_PLAYER",
+        "jhash": "0x96E28FE2",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

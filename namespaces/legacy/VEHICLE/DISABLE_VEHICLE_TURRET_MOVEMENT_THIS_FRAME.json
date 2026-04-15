@@ -1,0 +1,18 @@
+{
+    "0x32CAEDF24A583345": {
+        "name": "DISABLE_VEHICLE_TURRET_MOVEMENT_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_DISABLE_VEHICLE_TURRET_MOVEMENT_THIS_FRAME"
+        ]
+    }
+}

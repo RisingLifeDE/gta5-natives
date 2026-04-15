@@ -1,0 +1,23 @@
+{
+    "0x25D984CFB64ED6DE": {
+        "name": "_SET_BLIP_GPS_ROUTE_DISPLAY_DISTANCE",
+        "jhash": "",
+        "comment": "Applies to new eBlipParams _BLIP_CHANGE_46* and _BLIP_CHANGE_47*",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "blipChangeParam46"
+            },
+            {
+                "type": "BOOL",
+                "name": "blipChangeParam47"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

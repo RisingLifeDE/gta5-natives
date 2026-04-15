@@ -1,0 +1,19 @@
+{
+    "0xFF4803BC019852D9": {
+        "name": "SET_HEALTH_SNACKS_CARRIED_BY_ALL_NEW_PEDS",
+        "jhash": "0xD41C9AED",
+        "comment": "Related to Peds dropping pickup_health_snack; p0 is a value between [0.0, 1.0] that corresponds to drop rate",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x742D6FD43115AF73": {
+        "name": "PULSE_BLIP",
+        "jhash": "0x44253855",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

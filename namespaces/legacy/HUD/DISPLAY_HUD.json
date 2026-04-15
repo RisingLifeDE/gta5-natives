@@ -1,0 +1,15 @@
+{
+    "0xA6294919E56FF02A": {
+        "name": "DISPLAY_HUD",
+        "jhash": "0xD10E4E31",
+        "comment": "If Hud should be displayed",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

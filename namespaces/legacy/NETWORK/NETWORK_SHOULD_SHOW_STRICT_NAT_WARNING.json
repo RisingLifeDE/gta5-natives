@@ -1,0 +1,13 @@
+{
+    "0x82A2B386716608F1": {
+        "name": "NETWORK_SHOULD_SHOW_STRICT_NAT_WARNING",
+        "jhash": "",
+        "comment": "Returns true if the NAT type is Strict (3) and a certain number of connections have failed.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "393",
+        "old_names": [
+            "_NETWORK_SHOULD_SHOW_CONNECTIVITY_TROUBLESHOOTING"
+        ]
+    }
+}

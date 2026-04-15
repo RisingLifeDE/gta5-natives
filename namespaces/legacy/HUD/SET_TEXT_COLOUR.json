@@ -1,0 +1,27 @@
+{
+    "0xBE6B23FFA53FB442": {
+        "name": "SET_TEXT_COLOUR",
+        "jhash": "0xE54DD2C8",
+        "comment": "colors you input not same as you think?\nA: for some reason its R B G A",
+        "params": [
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

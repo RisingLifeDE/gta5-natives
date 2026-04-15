@@ -1,0 +1,15 @@
+{
+    "0xAD4326FCA30D62F8": {
+        "name": "NETWORK_IS_PLAYER_ON_BLOCKLIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2802"
+    }
+}

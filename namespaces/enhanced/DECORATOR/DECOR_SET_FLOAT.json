@@ -1,0 +1,26 @@
+{
+    "0x211AB1DD8D0F363A": {
+        "name": "DECOR_SET_FLOAT",
+        "jhash": "0xBC7BD5CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_DECOR_SET_FLOAT"
+        ]
+    }
+}

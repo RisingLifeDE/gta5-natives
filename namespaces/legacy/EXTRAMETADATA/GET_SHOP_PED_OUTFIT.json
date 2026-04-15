@@ -1,0 +1,19 @@
+{
+    "0xB7952076E444979D": {
+        "name": "GET_SHOP_PED_OUTFIT",
+        "jhash": "0xCAFE9209",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

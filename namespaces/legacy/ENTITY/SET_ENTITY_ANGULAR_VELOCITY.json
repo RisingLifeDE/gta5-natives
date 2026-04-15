@@ -1,0 +1,30 @@
+{
+    "0x8339643499D1222E": {
+        "name": "SET_ENTITY_ANGULAR_VELOCITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_ENTITY_ANGULAR_VELOCITY"
+        ]
+    }
+}

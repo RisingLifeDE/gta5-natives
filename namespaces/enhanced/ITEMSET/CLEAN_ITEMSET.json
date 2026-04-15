@@ -1,0 +1,15 @@
+{
+    "0x41BC0D722FC04221": {
+        "name": "CLEAN_ITEMSET",
+        "jhash": "0x919A4858",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

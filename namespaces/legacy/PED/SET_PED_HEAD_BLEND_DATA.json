@@ -1,0 +1,55 @@
+{
+    "0x9414E18B9434C2FE": {
+        "name": "SET_PED_HEAD_BLEND_DATA",
+        "jhash": "0x60746B88",
+        "comment": "The \"shape\" parameters control the shape of the ped's face. The \"skin\" parameters control the skin tone. ShapeMix and skinMix control how much the first and second IDs contribute,(typically mother and father.) ThirdMix overrides the others in favor of the third IDs. IsParent is set for \"children\" of the player character's grandparents during old-gen character creation. It has unknown effect otherwise.\n\nThe IDs start at zero and go Male Non-DLC, Female Non-DLC, Male DLC, and Female DLC.\n\n!!!Can someone add working example for this???\n\ntry this:\n       headBlendData headData;\n       GET_PED_HEAD_BLEND_DATA(PLAYER_PED_ID(), &headData);\n\n       SET_PED_HEAD_BLEND_DATA(PLAYER_PED_ID(), headData.shapeFirst, headData.shapeSecond, headData.shapeThird, headData.skinFirst, headData.skinSecond\n          , headData.skinThird, headData.shapeMix, headData.skinMix, headData.skinThird, 0);\n\n\nFor more info please refer to this topic. \ngtaforums.com/topic/858970-all-gtao-face-ids-pedset-ped-head-blend-data-explained",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "shapeFirstID"
+            },
+            {
+                "type": "int",
+                "name": "shapeSecondID"
+            },
+            {
+                "type": "int",
+                "name": "shapeThirdID"
+            },
+            {
+                "type": "int",
+                "name": "skinFirstID"
+            },
+            {
+                "type": "int",
+                "name": "skinSecondID"
+            },
+            {
+                "type": "int",
+                "name": "skinThirdID"
+            },
+            {
+                "type": "float",
+                "name": "shapeMix"
+            },
+            {
+                "type": "float",
+                "name": "skinMix"
+            },
+            {
+                "type": "float",
+                "name": "thirdMix"
+            },
+            {
+                "type": "BOOL",
+                "name": "isParent"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

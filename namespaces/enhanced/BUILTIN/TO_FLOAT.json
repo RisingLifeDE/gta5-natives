@@ -1,0 +1,15 @@
+{
+    "0xBBDA792448DB5A89": {
+        "name": "TO_FLOAT",
+        "jhash": "0x67116627",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

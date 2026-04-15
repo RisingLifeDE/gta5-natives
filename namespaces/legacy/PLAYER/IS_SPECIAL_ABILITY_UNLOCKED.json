@@ -1,0 +1,15 @@
+{
+    "0xC6017F6A6CDFA694": {
+        "name": "IS_SPECIAL_ABILITY_UNLOCKED",
+        "jhash": "0xC9C75E82",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "playerModel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

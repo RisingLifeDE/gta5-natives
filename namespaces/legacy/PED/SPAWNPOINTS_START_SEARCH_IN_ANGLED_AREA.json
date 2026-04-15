@@ -1,0 +1,51 @@
+{
+    "0xB2AFF10216DEFA2F": {
+        "name": "SPAWNPOINTS_START_SEARCH_IN_ANGLED_AREA",
+        "jhash": "0x4AAD0ECB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "int",
+                "name": "interiorFlags"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x2BF72AD5B41AA739": {
+        "name": "DISABLE_MOON_CYCLE_OVERRIDE",
+        "jhash": "",
+        "comment": "Resets the extra timecycle modifier strength normally set with 0x2C328AF17210F009",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_RESET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH"
+        ]
+    }
+}

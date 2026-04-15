@@ -1,0 +1,15 @@
+{
+    "0xBA91D045575699AD": {
+        "name": "GET_IS_BOAT_CAPSIZED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "877"
+    }
+}

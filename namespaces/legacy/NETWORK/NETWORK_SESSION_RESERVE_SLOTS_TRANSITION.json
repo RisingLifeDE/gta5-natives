@@ -1,0 +1,23 @@
+{
+    "0x041C7F2A6C9894E6": {
+        "name": "NETWORK_SESSION_RESERVE_SLOTS_TRANSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "463"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x75627043C6AA90AD": {
+        "name": "SET_DISABLE_MAP_COLLISION",
+        "jhash": "",
+        "comment": "Disables collision for this vehicle (maybe it also supports other entities, not sure).\nOnly world/building/fixed world objects will have their collisions disabled, props, peds, or any other entity still collides with the vehicle.\nExample: https://streamable.com/6n45d5\nNot sure if there is a native (and if so, which one) that resets the collisions.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180",
+        "old_names": [
+            "_DISABLE_VEHICLE_WORLD_COLLISION"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xB635392A4938B3C3": {
+        "name": "GET_VEHICLE_TYRE_SMOKE_COLOR",
+        "jhash": "0x75280015",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "r"
+            },
+            {
+                "type": "int*",
+                "name": "g"
+            },
+            {
+                "type": "int*",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

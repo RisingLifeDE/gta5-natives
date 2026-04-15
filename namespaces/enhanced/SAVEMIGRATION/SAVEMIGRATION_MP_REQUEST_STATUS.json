@@ -1,0 +1,10 @@
+{
+    "0xE5E9746A66359F9D": {
+        "name": "SAVEMIGRATION_MP_REQUEST_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2372"
+    }
+}

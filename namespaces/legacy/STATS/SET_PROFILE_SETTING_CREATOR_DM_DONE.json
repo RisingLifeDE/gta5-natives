@@ -1,0 +1,15 @@
+{
+    "0x38BAAA5DD4C9D19F": {
+        "name": "SET_PROFILE_SETTING_CREATOR_DM_DONE",
+        "jhash": "0x726FAE66",
+        "comment": "Sets profile setting 934",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

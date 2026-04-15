@@ -1,0 +1,22 @@
+{
+    "0x46E2B844905BC5F0": {
+        "name": "HAS_CLOUD_REQUESTS_FINISHED",
+        "jhash": "0x6087C10C",
+        "comment": "Sets the value of the specified variable to 0.\nAlways returns true.",
+        "params": [
+            {
+                "type": "BOOL*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NULLIFY"
+        ]
+    }
+}

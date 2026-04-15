@@ -1,0 +1,15 @@
+{
+    "0x01F6594B923B9251": {
+        "name": "SET_PED_RAGDOLL_FORCE_FALL",
+        "jhash": "0x20A5BDE0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

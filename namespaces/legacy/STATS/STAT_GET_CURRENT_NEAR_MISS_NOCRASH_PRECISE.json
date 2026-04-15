@@ -1,0 +1,13 @@
+{
+    "0xE8853FBCE7D8D0D6": {
+        "name": "STAT_GET_CURRENT_NEAR_MISS_NOCRASH_PRECISE",
+        "jhash": "",
+        "comment": "Perform the most near misses with other vehicles in a land vehicle without crashing",
+        "params": [],
+        "return_type": "int",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_NEAR_MISSES"
+        ]
+    }
+}

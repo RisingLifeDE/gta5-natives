@@ -1,0 +1,22 @@
+{
+    "0xF020C96915705B3A": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MPTICKER",
+        "jhash": "0x8E319AB8",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "blink"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_DRAW_NOTIFICATION_4"
+        ]
+    }
+}

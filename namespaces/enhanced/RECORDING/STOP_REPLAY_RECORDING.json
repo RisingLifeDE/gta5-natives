@@ -1,0 +1,14 @@
+{
+    "0x071A5197D6AFC8B3": {
+        "name": "STOP_REPLAY_RECORDING",
+        "jhash": "",
+        "comment": "Stops recording and saves the recorded clip.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_STOP_RECORDING",
+            "_STOP_RECORDING_AND_SAVE_CLIP"
+        ]
+    }
+}

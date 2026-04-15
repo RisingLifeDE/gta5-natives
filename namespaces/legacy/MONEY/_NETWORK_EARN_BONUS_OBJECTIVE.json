@@ -1,0 +1,23 @@
+{
+    "0xDCEF983C24191997": {
+        "name": "_NETWORK_EARN_BONUS_OBJECTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

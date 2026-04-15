@@ -1,0 +1,18 @@
+{
+    "0x04F2FA6E234162F7": {
+        "name": "GET_LAST_SHUNT_VEHICLE",
+        "jhash": "",
+        "comment": "Returns last vehicle that was rammed by the given vehicle using the shunt boost.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1604",
+        "old_names": [
+            "_GET_LAST_RAMMED_VEHICLE"
+        ]
+    }
+}

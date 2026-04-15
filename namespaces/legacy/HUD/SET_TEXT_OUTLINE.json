@@ -1,0 +1,10 @@
+{
+    "0x2513DFB0FB8400FE": {
+        "name": "SET_TEXT_OUTLINE",
+        "jhash": "0xC753412F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

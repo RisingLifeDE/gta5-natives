@@ -1,0 +1,15 @@
+{
+    "0xFA7C7F0AADF25D09": {
+        "name": "GET_BLIP_INFO_ID_COORD",
+        "jhash": "0xB7374A66",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

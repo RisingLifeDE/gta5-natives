@@ -1,0 +1,10 @@
+{
+    "0x944955FB2A3935C8": {
+        "name": "REQUEST_PTFX_ASSET",
+        "jhash": "0x2C649263",
+        "comment": "maps script name (thread + 0xD0) by lookup via scriptfx.dat - does nothing when script name is empty",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

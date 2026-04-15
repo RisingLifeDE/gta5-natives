@@ -1,0 +1,19 @@
+{
+    "0x8235F1BEAD557629": {
+        "name": "SET_DISABLE_PED_STAND_ON_TOP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

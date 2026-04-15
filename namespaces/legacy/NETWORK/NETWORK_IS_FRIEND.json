@@ -1,0 +1,15 @@
+{
+    "0x1A24A179F9B31654": {
+        "name": "NETWORK_IS_FRIEND",
+        "jhash": "0x2DA4C282",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

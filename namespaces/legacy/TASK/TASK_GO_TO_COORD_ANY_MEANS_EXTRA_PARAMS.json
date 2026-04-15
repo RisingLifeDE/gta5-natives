@@ -1,0 +1,63 @@
+{
+    "0x1DD45F9ECFDB1BC9": {
+        "name": "TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS",
+        "jhash": "0x094B75EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "useLongRangeVehiclePathing"
+            },
+            {
+                "type": "int",
+                "name": "drivingFlags"
+            },
+            {
+                "type": "float",
+                "name": "maxRangeToShootTargets"
+            },
+            {
+                "type": "float",
+                "name": "extraVehToTargetDistToPreferVehicle"
+            },
+            {
+                "type": "float",
+                "name": "driveStraightLineDistance"
+            },
+            {
+                "type": "int",
+                "name": "extraFlags"
+            },
+            {
+                "type": "float",
+                "name": "warpTimerMS"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

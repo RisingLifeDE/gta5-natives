@@ -1,0 +1,15 @@
+{
+    "0xB497F06B288DCFDF": {
+        "name": "IS_VEHICLE_STUCK_ON_ROOF",
+        "jhash": "0x18D07C6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

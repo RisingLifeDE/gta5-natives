@@ -1,0 +1,30 @@
+{
+    "0x94BC51E9449D917F": {
+        "name": "NETWORK_SESSION_DO_CREW_MATCHMAKING",
+        "jhash": "",
+        "comment": "p4 seems to be unused in 1.60/build 2628",
+        "params": [
+            {
+                "type": "int",
+                "name": "crewId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "NETWORK_SESSION_CREW_MATCHMAKING"
+        ]
+    }
+}

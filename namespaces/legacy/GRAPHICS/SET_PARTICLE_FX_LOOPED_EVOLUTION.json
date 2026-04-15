@@ -1,0 +1,27 @@
+{
+    "0x5F0C4B5B1C393BE2": {
+        "name": "SET_PARTICLE_FX_LOOPED_EVOLUTION",
+        "jhash": "0x1CBC1373",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "noNetwork"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

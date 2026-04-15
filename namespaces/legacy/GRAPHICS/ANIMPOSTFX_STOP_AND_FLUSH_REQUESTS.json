@@ -1,0 +1,18 @@
+{
+    "0xD2209BE128B5418C": {
+        "name": "ANIMPOSTFX_STOP_AND_FLUSH_REQUESTS",
+        "jhash": "",
+        "comment": "Stops the effect and sets a value (bool) in its data (+0x199) to false.\nSee ANIMPOSTFX_PLAY\n\nFull list of animpostFX / screen effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animPostFxNamesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ANIMPOSTFX_STOP_AND_DO_UNK"
+        ]
+    }
+}

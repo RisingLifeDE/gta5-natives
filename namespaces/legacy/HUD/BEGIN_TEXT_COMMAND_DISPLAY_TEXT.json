@@ -1,0 +1,18 @@
+{
+    "0x25FBB336DF1804CB": {
+        "name": "BEGIN_TEXT_COMMAND_DISPLAY_TEXT",
+        "jhash": "0x3E35563E",
+        "comment": "The following were found in the decompiled script files:\nSTRING, TWOSTRINGS, NUMBER, PERCENTAGE, FO_TWO_NUM, ESMINDOLLA, ESDOLLA, MTPHPER_XPNO, AHD_DIST, CMOD_STAT_0, CMOD_STAT_1, CMOD_STAT_2, CMOD_STAT_3, DFLT_MNU_OPT, F3A_TRAFDEST, ES_HELP_SOC3\n\nESDOLLA - cash\nESMINDOLLA - cash (negative)\n\nUsed to be known as _SET_TEXT_ENTRY",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_TEXT_ENTRY"
+        ]
+    }
+}

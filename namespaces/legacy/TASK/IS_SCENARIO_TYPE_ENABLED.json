@@ -1,0 +1,15 @@
+{
+    "0x3A815DB3EA088722": {
+        "name": "IS_SCENARIO_TYPE_ENABLED",
+        "jhash": "0xAE37E969",
+        "comment": "Full list of scenario types used in scripts by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenariosCompact.json\nOccurrences in the b617d scripts:\n\"PROP_HUMAN_SEAT_CHAIR\",\n\"WORLD_HUMAN_DRINKING\",\n\"WORLD_HUMAN_HANG_OUT_STREET\",\n\"WORLD_HUMAN_SMOKING\",\n\"WORLD_MOUNTAIN_LION_WANDER\",\n\"WORLD_HUMAN_DRINKING\"\n\nSometimes used together with MISC::IS_STRING_NULL_OR_EMPTY in the scripts.\n\nscenarioType could be the same as scenarioName, used in for example TASK::TASK_START_SCENARIO_AT_POSITION.\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

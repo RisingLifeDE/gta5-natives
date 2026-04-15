@@ -1,0 +1,15 @@
+{
+    "0x5776ED562C134687": {
+        "name": "TEXTURE_DOWNLOAD_HAS_FAILED",
+        "jhash": "0xE4547765",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

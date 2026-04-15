@@ -1,0 +1,19 @@
+{
+    "0xAA51DB313C010A7E": {
+        "name": "SET_BLIP_FLASH_INTERVAL",
+        "jhash": "0xEAF67377",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB542DE8C3D1CB210": {
+        "name": "SET_NO_DUCKING_FOR_CONVERSATION",
+        "jhash": "0x789D8C6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x920D853F3E17F1DA": {
+        "name": "FORCE_ROOM_FOR_GAME_VIEWPORT",
+        "jhash": "0xD79803B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "interiorID"
+            },
+            {
+                "type": "Hash",
+                "name": "roomHashKey"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

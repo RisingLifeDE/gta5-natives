@@ -1,0 +1,19 @@
+{
+    "0x3FC795691834481D": {
+        "name": "NETWORK_SET_NO_LONGER_NEEDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x1E9057A74FD73E23": {
+        "name": "SET_SCENE_STREAMING_TRACKS_CAM_POS_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

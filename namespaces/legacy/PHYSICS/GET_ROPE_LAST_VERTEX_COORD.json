@@ -1,0 +1,15 @@
+{
+    "0x21BB0FBD3E217C2D": {
+        "name": "GET_ROPE_LAST_VERTEX_COORD",
+        "jhash": "0x91F6848B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

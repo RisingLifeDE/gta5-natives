@@ -1,0 +1,27 @@
+{
+    "0xD8FA3908D7B86904": {
+        "name": "SET_CGOFFSET",
+        "jhash": "0x59910AB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

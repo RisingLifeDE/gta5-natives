@@ -1,0 +1,19 @@
+{
+    "0xA134777FF7F33331": {
+        "name": "NETWORK_CLAN_IS_EMBLEM_READY",
+        "jhash": "0x88B13CDC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

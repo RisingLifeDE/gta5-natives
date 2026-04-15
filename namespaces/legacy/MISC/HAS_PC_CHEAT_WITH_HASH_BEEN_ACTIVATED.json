@@ -1,0 +1,18 @@
+{
+    "0x557E43C447E700A8": {
+        "name": "HAS_PC_CHEAT_WITH_HASH_BEEN_ACTIVATED",
+        "jhash": "",
+        "comment": "Get inputted \"Cheat code\", for example:\n\nwhile (TRUE)\n{\n    if (MISC::HAS_PC_CHEAT_WITH_HASH_BEEN_ACTIVATED(${fugitive}))\n    {\n       // Do something.\n    }\n    SYSTEM::WAIT(0);\n}\n\nCalling this will also set the last saved string hash to zero.\n",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_CHEAT_STRING_JUST_BEEN_ENTERED"
+        ]
+    }
+}

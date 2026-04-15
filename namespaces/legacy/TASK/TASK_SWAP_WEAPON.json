@@ -1,0 +1,19 @@
+{
+    "0xA21C51255B205245": {
+        "name": "TASK_SWAP_WEAPON",
+        "jhash": "0xDAF4F8FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawWeapon"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

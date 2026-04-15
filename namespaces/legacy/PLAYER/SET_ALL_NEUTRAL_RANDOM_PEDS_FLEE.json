@@ -1,0 +1,22 @@
+{
+    "0xDE45D1A1EF45EE61": {
+        "name": "SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE",
+        "jhash": "0x274631FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_HUD_ANIM_STOP_LEVEL"
+        ]
+    }
+}

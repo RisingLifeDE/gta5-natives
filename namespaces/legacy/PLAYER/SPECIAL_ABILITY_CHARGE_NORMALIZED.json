@@ -1,0 +1,30 @@
+{
+    "0xA0696A65F009EE18": {
+        "name": "SPECIAL_ABILITY_CHARGE_NORMALIZED",
+        "jhash": "0x8C7E68C1",
+        "comment": "\nnormalizedValue is from 0.0 - 1.0\np2 is always 1",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "normalizedValue"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "RESET_SPECIAL_ABILITY_CONTROLS_CINEMATIC"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC52E0F855C58FC2E": {
+        "name": "SET_ENABLE_BOUND_ANKLES",
+        "jhash": "0x9208D689",
+        "comment": "Used with SET_ENABLE_HANDCUFFS in decompiled scripts. From my observations, I have noticed that while being ragdolled you are not able to get up but you can still run. Your legs can also bend.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

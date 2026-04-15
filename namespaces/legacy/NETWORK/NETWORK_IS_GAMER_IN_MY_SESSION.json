@@ -1,0 +1,15 @@
+{
+    "0x0F10B05DDF8D16E9": {
+        "name": "NETWORK_IS_GAMER_IN_MY_SESSION",
+        "jhash": "0x59127716",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

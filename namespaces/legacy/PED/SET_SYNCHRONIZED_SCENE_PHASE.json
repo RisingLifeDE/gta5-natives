@@ -1,0 +1,19 @@
+{
+    "0x734292F4F0ABF6D0": {
+        "name": "SET_SYNCHRONIZED_SCENE_PHASE",
+        "jhash": "0xF5AB0D98",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "float",
+                "name": "phase"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x25BC98A59C2EA962": {
+        "name": "GET_VEHICLE_DOOR_LOCK_STATUS",
+        "jhash": "0x0D72CEF2",
+        "comment": "enum VehicleLockStatus = {\n    None = 0,\n    Unlocked = 1,\n    Locked = 2,\n    LockedForPlayer = 3,\n    StickPlayerInside = 4, -- Doesn't allow players to exit the vehicle with the exit vehicle key.\n    CanBeBrokenInto = 7, -- Can be broken into the car. If the glass is broken, the value will be set to 1\n    CanBeBrokenIntoPersist = 8, -- Can be broken into persist\n    CannotBeTriedToEnter = 10, -- Cannot be tried to enter (Nothing happens when you press the vehicle enter key).\n}",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

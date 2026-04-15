@@ -1,0 +1,39 @@
+{
+    "0x8C18E0F9080ADD73": {
+        "name": "CREATE_SYNCHRONIZED_SCENE",
+        "jhash": "0xFFDDF8FA",
+        "comment": "p6 always 2 (but it doesnt seem to matter...)\n\nroll and pitch 0\nyaw to Ped.rotation",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

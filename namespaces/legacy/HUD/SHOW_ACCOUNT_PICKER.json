@@ -1,0 +1,13 @@
+{
+    "0x60E892BA4F5BDCA4": {
+        "name": "SHOW_ACCOUNT_PICKER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOW_SIGNIN_UI"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x50F457823CE6EB5F": {
+        "name": "SETUP_SHOP_PED_APPAREL_QUERY",
+        "jhash": "0xC937FF3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

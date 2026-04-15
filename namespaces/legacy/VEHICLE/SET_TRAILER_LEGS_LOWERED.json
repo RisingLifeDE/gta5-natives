@@ -1,0 +1,18 @@
+{
+    "0x878C75C09FBDB942": {
+        "name": "SET_TRAILER_LEGS_LOWERED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_TRAILER_LEGS_LOWERED"
+        ]
+    }
+}

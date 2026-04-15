@@ -1,0 +1,35 @@
+{
+    "0xE65F427EB70AB1ED": {
+        "name": "PLAY_SOUND_FROM_ENTITY",
+        "jhash": "0x95AE00F8",
+        "comment": "All found occurrences in b617d, sorted alphabetically and identical lines removed: https://pastebin.com/f2A7vTj0 \nNo changes made in b678d.\n\ngtaforums.com/topic/795622-audio-for-mods\n\nFull list of audio / sound names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/soundNames.json",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

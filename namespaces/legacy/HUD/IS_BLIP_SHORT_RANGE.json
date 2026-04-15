@@ -1,0 +1,15 @@
+{
+    "0xDA5F8727EB75B926": {
+        "name": "IS_BLIP_SHORT_RANGE",
+        "jhash": "0x1226765A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

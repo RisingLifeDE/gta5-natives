@@ -1,0 +1,15 @@
+{
+    "0x9B079E5221D984D3": {
+        "name": "FORCE_POSTFX_BULLET_IMPACTS_AFTER_HUD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

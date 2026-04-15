@@ -1,0 +1,15 @@
+{
+    "0x4C2330E61D3DEB56": {
+        "name": "SET_INTERIOR_IN_USE",
+        "jhash": "",
+        "comment": "Only used once in the entire game scripts.\nDoes not actually return anything.",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

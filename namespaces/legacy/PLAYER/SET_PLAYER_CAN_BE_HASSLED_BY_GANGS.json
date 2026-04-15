@@ -1,0 +1,19 @@
+{
+    "0xD5E460AD7020A246": {
+        "name": "SET_PLAYER_CAN_BE_HASSLED_BY_GANGS",
+        "jhash": "0x71B305BB",
+        "comment": "Sets whether this player can be hassled by gangs.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

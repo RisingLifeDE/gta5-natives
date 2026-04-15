@@ -1,0 +1,15 @@
+{
+    "0xD45DC2893621E1FE": {
+        "name": "GET_ENTITY_PITCH",
+        "jhash": "0xFCE6ECE5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

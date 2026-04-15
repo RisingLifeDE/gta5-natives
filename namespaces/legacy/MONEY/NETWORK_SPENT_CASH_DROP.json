@@ -1,0 +1,23 @@
+{
+    "0x289016EC778D60E0": {
+        "name": "NETWORK_SPENT_CASH_DROP",
+        "jhash": "0x87BD1D11",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

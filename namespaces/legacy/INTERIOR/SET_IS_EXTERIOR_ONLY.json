@@ -1,0 +1,19 @@
+{
+    "0x7241CCB7D020DB69": {
+        "name": "SET_IS_EXTERIOR_ONLY",
+        "jhash": "",
+        "comment": "Jenkins hash _might_ be 0xFC227584.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "791"
+    }
+}

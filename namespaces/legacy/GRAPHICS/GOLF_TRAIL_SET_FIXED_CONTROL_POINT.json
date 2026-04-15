@@ -1,0 +1,47 @@
+{
+    "0xB1BB03742917A5D6": {
+        "name": "GOLF_TRAIL_SET_FIXED_CONTROL_POINT",
+        "jhash": "0x3BB12B75",
+        "comment": "12 matches across 4 scripts. All 4 scripts were job creators.\n\ntype ranged from 0 - 2.\np4 was always 0.2f. Likely scale.\nassuming p5 - p8 is RGBA, the graphic is always yellow (255, 255, 0, 255).\n\nTested but noticed nothing.",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

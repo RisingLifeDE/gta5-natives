@@ -1,0 +1,10 @@
+{
+    "0x62ECFCFDEE7885D6": {
+        "name": "DISABLE_CINEMATIC_VEHICLE_IDLE_MODE_THIS_UPDATE",
+        "jhash": "0x837F8581",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xEBF8284D8CADEB53": {
+        "name": "NETWORK_REMOVE_AND_CANCEL_ALL_INVITES",
+        "jhash": "0x9773F36A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

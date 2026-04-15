@@ -1,0 +1,35 @@
+{
+    "0xC4493521BAA12CCE": {
+        "name": "_PLAYSTATS_FLOW_MEDIUM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "const char*",
+                "name": "action"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x27F9D613092159CF": {
+        "name": "REMOVE_ALL_PICKUPS_OF_TYPE",
+        "jhash": "0x40062C53",
+        "comment": "Full list of pickup types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pickupTypes.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x23D69E0465570028": {
+        "name": "BEGIN_TEXT_COMMAND_ADD_DIRECTLY_TO_PREVIOUS_BRIEFS",
+        "jhash": "0x0E103475",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_BEGIN_TEXT_COMMAND_OBJECTIVE"
+        ]
+    }
+}

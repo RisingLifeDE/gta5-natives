@@ -1,0 +1,22 @@
+{
+    "0x890E2C5ABED7236D": {
+        "name": "NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_DAMAGE",
+        "jhash": "",
+        "comment": "Allows vehicle wheels to be destructible even when the vehicle entity is invincible.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE"
+        ]
+    }
+}

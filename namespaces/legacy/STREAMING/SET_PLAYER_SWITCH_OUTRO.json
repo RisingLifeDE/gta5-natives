@@ -1,0 +1,47 @@
+{
+    "0xC208B673CE446B61": {
+        "name": "SET_PLAYER_SWITCH_OUTRO",
+        "jhash": "0x47352E14",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cameraCoordX"
+            },
+            {
+                "type": "float",
+                "name": "cameraCoordY"
+            },
+            {
+                "type": "float",
+                "name": "cameraCoordZ"
+            },
+            {
+                "type": "float",
+                "name": "camRotationX"
+            },
+            {
+                "type": "float",
+                "name": "camRotationY"
+            },
+            {
+                "type": "float",
+                "name": "camRotationZ"
+            },
+            {
+                "type": "float",
+                "name": "camFov"
+            },
+            {
+                "type": "float",
+                "name": "camFarClip"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

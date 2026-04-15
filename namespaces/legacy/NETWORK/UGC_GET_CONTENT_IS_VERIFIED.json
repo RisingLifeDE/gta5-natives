@@ -1,0 +1,15 @@
+{
+    "0xA9240A96C74CCA13": {
+        "name": "UGC_GET_CONTENT_IS_VERIFIED",
+        "jhash": "0x8F6754AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

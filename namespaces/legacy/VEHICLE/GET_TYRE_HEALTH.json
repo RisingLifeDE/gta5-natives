@@ -1,0 +1,22 @@
+{
+    "0x55EAB010FAEE9380": {
+        "name": "GET_TYRE_HEALTH",
+        "jhash": "",
+        "comment": "Usable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            }
+        ],
+        "return_type": "float",
+        "build": "1868",
+        "old_names": [
+            "_GET_TYRE_HEALTH"
+        ]
+    }
+}

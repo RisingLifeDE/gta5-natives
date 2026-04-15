@@ -1,0 +1,15 @@
+{
+    "0x4E096588B13FFECA": {
+        "name": "SET_TEXT_JUSTIFICATION",
+        "jhash": "0x68CDFA60",
+        "comment": "Types -\n0: Center-Justify\n1: Left-Justify\n2: Right-Justify\n\nRight-Justify requires SET_TEXT_WRAP, otherwise it will draw to the far right of the screen",
+        "params": [
+            {
+                "type": "int",
+                "name": "justifyType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

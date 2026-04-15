@@ -1,0 +1,18 @@
+{
+    "0x1753344C770358AE": {
+        "name": "SC_PROFANITY_GET_CHECK_IS_VALID",
+        "jhash": "0xFFED3676",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SC_HAS_CHECK_STRING_TASK_COMPLETED"
+        ]
+    }
+}

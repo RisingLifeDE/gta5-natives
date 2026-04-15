@@ -1,0 +1,19 @@
+{
+    "0xB055A34527CB8FD7": {
+        "name": "SET_VEHICLE_FORCE_AFTERBURNER",
+        "jhash": "0xC195803B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

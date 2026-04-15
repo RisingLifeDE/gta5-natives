@@ -1,0 +1,19 @@
+{
+    "0x59E7B488451F4D3A": {
+        "name": "SET_VEHICLE_AUDIO_ENGINE_DAMAGE_FACTOR",
+        "jhash": "0x23BE6432",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "damageFactor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

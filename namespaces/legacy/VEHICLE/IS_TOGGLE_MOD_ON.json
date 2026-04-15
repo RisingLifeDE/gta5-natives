@@ -1,0 +1,19 @@
+{
+    "0x84B233A8C8FC8AE7": {
+        "name": "IS_TOGGLE_MOD_ON",
+        "jhash": "0xF0E1689F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x8B0FACEFC36C824B": {
+        "name": "STAT_GET_DATE",
+        "jhash": "0xD762D16C",
+        "comment": "p3 is probably characterSlot or BOOL save, always -1",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "Any*",
+                "name": "outValue"
+            },
+            {
+                "type": "int",
+                "name": "numFields"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

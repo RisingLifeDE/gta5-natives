@@ -1,0 +1,15 @@
+{
+    "0xF22B6C47C6EAB066": {
+        "name": "IS_STRING_NULL",
+        "jhash": "0x8E71E00F",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

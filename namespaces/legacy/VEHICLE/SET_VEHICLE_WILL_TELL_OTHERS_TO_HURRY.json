@@ -1,0 +1,19 @@
+{
+    "0x2C4A1590ABF43E8B": {
+        "name": "SET_VEHICLE_WILL_TELL_OTHERS_TO_HURRY",
+        "jhash": "0x2EC19A8B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x7504C0F113AB50FC": {
+        "name": "IS_TAXI_LIGHT_ON",
+        "jhash": "0x6FC4924A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

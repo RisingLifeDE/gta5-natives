@@ -1,0 +1,10 @@
+{
+    "0x1077788E268557C2": {
+        "name": "NETWORK_IS_SIGNED_ONLINE",
+        "jhash": "0x6E5BDCE2",
+        "comment": "Returns whether the game is not in offline mode.\n\nseemed not to work for some ppl",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x42CBE54462D92634": {
+        "name": "SET_DITCH_POLICE_MODELS",
+        "jhash": "0x3EA7FCE4",
+        "comment": "This is a NOP function. It does nothing at all.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

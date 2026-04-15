@@ -1,0 +1,10 @@
+{
+    "0xDD79DF9F4D26E1C9": {
+        "name": "SET_FOLLOW_CAM_IGNORE_ATTACH_PARENT_MOVEMENT_THIS_UPDATE",
+        "jhash": "0x6B0E9D57",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

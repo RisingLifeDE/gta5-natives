@@ -1,0 +1,13 @@
+{
+    "0x74BD83EA840F6BC9": {
+        "name": "IS_AIM_CAM_ACTIVE_IN_ACCURATE_MODE",
+        "jhash": "0x8F320DE4",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_AIM_CAM_THIRD_PERSON_ACTIVE"
+        ]
+    }
+}

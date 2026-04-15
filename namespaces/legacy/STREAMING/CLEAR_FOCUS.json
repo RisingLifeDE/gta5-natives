@@ -1,0 +1,10 @@
+{
+    "0x31B73D1EA9F01DA2": {
+        "name": "CLEAR_FOCUS",
+        "jhash": "0x34D91E7A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x023782EFC70585EE": {
+        "name": "NETWORK_CANCEL_TRANSITION_MATCHMAKING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_NETWORK_BAIL_TRANSITION_QUICKMATCH"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE625BEABBAFFDAB9": {
+        "name": "GET_CUTSCENE_TIME",
+        "jhash": "0x53F5B5AB",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

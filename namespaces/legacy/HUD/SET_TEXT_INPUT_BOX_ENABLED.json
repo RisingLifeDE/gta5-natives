@@ -1,0 +1,15 @@
+{
+    "0x1185A8087587322C": {
+        "name": "SET_TEXT_INPUT_BOX_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

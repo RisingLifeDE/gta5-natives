@@ -1,0 +1,15 @@
+{
+    "0x5DB8010EE71FDEF2": {
+        "name": "IS_VEHICLE_AUDIBLY_DAMAGED",
+        "jhash": "0x6E660D3F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

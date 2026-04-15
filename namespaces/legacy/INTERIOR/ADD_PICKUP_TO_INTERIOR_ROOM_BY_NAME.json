@@ -1,0 +1,19 @@
+{
+    "0x3F6167F351168730": {
+        "name": "ADD_PICKUP_TO_INTERIOR_ROOM_BY_NAME",
+        "jhash": "0xA2A73564",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "const char*",
+                "name": "roomName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

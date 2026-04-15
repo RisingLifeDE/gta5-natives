@@ -1,0 +1,10 @@
+{
+    "0x25CB5A9F37BFD063": {
+        "name": "NETWORK_HAVE_ONLINE_PRIVILEGES",
+        "jhash": "0xEF63BFDF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

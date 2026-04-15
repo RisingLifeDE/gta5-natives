@@ -1,0 +1,15 @@
+{
+    "0x6100B3CEFD43452E": {
+        "name": "CLEAR_DEFAULT_PRIMARY_TASK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x84F0F13120B4E098": {
+        "name": "NETWORK_GET_TALKER_PROXIMITY",
+        "jhash": "0x19991ADD",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

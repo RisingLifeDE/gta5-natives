@@ -1,0 +1,10 @@
+{
+    "0x0DBD5D7E3C5BEC3B": {
+        "name": "NETWORK_IS_TRANSITION_CLOSED_CREW",
+        "jhash": "0xB97A966B",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

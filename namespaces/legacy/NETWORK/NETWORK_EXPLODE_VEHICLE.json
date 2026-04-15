@@ -1,0 +1,27 @@
+{
+    "0x301A42153C9AD707": {
+        "name": "NETWORK_EXPLODE_VEHICLE",
+        "jhash": "0x0E1B38AE",
+        "comment": "In the console script dumps, this is only referenced once. \nNETWORK::NETWORK_EXPLODE_VEHICLE(vehicle, 1, 0, 0);\n\n^^^^^ That must be PC script dumps? In X360 Script Dumps it is reference a few times with 2 differences in the parameters.\nWhich as you see below is 1, 0, 0 + 1, 1, 0 + 1, 0, and a *param?\n\nam_plane_takedown.c \nnetwork_explode_vehicle(net_to_veh(Local_40.imm_2), 1, 1, 0);\n\narmenian2.c \nnetwork_explode_vehicle(Local_80[6 <2>], 1, 0, 0);\n\nfm_horde_controler.c\nnetwork_explode_vehicle(net_to_veh(*uParam0), 1, 0, *uParam0);\n\nfm_mission_controller.c, has 6 hits so not going to list them.\n\nSide note, setting the first parameter to 0 seems to mute sound or so?\n\nSeems it's like ADD_EXPLOSION, etc. the first 2 params. The 3rd atm no need to worry since it always seems to be 0.\n",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x5CDE92C702A8FCE7": {
+        "name": "ADD_BLIP_FOR_ENTITY",
+        "jhash": "0x30822554",
+        "comment": "Returns red ( default ) blip attached to entity.\n\nExample:\nBlip blip; //Put this outside your case or option\nblip = HUD::ADD_BLIP_FOR_ENTITY(YourPedOrBodyguardName);\nHUD::SET_BLIP_AS_FRIENDLY(blip, true);",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "323"
+    }
+}

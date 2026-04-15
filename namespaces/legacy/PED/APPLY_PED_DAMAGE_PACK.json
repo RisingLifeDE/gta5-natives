@@ -1,0 +1,27 @@
+{
+    "0x46DF918788CB093F": {
+        "name": "APPLY_PED_DAMAGE_PACK",
+        "jhash": "0x208D0CB8",
+        "comment": "Damage Packs:\n\n\"SCR_TrevorTreeBang\"\n\"HOSPITAL_0\"\n\"HOSPITAL_1\"\n\"HOSPITAL_2\"\n\"HOSPITAL_3\"\n\"HOSPITAL_4\"\n\"HOSPITAL_5\"\n\"HOSPITAL_6\"\n\"HOSPITAL_7\"\n\"HOSPITAL_8\"\n\"HOSPITAL_9\"\n\"SCR_Dumpster\"\n\"BigHitByVehicle\"\n\"SCR_Finale_Michael_Face\"\n\"SCR_Franklin_finb\"\n\"SCR_Finale_Michael\"\n\"SCR_Franklin_finb2\"\n\"Explosion_Med\"\n\"SCR_Torture\"\n\"SCR_TracySplash\"\n\"Skin_Melee_0\"\n\nAdditional damage packs:\n\ngist.github.com/alexguirre/f3f47f75ddcf617f416f3c8a55ae2227\nFull list of ped damage packs by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedDamagePacks.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "damagePack"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            },
+            {
+                "type": "float",
+                "name": "mult"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x1761DC5D8471CBAA": {
+        "name": "IS_PLAYER_PARTIALLY_INSIDE_GARAGE",
+        "jhash": "0x41924877",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "garageHash"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

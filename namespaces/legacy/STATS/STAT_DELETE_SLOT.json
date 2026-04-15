@@ -1,0 +1,15 @@
+{
+    "0x49A49BED12794D70": {
+        "name": "STAT_DELETE_SLOT",
+        "jhash": "0x2F171B94",
+        "comment": "p0 is characterSlot? seems range from 0 to 2",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

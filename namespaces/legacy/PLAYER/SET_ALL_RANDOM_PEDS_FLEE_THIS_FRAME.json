@@ -1,0 +1,15 @@
+{
+    "0x471D2FF42A94B4F2": {
+        "name": "SET_ALL_RANDOM_PEDS_FLEE_THIS_FRAME",
+        "jhash": "0xBF974891",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xAA5A7ECE2AA8FE70": {
+        "name": "SET_PED_DESIRED_HEADING",
+        "jhash": "0x961458F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

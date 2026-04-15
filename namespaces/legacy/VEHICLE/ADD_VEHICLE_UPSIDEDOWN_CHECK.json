@@ -1,0 +1,15 @@
+{
+    "0xB72E26D81006005B": {
+        "name": "ADD_VEHICLE_UPSIDEDOWN_CHECK",
+        "jhash": "0x3A13D384",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

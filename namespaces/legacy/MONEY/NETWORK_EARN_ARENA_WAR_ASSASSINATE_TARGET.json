@@ -1,0 +1,18 @@
+{
+    "0x5E7AE8AABE8B7C0D": {
+        "name": "NETWORK_EARN_ARENA_WAR_ASSASSINATE_TARGET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_ASSASSINATE_TARGET_KILLED_2"
+        ]
+    }
+}

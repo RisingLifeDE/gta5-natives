@@ -1,0 +1,15 @@
+{
+    "0xCF463D1E9A0AECB1": {
+        "name": "DETACH_PORTABLE_PICKUP_FROM_PED",
+        "jhash": "0x1D094562",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

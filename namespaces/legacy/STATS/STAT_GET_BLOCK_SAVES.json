@@ -1,0 +1,10 @@
+{
+    "0x6A7F19756F1A9016": {
+        "name": "STAT_GET_BLOCK_SAVES",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2060"
+    }
+}

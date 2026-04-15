@@ -1,0 +1,13 @@
+{
+    "0xE7D267EC6CA966C3": {
+        "name": "GET_INTERIOR_FROM_PRIMARY_VIEW",
+        "jhash": "0xA83C3D15",
+        "comment": "Returns the current interior id from gameplay camera",
+        "params": [],
+        "return_type": "Interior",
+        "build": "1604",
+        "old_names": [
+            "_GET_INTERIOR_FROM_GAMEPLAY_CAM"
+        ]
+    }
+}

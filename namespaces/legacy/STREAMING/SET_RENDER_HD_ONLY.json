@@ -1,0 +1,15 @@
+{
+    "0x40AEFD1A244741F2": {
+        "name": "SET_RENDER_HD_ONLY",
+        "jhash": "0x9FA4AF99",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

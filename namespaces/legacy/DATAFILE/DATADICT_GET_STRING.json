@@ -1,0 +1,22 @@
+{
+    "0x3D2FD9E763B24472": {
+        "name": "DATADICT_GET_STRING",
+        "jhash": "0x942160EC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_GET_STRING"
+        ]
+    }
+}

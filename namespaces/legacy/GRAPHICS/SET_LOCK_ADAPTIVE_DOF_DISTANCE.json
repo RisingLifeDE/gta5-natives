@@ -1,0 +1,15 @@
+{
+    "0xB569F41F3E7E83A4": {
+        "name": "SET_LOCK_ADAPTIVE_DOF_DISTANCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

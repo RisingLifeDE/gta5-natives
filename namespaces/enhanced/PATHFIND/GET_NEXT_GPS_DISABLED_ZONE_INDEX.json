@@ -1,0 +1,10 @@
+{
+    "0xD3A6A0EF48823A8C": {
+        "name": "GET_NEXT_GPS_DISABLED_ZONE_INDEX",
+        "jhash": "0xBE92551F",
+        "comment": "Gets the next zone that has been disabled using SET_GPS_DISABLED_ZONE_AT_INDEX.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

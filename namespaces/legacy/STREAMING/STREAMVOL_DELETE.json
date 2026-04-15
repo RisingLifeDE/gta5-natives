@@ -1,0 +1,15 @@
+{
+    "0x1EE7D8DF4425F053": {
+        "name": "STREAMVOL_DELETE",
+        "jhash": "0xE80F8ABE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "unused"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

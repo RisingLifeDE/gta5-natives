@@ -1,0 +1,15 @@
+{
+    "0x3CA6050692BC61B0": {
+        "name": "SET_PAUSE_MENU_PED_LIGHTING",
+        "jhash": "0x127310EB",
+        "comment": "Toggles the light state for the pause menu ped in frontend menus.\n\nThis is used by R* in combination with `SET_PAUSE_MENU_PED_SLEEP_STATE` to toggle the \"offline\" or \"online\" state in the \"friends\" tab of the pause menu in GTA Online.\n\n\nExample:\nLights On: https://vespura.com/hi/i/2019-04-01_16-09_540ee_1015.png\nLights Off: https://vespura.com/hi/i/2019-04-01_16-10_8b5e7_1016.png",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

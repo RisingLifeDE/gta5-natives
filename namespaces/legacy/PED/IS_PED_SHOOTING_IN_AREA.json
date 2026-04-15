@@ -1,0 +1,47 @@
+{
+    "0x7E9DFE24AC1E58EF": {
+        "name": "IS_PED_SHOOTING_IN_AREA",
+        "jhash": "0x741BF04F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

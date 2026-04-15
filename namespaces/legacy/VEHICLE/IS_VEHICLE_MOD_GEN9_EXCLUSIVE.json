@@ -1,0 +1,26 @@
+{
+    "0x00834EAC4A96E010": {
+        "name": "IS_VEHICLE_MOD_GEN9_EXCLUSIVE",
+        "jhash": "",
+        "comment": "Returns true for any mod part listed in GEN9_EXCLUSIVE_ASSETS_VEHICLES_FILE.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "int",
+                "name": "modIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_IS_VEHICLE_MOD_HSW_EXCLUSIVE"
+        ]
+    }
+}

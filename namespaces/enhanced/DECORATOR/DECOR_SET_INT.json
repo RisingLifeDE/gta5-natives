@@ -1,0 +1,23 @@
+{
+    "0x0CE3AA5E1CA19E10": {
+        "name": "DECOR_SET_INT",
+        "jhash": "0xDB718B21",
+        "comment": "Sets property to int.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xEF21A9EF089A2668": {
+        "name": "SET_AUDIO_SCENE_VARIABLE",
+        "jhash": "0x19BB3CE8",
+        "comment": "Full list of audio scene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/audioSceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            },
+            {
+                "type": "const char*",
+                "name": "variable"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

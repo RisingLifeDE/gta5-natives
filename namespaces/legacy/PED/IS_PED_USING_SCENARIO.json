@@ -1,0 +1,19 @@
+{
+    "0x1BF094736DD62C2E": {
+        "name": "IS_PED_USING_SCENARIO",
+        "jhash": "0x0F65B0D4",
+        "comment": "Full list of ped scenarios by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenariosCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

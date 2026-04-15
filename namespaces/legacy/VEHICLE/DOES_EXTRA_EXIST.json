@@ -1,0 +1,19 @@
+{
+    "0x1262D55792428154": {
+        "name": "DOES_EXTRA_EXIST",
+        "jhash": "0x409411CC",
+        "comment": "Checks via CVehicleModelInfo",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "extraId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

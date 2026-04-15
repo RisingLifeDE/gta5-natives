@@ -1,0 +1,15 @@
+{
+    "0xF8C397922FC03F41": {
+        "name": "GET_CONVERTIBLE_ROOF_STATE",
+        "jhash": "0x1B09714D",
+        "comment": "0 -> up\n1 -> lowering down\n2 -> down\n3 -> raising up",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

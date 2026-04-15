@@ -1,0 +1,27 @@
+{
+    "0x43FEB945EE7F85B8": {
+        "name": "SET_VEHICLE_MOD_COLOR_1",
+        "jhash": "0xCBE9A54D",
+        "comment": "paintType:\n0: Normal\n1: Metallic\n2: Pearl\n3: Matte\n4: Metal\n5: Chrome\n6: Chameleon\n\ncolor: number of the color.\n\np3 seems to always be 0.\n\nFull list of vehicle colors and vehicle plates by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleColors.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "paintType"
+            },
+            {
+                "type": "int",
+                "name": "color"
+            },
+            {
+                "type": "int",
+                "name": "pearlescentColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

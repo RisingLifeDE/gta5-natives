@@ -1,0 +1,15 @@
+{
+    "0xFDD179EAF45B556C": {
+        "name": "GET_WANTED_LEVEL_THRESHOLD",
+        "jhash": "0xD9783F6B",
+        "comment": "Drft",
+        "params": [
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

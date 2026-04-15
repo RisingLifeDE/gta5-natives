@@ -1,0 +1,15 @@
+{
+    "0x916CA67D26FD1E37": {
+        "name": "ACTIVITY_FEED_LARGE_IMAGE_URL",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060"
+    }
+}

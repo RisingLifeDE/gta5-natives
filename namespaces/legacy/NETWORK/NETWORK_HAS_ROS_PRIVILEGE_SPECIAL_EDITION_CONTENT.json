@@ -1,0 +1,13 @@
+{
+    "0x91B87C55093DE351": {
+        "name": "NETWORK_HAS_ROS_PRIVILEGE_SPECIAL_EDITION_CONTENT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_ROS_PRIVILEGE_25"
+        ]
+    }
+}

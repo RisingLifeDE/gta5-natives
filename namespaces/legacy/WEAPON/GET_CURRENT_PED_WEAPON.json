@@ -1,0 +1,23 @@
+{
+    "0x3A87E44BB9A01D54": {
+        "name": "GET_CURRENT_PED_WEAPON",
+        "jhash": "0xB0237302",
+        "comment": "The return value seems to indicate returns true if the hash of the weapon object weapon equals the weapon hash.\np2 seems to be 1 most of the time.\n\n\n\n\n\np2 is not implemented\n\ndisassembly said that?\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC3330A45CCCDB26A": {
+        "name": "GET_CAM_FOV",
+        "jhash": "0xD6E9FCF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

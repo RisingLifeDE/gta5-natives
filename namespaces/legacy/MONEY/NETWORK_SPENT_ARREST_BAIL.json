@@ -1,0 +1,23 @@
+{
+    "0x812F5488B1B2A299": {
+        "name": "NETWORK_SPENT_ARREST_BAIL",
+        "jhash": "0x5AEE2FC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

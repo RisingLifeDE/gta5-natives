@@ -1,0 +1,15 @@
+{
+    "0x14D913B777DFF5DA": {
+        "name": "SET_PLAYER_CLOTH_LOCK_COUNTER",
+        "jhash": "0x8D9FD4D1",
+        "comment": "6 matches across 4 scripts. 5 occurrences were 240. The other was 255.",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

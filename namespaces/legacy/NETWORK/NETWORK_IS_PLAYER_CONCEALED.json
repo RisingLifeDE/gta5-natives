@@ -1,0 +1,15 @@
+{
+    "0x919B3C98ED8292F9": {
+        "name": "NETWORK_IS_PLAYER_CONCEALED",
+        "jhash": "0xB0313590",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

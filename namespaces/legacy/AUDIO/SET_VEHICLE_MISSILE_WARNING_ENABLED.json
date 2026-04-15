@@ -1,0 +1,19 @@
+{
+    "0xF3365489E0DD50F9": {
+        "name": "SET_VEHICLE_MISSILE_WARNING_ENABLED",
+        "jhash": "0x8AFC488D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

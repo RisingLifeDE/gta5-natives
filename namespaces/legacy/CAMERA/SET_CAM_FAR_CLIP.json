@@ -1,0 +1,19 @@
+{
+    "0xAE306F2A904BF86E": {
+        "name": "SET_CAM_FAR_CLIP",
+        "jhash": "0x0D23E381",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "farClip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

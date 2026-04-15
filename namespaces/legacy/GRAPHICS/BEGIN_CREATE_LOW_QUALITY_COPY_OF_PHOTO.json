@@ -1,0 +1,15 @@
+{
+    "0x759650634F07B6B4": {
+        "name": "BEGIN_CREATE_LOW_QUALITY_COPY_OF_PHOTO",
+        "jhash": "0x25D569EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

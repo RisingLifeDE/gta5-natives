@@ -1,0 +1,13 @@
+{
+    "0x8E580AB902917360": {
+        "name": "FORCE_CHECK_SCRIPT_VARIABLES",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_FORCE_CHECK_PROTECTED_VARIABLES_NOW"
+        ]
+    }
+}

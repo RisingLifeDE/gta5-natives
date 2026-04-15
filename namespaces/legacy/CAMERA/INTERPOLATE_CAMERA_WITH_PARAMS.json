@@ -1,0 +1,66 @@
+{
+    "0xDDA77EE33C005AAF": {
+        "name": "INTERPOLATE_CAMERA_WITH_PARAMS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "camPosX"
+            },
+            {
+                "type": "float",
+                "name": "camPosY"
+            },
+            {
+                "type": "float",
+                "name": "camPosZ"
+            },
+            {
+                "type": "float",
+                "name": "camRotX"
+            },
+            {
+                "type": "float",
+                "name": "camRotY"
+            },
+            {
+                "type": "float",
+                "name": "camRotZ"
+            },
+            {
+                "type": "float",
+                "name": "fov"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "posCurveType"
+            },
+            {
+                "type": "int",
+                "name": "rotCurveType"
+            },
+            {
+                "type": "int",
+                "name": "rotOrder"
+            },
+            {
+                "type": "int",
+                "name": "fovCurveType"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258",
+        "old_names": [
+            "_INTERPOLATE_CAM_WITH_PARAMS"
+        ]
+    }
+}

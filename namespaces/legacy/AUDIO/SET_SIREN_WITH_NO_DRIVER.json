@@ -1,0 +1,19 @@
+{
+    "0x1FEF0683B96EBCF2": {
+        "name": "SET_SIREN_WITH_NO_DRIVER",
+        "jhash": "0x77182D58",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xE4E2FD323574965C": {
+        "name": "SET_VEHICLE_BRAKE",
+        "jhash": "0x5A36BC37",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

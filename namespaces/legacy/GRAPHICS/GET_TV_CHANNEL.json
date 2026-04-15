@@ -1,0 +1,10 @@
+{
+    "0xFC1E275A90D39995": {
+        "name": "GET_TV_CHANNEL",
+        "jhash": "0x6B96145A",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

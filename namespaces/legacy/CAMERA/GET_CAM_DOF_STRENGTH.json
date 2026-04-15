@@ -1,0 +1,18 @@
+{
+    "0x06D153C0B99B6128": {
+        "name": "GET_CAM_DOF_STRENGTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "2699",
+        "old_names": [
+            "_GET_CAM_DOF_STRENGTH"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x032A116663A4D5AC": {
+        "name": "CAN_VEHICLE_RECEIVE_CB_RADIO",
+        "jhash": "0xCBA99F4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_RADIO_LOUD"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x048189FAC643DEEE": {
+        "name": "CHANGE_PLAYER_PED",
+        "jhash": "0xBE515485",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "resetDamage"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

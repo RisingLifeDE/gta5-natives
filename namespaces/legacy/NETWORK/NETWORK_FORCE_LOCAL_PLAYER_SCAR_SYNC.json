@@ -1,0 +1,13 @@
+{
+    "0xB7C7F6AD6424304B": {
+        "name": "NETWORK_FORCE_LOCAL_PLAYER_SCAR_SYNC",
+        "jhash": "0x371BBA08",
+        "comment": "NETWORK_F[I-O]",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_UPDATE_PLAYER_SCARS"
+        ]
+    }
+}

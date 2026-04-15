@@ -1,0 +1,13 @@
+{
+    "0x5B74EA8CFD5E3E7E": {
+        "name": "IS_SWITCH_SKIPPING_DESCENT",
+        "jhash": "0x90F64284",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "DESTROY_PLAYER_IN_PAUSE_MENU"
+        ]
+    }
+}

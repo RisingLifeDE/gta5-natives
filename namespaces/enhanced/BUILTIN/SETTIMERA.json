@@ -1,0 +1,15 @@
+{
+    "0xC1B1E9A034A63A62": {
+        "name": "SETTIMERA",
+        "jhash": "0x35785333",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

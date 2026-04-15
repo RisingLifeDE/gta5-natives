@@ -1,0 +1,118 @@
+{
+    "0xE82728F0DE75D13A": {
+        "name": "DRAW_MARKER_EX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "bobUpAndDown"
+            },
+            {
+                "type": "BOOL",
+                "name": "faceCamera"
+            },
+            {
+                "type": "Any",
+                "name": "p19"
+            },
+            {
+                "type": "BOOL",
+                "name": "rotate"
+            },
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawOnEnts"
+            },
+            {
+                "type": "BOOL",
+                "name": "p24"
+            },
+            {
+                "type": "BOOL",
+                "name": "p25"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_DRAW_MARKER_2"
+        ]
+    }
+}

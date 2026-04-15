@@ -1,0 +1,15 @@
+{
+    "0xC9F98AC1884E73A2": {
+        "name": "DISABLE_VEHICLE_DISTANTLIGHTS",
+        "jhash": "0x7CFAE36F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xCB2CF5148012C8D0": {
+        "name": "IS_TIME_LESS_THAN",
+        "jhash": "0x50EF8FC6",
+        "comment": "Subtracts the second argument from the first, then returns whether the result is negative.",
+        "params": [
+            {
+                "type": "int",
+                "name": "timeA"
+            },
+            {
+                "type": "int",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SUBTRACT_B_FROM_A_AND_CHECK_IF_NEGATIVE"
+        ]
+    }
+}

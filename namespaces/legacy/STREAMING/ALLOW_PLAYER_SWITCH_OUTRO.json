@@ -1,0 +1,10 @@
+{
+    "0x74DE2E8739086740": {
+        "name": "ALLOW_PLAYER_SWITCH_OUTRO",
+        "jhash": "0x1084F2F4",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

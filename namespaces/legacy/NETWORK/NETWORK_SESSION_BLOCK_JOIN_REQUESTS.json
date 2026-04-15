@@ -1,0 +1,15 @@
+{
+    "0xA73667484D7037C3": {
+        "name": "NETWORK_SESSION_BLOCK_JOIN_REQUESTS",
+        "jhash": "0xE6EEF8AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

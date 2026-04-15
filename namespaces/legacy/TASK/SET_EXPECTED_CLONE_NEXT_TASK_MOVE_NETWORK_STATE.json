@@ -1,0 +1,19 @@
+{
+    "0xAB13A5565480B6D9": {
+        "name": "SET_EXPECTED_CLONE_NEXT_TASK_MOVE_NETWORK_STATE",
+        "jhash": "0x1E58A7AD",
+        "comment": "Used only once in the scripts (fm_mission_controller) like so:\n\nTASK::SET_EXPECTED_CLONE_NEXT_TASK_MOVE_NETWORK_STATE(iLocal_3160, \"Cutting\");",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "state"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

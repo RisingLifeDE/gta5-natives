@@ -1,0 +1,13 @@
+{
+    "0x162F9D995753DC19": {
+        "name": "GET_FINAL_RENDERED_CAM_MOTION_BLUR_STRENGTH",
+        "jhash": "0x38992E83",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_FAR_CLIP_2"
+        ]
+    }
+}

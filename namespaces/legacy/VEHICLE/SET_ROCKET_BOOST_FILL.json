@@ -1,0 +1,22 @@
+{
+    "0xFEB2DDED3509562E": {
+        "name": "SET_ROCKET_BOOST_FILL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "percentage"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_VEHICLE_ROCKET_BOOST_PERCENTAGE"
+        ]
+    }
+}

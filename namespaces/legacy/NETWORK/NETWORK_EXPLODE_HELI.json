@@ -1,0 +1,27 @@
+{
+    "0x2A5E0621DD815A9A": {
+        "name": "NETWORK_EXPLODE_HELI",
+        "jhash": "0x955B31BF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

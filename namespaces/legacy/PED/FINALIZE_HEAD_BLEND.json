@@ -1,0 +1,15 @@
+{
+    "0x4668D80430D6C299": {
+        "name": "FINALIZE_HEAD_BLEND",
+        "jhash": "0x894314A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

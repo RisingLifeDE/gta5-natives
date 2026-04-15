@@ -1,0 +1,15 @@
+{
+    "0xB99C4E4D9499DF29": {
+        "name": "RESET_GLOBAL_ACTIONSCRIPT_FLAG",
+        "jhash": "0x4C4C10CF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flagIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

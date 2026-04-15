@@ -1,0 +1,10 @@
+{
+    "0x5EE2CAFF7F17770D": {
+        "name": "CAN_CREATE_RANDOM_COPS",
+        "jhash": "0xAA73DAD9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

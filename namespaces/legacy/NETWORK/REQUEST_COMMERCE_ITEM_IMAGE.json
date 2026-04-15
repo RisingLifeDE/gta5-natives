@@ -1,0 +1,15 @@
+{
+    "0xA2F952104FC6DD4B": {
+        "name": "REQUEST_COMMERCE_ITEM_IMAGE",
+        "jhash": "0x1FDC75DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

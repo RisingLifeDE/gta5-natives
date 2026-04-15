@@ -1,0 +1,15 @@
+{
+    "0x6D38F1F04CBB37EA": {
+        "name": "DETACH_SYNCHRONIZED_SCENE",
+        "jhash": "0x52A1CAB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xA08FE5E49BDC39DD": {
+        "name": "SET_PICKUP_OBJECT_GLOW_OFFSET",
+        "jhash": "0x276A7807",
+        "comment": "p1 is always -0.2 in scripts and p2 is always true in scripts.",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

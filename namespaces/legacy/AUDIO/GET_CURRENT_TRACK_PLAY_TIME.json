@@ -1,0 +1,18 @@
+{
+    "0x3E65CDE5215832C1": {
+        "name": "GET_CURRENT_TRACK_PLAY_TIME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStationName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1493",
+        "old_names": [
+            "_GET_CURRENT_RADIO_TRACK_PLAYBACK_TIME"
+        ]
+    }
+}

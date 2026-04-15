@@ -1,0 +1,19 @@
+{
+    "0xBA63D9FE45412247": {
+        "name": "IS_PED_DEFENSIVE_AREA_ACTIVE",
+        "jhash": "0x6D88BCD3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

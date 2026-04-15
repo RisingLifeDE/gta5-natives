@@ -1,0 +1,13 @@
+{
+    "0x8BFCEB5EA1B161B6": {
+        "name": "REPLAY_GET_MAX_DISTANCE_ALLOWED_FROM_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_REPLAY_FREE_CAM_GET_MAX_RANGE"
+        ]
+    }
+}

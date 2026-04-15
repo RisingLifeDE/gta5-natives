@@ -1,0 +1,13 @@
+{
+    "0xA049A5BE0F04F2F8": {
+        "name": "IS_COMMANDLINE_END_USER_BENCHMARK",
+        "jhash": "",
+        "comment": "Returns true if command line option '-benchmark' is set.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_COMMAND_LINE_BENCHMARK_VALUE_SET"
+        ]
+    }
+}

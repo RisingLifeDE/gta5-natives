@@ -1,0 +1,10 @@
+{
+    "0x37A4494483B9F5C9": {
+        "name": "NETWORK_IS_TRANSITION_OPEN_TO_MATCHMAKING",
+        "jhash": "0xC901AA9F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

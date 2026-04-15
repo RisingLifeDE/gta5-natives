@@ -1,0 +1,15 @@
+{
+    "0x06F43E5175EB6D96": {
+        "name": "HAS_PRELOAD_MODS_FINISHED",
+        "jhash": "0xA8A0D246",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xC847B43F369AC0B5": {
+        "name": "STAT_MIGRATE_CLEAR_FOR_RESTART",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

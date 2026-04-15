@@ -1,0 +1,15 @@
+{
+    "0x62454A641B41F3C5": {
+        "name": "SET_OBJECT_GLOW_IN_SAME_TEAM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void",
+        "build": "678"
+    }
+}

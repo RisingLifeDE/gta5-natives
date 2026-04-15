@@ -1,0 +1,26 @@
+{
+    "0x30A6614C1F7799B8": {
+        "name": "PRESENCE_EVENT_UPDATESTAT_FLOAT",
+        "jhash": "0x3E69E7C3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_UPDATE_STAT_FLOAT"
+        ]
+    }
+}

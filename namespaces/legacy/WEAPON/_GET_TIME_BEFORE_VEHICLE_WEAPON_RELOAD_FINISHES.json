@@ -1,0 +1,19 @@
+{
+    "0xC8C6F4B1CDEB40EF": {
+        "name": "_GET_TIME_BEFORE_VEHICLE_WEAPON_RELOAD_FINISHES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            }
+        ],
+        "return_type": "int",
+        "build": "3407"
+    }
+}

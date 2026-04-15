@@ -1,0 +1,10 @@
+{
+    "0xC67E2DA1CBE759E2": {
+        "name": "SET_PROFILE_SETTING_SP_CHOP_MISSION_COMPLETE",
+        "jhash": "",
+        "comment": "Sets profile setting 939",
+        "params": [],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

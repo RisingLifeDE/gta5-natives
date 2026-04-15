@@ -1,0 +1,15 @@
+{
+    "0xBE520D9761FF811F": {
+        "name": "SET_CG_AT_BOUNDCENTER",
+        "jhash": "0xA5B55421",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xED5EDE9E676643C9": {
+        "name": "SET_BOAT_IGNORE_LAND_PROBES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "944"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x1950DAE9848A4739": {
+        "name": "NETWORK_ACCESS_TUNABLE_FLOAT_MODIFICATION_DETECTION_REGISTRATION_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            },
+            {
+                "type": "Hash",
+                "name": "nameHash"
+            },
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "393",
+        "old_names": [
+            "_NETWORK_REGISTER_TUNABLE_FLOAT_HASH"
+        ]
+    }
+}

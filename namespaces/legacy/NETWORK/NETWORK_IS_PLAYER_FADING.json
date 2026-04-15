@@ -1,0 +1,15 @@
+{
+    "0x631DC5DFF4B110E3": {
+        "name": "NETWORK_IS_PLAYER_FADING",
+        "jhash": "0x065C597B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

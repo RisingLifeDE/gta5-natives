@@ -1,0 +1,15 @@
+{
+    "0x07DBD622D9533857": {
+        "name": "SC_EMAIL_SET_CURRENT_EMAIL_TAG",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505"
+    }
+}

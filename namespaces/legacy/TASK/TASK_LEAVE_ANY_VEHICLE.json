@@ -1,0 +1,23 @@
+{
+    "0x504D54DF3F6F2247": {
+        "name": "TASK_LEAVE_ANY_VEHICLE",
+        "jhash": "0xDBDD79FA",
+        "comment": "Flags are the same flags used in TASK_LEAVE_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "delayTime"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

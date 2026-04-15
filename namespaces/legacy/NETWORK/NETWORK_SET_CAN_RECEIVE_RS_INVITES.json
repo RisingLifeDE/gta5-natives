@@ -1,0 +1,15 @@
+{
+    "0x68980414688F7F9D": {
+        "name": "NETWORK_SET_CAN_RECEIVE_RS_INVITES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "2612"
+    }
+}

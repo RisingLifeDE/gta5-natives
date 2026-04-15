@@ -1,0 +1,10 @@
+{
+    "0xC0E0D686DDFC6EAE": {
+        "name": "STAT_GET_LOAD_SAFE_TO_PROGRESS_TO_MP_FROM_SP",
+        "jhash": "0x099FCC86",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

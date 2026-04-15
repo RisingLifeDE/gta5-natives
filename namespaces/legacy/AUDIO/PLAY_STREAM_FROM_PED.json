@@ -1,0 +1,15 @@
+{
+    "0x89049DD63C08B5D1": {
+        "name": "PLAY_STREAM_FROM_PED",
+        "jhash": "0xA1D7FABE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x5234F9F10919EABA": {
+        "name": "GET_RENDERING_CAM",
+        "jhash": "0x0FCF4DF1",
+        "comment": "",
+        "params": [],
+        "return_type": "Cam",
+        "build": "323"
+    }
+}

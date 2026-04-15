@@ -1,0 +1,51 @@
+{
+    "0xC7F76DF27A5045A1": {
+        "name": "SET_PED_ANGLED_DEFENSIVE_AREA",
+        "jhash": "0x3EFBDD9B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

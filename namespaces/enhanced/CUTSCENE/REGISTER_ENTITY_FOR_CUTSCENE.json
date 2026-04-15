@@ -1,0 +1,31 @@
+{
+    "0xE40C1C56DF95C2E8": {
+        "name": "REGISTER_ENTITY_FOR_CUTSCENE",
+        "jhash": "0x7CBC3EC7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "cutscenePed"
+            },
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

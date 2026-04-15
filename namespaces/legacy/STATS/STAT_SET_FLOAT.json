@@ -1,0 +1,23 @@
+{
+    "0x4851997F37FE9B3C": {
+        "name": "STAT_SET_FLOAT",
+        "jhash": "0x6CEA96F2",
+        "comment": "Example:\n STATS::STAT_SET_FLOAT(MISC::GET_HASH_KEY(\"MP0_WEAPON_ACCURACY\"), 66.6f, true);",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

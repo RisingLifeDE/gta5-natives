@@ -1,0 +1,19 @@
+{
+    "0x645D0B458D8E17B5": {
+        "name": "CAN_SET_ENTER_STATE_FOR_REGISTERED_ENTITY",
+        "jhash": "0x55C30B26",
+        "comment": "modelHash (p1) was always 0 in R* scripts",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

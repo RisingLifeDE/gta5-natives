@@ -1,0 +1,19 @@
+{
+    "0xC58424BA936EB458": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_BOOL",
+        "jhash": "0x0D4AE8CB",
+        "comment": "Pushes a boolean for the Scaleform function onto the stack.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_BOOL",
+            "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_BOOL"
+        ]
+    }
+}

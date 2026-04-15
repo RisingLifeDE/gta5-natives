@@ -1,0 +1,15 @@
+{
+    "0x4AF9BD80EEBEB453": {
+        "name": "IS_VEHICLE_STOLEN",
+        "jhash": "0x20B61DDE",
+        "comment": "Only returns true if the vehicle was marked as stolen with SET_VEHICLE_IS_STOLEN.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

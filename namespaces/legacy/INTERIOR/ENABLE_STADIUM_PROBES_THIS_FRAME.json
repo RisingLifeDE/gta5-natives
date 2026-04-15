@@ -1,0 +1,15 @@
+{
+    "0x7ECDF98587E92DEC": {
+        "name": "ENABLE_STADIUM_PROBES_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

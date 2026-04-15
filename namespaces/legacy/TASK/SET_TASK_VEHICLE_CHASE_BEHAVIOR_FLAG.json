@@ -1,0 +1,23 @@
+{
+    "0xCC665AAC360D31E7": {
+        "name": "SET_TASK_VEHICLE_CHASE_BEHAVIOR_FLAG",
+        "jhash": "0x2A83083F",
+        "comment": "Flag 8: Medium-aggressive boxing tactic with a bit of PIT\nFlag 1: Aggressive ramming of suspect\nFlag 2: Ram attempts\nFlag 32: Stay back from suspect, no tactical contact. Convoy-like.\nFlag 16: Ramming, seems to be slightly less aggressive than 1-2.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "BOOL",
+                "name": "set"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

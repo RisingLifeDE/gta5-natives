@@ -1,0 +1,51 @@
+{
+    "0xB51194800B257161": {
+        "name": "CREATE_CAM_WITH_PARAMS",
+        "jhash": "0x23B02F15",
+        "comment": "camName is always set to \"DEFAULT_SCRIPTED_CAMERA\" in Rockstar's scripts.\n------------\nCamera names found in the b617d scripts:\n\"DEFAULT_ANIMATED_CAMERA\"\n\"DEFAULT_SCRIPTED_CAMERA\"\n\"DEFAULT_SCRIPTED_FLY_CAMERA\"\n\"DEFAULT_SPLINE_CAMERA\"\n------------\nSide Note: It seems p8 is basically to represent what would be the bool p1 within CREATE_CAM native. As well as the p9 since it's always 2 in scripts seems to represent what would be the last param within SET_CAM_ROT native which normally would be 2.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "fov"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "323"
+    }
+}

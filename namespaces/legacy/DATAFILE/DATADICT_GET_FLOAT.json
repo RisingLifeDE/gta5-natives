@@ -1,0 +1,22 @@
+{
+    "0x06610343E73B9727": {
+        "name": "DATADICT_GET_FLOAT",
+        "jhash": "0xA92C1AF4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_GET_FLOAT"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x523A590C1A3CC0D3": {
+        "name": "OPEN_REPORTUGC_MENU",
+        "jhash": "0x10DE5150",
+        "comment": "Shows a menu for reporting UGC content.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISPLAY_JOB_REPORT"
+        ]
+    }
+}

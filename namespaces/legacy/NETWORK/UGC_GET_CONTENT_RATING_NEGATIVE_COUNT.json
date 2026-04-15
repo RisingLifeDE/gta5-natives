@@ -1,0 +1,19 @@
+{
+    "0x4E548C0D7AE39FF9": {
+        "name": "UGC_GET_CONTENT_RATING_NEGATIVE_COUNT",
+        "jhash": "0x41A0FB02",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

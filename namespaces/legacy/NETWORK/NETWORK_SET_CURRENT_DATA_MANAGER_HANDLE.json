@@ -1,0 +1,18 @@
+{
+    "0x796A87B3B68D1F3D": {
+        "name": "NETWORK_SET_CURRENT_DATA_MANAGER_HANDLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_CHECK_DATA_MANAGER_FOR_HANDLE"
+        ]
+    }
+}

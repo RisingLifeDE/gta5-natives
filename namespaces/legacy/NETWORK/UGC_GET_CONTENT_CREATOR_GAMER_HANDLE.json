@@ -1,0 +1,19 @@
+{
+    "0x584770794D758C18": {
+        "name": "UGC_GET_CONTENT_CREATOR_GAMER_HANDLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

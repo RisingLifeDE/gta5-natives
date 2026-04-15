@@ -1,0 +1,15 @@
+{
+    "0x0BADBFA3B172435F": {
+        "name": "SIN",
+        "jhash": "0xBF987F58",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

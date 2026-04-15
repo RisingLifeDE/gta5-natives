@@ -1,0 +1,10 @@
+{
+    "0xE1615EC03B3BB4FD": {
+        "name": "IS_MOUSE_LOOK_INVERTED",
+        "jhash": "",
+        "comment": "Used with IS_LOOK_INVERTED() and negates its affect.\n\n--\n\nNot sure how the person above got that description, but here's an actual example:\n\nif (PAD::IS_USING_KEYBOARD_AND_MOUSE(2)) {\n    if (a_5) {\n        if (PAD::IS_LOOK_INVERTED()) {\n            a_3 *= -1;\n        }\n        if (PAD::IS_MOUSE_LOOK_INVERTED()) {\n            a_3 *= -1;\n        }\n    }\n}",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x2B5AA717A181FB4C": {
+        "name": "SET_PED_AO_BLOB_RENDERING",
+        "jhash": "0x98E29ED0",
+        "comment": "Enable/disable ped shadow (ambient occlusion). https://gfycat.com/thankfulesteemedgecko",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

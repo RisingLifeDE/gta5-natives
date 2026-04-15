@@ -1,0 +1,10 @@
+{
+    "0x7148E0F43D11F0D9": {
+        "name": "REMOVE_SCRIPT_FIRE_POSITION",
+        "jhash": "",
+        "comment": "Resets values set by SET_SCRIPT_FIRE_POSITION",
+        "params": [],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

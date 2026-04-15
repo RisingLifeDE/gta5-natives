@@ -1,0 +1,15 @@
+{
+    "0x76D26A22750E849E": {
+        "name": "SET_VEHICLE_DONT_TERMINATE_TASK_WHEN_ACHIEVED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

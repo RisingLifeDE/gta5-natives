@@ -1,0 +1,22 @@
+{
+    "0x6DEE944E1EE90CFB": {
+        "name": "SET_VEHICLE_REDUCE_GRIP_LEVEL",
+        "jhash": "",
+        "comment": "val is 0-3\nOften used in conjunction with: SET_VEHICLE_REDUCE_GRIP",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "val"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_VEHICLE_REDUCE_TRACTION"
+        ]
+    }
+}

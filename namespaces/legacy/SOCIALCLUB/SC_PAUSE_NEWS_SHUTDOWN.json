@@ -1,0 +1,10 @@
+{
+    "0xEA95C0853A27888E": {
+        "name": "SC_PAUSE_NEWS_SHUTDOWN",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

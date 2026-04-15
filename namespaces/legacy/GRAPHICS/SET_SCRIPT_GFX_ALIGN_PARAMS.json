@@ -1,0 +1,30 @@
+{
+    "0xF5A2C681787E579D": {
+        "name": "SET_SCRIPT_GFX_ALIGN_PARAMS",
+        "jhash": "0x76C641E4",
+        "comment": "Sets the draw offset/calculated size for SET_SCRIPT_GFX_ALIGN. If using any alignment other than left/top, the game expects the width/height to be configured using this native in order to get a proper starting position for the draw command.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "w"
+            },
+            {
+                "type": "float",
+                "name": "h"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SCREEN_DRAW_POSITION_RATIO"
+        ]
+    }
+}

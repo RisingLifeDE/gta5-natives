@@ -1,0 +1,22 @@
+{
+    "0x394B9CD12435C981": {
+        "name": "SET_SYNCHRONIZED_SCENE_HOLD_LAST_FRAME",
+        "jhash": "0x2DE48DA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SYNCHRONIZED_SCENE_OCCLUSION_PORTAL"
+        ]
+    }
+}

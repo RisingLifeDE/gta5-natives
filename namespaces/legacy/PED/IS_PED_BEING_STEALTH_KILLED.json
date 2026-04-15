@@ -1,0 +1,15 @@
+{
+    "0x863B23EFDE9C5DF2": {
+        "name": "IS_PED_BEING_STEALTH_KILLED",
+        "jhash": "0xD044C8AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

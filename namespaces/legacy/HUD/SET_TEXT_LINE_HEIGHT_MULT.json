@@ -1,0 +1,15 @@
+{
+    "0x9F4624F76E6953D1": {
+        "name": "SET_TEXT_LINE_HEIGHT_MULT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "lineHeightMult"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x7AA5B4CE533C858B": {
+        "name": "CLEAR_GPS_RACE_TRACK",
+        "jhash": "0x40C59829",
+        "comment": "Does the same as SET_RACE_TRACK_RENDER(false);",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

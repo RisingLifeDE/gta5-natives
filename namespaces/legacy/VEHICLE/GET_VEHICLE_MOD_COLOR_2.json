@@ -1,0 +1,23 @@
+{
+    "0x81592BE4E3878728": {
+        "name": "GET_VEHICLE_MOD_COLOR_2",
+        "jhash": "0x9B76BB8E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "paintType"
+            },
+            {
+                "type": "int*",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

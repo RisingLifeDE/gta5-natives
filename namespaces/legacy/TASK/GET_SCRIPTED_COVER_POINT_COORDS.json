@@ -1,0 +1,15 @@
+{
+    "0x594A1028FC2A3E85": {
+        "name": "GET_SCRIPTED_COVER_POINT_COORDS",
+        "jhash": "0xC6B6CCC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "coverpoint"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

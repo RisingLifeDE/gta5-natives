@@ -1,0 +1,27 @@
+{
+    "0xCB968B53FC7F916D": {
+        "name": "SET_FORCE_STEP_TYPE",
+        "jhash": "0xC0F1BC91",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

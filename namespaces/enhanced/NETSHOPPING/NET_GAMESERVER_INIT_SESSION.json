@@ -1,0 +1,10 @@
+{
+    "0xE3E5A7C64CA2C6ED": {
+        "name": "NET_GAMESERVER_INIT_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

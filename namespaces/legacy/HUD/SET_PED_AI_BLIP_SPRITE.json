@@ -1,0 +1,22 @@
+{
+    "0xFCFACD0DB9D7A57D": {
+        "name": "SET_PED_AI_BLIP_SPRITE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "spriteId"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_PED_AI_BLIP_SPRITE"
+        ]
+    }
+}

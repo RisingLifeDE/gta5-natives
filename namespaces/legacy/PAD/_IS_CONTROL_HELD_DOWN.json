@@ -1,0 +1,23 @@
+{
+    "0xE9CB8C56E90D5079": {
+        "name": "_IS_CONTROL_HELD_DOWN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

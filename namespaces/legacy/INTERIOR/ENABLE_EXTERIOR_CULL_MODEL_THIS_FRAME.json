@@ -1,0 +1,18 @@
+{
+    "0xA97F257D0151A6AB": {
+        "name": "ENABLE_EXTERIOR_CULL_MODEL_THIS_FRAME",
+        "jhash": "0x1F375B4C",
+        "comment": "This is the native that is used to hide the exterior of GTA Online apartment buildings when you are inside an apartment.\n\nMore info: http://gtaforums.com/topic/836301-hiding-gta-online-apartment-exteriors/",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "mapObjectHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_HIDE_MAP_OBJECT_THIS_FRAME"
+        ]
+    }
+}

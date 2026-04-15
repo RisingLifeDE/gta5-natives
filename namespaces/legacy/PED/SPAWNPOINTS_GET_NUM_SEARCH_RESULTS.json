@@ -1,0 +1,10 @@
+{
+    "0xA635C11B8C44AFC2": {
+        "name": "SPAWNPOINTS_GET_NUM_SEARCH_RESULTS",
+        "jhash": "0xF46B4DC8",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

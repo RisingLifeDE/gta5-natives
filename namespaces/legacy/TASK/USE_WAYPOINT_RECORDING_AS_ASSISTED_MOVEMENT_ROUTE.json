@@ -1,0 +1,27 @@
+{
+    "0x5A353B8E6B1095B5": {
+        "name": "USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE",
+        "jhash": "0x4DFD5FEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

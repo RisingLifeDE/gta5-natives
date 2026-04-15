@@ -1,0 +1,22 @@
+{
+    "0x1201E8A3290A3B98": {
+        "name": "SET_CAN_USE_HYDRAULICS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_SET_CAMBERED_WHEELS_DISABLED"
+        ]
+    }
+}

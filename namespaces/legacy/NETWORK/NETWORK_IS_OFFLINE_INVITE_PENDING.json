@@ -1,0 +1,10 @@
+{
+    "0x74698374C45701D2": {
+        "name": "NETWORK_IS_OFFLINE_INVITE_PENDING",
+        "jhash": "0x70ED476A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

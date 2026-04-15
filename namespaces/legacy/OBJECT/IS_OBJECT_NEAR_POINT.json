@@ -1,0 +1,31 @@
+{
+    "0x8C90FE4B381BA60A": {
+        "name": "IS_OBJECT_NEAR_POINT",
+        "jhash": "0x50A62C43",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "objectHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

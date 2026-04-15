@@ -1,0 +1,19 @@
+{
+    "0x7D304C1C955E3E12": {
+        "name": "GET_CAM_ROT",
+        "jhash": "0xDAC84C9F",
+        "comment": "The last parameter, as in other \"ROT\" methods, is usually 2.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

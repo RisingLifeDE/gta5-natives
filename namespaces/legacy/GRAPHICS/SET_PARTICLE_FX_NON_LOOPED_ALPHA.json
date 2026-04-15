@@ -1,0 +1,15 @@
+{
+    "0x77168D722C58B2FC": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_ALPHA",
+        "jhash": "0x497EAFF2",
+        "comment": "Usage example for C#:\n\nFunction.Call(Hash.SET_PARTICLE_FX_NON_LOOPED_ALPHA, new InputArgument[] { 0.1f });\n\nNote: the argument alpha ranges from 0.0f-1.0f !",
+        "params": [
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

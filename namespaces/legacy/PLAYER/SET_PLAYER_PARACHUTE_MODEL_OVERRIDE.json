@@ -1,0 +1,19 @@
+{
+    "0x977DB4641F6FC3DB": {
+        "name": "SET_PLAYER_PARACHUTE_MODEL_OVERRIDE",
+        "jhash": "0x5D382498",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

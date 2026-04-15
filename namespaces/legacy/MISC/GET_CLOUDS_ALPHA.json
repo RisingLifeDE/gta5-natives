@@ -1,0 +1,13 @@
+{
+    "0x20AC25E781AE4A84": {
+        "name": "GET_CLOUDS_ALPHA",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_CLOUD_HAT_OPACITY"
+        ]
+    }
+}

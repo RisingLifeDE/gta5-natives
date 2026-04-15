@@ -1,0 +1,19 @@
+{
+    "0x3E9679C1DFCF422C": {
+        "name": "SET_PED_WILL_ONLY_ATTACK_WANTED_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "877"
+    }
+}

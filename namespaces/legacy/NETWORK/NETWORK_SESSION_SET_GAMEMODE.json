@@ -1,0 +1,15 @@
+{
+    "0x600F8CB31C7AAB6E": {
+        "name": "NETWORK_SESSION_SET_GAMEMODE",
+        "jhash": "0x959E43A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

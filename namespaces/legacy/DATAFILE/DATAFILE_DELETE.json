@@ -1,0 +1,15 @@
+{
+    "0x9AB9C1CFC8862DFB": {
+        "name": "DATAFILE_DELETE",
+        "jhash": "0xDEF31B0A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

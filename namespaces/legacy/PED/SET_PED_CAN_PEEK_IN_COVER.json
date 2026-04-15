@@ -1,0 +1,19 @@
+{
+    "0xC514825C507E3736": {
+        "name": "SET_PED_CAN_PEEK_IN_COVER",
+        "jhash": "0xC1DAE216",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

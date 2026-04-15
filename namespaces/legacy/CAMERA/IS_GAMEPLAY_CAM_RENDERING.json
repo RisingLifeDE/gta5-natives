@@ -1,0 +1,10 @@
+{
+    "0x39B5D1B10383F0C8": {
+        "name": "IS_GAMEPLAY_CAM_RENDERING",
+        "jhash": "0x0EF276DA",
+        "comment": "Examples when this function will return 0 are:\n- During busted screen.\n- When player is coming out from a hospital.\n- When player is coming out from a police station.\n- When player is buying gun from AmmuNation.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

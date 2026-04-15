@@ -1,0 +1,15 @@
+{
+    "0xB1CC1B9EC3007A2A": {
+        "name": "NETWORK_EARN_FROM_CRATE_DROP",
+        "jhash": "0xEAF04923",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

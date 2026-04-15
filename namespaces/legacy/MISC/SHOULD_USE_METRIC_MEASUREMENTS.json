@@ -1,0 +1,13 @@
+{
+    "0xD3D15555431AB793": {
+        "name": "SHOULD_USE_METRIC_MEASUREMENTS",
+        "jhash": "0xBAF17315",
+        "comment": "Returns true if the game is using the metric measurement system (profile setting 227), false if imperial is used.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_GAME_USING_METRIC_MEASUREMENT_SYSTEM"
+        ]
+    }
+}

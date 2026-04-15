@@ -1,0 +1,15 @@
+{
+    "0xB1906895227793F3": {
+        "name": "SET_PLAYER_TARGETING_MODE",
+        "jhash": "0x61CAE253",
+        "comment": "Sets your targeting mode.\n0 = Assisted Aim - Full\n1 = Assisted Aim - Partial\n2 = Free Aim - Assisted\n3 = Free Aim",
+        "params": [
+            {
+                "type": "int",
+                "name": "targetMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

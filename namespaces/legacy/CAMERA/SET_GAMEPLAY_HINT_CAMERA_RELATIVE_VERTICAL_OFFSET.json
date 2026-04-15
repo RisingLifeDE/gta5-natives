@@ -1,0 +1,18 @@
+{
+    "0xC92717EF615B6704": {
+        "name": "SET_GAMEPLAY_HINT_CAMERA_RELATIVE_VERTICAL_OFFSET",
+        "jhash": "0x3554AA0E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "yOffset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_HINT_ANIM_OFFSETY"
+        ]
+    }
+}

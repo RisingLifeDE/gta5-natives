@@ -1,0 +1,15 @@
+{
+    "0x5891CAC5D4ACFF74": {
+        "name": "IS_PED_IN_GROUP",
+        "jhash": "0x836D9795",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

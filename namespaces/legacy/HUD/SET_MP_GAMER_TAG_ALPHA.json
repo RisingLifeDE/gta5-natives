@@ -1,0 +1,23 @@
+{
+    "0xD48FE545CD46F857": {
+        "name": "SET_MP_GAMER_TAG_ALPHA",
+        "jhash": "0xF4418611",
+        "comment": "Sets flag's sprite transparency. 0-255.",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "component"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

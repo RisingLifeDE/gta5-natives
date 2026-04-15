@@ -1,0 +1,18 @@
+{
+    "0xCCF1E97BEFDAE480": {
+        "name": "GET_ENTITY_COLLISION_DISABLED",
+        "jhash": "0xE8C0C629",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_ENTITY_COLLISON_DISABLED"
+        ]
+    }
+}

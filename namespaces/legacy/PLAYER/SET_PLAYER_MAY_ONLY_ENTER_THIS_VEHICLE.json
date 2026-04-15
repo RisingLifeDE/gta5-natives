@@ -1,0 +1,19 @@
+{
+    "0x8026FF78F208978A": {
+        "name": "SET_PLAYER_MAY_ONLY_ENTER_THIS_VEHICLE",
+        "jhash": "0xA454DD29",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

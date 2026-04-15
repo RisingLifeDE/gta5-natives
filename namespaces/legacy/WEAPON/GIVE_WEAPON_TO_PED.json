@@ -1,0 +1,31 @@
+{
+    "0xBF0FD6E56C964FCB": {
+        "name": "GIVE_WEAPON_TO_PED",
+        "jhash": "0xC4D88A85",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "ammoCount"
+            },
+            {
+                "type": "BOOL",
+                "name": "isHidden"
+            },
+            {
+                "type": "BOOL",
+                "name": "bForceInHand"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

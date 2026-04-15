@@ -1,0 +1,10 @@
+{
+    "0xB071E27958EF4CF0": {
+        "name": "NETWORK_GAMERTAG_FROM_HANDLE_PENDING",
+        "jhash": "0xF000828E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

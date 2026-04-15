@@ -1,0 +1,14 @@
+{
+    "0x1F471B79ACC90BEF": {
+        "name": "NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT",
+        "jhash": "0x807B3450",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUM_MEMBERSHIP_DESC",
+            "_NETWORK_CLAN_GET_NUM_MEMBERSHIP_DESC"
+        ]
+    }
+}

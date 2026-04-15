@@ -1,0 +1,22 @@
+{
+    "0x0772DF77852C2E30": {
+        "name": "CHANGE_FAKE_MP_CASH",
+        "jhash": "0xE319F90B",
+        "comment": "Displays cash change notifications on HUD.",
+        "params": [
+            {
+                "type": "int",
+                "name": "cash"
+            },
+            {
+                "type": "int",
+                "name": "bank"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_SINGLEPLAYER_HUD_CASH"
+        ]
+    }
+}

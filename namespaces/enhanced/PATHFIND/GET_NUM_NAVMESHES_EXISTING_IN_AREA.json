@@ -1,0 +1,35 @@
+{
+    "0x01708E8DD3FF8C65": {
+        "name": "GET_NUM_NAVMESHES_EXISTING_IN_AREA",
+        "jhash": "0x76AFFBB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

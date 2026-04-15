@@ -1,0 +1,10 @@
+{
+    "0x20F898A5D9782800": {
+        "name": "GET_PLAYER_SHORT_SWITCH_STATE",
+        "jhash": "0x9B7BA38F",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

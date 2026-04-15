@@ -1,0 +1,18 @@
+{
+    "0xABDABF4E1EDECBFA": {
+        "name": "ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1365",
+        "old_names": [
+            "_SET_UNK_GLOBAL_BOOL_RELATED_TO_DAMAGE"
+        ]
+    }
+}

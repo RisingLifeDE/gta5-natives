@@ -1,0 +1,15 @@
+{
+    "0xCA2C8073411ECDB6": {
+        "name": "NETWORK_SET_GAMER_INVITED_TO_TRANSITION",
+        "jhash": "0x17F1C69D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

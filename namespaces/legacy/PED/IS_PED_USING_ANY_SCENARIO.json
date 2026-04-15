@@ -1,0 +1,15 @@
+{
+    "0x57AB4A3080F85143": {
+        "name": "IS_PED_USING_ANY_SCENARIO",
+        "jhash": "0x195EF5B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

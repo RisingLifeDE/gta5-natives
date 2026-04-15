@@ -1,0 +1,23 @@
+{
+    "0x679BE1DAF71DA874": {
+        "name": "IS_VEHICLE_STUCK_TIMER_UP",
+        "jhash": "0x2FCF58C1",
+        "comment": "p1 can be anywhere from 0 to 3 in the scripts.\np2 being how long in milliseconds the vehicle has been stuck",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

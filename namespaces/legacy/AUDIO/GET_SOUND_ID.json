@@ -1,0 +1,10 @@
+{
+    "0x430386FE9BF80B45": {
+        "name": "GET_SOUND_ID",
+        "jhash": "0x6AE0AD56",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

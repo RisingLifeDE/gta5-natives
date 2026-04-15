@@ -1,0 +1,15 @@
+{
+    "0xE57397B4A3429DD0": {
+        "name": "NETWORK_SESSION_GET_INVITER",
+        "jhash": "0xE9C6B3FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

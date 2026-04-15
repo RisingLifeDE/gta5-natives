@@ -1,0 +1,15 @@
+{
+    "0x44D28D5DDFE5F68C": {
+        "name": "IS_PED_TRYING_TO_ENTER_A_LOCKED_VEHICLE",
+        "jhash": "0x46828B4E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

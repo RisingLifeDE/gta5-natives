@@ -1,0 +1,19 @@
+{
+    "0xE33FFA906CE74880": {
+        "name": "IS_TURRET_SEAT",
+        "jhash": "0x7C43D32A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

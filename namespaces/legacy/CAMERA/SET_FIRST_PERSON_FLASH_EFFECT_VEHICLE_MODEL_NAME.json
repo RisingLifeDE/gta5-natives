@@ -1,0 +1,18 @@
+{
+    "0x21E253A7F8DA5DFB": {
+        "name": "SET_FIRST_PERSON_FLASH_EFFECT_VEHICLE_MODEL_NAME",
+        "jhash": "",
+        "comment": "From b617 scripts:\n\nCAM::SET_FIRST_PERSON_FLASH_EFFECT_VEHICLE_MODEL_NAME(\"DINGHY\");\nCAM::SET_FIRST_PERSON_FLASH_EFFECT_VEHICLE_MODEL_NAME(\"ISSI2\");\nCAM::SET_FIRST_PERSON_FLASH_EFFECT_VEHICLE_MODEL_NAME(\"SPEEDO\");",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "vehicleName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_VEHICLE_CAMERA"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x560B423D73015E77": {
+        "name": "NETWORK_IS_THREAD_A_NETWORK_SCRIPT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_IS_THREAD_ACTIVE"
+        ]
+    }
+}

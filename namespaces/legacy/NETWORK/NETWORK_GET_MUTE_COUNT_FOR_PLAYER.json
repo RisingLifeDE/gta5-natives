@@ -1,0 +1,23 @@
+{
+    "0xADB57E5B663CCA8B": {
+        "name": "NETWORK_GET_MUTE_COUNT_FOR_PLAYER",
+        "jhash": "0x92268BB5",
+        "comment": "NETWORK_GET_M[A-U]",
+        "params": [
+            {
+                "type": "Player",
+                "name": "p0"
+            },
+            {
+                "type": "float*",
+                "name": "p1"
+            },
+            {
+                "type": "float*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

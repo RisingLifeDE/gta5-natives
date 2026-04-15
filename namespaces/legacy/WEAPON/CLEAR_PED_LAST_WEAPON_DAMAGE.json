@@ -1,0 +1,15 @@
+{
+    "0x0E98F88A24C5F4B8": {
+        "name": "CLEAR_PED_LAST_WEAPON_DAMAGE",
+        "jhash": "0x52C68832",
+        "comment": "Does NOT seem to work with HAS_PED_BEEN_DAMAGED_BY_WEAPON. Use CLEAR_ENTITY_LAST_WEAPON_DAMAGE and HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON instead.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

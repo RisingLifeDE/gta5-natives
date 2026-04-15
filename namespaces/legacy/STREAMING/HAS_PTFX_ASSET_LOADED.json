@@ -1,0 +1,10 @@
+{
+    "0xCA7D9B86ECA7481B": {
+        "name": "HAS_PTFX_ASSET_LOADED",
+        "jhash": "0x3EFF96BE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

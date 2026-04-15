@@ -1,0 +1,18 @@
+{
+    "0xCBDB9B923CACC92D": {
+        "name": "GET_ATTACHED_PICK_UP_HOOK_POSITION",
+        "jhash": "0xE6633DCF",
+        "comment": "Gets the position of the cargobob hook, in world coords.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_GET_CARGOBOB_HOOK_POSITION"
+        ]
+    }
+}

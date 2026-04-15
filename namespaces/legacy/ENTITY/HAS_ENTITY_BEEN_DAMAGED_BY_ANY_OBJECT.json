@@ -1,0 +1,15 @@
+{
+    "0x95EB9964FF5C5C65": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY_ANY_OBJECT",
+        "jhash": "0x6B74582E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

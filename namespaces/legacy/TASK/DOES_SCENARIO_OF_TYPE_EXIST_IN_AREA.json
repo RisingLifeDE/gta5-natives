@@ -1,0 +1,35 @@
+{
+    "0x0A9D0C2A3BBC86C1": {
+        "name": "DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA",
+        "jhash": "0x0FB138A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "const char*",
+                "name": "scenarioName"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "mustBeFree"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

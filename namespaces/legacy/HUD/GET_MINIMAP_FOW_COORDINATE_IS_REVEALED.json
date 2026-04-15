@@ -1,0 +1,26 @@
+{
+    "0x6E31B91145873922": {
+        "name": "GET_MINIMAP_FOW_COORDINATE_IS_REVEALED",
+        "jhash": "0x65B705F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_MINIMAP_AREA_REVEALED"
+        ]
+    }
+}

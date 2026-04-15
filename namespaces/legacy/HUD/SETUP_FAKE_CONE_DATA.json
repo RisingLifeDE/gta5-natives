@@ -1,0 +1,47 @@
+{
+    "0xF83D0FEBE75E62C9": {
+        "name": "SETUP_FAKE_CONE_DATA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

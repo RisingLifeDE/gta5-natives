@@ -1,0 +1,51 @@
+{
+    "0x397C38AA7B4A5F83": {
+        "name": "APPLY_PED_DAMAGE_DECAL",
+        "jhash": "0x8A13A41F",
+        "comment": "enum eDamageZone\n{\n\tDZ_Torso = 0,\n\tDZ_Head,\n\tDZ_LeftArm,\n\tDZ_RightArm,\n\tDZ_LeftLeg,\n\tDZ_RightLeg,\n};\n\nDecal Names:\nscar\nblushing\ncs_flush_anger\ncs_flush_anger_face\nbruise\nbruise_large\nherpes\nArmorBullet\nbasic_dirt_cloth\nbasic_dirt_skin\ncs_trev1_dirt\n\nAPPLY_PED_DAMAGE_DECAL(ped, 1, 0.5f, 0.513f, 0f, 1f, unk, 0, 0, \"blushing\");",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "damageZone"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "variation"
+            },
+            {
+                "type": "BOOL",
+                "name": "fadeIn"
+            },
+            {
+                "type": "const char*",
+                "name": "decalName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

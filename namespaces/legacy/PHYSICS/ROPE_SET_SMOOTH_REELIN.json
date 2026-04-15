@@ -1,0 +1,19 @@
+{
+    "0x36CCB9BE67B970FD": {
+        "name": "ROPE_SET_SMOOTH_REELIN",
+        "jhash": "0xC67D5CF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x77758139EC9B66C7": {
+        "name": "USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR",
+        "jhash": "0x4DD46DAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

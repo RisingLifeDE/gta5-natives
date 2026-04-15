@@ -1,0 +1,15 @@
+{
+    "0x3855FB5EB2C5E8B2": {
+        "name": "NETWORK_GET_INVITE_REPLY_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "505"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xC23DE0E91C30B58C": {
+        "name": "REQUEST_CUTSCENE_WITH_PLAYBACK_LIST",
+        "jhash": "0xD98F656A",
+        "comment": "flags: Usually 8\n\nplaybackFlags: Which scenes should be played.\nExample: 0x105 (bit 0, 2 and 8 set) will enable scene 1, 3 and 9.\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            },
+            {
+                "type": "int",
+                "name": "playbackFlags"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REQUEST_CUTSCENE_EX"
+        ]
+    }
+}

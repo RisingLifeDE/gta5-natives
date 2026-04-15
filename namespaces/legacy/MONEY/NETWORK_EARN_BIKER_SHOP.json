@@ -1,0 +1,22 @@
+{
+    "0x2C5809EB9DF57257": {
+        "name": "NETWORK_EARN_BIKER_SHOP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2699",
+        "old_names": [
+            "_NETWORK_EARN_FROM_BIKE_SHOP_BUSINESS"
+        ]
+    }
+}

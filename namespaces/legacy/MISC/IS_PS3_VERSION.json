@@ -1,0 +1,10 @@
+{
+    "0xCCA1072C29D096C2": {
+        "name": "IS_PS3_VERSION",
+        "jhash": "0x4C0D5303",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

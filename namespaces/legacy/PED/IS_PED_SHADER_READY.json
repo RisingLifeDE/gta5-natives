@@ -1,0 +1,18 @@
+{
+    "0x81AA517FBBA05D39": {
+        "name": "IS_PED_SHADER_READY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_IS_PED_SHADER_EFFECT_VALID"
+        ]
+    }
+}

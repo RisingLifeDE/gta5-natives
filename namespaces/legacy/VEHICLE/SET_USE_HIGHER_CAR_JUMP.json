@@ -1,0 +1,22 @@
+{
+    "0xF06A16CA55D138D8": {
+        "name": "SET_USE_HIGHER_CAR_JUMP",
+        "jhash": "",
+        "comment": "Allows vehicles with the FLAG_JUMPING_CAR flag to jump higher (i.e. Ruiner 2000).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_USE_HIGHER_VEHICLE_JUMP_FORCE"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xF833DDBA3B104D43": {
+        "name": "SET_PED_CAN_PLAY_VISEME_ANIMS",
+        "jhash": "0xA2FDAF27",
+        "comment": "p2 usually 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

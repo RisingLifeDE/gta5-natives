@@ -1,0 +1,35 @@
+{
+    "0x5A504562485944DD": {
+        "name": "GET_ENTITY_HEIGHT",
+        "jhash": "0xEE443481",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "BOOL",
+                "name": "atTop"
+            },
+            {
+                "type": "BOOL",
+                "name": "inWorldCoords"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

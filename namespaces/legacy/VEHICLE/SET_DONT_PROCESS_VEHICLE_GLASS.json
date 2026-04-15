@@ -1,0 +1,22 @@
+{
+    "0x1087BC8EC540DAEB": {
+        "name": "SET_DONT_PROCESS_VEHICLE_GLASS",
+        "jhash": "",
+        "comment": "R* used it to \"remove\" vehicle windows when \"nightshark\" had some mod, which adding some kind of armored windows. When enabled, you can't break vehicles glass. All your bullets wiil shoot through glass. You also will not able to break the glass with any other way (hitting and etc)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_SET_DISABLE_VEHICLE_WINDOW_COLLISIONS"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xA00EFE4082C4056E": {
+        "name": "SC_INBOX_MESSAGE_GET_DATA_INT",
+        "jhash": "0x88068C7C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "context"
+            },
+            {
+                "type": "int*",
+                "name": "out"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

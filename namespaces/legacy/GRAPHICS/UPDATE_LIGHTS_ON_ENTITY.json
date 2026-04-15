@@ -1,0 +1,18 @@
+{
+    "0xDEADC0DEDEADC0DE": {
+        "name": "UPDATE_LIGHTS_ON_ENTITY",
+        "jhash": "0xC12AC47A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ENTITY_DESCRIPTION_TEXT"
+        ]
+    }
+}

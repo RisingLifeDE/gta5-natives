@@ -1,0 +1,19 @@
+{
+    "0x7CFBA6A80BDF3874": {
+        "name": "SET_ENTITY_LIGHTS",
+        "jhash": "0xE8FC85AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

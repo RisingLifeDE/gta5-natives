@@ -1,0 +1,19 @@
+{
+    "0x9969599CCFF5D85E": {
+        "name": "SET_ABILITY_BAR_VALUE",
+        "jhash": "0x24E53FD8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB1B1EA596344DFAB": {
+        "name": "IS_ITEMSET_VALID",
+        "jhash": "0xD201FC29",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

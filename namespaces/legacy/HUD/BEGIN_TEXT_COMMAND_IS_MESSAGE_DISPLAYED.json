@@ -1,0 +1,15 @@
+{
+    "0x853648FD1063A213": {
+        "name": "BEGIN_TEXT_COMMAND_IS_MESSAGE_DISPLAYED",
+        "jhash": "0xDD524A11",
+        "comment": "nothin doin. \n\nBOOL Message(const char* text)\n   {\n     BEGIN_TEXT_COMMAND_IS_MESSAGE_DISPLAYED(\"STRING\");\n      ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n       return END_TEXT_COMMAND_IS_MESSAGE_DISPLAYED();\n   }",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

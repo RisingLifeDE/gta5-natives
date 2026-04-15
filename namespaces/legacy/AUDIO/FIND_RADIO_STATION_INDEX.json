@@ -1,0 +1,15 @@
+{
+    "0x8D67489793FF428B": {
+        "name": "FIND_RADIO_STATION_INDEX",
+        "jhash": "0xECA1512F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "stationNameHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

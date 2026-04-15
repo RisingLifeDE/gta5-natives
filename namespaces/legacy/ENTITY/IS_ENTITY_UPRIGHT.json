@@ -1,0 +1,19 @@
+{
+    "0x5333F526F6AB19AA": {
+        "name": "IS_ENTITY_UPRIGHT",
+        "jhash": "0x3BCDF4E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

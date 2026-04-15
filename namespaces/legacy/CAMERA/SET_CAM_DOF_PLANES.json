@@ -1,0 +1,31 @@
+{
+    "0x3CF48F6F96E749DC": {
+        "name": "SET_CAM_DOF_PLANES",
+        "jhash": "0xAD6C2B8F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

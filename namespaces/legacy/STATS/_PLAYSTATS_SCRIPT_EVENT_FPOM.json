@@ -1,0 +1,15 @@
+{
+    "0x574A7808450E141C": {
+        "name": "_PLAYSTATS_SCRIPT_EVENT_FPOM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

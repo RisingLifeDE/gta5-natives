@@ -1,0 +1,22 @@
+{
+    "0xF584CF8529B51434": {
+        "name": "SET_SIREN_BYPASS_MP_DRIVER_CHECK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_SIREN_KEEP_ON"
+        ]
+    }
+}

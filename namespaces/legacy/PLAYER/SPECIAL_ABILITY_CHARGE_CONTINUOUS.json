@@ -1,0 +1,23 @@
+{
+    "0xED481732DFF7E997": {
+        "name": "SPECIAL_ABILITY_CHARGE_CONTINUOUS",
+        "jhash": "0x5FEE98A2",
+        "comment": "p1 appears to always be 1 (only comes up twice)",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

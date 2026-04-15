@@ -1,0 +1,15 @@
+{
+    "0xC142BE3BB9CE125F": {
+        "name": "DISABLE_PLAYER_VEHICLE_REWARDS",
+        "jhash": "0x8C6E611D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

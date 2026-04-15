@@ -1,0 +1,13 @@
+{
+    "0x25F87B30C382FCA7": {
+        "name": "THEFEED_HIDE_THIS_FRAME",
+        "jhash": "0x1E63088A",
+        "comment": "Once called each frame hides all above radar notifications.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_HIDE_HUD_NOTIFICATIONS_THIS_FRAME"
+        ]
+    }
+}

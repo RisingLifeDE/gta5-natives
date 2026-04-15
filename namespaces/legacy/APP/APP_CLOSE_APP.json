@@ -1,0 +1,10 @@
+{
+    "0xE41C65E07A5F05FC": {
+        "name": "APP_CLOSE_APP",
+        "jhash": "0x03767C7A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

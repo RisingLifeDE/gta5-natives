@@ -1,0 +1,10 @@
+{
+    "0x84ED31191CC5D2C9": {
+        "name": "GET_IS_HIDEF",
+        "jhash": "0x1C340359",
+        "comment": "false = Any resolution < 1280x720\ntrue = Any resolution >= 1280x720",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

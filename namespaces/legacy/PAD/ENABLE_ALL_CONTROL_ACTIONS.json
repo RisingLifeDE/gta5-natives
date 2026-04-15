@@ -1,0 +1,15 @@
+{
+    "0xA5FFE9B05F199DE7": {
+        "name": "ENABLE_ALL_CONTROL_ACTIONS",
+        "jhash": "0xFC2F119F",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

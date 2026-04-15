@@ -1,0 +1,26 @@
+{
+    "0xB214D570EAD7F81A": {
+        "name": "SET_SPECIAL_ABILITY_MP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "678",
+        "old_names": [
+            "_SET_SPECIAL_ABILITY"
+        ]
+    }
+}

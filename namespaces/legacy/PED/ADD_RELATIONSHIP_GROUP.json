@@ -1,0 +1,19 @@
+{
+    "0xF372BC22FCB88606": {
+        "name": "ADD_RELATIONSHIP_GROUP",
+        "jhash": "0x8B635546",
+        "comment": "Can't select void. This function returns nothing. The hash of the created relationship group is output in the second parameter.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Hash*",
+                "name": "groupHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

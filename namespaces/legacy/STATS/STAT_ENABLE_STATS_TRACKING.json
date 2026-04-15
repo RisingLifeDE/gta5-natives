@@ -1,0 +1,13 @@
+{
+    "0x98E2BC1CA26287C3": {
+        "name": "STAT_ENABLE_STATS_TRACKING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_STAT_MANAGER_SET_MUTABLE"
+        ]
+    }
+}

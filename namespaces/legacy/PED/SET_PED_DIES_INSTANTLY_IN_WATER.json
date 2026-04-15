@@ -1,0 +1,19 @@
+{
+    "0xEEB64139BA29A7CF": {
+        "name": "SET_PED_DIES_INSTANTLY_IN_WATER",
+        "jhash": "0xFE2554FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

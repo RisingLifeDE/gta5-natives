@@ -1,0 +1,15 @@
+{
+    "0xCD71A4ECAB22709E": {
+        "name": "NETWORK_USE_LOGARITHMIC_BLENDING_THIS_FRAME",
+        "jhash": "0xBC54371B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

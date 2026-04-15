@@ -1,0 +1,10 @@
+{
+    "0xF25E02CB9C5818F8": {
+        "name": "DISABLE_VEHICLE_EXPLOSION_BREAK_OFF_PARTS",
+        "jhash": "0xF0E59BC1",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

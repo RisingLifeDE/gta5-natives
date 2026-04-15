@@ -1,0 +1,10 @@
+{
+    "0x961777E64BDAF717": {
+        "name": "GET_CLOCK_YEAR",
+        "jhash": "0xB8BECF15",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

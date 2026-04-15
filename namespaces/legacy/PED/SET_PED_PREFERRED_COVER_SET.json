@@ -1,0 +1,19 @@
+{
+    "0x8421EB4DA7E391B9": {
+        "name": "SET_PED_PREFERRED_COVER_SET",
+        "jhash": "0xF3B7EFBF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "itemSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

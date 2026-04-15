@@ -1,0 +1,15 @@
+{
+    "0x11579D940949C49E": {
+        "name": "UNHINT_NAMED_SCRIPT_AUDIO_BANK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            }
+        ],
+        "return_type": "void",
+        "build": "678"
+    }
+}

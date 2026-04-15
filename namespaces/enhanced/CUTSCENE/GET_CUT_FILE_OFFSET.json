@@ -1,0 +1,19 @@
+{
+    "0x1FA904B60E492336": {
+        "name": "GET_CUT_FILE_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "3570"
+    }
+}

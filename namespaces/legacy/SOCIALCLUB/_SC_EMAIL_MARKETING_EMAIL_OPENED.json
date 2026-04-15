@@ -1,0 +1,19 @@
+{
+    "0x69AA35F3F391CDBA": {
+        "name": "_SC_EMAIL_MARKETING_EMAIL_OPENED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

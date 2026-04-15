@@ -1,0 +1,19 @@
+{
+    "0x5BA7919BED300023": {
+        "name": "SET_PED_DIES_WHEN_INJURED",
+        "jhash": "0xE94E24D4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

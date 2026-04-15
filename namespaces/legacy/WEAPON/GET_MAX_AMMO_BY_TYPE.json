@@ -1,0 +1,27 @@
+{
+    "0x585847C5E4E11709": {
+        "name": "GET_MAX_AMMO_BY_TYPE",
+        "jhash": "",
+        "comment": "Returns the max ammo for an ammo type. Ammo types: https://gist.github.com/root-cause/faf41f59f7a6d818b7db0b839bd147c1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoTypeHash"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1103",
+        "old_names": [
+            "_GET_MAX_AMMO_2",
+            "_GET_MAX_AMMO_BY_TYPE"
+        ]
+    }
+}

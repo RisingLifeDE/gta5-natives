@@ -1,0 +1,19 @@
+{
+    "0xF401B182DBA8AF53": {
+        "name": "SET_PLAYER_CAN_LEAVE_PARACHUTE_SMOKE_TRAIL",
+        "jhash": "0x832DEB7A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

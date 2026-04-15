@@ -1,0 +1,19 @@
+{
+    "0x423E8DE37D934D89": {
+        "name": "IS_VEHICLE_MODEL",
+        "jhash": "0x013B10B6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

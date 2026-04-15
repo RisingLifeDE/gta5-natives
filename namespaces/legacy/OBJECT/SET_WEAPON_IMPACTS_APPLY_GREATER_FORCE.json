@@ -1,0 +1,19 @@
+{
+    "0x1A6CBB06E2D0D79D": {
+        "name": "SET_WEAPON_IMPACTS_APPLY_GREATER_FORCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

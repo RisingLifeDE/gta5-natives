@@ -1,0 +1,22 @@
+{
+    "0x9251B6ABF2D0A5B4": {
+        "name": "NETWORK_EARN_FROM_SELL_BUNKER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "bunkerHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_NETWORK_EARN_FROM_SELL_BUNKER"
+        ]
+    }
+}

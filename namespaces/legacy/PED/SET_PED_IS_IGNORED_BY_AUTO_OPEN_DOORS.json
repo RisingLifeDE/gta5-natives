@@ -1,0 +1,22 @@
+{
+    "0x33A60D8BDD6E508C": {
+        "name": "SET_PED_IS_IGNORED_BY_AUTO_OPEN_DOORS",
+        "jhash": "0xADB2511A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_CAN_PLAY_INJURED_ANIMS"
+        ]
+    }
+}

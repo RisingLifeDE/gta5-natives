@@ -1,0 +1,10 @@
+{
+    "0x4E3CD0EF8A489541": {
+        "name": "IS_NAVIGATING_MENU_CONTENT",
+        "jhash": "0xDA7951A2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

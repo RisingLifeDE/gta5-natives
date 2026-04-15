@@ -1,0 +1,15 @@
+{
+    "0x2F83E7E45D9EA7AE": {
+        "name": "GET_VEHICLE_CLASS_MAX_ACCELERATION",
+        "jhash": "0x3E220A9B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleClass"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

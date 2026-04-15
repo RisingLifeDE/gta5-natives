@@ -1,0 +1,50 @@
+{
+    "0xBE8CD9BE829BBEBF": {
+        "name": "GET_ENTITY_PROOFS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL*",
+                "name": "bulletProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "fireProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "explosionProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "collisionProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "meleeProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "steamProof"
+            },
+            {
+                "type": "BOOL*",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL*",
+                "name": "drownProof"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_GET_ENTITY_PROOFS"
+        ]
+    }
+}

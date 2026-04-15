@@ -1,0 +1,13 @@
+{
+    "0x7EC52CC40597D170": {
+        "name": "GET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR",
+        "jhash": "0x33951005",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_GAMEPLAY_CAM_ZOOM"
+        ]
+    }
+}

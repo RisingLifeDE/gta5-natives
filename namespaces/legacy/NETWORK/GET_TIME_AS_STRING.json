@@ -1,0 +1,18 @@
+{
+    "0x9E23B1777A927DAD": {
+        "name": "GET_TIME_AS_STRING",
+        "jhash": "0x8218944E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_FORMAT_TIME"
+        ]
+    }
+}

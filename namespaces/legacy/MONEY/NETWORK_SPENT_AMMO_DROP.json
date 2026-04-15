@@ -1,0 +1,27 @@
+{
+    "0xB162DC95C0A3317B": {
+        "name": "NETWORK_SPENT_AMMO_DROP",
+        "jhash": "0x4B643076",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x3F52E880AAF6C8CA": {
+        "name": "NETWORK_SESSION_SET_MATCHMAKING_PROPERTY_ID",
+        "jhash": "0xB3D9A67F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

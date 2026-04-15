@@ -1,0 +1,15 @@
+{
+    "0xB980061DA992779D": {
+        "name": "IS_PED_HUMAN",
+        "jhash": "0x194BB7B0",
+        "comment": "Returns true/false if the ped is/isn't humanoid.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

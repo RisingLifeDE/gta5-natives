@@ -1,0 +1,15 @@
+{
+    "0xF0B67A4DE6AB5F98": {
+        "name": "CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED",
+        "jhash": "0x1D31CBBD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

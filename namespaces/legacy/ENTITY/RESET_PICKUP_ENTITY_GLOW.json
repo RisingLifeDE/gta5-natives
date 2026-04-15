@@ -1,0 +1,15 @@
+{
+    "0x490861B88F4FD846": {
+        "name": "RESET_PICKUP_ENTITY_GLOW",
+        "jhash": "",
+        "comment": "Similar to RESET_ENTITY_ALPHA",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "944"
+    }
+}

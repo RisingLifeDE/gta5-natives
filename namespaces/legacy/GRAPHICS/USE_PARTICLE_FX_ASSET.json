@@ -1,0 +1,19 @@
+{
+    "0x6C38AF3693A69A91": {
+        "name": "USE_PARTICLE_FX_ASSET",
+        "jhash": "0x9C720B61",
+        "comment": "From the b678d decompiled scripts:\n\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"FM_Mission_Controler\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_apartment_mp\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_indep_fireworks\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_mp_cig_plane\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_mp_creator\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_ornate_heist\");\n GRAPHICS::USE_PARTICLE_FX_ASSET(\"scr_prison_break_heist_station\");\n\nFull list of particle effect dictionaries and effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/particleEffectsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PTFX_ASSET_NEXT_CALL",
+            "_USE_PARTICLE_FX_ASSET_NEXT_CALL"
+        ]
+    }
+}

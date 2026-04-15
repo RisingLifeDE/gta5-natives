@@ -1,0 +1,15 @@
+{
+    "0xAEAB987727C5A8A4": {
+        "name": "UGC_GET_CONTENT_IS_USING_SC_NICKNAME",
+        "jhash": "0x9FEEAA9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

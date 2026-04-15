@@ -1,0 +1,18 @@
+{
+    "0x9B8E1BF04B51F2E8": {
+        "name": "GET_ALL_VEHICLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "vehsStruct"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103",
+        "old_names": [
+            "_GET_ALL_VEHICLES"
+        ]
+    }
+}

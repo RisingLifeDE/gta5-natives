@@ -1,0 +1,10 @@
+{
+    "0x9EB6522EA68F22FE": {
+        "name": "IS_RADAR_PREFERENCE_SWITCHED_ON",
+        "jhash": "0x14AEAA28",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

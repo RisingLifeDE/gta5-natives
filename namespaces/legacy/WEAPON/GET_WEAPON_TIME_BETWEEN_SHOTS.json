@@ -1,0 +1,18 @@
+{
+    "0x065D2AACAD8CF7A4": {
+        "name": "GET_WEAPON_TIME_BETWEEN_SHOTS",
+        "jhash": "",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "1290",
+        "old_names": [
+            "_GET_WEAPON_TIME_BETWEEN_SHOTS"
+        ]
+    }
+}

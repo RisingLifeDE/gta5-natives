@@ -1,0 +1,19 @@
+{
+    "0xBC2042F090AF6AD3": {
+        "name": "SET_VEHICLE_INTERIORLIGHT",
+        "jhash": "0x9AD1FE1E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

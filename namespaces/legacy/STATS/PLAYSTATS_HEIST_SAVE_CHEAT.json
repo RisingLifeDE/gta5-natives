@@ -1,0 +1,22 @@
+{
+    "0xF4FF020A08BC8863": {
+        "name": "PLAYSTATS_HEIST_SAVE_CHEAT",
+        "jhash": "0xB731DF54",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PLAYSTATS_HEIST_SAVE_CHEAT"
+        ]
+    }
+}

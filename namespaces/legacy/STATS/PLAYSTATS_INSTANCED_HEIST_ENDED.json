@@ -1,0 +1,30 @@
+{
+    "0x1E1497D0D2108115": {
+        "name": "PLAYSTATS_INSTANCED_HEIST_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_PLAYSTATS_H2_INSTANCE_END"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x95C0A5BBDC189AA1": {
+        "name": "STOP_PLAYER_SWITCH",
+        "jhash": "0x2832C010",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

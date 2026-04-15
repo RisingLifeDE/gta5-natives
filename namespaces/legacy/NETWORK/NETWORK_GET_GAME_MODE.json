@@ -1,0 +1,10 @@
+{
+    "0x4C9034162368E206": {
+        "name": "NETWORK_GET_GAME_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2060"
+    }
+}

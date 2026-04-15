@@ -1,0 +1,15 @@
+{
+    "0x1B9025BDA76822B6": {
+        "name": "BLIP_SIREN",
+        "jhash": "0xC0EB6924",
+        "comment": "Plays the siren sound of a vehicle which is otherwise activated when fastly double-pressing the horn key.\nOnly works on vehicles with a police siren.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

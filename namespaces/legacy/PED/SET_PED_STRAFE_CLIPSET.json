@@ -1,0 +1,19 @@
+{
+    "0x29A28F3F8CF6D854": {
+        "name": "SET_PED_STRAFE_CLIPSET",
+        "jhash": "0x0BACF010",
+        "comment": "Full list of movement clipsets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/movementClipsetsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

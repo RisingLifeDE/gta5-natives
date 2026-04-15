@@ -1,0 +1,15 @@
+{
+    "0x135F9B7B7ADD2185": {
+        "name": "NETWORK_CAN_GAMER_PLAY_MULTIPLAYER_WITH_ME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

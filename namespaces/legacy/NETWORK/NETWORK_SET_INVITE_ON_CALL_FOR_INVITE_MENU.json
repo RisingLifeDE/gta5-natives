@@ -1,0 +1,15 @@
+{
+    "0x66F010A4B031A331": {
+        "name": "NETWORK_SET_INVITE_ON_CALL_FOR_INVITE_MENU",
+        "jhash": "0x11378777",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

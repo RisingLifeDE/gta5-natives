@@ -1,0 +1,19 @@
+{
+    "0x0525A2C2562F3CD4": {
+        "name": "IS_PED_LIPSTICK_TINT_FOR_BARBER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "colorID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_LIPSTICK_COLOR_VALID",
+            "_IS_PED_LIPSTICK_VALID_BARBER_COLOR"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x988DB6FE9B3AC000": {
+        "name": "SET_FLASH_LIGHT_ACTIVE_HISTORY",
+        "jhash": "",
+        "comment": "Enables/disables flashlight on ped's weapon.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060",
+        "old_names": [
+            "_SET_FLASH_LIGHT_ENABLED"
+        ]
+    }
+}

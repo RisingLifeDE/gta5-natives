@@ -1,0 +1,22 @@
+{
+    "0x0F99F70C61F14619": {
+        "name": "NETWORK_EARN_ARENA_CAREER_PROGRESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_EARN_FROM_ARENA_CAREER_PROGRESSION"
+        ]
+    }
+}

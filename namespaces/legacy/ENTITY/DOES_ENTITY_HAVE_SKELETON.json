@@ -1,0 +1,18 @@
+{
+    "0x764EB96874EFFDC1": {
+        "name": "DOES_ENTITY_HAVE_SKELETON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_DOES_ENTITY_HAVE_SKELETON_DATA"
+        ]
+    }
+}

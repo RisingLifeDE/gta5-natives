@@ -1,0 +1,15 @@
+{
+    "0x02165D55000219AC": {
+        "name": "GET_VEHICLE_DEFAULT_HORN",
+        "jhash": "0xE84ABC19",
+        "comment": "Returns hash of default vehicle horn\n\nHash is stored in audVehicleAudioEntity",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

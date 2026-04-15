@@ -1,0 +1,19 @@
+{
+    "0x0B3E35AC043707D9": {
+        "name": "SET_PED_MOVE_RATE_IN_WATER_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

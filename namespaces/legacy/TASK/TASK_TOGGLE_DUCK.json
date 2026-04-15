@@ -1,0 +1,19 @@
+{
+    "0xAC96609B9995EDF8": {
+        "name": "TASK_TOGGLE_DUCK",
+        "jhash": "0x61CFBCBF",
+        "comment": "used in sequence task\n\nboth parameters seems to be always 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "toggleType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

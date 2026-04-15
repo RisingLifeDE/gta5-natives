@@ -1,0 +1,30 @@
+{
+    "0x877C1EAEAC531023": {
+        "name": "SET_PICKUP_ROPE_LENGTH_FOR_CARGOBOB",
+        "jhash": "0x3A8AB081",
+        "comment": "min: 1.9f, max: 100.0f",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "cargobob"
+            },
+            {
+                "type": "float",
+                "name": "length1"
+            },
+            {
+                "type": "float",
+                "name": "length2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CARGOBOB_HOOK_POSITION"
+        ]
+    }
+}

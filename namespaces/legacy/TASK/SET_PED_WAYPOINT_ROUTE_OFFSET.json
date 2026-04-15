@@ -1,0 +1,27 @@
+{
+    "0xED98E10B0AFCE4B4": {
+        "name": "SET_PED_WAYPOINT_ROUTE_OFFSET",
+        "jhash": "0xF867F747",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

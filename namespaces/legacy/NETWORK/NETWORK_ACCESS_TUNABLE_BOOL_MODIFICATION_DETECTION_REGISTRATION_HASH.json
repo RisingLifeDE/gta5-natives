@@ -1,0 +1,26 @@
+{
+    "0x697F508861875B42": {
+        "name": "NETWORK_ACCESS_TUNABLE_BOOL_MODIFICATION_DETECTION_REGISTRATION_HASH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            },
+            {
+                "type": "Hash",
+                "name": "nameHash"
+            },
+            {
+                "type": "BOOL*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "393",
+        "old_names": [
+            "_NETWORK_REGISTER_TUNABLE_BOOL_HASH"
+        ]
+    }
+}

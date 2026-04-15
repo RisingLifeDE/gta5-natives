@@ -1,0 +1,22 @@
+{
+    "0x8C4B92553E4766A5": {
+        "name": "GET_VEHICLE_NEON_ENABLED",
+        "jhash": "",
+        "comment": "indices:\n0 = Left\n1 = Right\n2 = Front\n3 = Back",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_NEON_LIGHT_ENABLED"
+        ]
+    }
+}

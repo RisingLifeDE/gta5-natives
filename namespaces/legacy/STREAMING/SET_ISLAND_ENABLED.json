@@ -1,0 +1,22 @@
+{
+    "0x9A9D1BA639675CF1": {
+        "name": "SET_ISLAND_ENABLED",
+        "jhash": "",
+        "comment": "Enables the specified island. For more information, see islandhopper.meta",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189",
+        "old_names": [
+            "_SET_ISLAND_HOPPER_ENABLED"
+        ]
+    }
+}

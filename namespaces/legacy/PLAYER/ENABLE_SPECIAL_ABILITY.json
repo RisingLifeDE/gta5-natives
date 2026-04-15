@@ -1,0 +1,23 @@
+{
+    "0x181EC197DAEFE121": {
+        "name": "ENABLE_SPECIAL_ABILITY",
+        "jhash": "0xC86C1B4E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

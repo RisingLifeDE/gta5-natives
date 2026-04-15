@@ -1,0 +1,19 @@
+{
+    "0x04BD27B5ACB67067": {
+        "name": "_NETWORK_GET_RANDOM_FLOAT_RANGED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rangeStart"
+            },
+            {
+                "type": "float",
+                "name": "rangeEnd"
+            }
+        ],
+        "return_type": "float",
+        "build": "2802"
+    }
+}

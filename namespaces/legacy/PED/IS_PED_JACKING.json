@@ -1,0 +1,15 @@
+{
+    "0x4AE4FF911DFB61DA": {
+        "name": "IS_PED_JACKING",
+        "jhash": "0x3B321816",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

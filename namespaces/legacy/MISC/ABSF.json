@@ -1,0 +1,15 @@
+{
+    "0x73D57CFFDD12C355": {
+        "name": "ABSF",
+        "jhash": "0xAF6F6E0B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA40F9C2623F6A8B5": {
+        "name": "NETWORK_GET_VC_WALLET_BALANCE",
+        "jhash": "0x4F5B781C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

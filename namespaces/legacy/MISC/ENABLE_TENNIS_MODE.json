@@ -1,0 +1,23 @@
+{
+    "0x28A04B411933F8A6": {
+        "name": "ENABLE_TENNIS_MODE",
+        "jhash": "0x0BD3F9EC",
+        "comment": "Makes the ped jump around like they're in a tennis match",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

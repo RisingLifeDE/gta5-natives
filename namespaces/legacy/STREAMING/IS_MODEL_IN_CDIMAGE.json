@@ -1,0 +1,15 @@
+{
+    "0x35B9E0803292B641": {
+        "name": "IS_MODEL_IN_CDIMAGE",
+        "jhash": "0x1094782F",
+        "comment": "Check if model is in cdimage(rpf)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

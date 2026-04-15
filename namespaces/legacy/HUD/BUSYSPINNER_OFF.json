@@ -1,0 +1,13 @@
+{
+    "0x10D373323E5B9C0D": {
+        "name": "BUSYSPINNER_OFF",
+        "jhash": "0x94119534",
+        "comment": "Removes the loading prompt at the bottom right of the screen.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_LOADING_PROMPT"
+        ]
+    }
+}

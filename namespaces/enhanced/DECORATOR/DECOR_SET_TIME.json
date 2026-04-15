@@ -1,0 +1,23 @@
+{
+    "0x95AED7B8E39ECAA4": {
+        "name": "DECOR_SET_TIME",
+        "jhash": "0xBBAEEF94",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "timestamp"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

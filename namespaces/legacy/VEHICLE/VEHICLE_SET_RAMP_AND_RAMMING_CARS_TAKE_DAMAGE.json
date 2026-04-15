@@ -1,0 +1,23 @@
+{
+    "0x28D034A93FE31BF5": {
+        "name": "VEHICLE_SET_RAMP_AND_RAMMING_CARS_TAKE_DAMAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_RAMP_VEHICLE_RECEIVES_RAMP_DAMAGE",
+            "_SET_VEHICLE_RECEIVES_RAMP_DAMAGE"
+        ]
+    }
+}

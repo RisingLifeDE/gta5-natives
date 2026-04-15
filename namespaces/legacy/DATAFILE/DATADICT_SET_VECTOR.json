@@ -1,0 +1,34 @@
+{
+    "0x4CD49B76338C7DEE": {
+        "name": "DATADICT_SET_VECTOR",
+        "jhash": "0x75FC6C3C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            },
+            {
+                "type": "float",
+                "name": "valueX"
+            },
+            {
+                "type": "float",
+                "name": "valueY"
+            },
+            {
+                "type": "float",
+                "name": "valueZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_VECTOR3"
+        ]
+    }
+}

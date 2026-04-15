@@ -1,0 +1,15 @@
+{
+    "0xD4E8E24955024033": {
+        "name": "DO_SCREEN_FADE_IN",
+        "jhash": "0x66C1BDEE",
+        "comment": "Fades the screen in.\n\nduration: The time the fade should take, in milliseconds.",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

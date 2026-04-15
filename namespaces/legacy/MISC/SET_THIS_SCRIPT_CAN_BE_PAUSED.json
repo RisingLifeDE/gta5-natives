@@ -1,0 +1,15 @@
+{
+    "0xAA391C728106F7AF": {
+        "name": "SET_THIS_SCRIPT_CAN_BE_PAUSED",
+        "jhash": "0xA0C3CE29",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

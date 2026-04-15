@@ -1,0 +1,10 @@
+{
+    "0xE1C8709406F2C41C": {
+        "name": "RESET_PAUSED_RENDERPHASES",
+        "jhash": "0x0113EAE4",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

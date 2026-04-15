@@ -1,0 +1,27 @@
+{
+    "0x944F30DCB7096BDE": {
+        "name": "TASK_COMBAT_PED_TIMED",
+        "jhash": "0xF5CA2A45",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

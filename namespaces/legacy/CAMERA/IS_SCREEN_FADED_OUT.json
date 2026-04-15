@@ -1,0 +1,10 @@
+{
+    "0xB16FCE9DDC7BA182": {
+        "name": "IS_SCREEN_FADED_OUT",
+        "jhash": "0x9CAA05FA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

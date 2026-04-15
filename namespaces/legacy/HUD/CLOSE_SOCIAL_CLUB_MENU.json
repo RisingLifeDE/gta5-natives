@@ -1,0 +1,10 @@
+{
+    "0xD2B32BE3FC1626C6": {
+        "name": "CLOSE_SOCIAL_CLUB_MENU",
+        "jhash": "0x5F86AA39",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

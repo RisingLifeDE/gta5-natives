@@ -1,0 +1,19 @@
+{
+    "0xEA241BB04110F091": {
+        "name": "SET_PLAYER_ANGRY",
+        "jhash": "0x782CA58D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

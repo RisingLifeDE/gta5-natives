@@ -1,0 +1,15 @@
+{
+    "0x1398582B7F72B3ED": {
+        "name": "NETWORK_TRANSITION_SET_IN_PROGRESS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "505"
+    }
+}

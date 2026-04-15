@@ -1,0 +1,22 @@
+{
+    "0x7F562DBC212E81F9": {
+        "name": "NETWORK_ADD_INVALID_OBJECT_MODEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_ADD_INVALID_MODEL"
+        ]
+    }
+}

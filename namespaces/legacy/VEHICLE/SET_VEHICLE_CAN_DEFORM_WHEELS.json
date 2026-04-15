@@ -1,0 +1,19 @@
+{
+    "0x0CDDA42F9E360CA6": {
+        "name": "SET_VEHICLE_CAN_DEFORM_WHEELS",
+        "jhash": "0x9B581DE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

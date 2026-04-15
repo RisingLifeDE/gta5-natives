@@ -1,0 +1,35 @@
+{
+    "0x668FD40BCBA5DE48": {
+        "name": "CLONE_PED_ALT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "copyHeadBlendFlag"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "463",
+        "old_names": [
+            "_CLONE_PED_2",
+            "_CLONE_PED_EX"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x274A1519DFC1094F": {
+        "name": "UGC_SET_BOOKMARKED",
+        "jhash": "0x980D45D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "bookmarked"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

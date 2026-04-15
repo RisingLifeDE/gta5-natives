@@ -1,0 +1,19 @@
+{
+    "0x242B5874F0A4E052": {
+        "name": "SET_CAM_SPLINE_PHASE",
+        "jhash": "0xF0AED233",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

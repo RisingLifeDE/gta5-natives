@@ -1,0 +1,22 @@
+{
+    "0x99C82F8A139F3E4E": {
+        "name": "SET_VEHICLE_KERS_ALLOWED",
+        "jhash": "0x71CDD52F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_HUD_SPECIAL_ABILITY_BAR_ACTIVE"
+        ]
+    }
+}

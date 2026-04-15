@@ -1,0 +1,10 @@
+{
+    "0x41CA5A33160EA4AB": {
+        "name": "IS_NETWORK_LOADING_SCENE",
+        "jhash": "0x6DCFC021",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

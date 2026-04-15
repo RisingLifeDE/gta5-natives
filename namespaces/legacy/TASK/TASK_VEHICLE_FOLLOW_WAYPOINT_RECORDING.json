@@ -1,0 +1,51 @@
+{
+    "0x3123FAA6DB1CF7ED": {
+        "name": "TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING",
+        "jhash": "0x959818B6",
+        "comment": "\n\np2 = Waypoint recording string (found in update\\update.rpf\\x64\\levels\\gta5\\waypointrec.rpf\np3 = 786468\np4 = 0\np5 = 16\np6 = -1 (angle?)\np7/8/9 = usually v3.zero\np10 = bool (repeat?)\np11 = 1073741824\n\nFull list of waypoint recordings by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/waypointRecordings.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "WPRecording"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

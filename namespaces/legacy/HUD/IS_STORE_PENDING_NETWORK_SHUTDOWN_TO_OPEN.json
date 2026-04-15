@@ -1,0 +1,10 @@
+{
+    "0x2F057596F2BD0061": {
+        "name": "IS_STORE_PENDING_NETWORK_SHUTDOWN_TO_OPEN",
+        "jhash": "0xC85C4487",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

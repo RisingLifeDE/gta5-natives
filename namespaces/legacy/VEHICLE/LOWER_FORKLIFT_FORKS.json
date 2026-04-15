@@ -1,0 +1,15 @@
+{
+    "0x923A293361DF44E5": {
+        "name": "LOWER_FORKLIFT_FORKS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "forklift"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

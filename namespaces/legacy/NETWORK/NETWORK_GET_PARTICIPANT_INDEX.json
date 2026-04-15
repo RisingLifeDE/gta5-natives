@@ -1,0 +1,15 @@
+{
+    "0x1B84DF6AF2A46938": {
+        "name": "NETWORK_GET_PARTICIPANT_INDEX",
+        "jhash": "0xC4D91094",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

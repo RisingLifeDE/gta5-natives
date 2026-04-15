@@ -1,0 +1,19 @@
+{
+    "0xE0A7D1E497FFCD6F": {
+        "name": "SET_PLAYER_WANTED_LEVEL_NOW",
+        "jhash": "0xAF3AFD83",
+        "comment": "Forces any pending wanted level to be applied to the specified player immediately.\n\nCall SET_PLAYER_WANTED_LEVEL with the desired wanted level, followed by SET_PLAYER_WANTED_LEVEL_NOW.\n\nSecond parameter is unknown (always false).",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

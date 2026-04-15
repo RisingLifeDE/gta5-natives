@@ -1,0 +1,15 @@
+{
+    "0x53F4892D18EC90A4": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_HORZ_PAN_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "horizontalPan"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

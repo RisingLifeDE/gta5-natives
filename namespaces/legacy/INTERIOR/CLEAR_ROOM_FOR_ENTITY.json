@@ -1,0 +1,15 @@
+{
+    "0xB365FC0C4E27FFA7": {
+        "name": "CLEAR_ROOM_FOR_ENTITY",
+        "jhash": "0x7DDADB92",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

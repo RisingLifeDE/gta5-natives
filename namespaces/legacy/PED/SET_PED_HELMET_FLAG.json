@@ -1,0 +1,19 @@
+{
+    "0xC0E78D5C2CE3EB25": {
+        "name": "SET_PED_HELMET_FLAG",
+        "jhash": "0x12677780",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "helmetFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

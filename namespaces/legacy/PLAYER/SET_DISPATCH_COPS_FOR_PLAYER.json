@@ -1,0 +1,19 @@
+{
+    "0xDB172424876553F4": {
+        "name": "SET_DISPATCH_COPS_FOR_PLAYER",
+        "jhash": "0x48A18913",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

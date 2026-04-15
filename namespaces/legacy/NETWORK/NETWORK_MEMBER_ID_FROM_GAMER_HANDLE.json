@@ -1,0 +1,15 @@
+{
+    "0xC82630132081BB6F": {
+        "name": "NETWORK_MEMBER_ID_FROM_GAMER_HANDLE",
+        "jhash": "0x62EF0A63",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

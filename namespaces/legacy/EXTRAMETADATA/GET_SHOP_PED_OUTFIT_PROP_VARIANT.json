@@ -1,0 +1,23 @@
+{
+    "0xA9F9C2E0FDE11CBB": {
+        "name": "GET_SHOP_PED_OUTFIT_PROP_VARIANT",
+        "jhash": "0x6641A864",
+        "comment": "See https://git.io/JtcBH for example and structs.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "outfitHash"
+            },
+            {
+                "type": "int",
+                "name": "variantIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outPropVariant"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

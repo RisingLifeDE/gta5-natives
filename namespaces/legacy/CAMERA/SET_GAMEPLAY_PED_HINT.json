@@ -1,0 +1,43 @@
+{
+    "0x2B486269ACD548D3": {
+        "name": "SET_GAMEPLAY_PED_HINT",
+        "jhash": "0x7C27343E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "blendOutDuration"
+            },
+            {
+                "type": "int",
+                "name": "blendInDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

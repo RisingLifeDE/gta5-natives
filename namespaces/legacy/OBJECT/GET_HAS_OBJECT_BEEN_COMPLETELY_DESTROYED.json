@@ -1,0 +1,15 @@
+{
+    "0x2542269291C6AC84": {
+        "name": "GET_HAS_OBJECT_BEEN_COMPLETELY_DESTROYED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1180"
+    }
+}

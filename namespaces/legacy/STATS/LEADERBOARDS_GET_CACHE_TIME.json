@@ -1,0 +1,15 @@
+{
+    "0xF04C1C27DA35F6C8": {
+        "name": "LEADERBOARDS_GET_CACHE_TIME",
+        "jhash": "0xEDF02302",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

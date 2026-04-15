@@ -1,0 +1,19 @@
+{
+    "0x117B45156D7EFF2E": {
+        "name": "LEADERBOARDS_GET_NUMBER_OF_COLUMNS",
+        "jhash": "0x0A56EE34",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

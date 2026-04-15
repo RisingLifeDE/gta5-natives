@@ -1,0 +1,15 @@
+{
+    "0x54833611C17ABDEA": {
+        "name": "STOP_PLAYBACK_RECORDED_VEHICLE",
+        "jhash": "0xAE99C57C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

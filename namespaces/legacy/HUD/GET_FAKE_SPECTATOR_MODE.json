@@ -1,0 +1,10 @@
+{
+    "0xC2D2AD9EAAE265B8": {
+        "name": "GET_FAKE_SPECTATOR_MODE",
+        "jhash": "",
+        "comment": "Getter for SET_FAKE_SPECTATOR_MODE",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "505"
+    }
+}

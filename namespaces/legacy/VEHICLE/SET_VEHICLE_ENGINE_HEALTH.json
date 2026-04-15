@@ -1,0 +1,19 @@
+{
+    "0x45F6D8EEF34ABEF1": {
+        "name": "SET_VEHICLE_ENGINE_HEALTH",
+        "jhash": "0x1B760FB5",
+        "comment": "1000 is max health\nBegins leaking gas at around 650 health\nMinimum: -4000\nMaximum: 1000\n\n-4000: Engine is destroyed\n0 and below: Engine catches fire and health rapidly declines\n300: Engine is smoking and losing functionality\n1000: Engine is perfect",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

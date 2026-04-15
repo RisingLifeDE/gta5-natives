@@ -1,0 +1,10 @@
+{
+    "0xFB00CA71DA386228": {
+        "name": "SET_TICKER_JOHNMARSTON_IS_DONE",
+        "jhash": "0x054EC103",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

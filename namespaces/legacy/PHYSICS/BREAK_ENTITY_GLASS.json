@@ -1,0 +1,55 @@
+{
+    "0x2E648D16F6E308F3": {
+        "name": "BREAK_ENTITY_GLASS",
+        "jhash": "0xD0E0402F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

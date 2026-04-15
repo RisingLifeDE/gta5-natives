@@ -1,0 +1,42 @@
+{
+    "0x163E252DE035A133": {
+        "name": "GET_OFFSET_FROM_COORD_AND_HEADING_IN_WORLD_COORDS",
+        "jhash": "0x87A42A12",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323",
+        "old_names": [
+            "_GET_OBJECT_OFFSET_FROM_COORDS"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xBEDB96A7584AA8CF": {
+        "name": "DATAFILE_IS_SAVE_PENDING",
+        "jhash": "0x5DCD0796",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

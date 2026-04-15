@@ -1,0 +1,15 @@
+{
+    "0xE369A5783B866016": {
+        "name": "ENABLE_STUNT_JUMP_SET",
+        "jhash": "0x9D1E7785",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

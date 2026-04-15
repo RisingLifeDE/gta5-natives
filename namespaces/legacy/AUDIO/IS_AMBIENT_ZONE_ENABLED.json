@@ -1,0 +1,15 @@
+{
+    "0x01E2817A479A7F9B": {
+        "name": "IS_AMBIENT_ZONE_ENABLED",
+        "jhash": "0xBFABD872",
+        "comment": "Full list of ambient zones by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ambientZones.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

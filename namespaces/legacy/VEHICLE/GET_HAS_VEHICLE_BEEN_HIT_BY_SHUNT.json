@@ -1,0 +1,15 @@
+{
+    "0xE8718FAF591FD224": {
+        "name": "GET_HAS_VEHICLE_BEEN_HIT_BY_SHUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x9663FE6B7A61EB00": {
+        "name": "SKIP_TO_NEXT_SCRIPTED_CONVERSATION_LINE",
+        "jhash": "0x85C98304",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

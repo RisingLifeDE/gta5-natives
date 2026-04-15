@@ -1,0 +1,19 @@
+{
+    "0x0729BAC1B8C64317": {
+        "name": "SET_PARACHUTE_TASK_THRUST",
+        "jhash": "0xD07C8AAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "thrust"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

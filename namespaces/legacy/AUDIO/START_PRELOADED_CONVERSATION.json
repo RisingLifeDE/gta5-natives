@@ -1,0 +1,10 @@
+{
+    "0x23641AFE870AF385": {
+        "name": "START_PRELOADED_CONVERSATION",
+        "jhash": "0xA170261B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

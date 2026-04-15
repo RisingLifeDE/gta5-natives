@@ -1,0 +1,27 @@
+{
+    "0x6E63860BBB190730": {
+        "name": "SET_PLAYBACK_TO_USE_AI_TRY_TO_REVERT_BACK_LATER",
+        "jhash": "0x0C8ABAA4",
+        "comment": "Time is number of milliseconds before reverting, zero for indefinitely.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

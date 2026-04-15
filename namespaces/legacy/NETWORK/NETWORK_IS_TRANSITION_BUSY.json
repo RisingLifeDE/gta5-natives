@@ -1,0 +1,10 @@
+{
+    "0x520F3282A53D26B7": {
+        "name": "NETWORK_IS_TRANSITION_BUSY",
+        "jhash": "0xA357A2C6",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

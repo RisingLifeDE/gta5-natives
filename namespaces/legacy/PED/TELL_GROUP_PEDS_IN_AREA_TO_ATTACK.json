@@ -1,0 +1,35 @@
+{
+    "0xAD27D957598E49E9": {
+        "name": "TELL_GROUP_PEDS_IN_AREA_TO_ATTACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

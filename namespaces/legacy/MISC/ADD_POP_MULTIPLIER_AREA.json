@@ -1,0 +1,51 @@
+{
+    "0x67F6413D3220E18D": {
+        "name": "ADD_POP_MULTIPLIER_AREA",
+        "jhash": "0x42BF09B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

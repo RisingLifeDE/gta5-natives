@@ -1,0 +1,23 @@
+{
+    "0x052837721A854EC7": {
+        "name": "START_SHAPE_TEST_BOUNDING_BOX",
+        "jhash": "0xCEEAD94B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flags1"
+            },
+            {
+                "type": "int",
+                "name": "flags2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

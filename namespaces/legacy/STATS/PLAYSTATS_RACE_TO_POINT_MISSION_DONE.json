@@ -1,0 +1,30 @@
+{
+    "0xADDD1C754E2E2914": {
+        "name": "PLAYSTATS_RACE_TO_POINT_MISSION_DONE",
+        "jhash": "0x06CE3692",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PLAYSTATS_RACE_TO_POINT"
+        ]
+    }
+}

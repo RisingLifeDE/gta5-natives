@@ -1,0 +1,10 @@
+{
+    "0x140E6A44870A11CE": {
+        "name": "NETWORK_CLEAR_OFFLINE_INVITE_PENDING",
+        "jhash": "0x50507BED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

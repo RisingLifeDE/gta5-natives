@@ -1,0 +1,10 @@
+{
+    "0x19AF7ED9B9D23058": {
+        "name": "UNHINT_AMBIENT_AUDIO_BANK",
+        "jhash": "0xA58BBF4F",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

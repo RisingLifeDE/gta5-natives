@@ -1,0 +1,10 @@
+{
+    "0x89DA85D949CE57A0": {
+        "name": "DONT_ZOOM_MINIMAP_WHEN_RUNNING_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

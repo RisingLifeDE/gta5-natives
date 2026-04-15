@@ -1,0 +1,38 @@
+{
+    "0x1CCD9A37359072CF": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT",
+        "jhash": "0xE7E3C98B",
+        "comment": "This function can show pictures of every texture that can be requested by REQUEST_STREAMED_TEXTURE_DICT.\n\nList of picNames: https://pastebin.com/XdpJVbHz\n\n\nflash is a bool for fading in.\niconTypes:\n1 : Chat Box\n2 : Email\n3 : Add Friend Request\n4 : Nothing\n5 : Nothing\n6 : Nothing\n7 : Right Jumping Arrow\n8 : RP Icon\n9 : $ Icon\n\n\"sender\" is the very top header. This can be any old string.\n\"subject\" is the header under the sender.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "txdName"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "flash"
+            },
+            {
+                "type": "int",
+                "name": "iconType"
+            },
+            {
+                "type": "const char*",
+                "name": "sender"
+            },
+            {
+                "type": "const char*",
+                "name": "subject"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_MESSAGE"
+        ]
+    }
+}

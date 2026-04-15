@@ -1,0 +1,15 @@
+{
+    "0xBA8D65C1C65702E5": {
+        "name": "FORCE_OFF_WANTED_STAR_FLASH",
+        "jhash": "0x58612465",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

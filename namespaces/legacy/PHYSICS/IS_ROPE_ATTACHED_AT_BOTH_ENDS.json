@@ -1,0 +1,15 @@
+{
+    "0x84DE3B5FB3E666F0": {
+        "name": "IS_ROPE_ATTACHED_AT_BOTH_ENDS",
+        "jhash": "0x7A18BB9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

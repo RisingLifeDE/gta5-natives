@@ -1,0 +1,10 @@
+{
+    "0x062D5EAD4DA2FA6A": {
+        "name": "FORCE_PED_PANIC_WALLA",
+        "jhash": "0xD87AF337",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

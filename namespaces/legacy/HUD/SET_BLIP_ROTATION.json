@@ -1,0 +1,19 @@
+{
+    "0xF87683CDF73C3F6E": {
+        "name": "SET_BLIP_ROTATION",
+        "jhash": "0x6B8F44FE",
+        "comment": "After some testing, looks like you need to use CEIL() on the rotation (vehicle/ped heading) before using it there.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "rotation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

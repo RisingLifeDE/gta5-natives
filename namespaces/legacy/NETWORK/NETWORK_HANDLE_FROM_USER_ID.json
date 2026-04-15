@@ -1,0 +1,23 @@
+{
+    "0xDCD51DD8F87AEC5C": {
+        "name": "NETWORK_HANDLE_FROM_USER_ID",
+        "jhash": "0x74C2C1B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "userId"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "gamerHandleSize"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

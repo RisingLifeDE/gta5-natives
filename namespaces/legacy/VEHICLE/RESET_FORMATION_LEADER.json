@@ -1,0 +1,10 @@
+{
+    "0xE2F53F172B45EDE1": {
+        "name": "RESET_FORMATION_LEADER",
+        "jhash": "",
+        "comment": "Resets the effect of SET_FORMATION_LEADER",
+        "params": [],
+        "return_type": "void",
+        "build": "877"
+    }
+}

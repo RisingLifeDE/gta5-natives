@@ -1,0 +1,23 @@
+{
+    "0xEA8C0DDB10E2822A": {
+        "name": "NETWORK_REGISTER_HIGH_FREQUENCY_HOST_BROADCAST_VARIABLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

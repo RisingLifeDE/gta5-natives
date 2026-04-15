@@ -1,0 +1,22 @@
+{
+    "0xB3EA4FEABF41464B": {
+        "name": "GET_WEAPON_OBJECT_COMPONENT_TINT_INDEX",
+        "jhash": "",
+        "comment": "Returns -1 if camoComponentHash is invalid/not attached to the weapon object.\nFull list of weapons, components, tint indexes & weapon liveries by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "Hash",
+                "name": "camoComponentHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103",
+        "old_names": [
+            "_GET_WEAPON_OBJECT_LIVERY_COLOR"
+        ]
+    }
+}

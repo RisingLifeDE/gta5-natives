@@ -1,0 +1,22 @@
+{
+    "0x6009F9F1AE90D8A6": {
+        "name": "REQUEST_ADDITIONAL_TEXT_FOR_DLC",
+        "jhash": "0xF4D27EBE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxt"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REQUEST_ADDITIONAL_TEXT_2"
+        ]
+    }
+}

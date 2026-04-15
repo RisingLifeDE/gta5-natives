@@ -1,0 +1,13 @@
+{
+    "0x01A358D9128B7A86": {
+        "name": "GET_CURRENT_WEBPAGE_ID",
+        "jhash": "0xAB5B7C18",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_ACTIVE_WEBSITE_ID"
+        ]
+    }
+}

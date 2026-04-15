@@ -1,0 +1,15 @@
+{
+    "0xCCA4318E1AB03F1F": {
+        "name": "NETWORK_HAS_VIEW_GAMER_USER_CONTENT_RESULT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

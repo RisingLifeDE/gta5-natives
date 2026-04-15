@@ -1,0 +1,27 @@
+{
+    "0xB33E291AFA6BD03A": {
+        "name": "TASK_PARACHUTE_TO_TARGET",
+        "jhash": "0xE0104D6C",
+        "comment": "makes ped parachute to coords x y z. Works well with PATHFIND::GET_SAFE_COORD_FOR_PED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x7B21E0BB01E8224A": {
+        "name": "SET_PLAYER_ICON_COLOUR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "color"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MAIN_PLAYER_BLIP_COLOUR"
+        ]
+    }
+}

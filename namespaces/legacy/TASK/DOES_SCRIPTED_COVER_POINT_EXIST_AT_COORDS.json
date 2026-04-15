@@ -1,0 +1,23 @@
+{
+    "0xA98B8E3C088E5A31": {
+        "name": "DOES_SCRIPTED_COVER_POINT_EXIST_AT_COORDS",
+        "jhash": "0x29F97A71",
+        "comment": "Checks if there is a cover point at position",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x9DE624D2FC4B603F": {
+        "name": "NETWORK_IS_SESSION_STARTED",
+        "jhash": "0x9D854A37",
+        "comment": "This checks if player is playing on gta online or not.\nPlease add an if and block your mod if this is \"true\".",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

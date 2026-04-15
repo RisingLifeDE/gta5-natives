@@ -1,0 +1,15 @@
+{
+    "0xCF9159024555488C": {
+        "name": "SET_VEHICLE_READY_FOR_CLEANUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "944"
+    }
+}

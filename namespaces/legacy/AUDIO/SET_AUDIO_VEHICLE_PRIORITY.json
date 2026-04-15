@@ -1,0 +1,19 @@
+{
+    "0xE5564483E407F914": {
+        "name": "SET_AUDIO_VEHICLE_PRIORITY",
+        "jhash": "0x271A9766",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

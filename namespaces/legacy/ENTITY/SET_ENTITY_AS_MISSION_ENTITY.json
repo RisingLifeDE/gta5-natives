@@ -1,0 +1,23 @@
+{
+    "0xAD738C3085FE7E11": {
+        "name": "SET_ENTITY_AS_MISSION_ENTITY",
+        "jhash": "0x5D1F9E0F",
+        "comment": "Makes the specified entity (ped, vehicle or object) persistent. Persistent entities will not automatically be removed by the engine.\n\np1 has no effect when either its on or off \nmaybe a quick disassembly will tell us what it does\n\np2 has no effect when either its on or off \nmaybe a quick disassembly will tell us what it does",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

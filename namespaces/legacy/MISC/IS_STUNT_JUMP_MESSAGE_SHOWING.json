@@ -1,0 +1,10 @@
+{
+    "0x2272B0A1343129F4": {
+        "name": "IS_STUNT_JUMP_MESSAGE_SHOWING",
+        "jhash": "0x021636EE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

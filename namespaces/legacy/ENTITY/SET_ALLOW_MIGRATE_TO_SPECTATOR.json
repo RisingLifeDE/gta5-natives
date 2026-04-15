@@ -1,0 +1,19 @@
+{
+    "0x36F32DE87082343E": {
+        "name": "SET_ALLOW_MIGRATE_TO_SPECTATOR",
+        "jhash": "",
+        "comment": "p1 is always set to 1",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

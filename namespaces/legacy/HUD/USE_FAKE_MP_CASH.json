@@ -1,0 +1,15 @@
+{
+    "0x170F541E1CADD1DE": {
+        "name": "USE_FAKE_MP_CASH",
+        "jhash": "0x6253B9D7",
+        "comment": "Related to displaying cash on the HUD\nAlways called before HUD::CHANGE_FAKE_MP_CASH in decompiled scripts",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

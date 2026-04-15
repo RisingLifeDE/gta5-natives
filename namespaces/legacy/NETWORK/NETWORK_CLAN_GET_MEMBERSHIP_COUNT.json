@@ -1,0 +1,15 @@
+{
+    "0xAAB11F6C4ADBC2C1": {
+        "name": "NETWORK_CLAN_GET_MEMBERSHIP_COUNT",
+        "jhash": "0x25924010",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

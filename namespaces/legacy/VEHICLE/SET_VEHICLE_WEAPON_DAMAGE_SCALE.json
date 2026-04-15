@@ -1,0 +1,22 @@
+{
+    "0x45A561A9421AB6AD": {
+        "name": "SET_VEHICLE_WEAPON_DAMAGE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_UNK_DAMAGE_MULTIPLIER"
+        ]
+    }
+}

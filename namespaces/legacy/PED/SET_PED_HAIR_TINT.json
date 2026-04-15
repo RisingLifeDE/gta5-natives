@@ -1,0 +1,26 @@
+{
+    "0x4CFFC65454C93A49": {
+        "name": "SET_PED_HAIR_TINT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "colorID"
+            },
+            {
+                "type": "int",
+                "name": "highlightColorID"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_HAIR_COLOR"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xA571991A7FE6CCEB": {
+        "name": "GET_PLAYER_RADIO_STATION_GENRE",
+        "jhash": "0x872CF0EA",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

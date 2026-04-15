@@ -1,0 +1,10 @@
+{
+    "0x5A6AA44FF8E931E6": {
+        "name": "NETWORK_IS_TRANSITION_PRIVATE",
+        "jhash": "0x104DDE8D",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

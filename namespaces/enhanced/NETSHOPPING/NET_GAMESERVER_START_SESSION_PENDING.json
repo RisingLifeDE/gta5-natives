@@ -1,0 +1,10 @@
+{
+    "0x72EB7BA9B69BF6AB": {
+        "name": "NET_GAMESERVER_START_SESSION_PENDING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

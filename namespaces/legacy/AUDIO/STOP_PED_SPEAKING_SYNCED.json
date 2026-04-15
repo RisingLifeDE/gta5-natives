@@ -1,0 +1,19 @@
+{
+    "0xAB6781A5F3101470": {
+        "name": "STOP_PED_SPEAKING_SYNCED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xC88156EBB786F8D5": {
+        "name": "NETWORK_ACTION_FOLLOW_INVITE",
+        "jhash": "0xAB969F00",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

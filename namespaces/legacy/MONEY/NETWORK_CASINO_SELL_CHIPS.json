@@ -1,0 +1,22 @@
+{
+    "0xED44897CB336F480": {
+        "name": "NETWORK_CASINO_SELL_CHIPS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_CASINO_SELL_CHIPS"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF25DF915FA38C5F3": {
+        "name": "REMOVE_ALL_PED_WEAPONS",
+        "jhash": "0xA44CE817",
+        "comment": "setting the last params to false it does that same so I would suggest its not a toggle",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

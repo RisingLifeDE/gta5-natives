@@ -1,0 +1,30 @@
+{
+    "0x037ABB06825D7AB1": {
+        "name": "NETWORK_SPEND_UPGRADE_ARENA",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_NETWORK_SPENT_UPGRADE_ARENA"
+        ]
+    }
+}

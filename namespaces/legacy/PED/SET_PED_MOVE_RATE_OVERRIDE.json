@@ -1,0 +1,19 @@
+{
+    "0x085BF80FA50A39D1": {
+        "name": "SET_PED_MOVE_RATE_OVERRIDE",
+        "jhash": "0x900008C6",
+        "comment": "Min: 0.00\nMax: 10.00\n\nCan be used in combo with fast run cheat.\n\nWhen value is set to 10.00:\nSprinting without fast run cheat: 66 m/s\nSprinting with fast run cheat: 77 m/s\n\nNeeds to be looped!\n\nNote: According to IDA for the Xbox360 xex, when they check bgt they seem to have the min to 0.0f, but the max set to 1.15f not 10.0f.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

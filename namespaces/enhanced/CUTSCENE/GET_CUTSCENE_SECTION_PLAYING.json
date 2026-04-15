@@ -1,0 +1,10 @@
+{
+    "0x49010A6A396553D8": {
+        "name": "GET_CUTSCENE_SECTION_PLAYING",
+        "jhash": "0x1026F0D6",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

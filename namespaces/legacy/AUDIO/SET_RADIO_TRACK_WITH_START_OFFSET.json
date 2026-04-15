@@ -1,0 +1,26 @@
+{
+    "0x2CB0075110BE1E56": {
+        "name": "SET_RADIO_TRACK_WITH_START_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStationName"
+            },
+            {
+                "type": "const char*",
+                "name": "mixName"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_RADIO_TRACK_MIX"
+        ]
+    }
+}

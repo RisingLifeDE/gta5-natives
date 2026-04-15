@@ -1,0 +1,15 @@
+{
+    "0xC44AA05345C992C6": {
+        "name": "SET_PED_RANDOM_PROPS",
+        "jhash": "0xE3318E0E",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

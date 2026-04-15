@@ -1,0 +1,13 @@
+{
+    "0xE18B138FABC53103": {
+        "name": "IS_WARNING_MESSAGE_ACTIVE",
+        "jhash": "0x94C834AD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "IS_MEDICAL_DISABLED"
+        ]
+    }
+}

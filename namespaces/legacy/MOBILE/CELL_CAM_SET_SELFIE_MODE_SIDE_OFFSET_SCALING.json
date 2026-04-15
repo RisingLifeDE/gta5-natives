@@ -1,0 +1,15 @@
+{
+    "0x1B0B4AEED5B9B41C": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_SIDE_OFFSET_SCALING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

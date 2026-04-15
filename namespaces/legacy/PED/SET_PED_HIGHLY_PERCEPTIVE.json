@@ -1,0 +1,19 @@
+{
+    "0x52D59AB61DDC05DD": {
+        "name": "SET_PED_HIGHLY_PERCEPTIVE",
+        "jhash": "0x9A2180FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

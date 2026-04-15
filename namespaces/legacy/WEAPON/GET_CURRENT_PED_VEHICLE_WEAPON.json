@@ -1,0 +1,19 @@
+{
+    "0x1017582BCD3832DC": {
+        "name": "GET_CURRENT_PED_VEHICLE_WEAPON",
+        "jhash": "0xF26C5D65",
+        "comment": "Example in VB\n\n    Public Shared Function GetVehicleCurrentWeapon(Ped As Ped) As Integer\n        Dim arg As New OutputArgument()\n        Native.Function.Call(Hash.GET_CURRENT_PED_VEHICLE_WEAPON, Ped, arg)\n        Return arg.GetResult(Of Integer)()\n    End Function\n\nUsage:\nIf GetVehicleCurrentWeapon(Game.Player.Character) = -821520672 Then ...Do something\nNote: -821520672 = VEHICLE_WEAPON_PLANE_ROCKET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

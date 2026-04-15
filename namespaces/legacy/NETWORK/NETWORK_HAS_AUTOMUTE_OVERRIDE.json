@@ -1,0 +1,10 @@
+{
+    "0x26F07DD83A5F7F98": {
+        "name": "NETWORK_HAS_AUTOMUTE_OVERRIDE",
+        "jhash": "0x9A176B6E",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

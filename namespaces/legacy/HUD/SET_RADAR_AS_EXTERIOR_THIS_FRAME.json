@@ -1,0 +1,10 @@
+{
+    "0xE81B7D2A3DAB2D81": {
+        "name": "SET_RADAR_AS_EXTERIOR_THIS_FRAME",
+        "jhash": "0x39ABB10E",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

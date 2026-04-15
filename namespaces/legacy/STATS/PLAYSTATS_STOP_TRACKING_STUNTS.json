@@ -1,0 +1,13 @@
+{
+    "0x8A800DACCC0DA55D": {
+        "name": "PLAYSTATS_STOP_TRACKING_STUNTS",
+        "jhash": "",
+        "comment": "Disallows CEventNetworkStuntPerformed to be triggered.",
+        "params": [],
+        "return_type": "void",
+        "build": "791",
+        "old_names": [
+            "_PLAYSTATS_STUNT_PERFORMED_EVENT_DISALLOW_TRIGGER"
+        ]
+    }
+}

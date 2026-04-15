@@ -1,0 +1,19 @@
+{
+    "0xF3B0E0AED097A3F5": {
+        "name": "VEHICLE_SET_EXTENABLE_SIDE_TARGET_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1103"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x3EC8BF18AA453FE9": {
+        "name": "SET_HELI_TAIL_BOOM_CAN_BREAK_OFF",
+        "jhash": "0x2916D69B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "WAS_COUNTER_ACTIVATED",
+            "SET_HELI_TAIL_EXPLODE_THROW_DASHBOARD"
+        ]
+    }
+}

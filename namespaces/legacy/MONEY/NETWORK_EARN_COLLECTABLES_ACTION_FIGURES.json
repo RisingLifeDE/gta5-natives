@@ -1,0 +1,18 @@
+{
+    "0x5517F90043466049": {
+        "name": "NETWORK_EARN_COLLECTABLES_ACTION_FIGURES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_COLLECTABLES_ACTION_FIGURES"
+        ]
+    }
+}

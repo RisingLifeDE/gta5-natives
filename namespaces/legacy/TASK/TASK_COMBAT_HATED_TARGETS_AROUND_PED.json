@@ -1,0 +1,23 @@
+{
+    "0x7BF835BB9E2698C8": {
+        "name": "TASK_COMBAT_HATED_TARGETS_AROUND_PED",
+        "jhash": "0x2E7064E4",
+        "comment": "Despite its name, it only attacks ONE hated target. The one closest hated target.\n\np2 seems to be always 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "combatFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

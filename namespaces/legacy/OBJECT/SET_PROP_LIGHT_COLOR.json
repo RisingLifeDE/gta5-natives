@@ -1,0 +1,34 @@
+{
+    "0x5F048334B4A4E774": {
+        "name": "SET_PROP_LIGHT_COLOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1493",
+        "old_names": [
+            "_SET_OBJECT_LIGHT_COLOR"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x723538F61C647C5A": {
+        "name": "UPDATE_PED_HEAD_BLEND_DATA",
+        "jhash": "0x5CB76219",
+        "comment": "See SET_PED_HEAD_BLEND_DATA().",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "shapeMix"
+            },
+            {
+                "type": "float",
+                "name": "skinMix"
+            },
+            {
+                "type": "float",
+                "name": "thirdMix"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

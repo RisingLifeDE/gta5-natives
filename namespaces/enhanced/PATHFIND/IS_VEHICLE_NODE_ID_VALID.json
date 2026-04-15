@@ -1,0 +1,15 @@
+{
+    "0x1EAF30FCFBF5AF74": {
+        "name": "IS_VEHICLE_NODE_ID_VALID",
+        "jhash": "0x57DFB1EF",
+        "comment": "Returns true if the id is non zero.",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleNodeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

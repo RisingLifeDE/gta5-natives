@@ -1,0 +1,19 @@
+{
+    "0xAFD262ACCA64479A": {
+        "name": "_SET_OVERRIDE_TRACTION_LOSS_MULTIPLIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

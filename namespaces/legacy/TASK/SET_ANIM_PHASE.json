@@ -1,0 +1,30 @@
+{
+    "0xDDF3CB5A0A4C0B49": {
+        "name": "SET_ANIM_PHASE",
+        "jhash": "0xB621E7E4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "phase"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            },
+            {
+                "type": "BOOL",
+                "name": "secondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_ANIM_PLAYBACK_TIME"
+        ]
+    }
+}

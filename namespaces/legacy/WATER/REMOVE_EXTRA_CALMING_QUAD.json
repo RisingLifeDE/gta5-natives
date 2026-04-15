@@ -1,0 +1,18 @@
+{
+    "0xB1252E3E59A82AAF": {
+        "name": "REMOVE_EXTRA_CALMING_QUAD",
+        "jhash": "0x45268B6F",
+        "comment": "p0 is the handle returned from ADD_EXTRA_CALMING_QUAD",
+        "params": [
+            {
+                "type": "int",
+                "name": "calmingQuad"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_CURRENT_RISE"
+        ]
+    }
+}

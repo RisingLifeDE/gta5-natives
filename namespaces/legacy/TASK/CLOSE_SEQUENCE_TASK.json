@@ -1,0 +1,15 @@
+{
+    "0x39E72BC99E6360CB": {
+        "name": "CLOSE_SEQUENCE_TASK",
+        "jhash": "0x1A7CEBD0",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

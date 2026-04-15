@@ -1,0 +1,47 @@
+{
+    "0x172AA1B624FA1013": {
+        "name": "ADD_OWNED_EXPLOSION",
+        "jhash": "0x27EE0D67",
+        "comment": "isAudible: If explosion makes a sound.\nisInvisible: If the explosion is invisible or not.\nexplosionType: See ADD_EXPLOSION.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "damageScale"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "cameraShake"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

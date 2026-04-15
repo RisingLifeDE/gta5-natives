@@ -1,0 +1,19 @@
+{
+    "0x02A0C9720B854BFA": {
+        "name": "SET_PED_AS_ENEMY",
+        "jhash": "0xAE620A1B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

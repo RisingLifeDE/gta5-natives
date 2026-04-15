@@ -1,0 +1,15 @@
+{
+    "0xBE9B0959FFD0779B": {
+        "name": "GET_BLIP_INFO_ID_TYPE",
+        "jhash": "0x501D7B4E",
+        "comment": "Returns a value based on what the blip is attached to\n1 - Vehicle\n2 - Ped\n3 - Object\n4 - Coord\n5 - unk\n6 - Pickup\n7 - Radius",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x36DE109527A2C0C4": {
+        "name": "SET_VEHICLE_COMBAT_MODE",
+        "jhash": "",
+        "comment": "Does nothing. It's a nullsub.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0xFF6BE494C7987F34": {
+        "name": "START_SHAPE_TEST_MOUSE_CURSOR_LOS_PROBE",
+        "jhash": "",
+        "comment": "Returns a ShapeTest handle that can be used with GET_SHAPE_TEST_RESULT.\n\nIn its only usage in game scripts its called with flag set to 511, entity to player_ped_id and flag2 set to 7",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "pVec1"
+            },
+            {
+                "type": "Vector3*",
+                "name": "pVec2"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flag2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_START_SHAPE_TEST_SURROUNDING_COORDS"
+        ]
+    }
+}

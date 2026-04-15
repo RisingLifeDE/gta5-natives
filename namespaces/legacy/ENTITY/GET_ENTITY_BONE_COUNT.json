@@ -1,0 +1,18 @@
+{
+    "0xB328DCC3A3AA401B": {
+        "name": "GET_ENTITY_BONE_COUNT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "791",
+        "old_names": [
+            "_GET_ENTITY_BONE_COUNT"
+        ]
+    }
+}

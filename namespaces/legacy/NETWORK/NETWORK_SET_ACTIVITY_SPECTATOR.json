@@ -1,0 +1,15 @@
+{
+    "0x75138790B4359A74": {
+        "name": "NETWORK_SET_ACTIVITY_SPECTATOR",
+        "jhash": "0xFC9AD060",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

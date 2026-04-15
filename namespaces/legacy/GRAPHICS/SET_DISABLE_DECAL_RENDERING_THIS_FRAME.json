@@ -1,0 +1,10 @@
+{
+    "0x4B5CFC83122DF602": {
+        "name": "SET_DISABLE_DECAL_RENDERING_THIS_FRAME",
+        "jhash": "0xA706E84D",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

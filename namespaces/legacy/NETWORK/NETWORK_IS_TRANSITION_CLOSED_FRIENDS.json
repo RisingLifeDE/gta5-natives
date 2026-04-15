@@ -1,0 +1,10 @@
+{
+    "0x6512765E3BE78C50": {
+        "name": "NETWORK_IS_TRANSITION_CLOSED_FRIENDS",
+        "jhash": "0x95FFACF8",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

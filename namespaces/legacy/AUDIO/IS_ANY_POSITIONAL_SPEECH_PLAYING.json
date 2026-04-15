@@ -1,0 +1,10 @@
+{
+    "0x30CA2EF91D15ADF8": {
+        "name": "IS_ANY_POSITIONAL_SPEECH_PLAYING",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2189"
+    }
+}

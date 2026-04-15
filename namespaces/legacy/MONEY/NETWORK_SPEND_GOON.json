@@ -1,0 +1,27 @@
+{
+    "0x08A1B82B91900682": {
+        "name": "NETWORK_SPEND_GOON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_NETWORK_SPENT_PAY_GOON",
+            "_NETWORK_SPENT_GOON_PAY"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0EACDF8487D5155A": {
+        "name": "PLAYSTATS_GUNRUNNING_MISSION_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_PLAYSTATS_GUNRUN_MISSION_ENDED"
+        ]
+    }
+}

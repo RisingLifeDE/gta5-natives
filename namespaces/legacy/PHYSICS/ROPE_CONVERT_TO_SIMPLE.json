@@ -1,0 +1,15 @@
+{
+    "0x5389D48EFA2F079A": {
+        "name": "ROPE_CONVERT_TO_SIMPLE",
+        "jhash": "0x43E92628",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

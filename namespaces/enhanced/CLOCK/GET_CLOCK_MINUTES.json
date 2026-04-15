@@ -1,0 +1,10 @@
+{
+    "0x13D2B8ADD79640F2": {
+        "name": "GET_CLOCK_MINUTES",
+        "jhash": "0x94AAC486",
+        "comment": "Gets the current ingame clock minute.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

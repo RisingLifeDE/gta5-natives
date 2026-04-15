@@ -1,0 +1,23 @@
+{
+    "0x75A9A10948D1DEA6": {
+        "name": "SET_MINIMAP_COMPONENT",
+        "jhash": "0x419DCDC4",
+        "comment": "This native is used to colorize certain map components like the army base at the top of the map.\np2 appears to be always -1. If p2 is -1 then native wouldn't change the color. See https://gfycat.com/SkinnyPinkChupacabra",
+        "params": [
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "overrideColor"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

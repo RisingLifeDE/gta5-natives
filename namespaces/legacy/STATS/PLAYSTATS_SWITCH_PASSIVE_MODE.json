@@ -1,0 +1,30 @@
+{
+    "0x35EEC6C2BC821A71": {
+        "name": "PLAYSTATS_SWITCH_PASSIVE_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_PLAYSTATS_PASSIVE_MODE"
+        ]
+    }
+}

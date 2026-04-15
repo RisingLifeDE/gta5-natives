@@ -1,0 +1,15 @@
+{
+    "0x745711A75AB09277": {
+        "name": "SET_FRONTEND_ACTIVE",
+        "jhash": "0x81E1AD32",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

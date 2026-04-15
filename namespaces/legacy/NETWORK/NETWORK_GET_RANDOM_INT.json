@@ -1,0 +1,10 @@
+{
+    "0x599E4FA1F87EB5FF": {
+        "name": "NETWORK_GET_RANDOM_INT",
+        "jhash": "0x208DD848",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

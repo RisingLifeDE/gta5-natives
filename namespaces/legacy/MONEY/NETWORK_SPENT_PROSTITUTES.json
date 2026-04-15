@@ -1,0 +1,23 @@
+{
+    "0xB21B89501CFAC79E": {
+        "name": "NETWORK_SPENT_PROSTITUTES",
+        "jhash": "0x78436D07",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

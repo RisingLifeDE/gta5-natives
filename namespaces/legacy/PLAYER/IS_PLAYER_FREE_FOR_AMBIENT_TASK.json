@@ -1,0 +1,15 @@
+{
+    "0xDCCFD3F106C36AB4": {
+        "name": "IS_PLAYER_FREE_FOR_AMBIENT_TASK",
+        "jhash": "0x85C7E232",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

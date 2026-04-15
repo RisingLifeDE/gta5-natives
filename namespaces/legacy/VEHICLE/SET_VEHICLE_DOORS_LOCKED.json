@@ -1,0 +1,19 @@
+{
+    "0xB664292EAECF7FA6": {
+        "name": "SET_VEHICLE_DOORS_LOCKED",
+        "jhash": "0x4CDD35D0",
+        "comment": "enum eVehicleLockState\n{\n\tVEHICLELOCK_NONE,\n\tVEHICLELOCK_UNLOCKED,\n\tVEHICLELOCK_LOCKED,\n\tVEHICLELOCK_LOCKOUT_PLAYER_ONLY,\n\tVEHICLELOCK_LOCKED_PLAYER_INSIDE,\n\tVEHICLELOCK_LOCKED_INITIALLY,\n\tVEHICLELOCK_FORCE_SHUT_DOORS,\n\tVEHICLELOCK_LOCKED_BUT_CAN_BE_DAMAGED,\n\tVEHICLELOCK_LOCKED_BUT_BOOT_UNLOCKED,\n\tVEHICLELOCK_LOCKED_NO_PASSENGERS,\n\tVEHICLELOCK_CANNOT_ENTER\t\n};",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorLockStatus"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

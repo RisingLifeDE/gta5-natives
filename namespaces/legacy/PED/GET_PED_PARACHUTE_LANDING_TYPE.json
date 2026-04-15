@@ -1,0 +1,15 @@
+{
+    "0x8B9F1FC6AE8166C0": {
+        "name": "GET_PED_PARACHUTE_LANDING_TYPE",
+        "jhash": "0x01F3B035",
+        "comment": "-1: no landing\n0: landing on both feet\n1: stumbling\n2: rolling\n3: ragdoll",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

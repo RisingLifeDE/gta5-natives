@@ -1,0 +1,15 @@
+{
+    "0xE9676F61BC0B3321": {
+        "name": "HAS_COLLISION_LOADED_AROUND_ENTITY",
+        "jhash": "0x851687F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

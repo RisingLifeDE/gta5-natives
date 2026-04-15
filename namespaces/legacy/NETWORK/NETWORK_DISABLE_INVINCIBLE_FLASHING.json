@@ -1,0 +1,19 @@
+{
+    "0x9DD368BF06983221": {
+        "name": "NETWORK_DISABLE_INVINCIBLE_FLASHING",
+        "jhash": "0x8D27280E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

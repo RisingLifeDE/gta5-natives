@@ -1,0 +1,10 @@
+{
+    "0x98EDF76A7271E4F2": {
+        "name": "REQUEST_EARLY_LIGHT_CHECK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

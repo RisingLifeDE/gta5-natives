@@ -1,0 +1,13 @@
+{
+    "0xC79AE21974B01FB2": {
+        "name": "CLEANUP_ASYNC_INSTALL",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEANUP_ASYNC_INSTALL"
+        ]
+    }
+}

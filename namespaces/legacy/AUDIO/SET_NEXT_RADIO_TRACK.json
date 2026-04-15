@@ -1,0 +1,27 @@
+{
+    "0x55ECF4D13D9903B0": {
+        "name": "SET_NEXT_RADIO_TRACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioName"
+            },
+            {
+                "type": "const char*",
+                "name": "radioTrack"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

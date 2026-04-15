@@ -1,0 +1,23 @@
+{
+    "0x54F157E0336A3822": {
+        "name": "SET_TENNIS_MOVE_NETWORK_SIGNAL_FLOAT",
+        "jhash": "0x49F977A9",
+        "comment": "From the scripts:\n\nMISC::SET_TENNIS_MOVE_NETWORK_SIGNAL_FLOAT(sub_aa49(a_0), \"ForcedStopDirection\", v_E);\n\nRelated to tennis mode.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

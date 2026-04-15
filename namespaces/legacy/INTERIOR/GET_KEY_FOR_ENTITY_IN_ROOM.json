@@ -1,0 +1,15 @@
+{
+    "0x399685DB942336BC": {
+        "name": "GET_KEY_FOR_ENTITY_IN_ROOM",
+        "jhash": "0x91EA80EF",
+        "comment": "Seems to do the exact same as INTERIOR::GET_ROOM_KEY_FROM_ENTITY",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

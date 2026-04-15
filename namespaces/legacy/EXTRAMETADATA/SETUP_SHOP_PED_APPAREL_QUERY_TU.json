@@ -1,0 +1,38 @@
+{
+    "0x9BDF59818B1E38C1": {
+        "name": "SETUP_SHOP_PED_APPAREL_QUERY_TU",
+        "jhash": "0x594E862C",
+        "comment": "character is 0 for Michael, 1 for Franklin, 2 for Trevor, 3 for freemode male, and 4 for freemode female.\n\ncomponentId is between 0 and 11 and corresponds to the usual component slots.\n\np1 could be the outfit number; unsure.\n\np2 is usually -1; unknown function.\n\np3 appears to be for selecting between clothes and props; false is used with components/clothes, true is used with props.\n\np4 is usually -1; unknown function.\n\ncomponentId is -1 when p3 is true in decompiled scripts.",
+        "params": [
+            {
+                "type": "int",
+                "name": "character"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUM_PROPS_FROM_OUTFIT"
+        ]
+    }
+}

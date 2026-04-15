@@ -1,0 +1,15 @@
+{
+    "0x535E97E1F7FC0C6A": {
+        "name": "SET_EXCLUSIVE_SCENARIO_GROUP",
+        "jhash": "0x59DB8F26",
+        "comment": "Full list of scenario groups used in scripts by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scenarioGroupNames.json\nGroups found in the scripts used with this native:\n\n\"AMMUNATION\",\n\"QUARRY\",\n\"Triathlon_1\",\n\"Triathlon_2\",\n\"Triathlon_3\"",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x338D2E3477711050": {
+        "name": "CLEAR_OVERRIDE_WEATHER",
+        "jhash": "0x7740EA4E",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

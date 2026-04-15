@@ -1,0 +1,23 @@
+{
+    "0x4448EB75B4904BDB": {
+        "name": "LOAD_SCENE",
+        "jhash": "0xB72403F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

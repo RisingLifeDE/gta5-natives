@@ -1,0 +1,19 @@
+{
+    "0xF7F203E31F96F6A1": {
+        "name": "IS_SEAT_WARP_ONLY",
+        "jhash": "0x769E5CF2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

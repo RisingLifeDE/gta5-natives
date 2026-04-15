@@ -1,0 +1,10 @@
+{
+    "0xA2C1F5E92AFE49ED": {
+        "name": "CLEAR_ALL_PICKUP_REWARD_TYPE_SUPPRESSION",
+        "jhash": "0xB241806C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

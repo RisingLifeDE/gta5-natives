@@ -1,0 +1,15 @@
+{
+    "0x049E937F18F4020C": {
+        "name": "IS_PED_IN_CURRENT_CONVERSATION",
+        "jhash": "0x7B2F0743",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1DE37BBF9E9CC14A": {
+        "name": "SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE",
+        "jhash": "0xAF7AFCC4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

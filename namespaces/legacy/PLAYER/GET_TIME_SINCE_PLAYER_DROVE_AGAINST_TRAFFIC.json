@@ -1,0 +1,15 @@
+{
+    "0xDB89591E290D9182": {
+        "name": "GET_TIME_SINCE_PLAYER_DROVE_AGAINST_TRAFFIC",
+        "jhash": "0x9F27D00E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

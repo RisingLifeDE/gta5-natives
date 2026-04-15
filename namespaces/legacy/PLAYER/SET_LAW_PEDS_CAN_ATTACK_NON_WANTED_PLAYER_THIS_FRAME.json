@@ -1,0 +1,15 @@
+{
+    "0xFAC75988A7D078D3": {
+        "name": "SET_LAW_PEDS_CAN_ATTACK_NON_WANTED_PLAYER_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "463"
+    }
+}

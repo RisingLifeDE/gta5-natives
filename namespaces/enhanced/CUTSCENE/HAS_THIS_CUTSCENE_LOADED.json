@@ -1,0 +1,15 @@
+{
+    "0x228D3D94F8A11C3C": {
+        "name": "HAS_THIS_CUTSCENE_LOADED",
+        "jhash": "0x3C5619F2",
+        "comment": "Full list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

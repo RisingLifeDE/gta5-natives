@@ -1,0 +1,15 @@
+{
+    "0x8386BFB614D06749": {
+        "name": "REMOVE_VEHICLE_STUCK_CHECK",
+        "jhash": "0x81594917",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

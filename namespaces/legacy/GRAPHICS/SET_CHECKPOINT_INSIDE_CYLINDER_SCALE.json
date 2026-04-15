@@ -1,0 +1,22 @@
+{
+    "0x44621483FF966526": {
+        "name": "SET_CHECKPOINT_INSIDE_CYLINDER_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_SET_CHECKPOINT_ICON_SCALE"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x238FFE5C7B0498A6": {
+        "name": "END_TEXT_COMMAND_DISPLAY_HELP",
+        "jhash": "0xB59B530D",
+        "comment": "shape goes from -1 to 50 (may be more).\np0 is always 0.\n\nExample:\nvoid FloatingHelpText(const char* text)\n{\n    BEGIN_TEXT_COMMAND_DISPLAY_HELP(\"STRING\");\n  ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n   END_TEXT_COMMAND_DISPLAY_HELP (0, 0, 1, -1);\n}\n\nImage:\n- imgbin.org/images/26209.jpg\n\nmore inputs/icons:\n- https://pastebin.com/nqNYWMSB\n\nUsed to be known as _DISPLAY_HELP_TEXT_FROM_STRING_LABEL",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "loop"
+            },
+            {
+                "type": "BOOL",
+                "name": "beep"
+            },
+            {
+                "type": "int",
+                "name": "shape"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISPLAY_HELP_TEXT_FROM_STRING_LABEL"
+        ]
+    }
+}

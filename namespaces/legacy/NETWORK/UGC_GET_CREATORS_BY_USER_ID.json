@@ -1,0 +1,19 @@
+{
+    "0xB746D20B17F2A229": {
+        "name": "UGC_GET_CREATORS_BY_USER_ID",
+        "jhash": "0x9567392B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

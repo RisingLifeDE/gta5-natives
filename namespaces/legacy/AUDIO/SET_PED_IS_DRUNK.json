@@ -1,0 +1,19 @@
+{
+    "0x95D2D383D5396B8A": {
+        "name": "SET_PED_IS_DRUNK",
+        "jhash": "0xD2EA77A3",
+        "comment": "Sets the ped drunk sounds.  Only works with PLAYER_PED_ID\n\n====================================================\n\nAs mentioned above, this only sets the drunk sound to ped/player.\n\nTo give the Ped a drunk effect with drunk walking animation try using SET_PED_MOVEMENT_CLIPSET\n\nBelow is an example\n\nif (!Function.Call<bool>(Hash.HAS_ANIM_SET_LOADED, \"move_m@drunk@verydrunk\"))\n                {\n                    Function.Call(Hash.REQUEST_ANIM_SET, \"move_m@drunk@verydrunk\");\n                }\n                Function.Call(Hash.SET_PED_MOVEMENT_CLIPSET, Ped.Handle, \"move_m@drunk@verydrunk\", 0x3E800000);\n\n\n\nAnd to stop the effect use\nRESET_PED_MOVEMENT_CLIPSET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

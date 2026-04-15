@@ -1,0 +1,19 @@
+{
+    "0x83A169EABCDB10A2": {
+        "name": "SET_PED_PHONE_PALETTE_IDX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

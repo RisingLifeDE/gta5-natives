@@ -1,0 +1,10 @@
+{
+    "0x494E97C2EF27C470": {
+        "name": "GET_CLOCK_SECONDS",
+        "jhash": "0x099C927E",
+        "comment": "Gets the current ingame clock second. Note that ingame clock seconds change really fast since a day in GTA is only 48 minutes in real life.",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x4EC6CFBC7B2E9536": {
+        "name": "GET_VEHICLE_DEFORMATION_AT_POS",
+        "jhash": "0xABF02075",
+        "comment": "The only example I can find of this function in the scripts, is this:\n\nstruct _s = VEHICLE::GET_VEHICLE_DEFORMATION_AT_POS(rPtr((A_0) + 4), 1.21f, 6.15f, 0.3f);\n\n-----------------------------------------------------------------------------------------------------------------------------------------\nPC scripts:\n\nv_5/*{3}*/ = VEHICLE::GET_VEHICLE_DEFORMATION_AT_POS(a_0._f1, 1.21, 6.15, 0.3);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "0xD76632D99E4966C8": {
+        "name": "SET_PED_TO_RAGDOLL_WITH_FALL",
+        "jhash": "0xFA12E286",
+        "comment": "Return variable is never used in R*'s scripts.\n\nNot sure what p2 does. It seems like it would be a time judging by it's usage in R*'s scripts, but didn't seem to affect anything in my testings.\n\nenum eRagdollType\n{\n RD_MALE=0,\n RD_FEMALE = 1,\n RD_MALE_LARGE = 2,\n RD_CUSTOM = 3,\n}\n\nx, y, and z are coordinates, most likely to where the ped will fall.\n\np8 to p13 are always 0f in R*'s scripts.\n\n(Simplified) Example of the usage of the function from R*'s scripts:\nped::set_ped_to_ragdoll_with_fall(ped, 1500, 2000, 1, -entity::get_entity_forward_vector(ped), 1f, 0f, 0f, 0f, 0f, 0f, 0f);\n",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "ragdollType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "velocity"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

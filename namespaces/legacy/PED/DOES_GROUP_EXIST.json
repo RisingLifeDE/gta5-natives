@@ -1,0 +1,15 @@
+{
+    "0x7C6B0C22F9F40BBE": {
+        "name": "DOES_GROUP_EXIST",
+        "jhash": "0x935C978D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xF5F6378C4F3419D3": {
+        "name": "SET_PED_MAX_HEALTH",
+        "jhash": "0x5533F60B",
+        "comment": "Sets the maximum health of a ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

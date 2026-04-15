@@ -1,0 +1,19 @@
+{
+    "0xC7848EFCCC545182": {
+        "name": "SET_CAM_NEAR_CLIP",
+        "jhash": "0x46DB13B1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "nearClip"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

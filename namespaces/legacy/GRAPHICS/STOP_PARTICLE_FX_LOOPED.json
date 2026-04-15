@@ -1,0 +1,19 @@
+{
+    "0x8F75998877616996": {
+        "name": "STOP_PARTICLE_FX_LOOPED",
+        "jhash": "0xD245455B",
+        "comment": "p1 is always 0 in the native scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

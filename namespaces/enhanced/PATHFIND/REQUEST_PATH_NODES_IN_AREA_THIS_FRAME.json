@@ -1,0 +1,30 @@
+{
+    "0x07FB139B592FA687": {
+        "name": "REQUEST_PATH_NODES_IN_AREA_THIS_FRAME",
+        "jhash": "0x2CDA5012",
+        "comment": "Used internally for long range tasks",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT"
+        ]
+    }
+}

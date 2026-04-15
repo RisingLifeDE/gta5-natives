@@ -1,0 +1,15 @@
+{
+    "0xEF26739BCD9907D5": {
+        "name": "NETWORK_SET_TRANSITION_CREATOR_HANDLE",
+        "jhash": "0x1DD01FE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

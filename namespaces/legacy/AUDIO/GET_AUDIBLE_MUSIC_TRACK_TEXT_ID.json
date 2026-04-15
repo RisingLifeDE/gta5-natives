@@ -1,0 +1,10 @@
+{
+    "0x50B196FC9ED6545B": {
+        "name": "GET_AUDIBLE_MUSIC_TRACK_TEXT_ID",
+        "jhash": "0xA2B88CA7",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

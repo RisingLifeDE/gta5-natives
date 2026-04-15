@@ -1,0 +1,27 @@
+{
+    "0x63BB75ABEDC1F6A0": {
+        "name": "SET_MP_GAMER_TAG_VISIBILITY",
+        "jhash": "0xD41DF479",
+        "comment": "enum eMpGamerTagComponent\n{\n\tMP_TAG_GAMER_NAME,\n\tMP_TAG_CREW_TAG,\n\tMP_TAG_HEALTH_ARMOUR,\n\tMP_TAG_BIG_TEXT,\n\tMP_TAG_AUDIO_ICON,\n\tMP_TAG_USING_MENU,\n\tMP_TAG_PASSIVE_MODE,\n\tMP_TAG_WANTED_STARS,\n\tMP_TAG_DRIVER,\n\tMP_TAG_CO_DRIVER,\n\tMP_TAG_TAGGED,\n\tMP_TAG_GAMER_NAME_NEARBY,\n\tMP_TAG_ARROW,\n\tMP_TAG_PACKAGES,\n\tMP_TAG_INV_IF_PED_FOLLOWING,\n\tMP_TAG_RANK_TEXT,\n\tMP_TAG_TYPING,\n\tMP_TAG_BAG_LARGE,\n\tMP_TAG_ARROW,\n\tMP_TAG_GANG_CEO,\n\tMP_TAG_GANG_BIKER,\n\tMP_TAG_BIKER_ARROW,\n\tMP_TAG_MC_ROLE_PRESIDENT,\n\tMP_TAG_MC_ROLE_VICE_PRESIDENT,\n\tMP_TAG_MC_ROLE_ROAD_CAPTAIN,\n\tMP_TAG_MC_ROLE_SARGEANT,\n\tMP_TAG_MC_ROLE_ENFORCER,\n\tMP_TAG_MC_ROLE_PROSPECT,\n\tMP_TAG_TRANSMITTER,\n\tMP_TAG_BOMB\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "int",
+                "name": "component"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x040ADDCBAFA1018A": {
+        "name": "SC_EMAIL_RETRIEVE_EMAILS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "offset"
+            },
+            {
+                "type": "int",
+                "name": "limit"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SC_INBOX_GET_EMAILS"
+        ]
+    }
+}

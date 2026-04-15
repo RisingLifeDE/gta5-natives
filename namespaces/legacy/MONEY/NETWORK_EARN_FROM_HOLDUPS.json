@@ -1,0 +1,15 @@
+{
+    "0x45B8154E077D9E4D": {
+        "name": "NETWORK_EARN_FROM_HOLDUPS",
+        "jhash": "0xE6B90E9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

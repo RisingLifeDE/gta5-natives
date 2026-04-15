@@ -1,0 +1,18 @@
+{
+    "0x125E6D638B8605D4": {
+        "name": "NETWORK_GET_LAST_PLAYER_POS_RECEIVED_OVER_NETWORK",
+        "jhash": "",
+        "comment": "Returns the coordinates of another player.\nDoes not work if you enter your own player id as p0 (will return `(0.0, 0.0, 0.0)` in that case).",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "393",
+        "old_names": [
+            "_NETWORK_GET_PLAYER_COORDS"
+        ]
+    }
+}

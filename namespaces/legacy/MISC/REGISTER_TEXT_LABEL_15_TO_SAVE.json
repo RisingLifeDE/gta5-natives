@@ -1,0 +1,22 @@
+{
+    "0x6F7794F28C6B2535": {
+        "name": "REGISTER_TEXT_LABEL_15_TO_SAVE",
+        "jhash": "0xE2089749",
+        "comment": "MISC::REGISTER_TEXT_LABEL_15_TO_SAVE(&a_0._f1, \"tlPlateText\");\nMISC::REGISTER_TEXT_LABEL_15_TO_SAVE(&a_0._f1C, \"tlPlateText_pending\");\nMISC::REGISTER_TEXT_LABEL_15_TO_SAVE(&a_0._f10B, \"tlCarAppPlateText\");",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REGISTER_TEXT_LABEL_TO_SAVE_2"
+        ]
+    }
+}

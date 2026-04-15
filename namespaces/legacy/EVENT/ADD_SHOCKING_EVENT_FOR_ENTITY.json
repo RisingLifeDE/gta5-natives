@@ -1,0 +1,23 @@
+{
+    "0x7FD8F3BE76F89422": {
+        "name": "ADD_SHOCKING_EVENT_FOR_ENTITY",
+        "jhash": "0xA81B5B71",
+        "comment": "eventType: https://alloc8or.re/gta5/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventType"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

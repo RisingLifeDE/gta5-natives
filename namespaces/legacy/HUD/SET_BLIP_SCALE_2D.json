@@ -1,0 +1,26 @@
+{
+    "0xCD6524439909C979": {
+        "name": "SET_BLIP_SCALE_2D",
+        "jhash": "",
+        "comment": "See https://imgur.com/a/lLkEsMN",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "xScale"
+            },
+            {
+                "type": "float",
+                "name": "yScale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_SET_BLIP_SCALE_TRANSFORMATION"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xB3CD58CCA6CDA852": {
+        "name": "CLEAR_TACTICAL_NAV_MESH_POINTS",
+        "jhash": "0x66C3C59C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_TACTICAL_ANALYSIS_POINTS"
+        ]
+    }
+}

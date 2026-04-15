@@ -1,0 +1,19 @@
+{
+    "0xE3621CC40F31FE2E": {
+        "name": "POW",
+        "jhash": "0x85D134F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "base"
+            },
+            {
+                "type": "float",
+                "name": "exponent"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

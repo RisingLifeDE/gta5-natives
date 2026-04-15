@@ -1,0 +1,23 @@
+{
+    "0xA071E0ED98F91286": {
+        "name": "PLAYSTATS_ACTIVITY_DONE",
+        "jhash": "0x1A66945F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "activityId"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

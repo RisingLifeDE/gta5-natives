@@ -1,0 +1,10 @@
+{
+    "0x66E7CB63C97B7D20": {
+        "name": "CODE_WANTS_SCRIPT_TO_TAKE_CONTROL",
+        "jhash": "0x92DAFA78",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

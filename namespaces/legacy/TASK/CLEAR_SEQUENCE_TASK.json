@@ -1,0 +1,15 @@
+{
+    "0x3841422E9C488D8C": {
+        "name": "CLEAR_SEQUENCE_TASK",
+        "jhash": "0x47ED03CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

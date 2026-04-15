@@ -1,0 +1,19 @@
+{
+    "0x0D5F65A8F4EBDAB5": {
+        "name": "SET_CARGOBOB_PICKUP_ROPE_TYPE",
+        "jhash": "0xF258ADA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

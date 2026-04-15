@@ -1,0 +1,23 @@
+{
+    "0xE0031D3C8F36AB82": {
+        "name": "SET_ENTITY_VISIBLE_IN_CUTSCENE",
+        "jhash": "0xDBFB067B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

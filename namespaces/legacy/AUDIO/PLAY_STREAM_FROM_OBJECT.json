@@ -1,0 +1,15 @@
+{
+    "0xEBAA9B64D76356FD": {
+        "name": "PLAY_STREAM_FROM_OBJECT",
+        "jhash": "0xC5266BF7",
+        "comment": "Used with AUDIO::LOAD_STREAM\n\nExample from finale_heist2b.c4:\nTASK::TASK_SYNCHRONIZED_SCENE(l_4C8[2/*14*/], l_4C8[2/*14*/]._f7, l_30A, \"push_out_vault_l\", 4.0, -1.5, 5, 713, 4.0, 0);\n                    PED::SET_SYNCHRONIZED_SCENE_PHASE(l_4C8[2/*14*/]._f7, 0.0);\n                    PED::FORCE_PED_AI_AND_ANIMATION_UPDATE(l_4C8[2/*14*/], 0, 0);\n                    PED::SET_PED_COMBAT_ATTRIBUTES(l_4C8[2/*14*/], 38, 1);\n                    PED::SET_BLOCKING_OF_NON_TEMPORARY_EVENTS(l_4C8[2/*14*/], 1);\n                    if (AUDIO::LOAD_STREAM(\"Gold_Cart_Push_Anim_01\", \"BIG_SCORE_3B_SOUNDS\")) {\n                        AUDIO::PLAY_STREAM_FROM_OBJECT(l_36F[0/*1*/]);\n                    }",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

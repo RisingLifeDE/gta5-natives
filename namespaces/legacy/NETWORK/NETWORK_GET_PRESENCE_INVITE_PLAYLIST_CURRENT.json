@@ -1,0 +1,15 @@
+{
+    "0x728C4CC7920CD102": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_PLAYLIST_CURRENT",
+        "jhash": "0x4677C656",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

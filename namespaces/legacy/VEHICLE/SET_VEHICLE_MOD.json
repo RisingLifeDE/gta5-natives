@@ -1,0 +1,27 @@
+{
+    "0x6AF0636DDEDCB6DD": {
+        "name": "SET_VEHICLE_MOD",
+        "jhash": "0xB52E5ED5",
+        "comment": "In b944, there are 50 (0 - 49) mod types.\n\nSets the vehicle mod.\nThe vehicle must have a mod kit first.\n\nAny out of range ModIndex is stock.\n\n#Mod Type\nSpoilers - 0\nFront Bumper - 1\nRear Bumper - 2\nSide Skirt - 3\nExhaust - 4\nFrame - 5\nGrille - 6\nHood - 7\nFender - 8\nRight Fender - 9\nRoof - 10\nEngine - 11\nBrakes - 12\nTransmission - 13\nHorns - 14 (modIndex from 0 to 51)\nSuspension - 15\nArmor - 16\nFront Wheels - 23\nBack Wheels - 24 //only for motocycles\nPlate holders - 25\nTrim Design - 27\nOrnaments - 28\nDial Design - 30\nSteering Wheel - 33\nShifter Leavers - 34\nPlaques - 35\nHydraulics - 38\nLivery - 48\n\nENUMS: https://pastebin.com/QzEAn02v",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "modType"
+            },
+            {
+                "type": "int",
+                "name": "modIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "customTires"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0x29A16F8D621C4508": {
+        "name": "ATTACH_VEHICLE_TO_TOW_TRUCK",
+        "jhash": "0x8151571A",
+        "comment": "HookOffset defines where the hook is attached. leave at 0 for default attachment.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "towTruck"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "rear"
+            },
+            {
+                "type": "float",
+                "name": "hookOffsetX"
+            },
+            {
+                "type": "float",
+                "name": "hookOffsetY"
+            },
+            {
+                "type": "float",
+                "name": "hookOffsetZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

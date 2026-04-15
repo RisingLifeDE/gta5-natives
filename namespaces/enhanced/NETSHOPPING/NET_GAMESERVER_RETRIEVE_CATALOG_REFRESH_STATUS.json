@@ -1,0 +1,18 @@
+{
+    "0xCF38DAFBB49EDE5E": {
+        "name": "NET_GAMESERVER_RETRIEVE_CATALOG_REFRESH_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "state"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NET_GAMESERVER_GET_CATALOG_STATE"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x2036F561ADD12E33": {
+        "name": "SET_VEHICLE_EXTRA_COLOURS",
+        "jhash": "0x515DB2A0",
+        "comment": "They use the same color indexs as SET_VEHICLE_COLOURS.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "pearlescentColor"
+            },
+            {
+                "type": "int",
+                "name": "wheelColor"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

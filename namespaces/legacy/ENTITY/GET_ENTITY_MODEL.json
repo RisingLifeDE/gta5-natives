@@ -1,0 +1,15 @@
+{
+    "0x9F47B058362C84B5": {
+        "name": "GET_ENTITY_MODEL",
+        "jhash": "0xDAFCB3EC",
+        "comment": "Returns the model hash from the entity",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

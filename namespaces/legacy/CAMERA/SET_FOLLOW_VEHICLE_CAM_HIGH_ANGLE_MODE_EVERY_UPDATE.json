@@ -1,0 +1,22 @@
+{
+    "0x9DFE13ECDC1EC196": {
+        "name": "SET_FOLLOW_VEHICLE_CAM_HIGH_ANGLE_MODE_EVERY_UPDATE",
+        "jhash": "0x92302899",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "SET_TIME_IDLE_DROP"
+        ]
+    }
+}

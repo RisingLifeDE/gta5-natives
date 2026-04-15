@@ -1,0 +1,10 @@
+{
+    "0x5B1F2E327B6B6FE1": {
+        "name": "GET_REPLAY_STAT_MISSION_ID",
+        "jhash": "0x50C39926",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

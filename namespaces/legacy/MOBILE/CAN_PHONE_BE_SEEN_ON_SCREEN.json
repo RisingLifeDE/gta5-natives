@@ -1,0 +1,10 @@
+{
+    "0xC4E2813898C97A4B": {
+        "name": "CAN_PHONE_BE_SEEN_ON_SCREEN",
+        "jhash": "0x5F978584",
+        "comment": "This one is weird and seems to return a TRUE state regardless of whether the phone is visible on screen or tucked away.\n\n\nI can confirm the above. This function is hard-coded to always return 1.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

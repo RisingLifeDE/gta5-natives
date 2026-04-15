@@ -1,0 +1,27 @@
+{
+    "0x4EE5367468A65CCC": {
+        "name": "ADD_SCRIPT_TO_RANDOM_PED",
+        "jhash": "0xECC76C3D",
+        "comment": "BRAIN::ADD_SCRIPT_TO_RANDOM_PED(\"pb_prostitute\", ${s_f_y_hooker_01}, 100, 0);\n\n- Nacorpio\n\n-----\n\nHardcoded to not work in Multiplayer.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

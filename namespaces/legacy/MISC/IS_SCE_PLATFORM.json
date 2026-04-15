@@ -1,0 +1,10 @@
+{
+    "0xF911E695C1EB8518": {
+        "name": "IS_SCE_PLATFORM",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

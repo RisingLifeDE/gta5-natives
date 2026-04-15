@@ -1,0 +1,43 @@
+{
+    "0xC12321827687FE4D": {
+        "name": "SET_ALL_VEHICLE_GENERATORS_ACTIVE_IN_AREA",
+        "jhash": "0xB4E0E69A",
+        "comment": "When p6 is true, vehicle generators are active.\np7 seems to always be true in story mode scripts, but it's sometimes false in online scripts.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

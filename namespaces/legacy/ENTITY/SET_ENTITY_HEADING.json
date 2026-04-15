@@ -1,0 +1,19 @@
+{
+    "0x8E2530AA8ADA980E": {
+        "name": "SET_ENTITY_HEADING",
+        "jhash": "0xE0FF064D",
+        "comment": "Set the heading of an entity in degrees also known as \"Yaw\".",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

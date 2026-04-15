@@ -1,0 +1,15 @@
+{
+    "0x44151AEA95C8A003": {
+        "name": "APP_DELETE_APP_DATA",
+        "jhash": "0x2A2FBD1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xBC3CCA5844452B06": {
+        "name": "SET_LIGHTS_CUTOFF_DISTANCE_TWEAK",
+        "jhash": "0x929801C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

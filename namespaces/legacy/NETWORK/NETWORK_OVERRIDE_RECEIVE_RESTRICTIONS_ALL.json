@@ -1,0 +1,15 @@
+{
+    "0x0FF2862B61A58AF9": {
+        "name": "NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS_ALL",
+        "jhash": "0x1BCD3DDF",
+        "comment": "p0 is always false in scripts.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

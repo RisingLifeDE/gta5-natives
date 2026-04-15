@@ -1,0 +1,19 @@
+{
+    "0x39A5FB7EAF150840": {
+        "name": "SET_PICKUP_OBJECT_ARROW_MARKER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "678"
+    }
+}

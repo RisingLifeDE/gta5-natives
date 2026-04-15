@@ -1,0 +1,42 @@
+{
+    "0x1E6611149DB3DB6B": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_TU",
+        "jhash": "0x0EB382B7",
+        "comment": "This function can show pictures of every texture that can be requested by REQUEST_STREAMED_TEXTURE_DICT.\n\nNOTE: 'duration' is a multiplier, so 1.0 is normal, 2.0 is twice as long (very slow), and 0.5 is half as long.\n\nExample, only occurrence in the scripts:\nv_8 = HUD::END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_TU(\"CHAR_SOCIAL_CLUB\", \"CHAR_SOCIAL_CLUB\", 0, 0, &v_9, \"\", a_5);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "txdName"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "flash"
+            },
+            {
+                "type": "int",
+                "name": "iconType"
+            },
+            {
+                "type": "const char*",
+                "name": "sender"
+            },
+            {
+                "type": "const char*",
+                "name": "subject"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_MESSAGE_4"
+        ]
+    }
+}

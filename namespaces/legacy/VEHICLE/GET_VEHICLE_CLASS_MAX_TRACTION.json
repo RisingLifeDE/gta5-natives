@@ -1,0 +1,15 @@
+{
+    "0xDBC86D85C5059461": {
+        "name": "GET_VEHICLE_CLASS_MAX_TRACTION",
+        "jhash": "0x5B4FDC16",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleClass"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

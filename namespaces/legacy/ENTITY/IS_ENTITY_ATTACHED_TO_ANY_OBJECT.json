@@ -1,0 +1,15 @@
+{
+    "0xCF511840CEEDE0CC": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_OBJECT",
+        "jhash": "0x0B5DE340",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

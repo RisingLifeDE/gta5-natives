@@ -1,0 +1,15 @@
+{
+    "0x932C2D096A2C3FFF": {
+        "name": "IS_AMBIENT_SPEECH_DISABLED",
+        "jhash": "0x109D1F89",
+        "comment": "Common in the scripts:\nAUDIO::IS_AMBIENT_SPEECH_DISABLED(PLAYER::PLAYER_PED_ID());",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0C02468829E4AA65": {
+        "name": "_SET_DEPLOY_MISSILE_BAYS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "deploy"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

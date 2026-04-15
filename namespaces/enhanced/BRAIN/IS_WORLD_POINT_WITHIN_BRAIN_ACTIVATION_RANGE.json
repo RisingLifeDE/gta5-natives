@@ -1,0 +1,10 @@
+{
+    "0xC5042CC6F5E3D450": {
+        "name": "IS_WORLD_POINT_WITHIN_BRAIN_ACTIVATION_RANGE",
+        "jhash": "0x2CF305A0",
+        "comment": "Gets whether the world point the calling script is registered to is within desired range of the player.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

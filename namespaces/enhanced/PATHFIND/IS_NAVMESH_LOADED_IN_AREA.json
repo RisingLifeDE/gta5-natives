@@ -1,0 +1,35 @@
+{
+    "0xF813C7E63F9062A5": {
+        "name": "IS_NAVMESH_LOADED_IN_AREA",
+        "jhash": "0x4C2BA99E",
+        "comment": "Returns whether navmesh for the region is loaded. The region is a rectangular prism defined by it's top left deepest corner to it's bottom right shallowest corner.\n\nIf you can re-word this so it makes more sense, please do. I'm horrible with words sometimes...",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

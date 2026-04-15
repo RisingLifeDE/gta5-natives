@@ -1,0 +1,18 @@
+{
+    "0x290D248E25815AE8": {
+        "name": "CLEAR_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_CLEAR_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE"
+        ]
+    }
+}

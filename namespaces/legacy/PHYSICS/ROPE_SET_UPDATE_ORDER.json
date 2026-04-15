@@ -1,0 +1,19 @@
+{
+    "0xDC57A637A20006ED": {
+        "name": "ROPE_SET_UPDATE_ORDER",
+        "jhash": "0x80DB77A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

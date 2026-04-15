@@ -1,0 +1,15 @@
+{
+    "0x6325D1A044AE510D": {
+        "name": "GET_VEHICLE_MOD_KIT",
+        "jhash": "0x9FE60927",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "0xEDC1A5B84AEF33FF": {
+        "name": "GET_STATE_OF_CLOSEST_DOOR_OF_TYPE",
+        "jhash": "0x4B44A83D",
+        "comment": "locked is 0 if no door is found\nlocked is 0 if door is unlocked\nlocked is 1 if door is found and unlocked.\n\n-------------\nthe locked bool is either 0(unlocked)(false) or 1(locked)(true)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL*",
+                "name": "locked"
+            },
+            {
+                "type": "float*",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

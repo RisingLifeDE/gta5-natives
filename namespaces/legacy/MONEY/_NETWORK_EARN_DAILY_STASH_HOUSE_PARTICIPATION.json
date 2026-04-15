@@ -1,0 +1,19 @@
+{
+    "0x9C0C6BD0F94CE391": {
+        "name": "_NETWORK_EARN_DAILY_STASH_HOUSE_PARTICIPATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

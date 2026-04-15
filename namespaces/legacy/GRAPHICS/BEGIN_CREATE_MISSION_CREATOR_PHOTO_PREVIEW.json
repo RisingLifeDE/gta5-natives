@@ -1,0 +1,10 @@
+{
+    "0x7FA5D82B8F58EC06": {
+        "name": "BEGIN_CREATE_MISSION_CREATOR_PHOTO_PREVIEW",
+        "jhash": "0x1F3CADB0",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

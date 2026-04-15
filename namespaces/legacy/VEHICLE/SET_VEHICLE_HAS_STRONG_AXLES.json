@@ -1,0 +1,19 @@
+{
+    "0x92F0CF722BC4202F": {
+        "name": "SET_VEHICLE_HAS_STRONG_AXLES",
+        "jhash": "0x0D1CBC65",
+        "comment": "if true, axles won't bend.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

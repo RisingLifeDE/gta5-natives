@@ -1,0 +1,19 @@
+{
+    "0x5AE614ECA5FDD423": {
+        "name": "_SET_VEHICLE_MAX_LAUNCH_ENGINE_REVS",
+        "jhash": "",
+        "comment": "0.0f = engine rev minimum\n1.0f = engine rev limit",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

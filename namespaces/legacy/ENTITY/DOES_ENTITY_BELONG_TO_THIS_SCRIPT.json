@@ -1,0 +1,19 @@
+{
+    "0xDDE6DF5AE89981D2": {
+        "name": "DOES_ENTITY_BELONG_TO_THIS_SCRIPT",
+        "jhash": "0xACFEB3F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

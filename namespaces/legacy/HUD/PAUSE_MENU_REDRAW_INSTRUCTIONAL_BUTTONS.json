@@ -1,0 +1,18 @@
+{
+    "0x4895BDEA16E7C080": {
+        "name": "PAUSE_MENU_REDRAW_INSTRUCTIONAL_BUTTONS",
+        "jhash": "0x15B24768",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "ENABLE_DEATHBLOOD_SEETHROUGH"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xF6D733C32076AD03": {
+        "name": "GET_PLAYER_RADIO_STATION_NAME",
+        "jhash": "0xD909C107",
+        "comment": "Returns active radio station name",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

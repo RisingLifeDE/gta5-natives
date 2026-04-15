@@ -1,0 +1,27 @@
+{
+    "0xF9E1CCAE8BA4C281": {
+        "name": "UGC_GET_FRIEND_CONTENT",
+        "jhash": "0x9EFBD5D1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

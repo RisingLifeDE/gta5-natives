@@ -1,0 +1,30 @@
+{
+    "0x33981D6804E62F49": {
+        "name": "NETWORK_SPENT_PURCHASE_IMPEXP_WAREHOUSE_PROPERTY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_NETWORK_SPENT_PURCHASE_IMPORTEXPORT_WAREHOUSE"
+        ]
+    }
+}

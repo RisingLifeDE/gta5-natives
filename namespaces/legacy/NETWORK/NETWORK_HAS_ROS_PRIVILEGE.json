@@ -1,0 +1,15 @@
+{
+    "0xA699957E60D80214": {
+        "name": "NETWORK_HAS_ROS_PRIVILEGE",
+        "jhash": "0xFD261E30",
+        "comment": "index is always 18 in scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

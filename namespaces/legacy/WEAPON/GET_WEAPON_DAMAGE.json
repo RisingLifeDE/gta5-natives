@@ -1,0 +1,22 @@
+{
+    "0x3133B907D8B32053": {
+        "name": "GET_WEAPON_DAMAGE",
+        "jhash": "0xE81649C0",
+        "comment": "This native does not return damages of weapons from the melee and explosive group.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_WEAPON_DAMAGE"
+        ]
+    }
+}

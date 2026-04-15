@@ -1,0 +1,15 @@
+{
+    "0x72751156E7678833": {
+        "name": "SET_IGNORE_NO_GPS_FLAG",
+        "jhash": "0xB72CF194",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

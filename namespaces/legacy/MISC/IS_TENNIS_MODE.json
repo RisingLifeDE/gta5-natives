@@ -1,0 +1,15 @@
+{
+    "0x5D5479D115290C3F": {
+        "name": "IS_TENNIS_MODE",
+        "jhash": "0x04A947BA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

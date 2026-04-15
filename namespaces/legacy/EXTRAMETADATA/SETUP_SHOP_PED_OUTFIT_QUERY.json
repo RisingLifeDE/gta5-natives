@@ -1,0 +1,19 @@
+{
+    "0xF3FBE2D50A6A8C28": {
+        "name": "SETUP_SHOP_PED_OUTFIT_QUERY",
+        "jhash": "0x1ECD23E7",
+        "comment": "characters\n\n0: Michael\n1: Franklin\n2: Trevor\n3: MPMale\n4: MPFemale",
+        "params": [
+            {
+                "type": "int",
+                "name": "character"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

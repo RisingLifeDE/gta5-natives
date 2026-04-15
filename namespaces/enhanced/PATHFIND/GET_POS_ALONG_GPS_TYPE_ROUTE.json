@@ -1,0 +1,30 @@
+{
+    "0xF3162836C28F9DA5": {
+        "name": "GET_POS_ALONG_GPS_TYPE_ROUTE",
+        "jhash": "",
+        "comment": "p3 can be 0, 1 or 2.",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "result"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505",
+        "old_names": [
+            "GET_GPS_WAYPOINT_ROUTE_END"
+        ]
+    }
+}

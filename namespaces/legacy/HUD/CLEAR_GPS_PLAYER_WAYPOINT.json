@@ -1,0 +1,10 @@
+{
+    "0xFF4FB7C8CDFA3DA7": {
+        "name": "CLEAR_GPS_PLAYER_WAYPOINT",
+        "jhash": "0x0B9C7FC2",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x1E8C308FD312C036": {
+        "name": "INIT_SHOP_PED_COMPONENT",
+        "jhash": "0xB818C7FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outComponent"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

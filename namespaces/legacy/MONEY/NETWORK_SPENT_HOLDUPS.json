@@ -1,0 +1,23 @@
+{
+    "0xD9B86B9872039763": {
+        "name": "NETWORK_SPENT_HOLDUPS",
+        "jhash": "0x1B3803B1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x13C4B962653A5280": {
+        "name": "PAUSE_MENU_GET_MOUSE_HOVER_UNIQUE_ID",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

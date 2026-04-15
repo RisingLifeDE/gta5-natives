@@ -1,0 +1,10 @@
+{
+    "0x743607648ADD4587": {
+        "name": "GET_GAMEPLAY_CAM_RELATIVE_HEADING",
+        "jhash": "0xCAF839C2",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

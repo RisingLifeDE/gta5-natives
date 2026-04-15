@@ -1,0 +1,19 @@
+{
+    "0xD95E79E8686D2C27": {
+        "name": "GET_CONTROL_VALUE",
+        "jhash": "0xC526F3C6",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

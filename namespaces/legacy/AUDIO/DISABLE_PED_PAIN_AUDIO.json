@@ -1,0 +1,19 @@
+{
+    "0xA9A41C1E940FB0E8": {
+        "name": "DISABLE_PED_PAIN_AUDIO",
+        "jhash": "0x3B8E2D5F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

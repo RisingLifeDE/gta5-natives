@@ -1,0 +1,18 @@
+{
+    "0x203B381133817079": {
+        "name": "PLAYSTATS_PIMENU_HIDE_OPTIONS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "393",
+        "old_names": [
+            "_PLAYSTATS_PI_MENU_HIDE_SETTINGS"
+        ]
+    }
+}

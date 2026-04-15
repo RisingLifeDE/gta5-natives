@@ -1,0 +1,15 @@
+{
+    "0x4967A516ED23A5A1": {
+        "name": "GET_VEHICLE_MOD_COLOR_2_NAME",
+        "jhash": "0x9BDC0B49",
+        "comment": "Returns a string which is the codename of the vehicle's currently selected secondary color",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

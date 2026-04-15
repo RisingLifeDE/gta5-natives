@@ -1,0 +1,23 @@
+{
+    "0xC8CA9670B9D83B3B": {
+        "name": "ADVANCE_CLOCK_TIME_TO",
+        "jhash": "0x57B8DA7C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hour"
+            },
+            {
+                "type": "int",
+                "name": "minute"
+            },
+            {
+                "type": "int",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

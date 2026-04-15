@@ -1,0 +1,15 @@
+{
+    "0x295E3CCEC879CCD7": {
+        "name": "PED_HAS_USE_SCENARIO_TASK",
+        "jhash": "0x9BE9C691",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

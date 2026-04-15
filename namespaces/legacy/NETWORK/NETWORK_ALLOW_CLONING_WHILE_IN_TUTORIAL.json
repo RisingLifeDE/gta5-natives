@@ -1,0 +1,19 @@
+{
+    "0x0F1A4B45B7693B95": {
+        "name": "NETWORK_ALLOW_CLONING_WHILE_IN_TUTORIAL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2189"
+    }
+}

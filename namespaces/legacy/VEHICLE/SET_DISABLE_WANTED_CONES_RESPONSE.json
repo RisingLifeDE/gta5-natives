@@ -1,0 +1,19 @@
+{
+    "0x4AD280EB48B2D8E6": {
+        "name": "SET_DISABLE_WANTED_CONES_RESPONSE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868"
+    }
+}

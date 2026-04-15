@@ -1,0 +1,10 @@
+{
+    "0xCF61D4B4702EE9EB": {
+        "name": "NETWORK_GET_TOTAL_NUM_PLAYERS",
+        "jhash": "0xF4F13B06",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

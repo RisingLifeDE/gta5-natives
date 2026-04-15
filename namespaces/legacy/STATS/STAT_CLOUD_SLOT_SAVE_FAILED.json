@@ -1,0 +1,15 @@
+{
+    "0x7E6946F68A38B74F": {
+        "name": "STAT_CLOUD_SLOT_SAVE_FAILED",
+        "jhash": "0x22804C20",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

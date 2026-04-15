@@ -1,0 +1,15 @@
+{
+    "0x98CD1D2934B76CC1": {
+        "name": "GET_ZONE_FROM_NAME_ID",
+        "jhash": "0x8EC68304",
+        "comment": "'zoneName' corresponds to an entry in 'popzone.ipl'.\n\nAIRP = Los Santos International Airport\nALAMO = Alamo Sea\nALTA = Alta\nARMYB = Fort Zancudo\nBANHAMC = Banham Canyon Dr\nBANNING = Banning\nBEACH = Vespucci Beach\nBHAMCA = Banham Canyon\nBRADP = Braddock Pass\nBRADT = Braddock Tunnel\nBURTON = Burton\nCALAFB = Calafia Bridge\nCANNY = Raton Canyon\nCCREAK = Cassidy Creek\nCHAMH = Chamberlain Hills\nCHIL = Vinewood Hills\nCHU = Chumash\nCMSW = Chiliad Mountain State Wilderness\nCYPRE = Cypress Flats\nDAVIS = Davis\nDELBE = Del Perro Beach\nDELPE = Del Perro\nDELSOL = La Puerta\nDESRT = Grand Senora Desert\nDOWNT = Downtown\nDTVINE = Downtown Vinewood\nEAST_V = East Vinewood\nEBURO = El Burro Heights\nELGORL = El Gordo Lighthouse\nELYSIAN = Elysian Island\nGALFISH = Galilee\nGOLF = GWC and Golfing Society\nGRAPES = Grapeseed\nGREATC = Great Chaparral\nHARMO = Harmony\nHAWICK = Hawick\nHORS = Vinewood Racetrack\nHUMLAB = Humane Labs and Research\nJAIL = Bolingbroke Penitentiary\nKOREAT = Little Seoul\nLACT = Land Act Reservoir\nLAGO = Lago Zancudo\nLDAM = Land Act Dam\nLEGSQU = Legion Square\nLMESA = La Mesa\nLOSPUER = La Puerta\nMIRR = Mirror Park\nMORN = Morningwood\nMOVIE = Richards Majestic\nMTCHIL = Mount Chiliad\nMTGORDO = Mount Gordo\nMTJOSE = Mount Josiah\nMURRI = Murrieta Heights\nNCHU = North Chumash\nNOOSE = N.O.O.S.E\nOCEANA = Pacific Ocean\nPALCOV = Paleto Cove\nPALETO = Paleto Bay\nPALFOR = Paleto Forest\nPALHIGH = Palomino Highlands\nPALMPOW = Palmer-Taylor Power Station\nPBLUFF = Pacific Bluffs\nPBOX = Pillbox Hill\nPROCOB = Procopio Beach\nRANCHO = Rancho\nRGLEN = Richman Glen\nRICHM = Richman\nROCKF = Rockford Hills\nRTRAK = Redwood Lights Track\nSANAND = San Andreas\nSANCHIA = San Chianski Mountain Range\nSANDY = Sandy Shores\nSKID = Mission Row\nSLAB = Stab City\nSTAD = Maze Bank Arena\nSTRAW = Strawberry\nTATAMO = Tataviam Mountains\nTERMINA = Terminal\nTEXTI = Textile City\nTONGVAH = Tongva Hills\nTONGVAV = Tongva Valley\nVCANA = Vespucci Canals\nVESP = Vespucci\nVINE = Vinewood\nWINDF = Ron Alternates Wind Farm\nWVINE = West Vinewood\nZANCUDO = Zancudo River\nZP_ORT = Port of South Los Santos\nZQ_UAR = Davis Quartz\n\nFull list of zones by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/zones.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "zoneName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

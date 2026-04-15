@@ -1,0 +1,13 @@
+{
+    "0x1E45B34ADEBEE48E": {
+        "name": "REMOVE_ALL_AIR_DEFENCE_SPHERES",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_REMOVE_ALL_AIR_DEFENSE_ZONES"
+        ]
+    }
+}

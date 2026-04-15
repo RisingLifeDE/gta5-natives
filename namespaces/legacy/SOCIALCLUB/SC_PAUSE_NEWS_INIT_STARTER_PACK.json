@@ -1,0 +1,15 @@
+{
+    "0xE4F6E8D07A2F0F51": {
+        "name": "SC_PAUSE_NEWS_INIT_STARTER_PACK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1290"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC3D0841A0CC546A6": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_INT",
+        "jhash": "0x716777CB",
+        "comment": "Pushes an integer for the Scaleform function onto the stack.",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_INT",
+            "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_INT"
+        ]
+    }
+}

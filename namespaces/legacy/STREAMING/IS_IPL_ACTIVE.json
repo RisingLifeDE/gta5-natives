@@ -1,0 +1,15 @@
+{
+    "0x88A741E44A2B3495": {
+        "name": "IS_IPL_ACTIVE",
+        "jhash": "0xB2C33714",
+        "comment": "Full list of IPLs and interior entity sets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/ipls.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

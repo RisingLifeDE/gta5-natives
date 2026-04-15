@@ -1,0 +1,27 @@
+{
+    "0xEC51713AB6EC36E8": {
+        "name": "SET_NETWORK_VEHICLE_RESPOT_TIMER",
+        "jhash": "0x2C30912D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

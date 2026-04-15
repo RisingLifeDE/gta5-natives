@@ -1,0 +1,34 @@
+{
+    "0xFDBF4CDBC07E1706": {
+        "name": "ADD_EXTRA_CALMING_QUAD",
+        "jhash": "0xA9419B6D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xLow"
+            },
+            {
+                "type": "float",
+                "name": "yLow"
+            },
+            {
+                "type": "float",
+                "name": "xHigh"
+            },
+            {
+                "type": "float",
+                "name": "yHigh"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_ADD_CURRENT_RISE"
+        ]
+    }
+}

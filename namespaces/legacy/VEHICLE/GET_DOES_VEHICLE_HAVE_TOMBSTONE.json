@@ -1,0 +1,18 @@
+{
+    "0x71AFB258CCED3A27": {
+        "name": "GET_DOES_VEHICLE_HAVE_TOMBSTONE",
+        "jhash": "",
+        "comment": "Returns true only if the \"tombstone\" bone is attached to the vehicle, irrespective of \"FLAG_HAS_TOMBSTONE\" being present or not. Detaching the tombstone will return false.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1604",
+        "old_names": [
+            "_GET_DOES_VEHICLE_HAVE_TOMBSTONE"
+        ]
+    }
+}

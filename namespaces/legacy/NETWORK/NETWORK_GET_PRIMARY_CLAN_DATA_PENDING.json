@@ -1,0 +1,10 @@
+{
+    "0xB5074DB804E28CE7": {
+        "name": "NETWORK_GET_PRIMARY_CLAN_DATA_PENDING",
+        "jhash": "0xA4EF02F3",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x169BD9382084C8C0": {
+        "name": "GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME",
+        "jhash": "0x34A396EE",
+        "comment": "Returns a substring of a specified length starting at a specified position.\n\nExample:\n// Get \"STRING\" text from \"MY_STRING\"\nsubStr = HUD::GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME(\"MY_STRING\", 3, 6);",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "position"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_GET_TEXT_SUBSTRING"
+        ]
+    }
+}

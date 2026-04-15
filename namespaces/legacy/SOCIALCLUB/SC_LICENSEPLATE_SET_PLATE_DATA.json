@@ -1,0 +1,23 @@
+{
+    "0xD0EE05FE193646EA": {
+        "name": "SC_LICENSEPLATE_SET_PLATE_DATA",
+        "jhash": "0x9F98FA5C",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "oldPlateText"
+            },
+            {
+                "type": "const char*",
+                "name": "newPlateText"
+            },
+            {
+                "type": "Any*",
+                "name": "plateData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

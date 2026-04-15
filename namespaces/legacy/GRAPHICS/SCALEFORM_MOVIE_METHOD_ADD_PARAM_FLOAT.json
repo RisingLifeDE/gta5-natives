@@ -1,0 +1,19 @@
+{
+    "0xD69736AAE04DB51A": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_FLOAT",
+        "jhash": "0x9A01FFDA",
+        "comment": "Pushes a float for the Scaleform function onto the stack.",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_FLOAT",
+            "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_FLOAT"
+        ]
+    }
+}

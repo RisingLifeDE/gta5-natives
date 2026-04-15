@@ -1,0 +1,15 @@
+{
+    "0xC0296A2EDF545E92": {
+        "name": "IS_MODEL_VALID",
+        "jhash": "0xAF8F8E9D",
+        "comment": "Returns whether the specified model exists in the game.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

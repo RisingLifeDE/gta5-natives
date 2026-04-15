@@ -1,0 +1,19 @@
+{
+    "0xFE3F9C29F7B32BD5": {
+        "name": "GET_VEHICLE_DOOR_ANGLE_RATIO",
+        "jhash": "0x0E399C26",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

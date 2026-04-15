@@ -1,0 +1,19 @@
+{
+    "0x5BA652A0CD14DF2F": {
+        "name": "ADD_ARMOUR_TO_PED",
+        "jhash": "0xF686B26E",
+        "comment": "Same as SET_PED_ARMOUR, but ADDS 'amount' to the armor the Ped already has.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

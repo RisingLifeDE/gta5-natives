@@ -1,0 +1,15 @@
+{
+    "0x632E831F382A0FA8": {
+        "name": "GET_NAVMESH_ROUTE_RESULT",
+        "jhash": "0x96491602",
+        "comment": "See GET_NAVMESH_ROUTE_DISTANCE_REMAINING for more details.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

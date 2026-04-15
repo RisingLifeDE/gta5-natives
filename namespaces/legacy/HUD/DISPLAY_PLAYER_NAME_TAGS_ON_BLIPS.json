@@ -1,0 +1,15 @@
+{
+    "0x82CEDC33687E1F50": {
+        "name": "DISPLAY_PLAYER_NAME_TAGS_ON_BLIPS",
+        "jhash": "0x2F28F0A6",
+        "comment": "Toggles whether or not name labels are shown on the expanded minimap next to player blips, like in GTA:O.\nDoesn't need to be called every frame.\nPreview: https://i.imgur.com/DfqKWfJ.png\n\nMake sure to call SET_BLIP_CATEGORY with index 7 for this to work on the desired blip.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

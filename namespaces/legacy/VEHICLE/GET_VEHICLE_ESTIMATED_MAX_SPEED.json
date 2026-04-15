@@ -1,0 +1,18 @@
+{
+    "0x53AF99BAA671CA47": {
+        "name": "GET_VEHICLE_ESTIMATED_MAX_SPEED",
+        "jhash": "0x7D1A0616",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MAX_SPEED"
+        ]
+    }
+}

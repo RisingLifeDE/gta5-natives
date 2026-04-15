@@ -1,0 +1,15 @@
+{
+    "0x7196842CB375CDB3": {
+        "name": "GET_NEAREST_PLAYER_TO_ENTITY",
+        "jhash": "0xCE17FDEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Player",
+        "build": "323"
+    }
+}

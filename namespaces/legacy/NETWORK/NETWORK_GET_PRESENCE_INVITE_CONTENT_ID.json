@@ -1,0 +1,15 @@
+{
+    "0x24409FC4C55CB22D": {
+        "name": "NETWORK_GET_PRESENCE_INVITE_CONTENT_ID",
+        "jhash": "0xA4302183",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

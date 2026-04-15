@@ -1,0 +1,19 @@
+{
+    "0xF1307EF624A80D87": {
+        "name": "GET_ASPECT_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "b"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_SCREEN_ASPECT_RATIO",
+            "_GET_ASPECT_RATIO"
+        ]
+    }
+}

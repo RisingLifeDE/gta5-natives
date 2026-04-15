@@ -1,0 +1,10 @@
+{
+    "0x9A4CF4F48AD77302": {
+        "name": "NETWORK_IS_CLOUD_AVAILABLE",
+        "jhash": "0xC7FF5AFC",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

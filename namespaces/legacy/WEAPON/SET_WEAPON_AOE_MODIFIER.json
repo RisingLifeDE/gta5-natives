@@ -1,0 +1,22 @@
+{
+    "0x4AE5AC8B852D642C": {
+        "name": "SET_WEAPON_AOE_MODIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_WEAPON_EXPLOSION_RADIUS_MULTIPLIER"
+        ]
+    }
+}

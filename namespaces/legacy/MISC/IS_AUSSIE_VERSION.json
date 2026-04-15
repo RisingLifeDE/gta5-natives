@@ -1,0 +1,10 @@
+{
+    "0x9F1935CA1F724008": {
+        "name": "IS_AUSSIE_VERSION",
+        "jhash": "0x944BA1DC",
+        "comment": "Used to block some of the prostitute stuff due to laws in Australia.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

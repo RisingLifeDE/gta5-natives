@@ -1,0 +1,19 @@
+{
+    "0x85E5F8B9B898B20A": {
+        "name": "NETWORK_DOES_TUNABLE_EXIST",
+        "jhash": "0x9FCE9C9A",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "const char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

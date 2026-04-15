@@ -1,0 +1,19 @@
+{
+    "0x57D9C12635E25CE3": {
+        "name": "REGISTER_NAMED_RENDERTARGET",
+        "jhash": "0xFAE5D6F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

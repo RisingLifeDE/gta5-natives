@@ -1,0 +1,10 @@
+{
+    "0xAEBF081FFC0A0E5E": {
+        "name": "ASSISTED_MOVEMENT_CLOSE_ROUTE",
+        "jhash": "0xF23277F3",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x723C1CE13FBFDB67": {
+        "name": "SET_JOB_ACTIVITY_ID_STARTED",
+        "jhash": "0x4C39CF10",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

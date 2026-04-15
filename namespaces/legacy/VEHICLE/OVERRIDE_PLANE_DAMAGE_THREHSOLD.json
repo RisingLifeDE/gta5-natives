@@ -1,0 +1,22 @@
+{
+    "0x5EE5632F47AE9695": {
+        "name": "OVERRIDE_PLANE_DAMAGE_THREHSOLD",
+        "jhash": "",
+        "comment": "Used for helis.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_OVERRIDE_OVERHEAT_HEALTH"
+        ]
+    }
+}

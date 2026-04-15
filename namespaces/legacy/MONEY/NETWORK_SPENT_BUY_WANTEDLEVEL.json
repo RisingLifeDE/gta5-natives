@@ -1,0 +1,31 @@
+{
+    "0xE1B13771A843C4F6": {
+        "name": "NETWORK_SPENT_BUY_WANTEDLEVEL",
+        "jhash": "0xE7CB4F95",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

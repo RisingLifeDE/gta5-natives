@@ -1,0 +1,39 @@
+{
+    "0xD2A207EEBDF9889B": {
+        "name": "TASK_GUARD_ASSIGNED_DEFENSIVE_AREA",
+        "jhash": "0x7AF0133D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "maxPatrolProximity"
+            },
+            {
+                "type": "int",
+                "name": "timer"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

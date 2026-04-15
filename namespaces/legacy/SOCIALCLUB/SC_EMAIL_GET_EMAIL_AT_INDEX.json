@@ -1,0 +1,19 @@
+{
+    "0x4737980E8A283806": {
+        "name": "SC_EMAIL_GET_EMAIL_AT_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

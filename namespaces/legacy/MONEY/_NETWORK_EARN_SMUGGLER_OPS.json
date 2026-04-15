@@ -1,0 +1,23 @@
+{
+    "0xDEA273D5F8A9661A": {
+        "name": "_NETWORK_EARN_SMUGGLER_OPS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE4E6DD5566D28C82": {
+        "name": "STOP_SMOKE_GRENADE_EXPLOSION_SOUNDS",
+        "jhash": "0x7262B5BA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

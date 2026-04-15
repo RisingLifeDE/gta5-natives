@@ -1,0 +1,23 @@
+{
+    "0xA905192A6781C41B": {
+        "name": "ADD_POINT_TO_GPS_MULTI_ROUTE",
+        "jhash": "0xFE485135",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

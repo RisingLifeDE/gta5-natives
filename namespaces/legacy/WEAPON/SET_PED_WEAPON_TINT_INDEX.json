@@ -1,0 +1,23 @@
+{
+    "0x50969B9B89ED5738": {
+        "name": "SET_PED_WEAPON_TINT_INDEX",
+        "jhash": "0xEB2A7B23",
+        "comment": "tintIndex can be the following:\n\n0 - Normal\n1 - Green\n2 - Gold\n3 - Pink\n4 - Army\n5 - LSPD\n6 - Orange\n7 - Platinum\nFull list of weapons, components & tint indexes by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

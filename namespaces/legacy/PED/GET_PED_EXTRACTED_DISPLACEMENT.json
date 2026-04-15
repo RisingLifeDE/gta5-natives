@@ -1,0 +1,19 @@
+{
+    "0xE0AF41401ADF87E3": {
+        "name": "GET_PED_EXTRACTED_DISPLACEMENT",
+        "jhash": "0x5231F901",
+        "comment": "Gets the offset the specified ped has moved since the previous tick.\n\nIf worldSpace is false, the returned offset is relative to the ped. That is, if the ped has moved 1 meter right and 5 meters forward, it'll return 1,5,0.\n\nIf worldSpace is true, the returned offset is relative to the world. That is, if the ped has moved 1 meter on the X axis and 5 meters on the Y axis, it'll return 1,5,0.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "worldSpace"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

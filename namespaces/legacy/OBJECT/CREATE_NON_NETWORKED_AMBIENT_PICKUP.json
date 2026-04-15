@@ -1,0 +1,50 @@
+{
+    "0x9C93764223E29C50": {
+        "name": "CREATE_NON_NETWORKED_AMBIENT_PICKUP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "Object",
+        "build": "2372",
+        "old_names": [
+            "_CREATE_NON_NETWORKED_AMBIENT_PICKUP"
+        ]
+    }
+}

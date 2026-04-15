@@ -1,0 +1,19 @@
+{
+    "0x71A78003C8E71424": {
+        "name": "REQUEST_ADDITIONAL_TEXT",
+        "jhash": "0x9FA9175B",
+        "comment": "Request a gxt into the passed slot.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "gxt"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

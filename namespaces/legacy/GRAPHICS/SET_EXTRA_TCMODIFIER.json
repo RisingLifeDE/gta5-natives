@@ -1,0 +1,18 @@
+{
+    "0x5096FD9CCB49056D": {
+        "name": "SET_EXTRA_TCMODIFIER",
+        "jhash": "",
+        "comment": "Full list of timecycle modifiers by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/timecycleModifiers.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_EXTRA_TIMECYCLE_MODIFIER"
+        ]
+    }
+}

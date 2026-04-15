@@ -1,0 +1,13 @@
+{
+    "0x257ED0FADF750BCF": {
+        "name": "NETWORK_GET_POSITION_HASH_OF_THIS_SCRIPT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "2372",
+        "old_names": [
+            "_NETWORK_GET_POSITION_HASH_OF_THIS_SCRIPT"
+        ]
+    }
+}

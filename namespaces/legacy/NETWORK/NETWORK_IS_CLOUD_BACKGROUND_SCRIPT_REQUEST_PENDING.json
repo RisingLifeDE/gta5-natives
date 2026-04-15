@@ -1,0 +1,14 @@
+{
+    "0x8132C0EB8B2B3293": {
+        "name": "NETWORK_IS_CLOUD_BACKGROUND_SCRIPT_REQUEST_PENDING",
+        "jhash": "0x20AB933A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_BG_SCRIPT_BEEN_DOWNLOADED",
+            "_NETWORK_IS_CLOUD_BACKGROUND_SCRIPTS_REQUEST_PENDING"
+        ]
+    }
+}

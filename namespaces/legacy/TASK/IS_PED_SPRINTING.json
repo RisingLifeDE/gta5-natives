@@ -1,0 +1,15 @@
+{
+    "0x57E457CD2C0FC168": {
+        "name": "IS_PED_SPRINTING",
+        "jhash": "0x4F3E0633",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

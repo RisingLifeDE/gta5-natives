@@ -1,0 +1,19 @@
+{
+    "0x98C3CF913D895111": {
+        "name": "GET_FIRST_N_CHARACTERS_OF_LITERAL_STRING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "505"
+    }
+}

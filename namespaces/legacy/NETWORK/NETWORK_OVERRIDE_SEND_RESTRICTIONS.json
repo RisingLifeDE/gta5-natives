@@ -1,0 +1,22 @@
+{
+    "0x97DD4C5944CC2E6A": {
+        "name": "NETWORK_OVERRIDE_SEND_RESTRICTIONS",
+        "jhash": "0x6C344AE3",
+        "comment": "This is used alongside the native,\n'NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS'. Read its description for more info.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_OVERRIDE_SEND_RESTRICTIONS"
+        ]
+    }
+}

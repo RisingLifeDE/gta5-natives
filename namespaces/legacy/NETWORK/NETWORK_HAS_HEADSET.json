@@ -1,0 +1,10 @@
+{
+    "0xE870F9F1F7B4F1FA": {
+        "name": "NETWORK_HAS_HEADSET",
+        "jhash": "0xA7DC5657",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x65019750A0324133": {
+        "name": "GET_GAMEPLAY_CAM_FOV",
+        "jhash": "0x4D6B3BFA",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "323"
+    }
+}

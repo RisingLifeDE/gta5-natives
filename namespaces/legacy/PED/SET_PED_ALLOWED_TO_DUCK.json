@@ -1,0 +1,19 @@
+{
+    "0xDA1F1B7BE1A8766F": {
+        "name": "SET_PED_ALLOWED_TO_DUCK",
+        "jhash": "0xC4D122F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

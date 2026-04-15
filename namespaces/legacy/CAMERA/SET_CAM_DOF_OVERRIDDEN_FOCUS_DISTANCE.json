@@ -1,0 +1,19 @@
+{
+    "0xF55E4046F6F831DC": {
+        "name": "SET_CAM_DOF_OVERRIDDEN_FOCUS_DISTANCE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA09F896CE912481F": {
+        "name": "GET_SIZE_OF_SAVE_DATA",
+        "jhash": "0x9EF0BC64",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

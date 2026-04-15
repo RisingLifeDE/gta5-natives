@@ -1,0 +1,10 @@
+{
+    "0x2E22FEFA0100275E": {
+        "name": "HAS_MENU_LAYOUT_CHANGED_EVENT_OCCURRED",
+        "jhash": "0x96863460",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

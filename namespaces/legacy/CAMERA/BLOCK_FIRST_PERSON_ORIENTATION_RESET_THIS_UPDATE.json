@@ -1,0 +1,10 @@
+{
+    "0x9F97DA93681F87EA": {
+        "name": "BLOCK_FIRST_PERSON_ORIENTATION_RESET_THIS_UPDATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1734"
+    }
+}

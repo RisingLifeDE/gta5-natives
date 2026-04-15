@@ -1,0 +1,23 @@
+{
+    "0x69DEA3E9DB727B4C": {
+        "name": "PLAYSTATS_ODDJOB_DONE",
+        "jhash": "0xFE14A8EA",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "int",
+                "name": "totalTimeMs"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xAE31E7DF9B5B132E": {
+        "name": "GET_IS_VEHICLE_ENGINE_RUNNING",
+        "jhash": "0x7DC6D022",
+        "comment": "Returns true when in a vehicle, false whilst entering/exiting.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_VEHICLE_ENGINE_ON"
+        ]
+    }
+}

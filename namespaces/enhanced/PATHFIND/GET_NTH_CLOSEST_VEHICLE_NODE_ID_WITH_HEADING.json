@@ -1,0 +1,47 @@
+{
+    "0x6448050E9C2A7207": {
+        "name": "GET_NTH_CLOSEST_VEHICLE_NODE_ID_WITH_HEADING",
+        "jhash": "0xC1AEB88D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "nthClosest"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "float*",
+                "name": "outHeading"
+            },
+            {
+                "type": "int",
+                "name": "nodeFlags"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

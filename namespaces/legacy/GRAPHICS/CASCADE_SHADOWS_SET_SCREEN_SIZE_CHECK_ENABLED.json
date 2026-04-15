@@ -1,0 +1,15 @@
+{
+    "0x25FC3E33A31AD0C9": {
+        "name": "CASCADE_SHADOWS_SET_SCREEN_SIZE_CHECK_ENABLED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xB39786F201FEE30B": {
+        "name": "SET_RADIO_TRACK",
+        "jhash": "0x76E96212",
+        "comment": "Only found this one in the decompiled scripts:\n\nAUDIO::SET_RADIO_TRACK(\"RADIO_03_HIPHOP_NEW\", \"ARM1_RADIO_STARTS\");\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "const char*",
+                "name": "radioTrack"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

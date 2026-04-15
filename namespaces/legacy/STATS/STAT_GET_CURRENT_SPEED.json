@@ -1,0 +1,13 @@
+{
+    "0x55A8BECAF28A4EB7": {
+        "name": "STAT_GET_CURRENT_SPEED",
+        "jhash": "",
+        "comment": "Achieve the highest speed in a land vehicle",
+        "params": [],
+        "return_type": "float",
+        "build": "463",
+        "old_names": [
+            "_STAT_GET_CHALLENGE_HIGHEST_SPEED"
+        ]
+    }
+}

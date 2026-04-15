@@ -1,0 +1,15 @@
+{
+    "0xC9B18B4619F48F7B": {
+        "name": "FADE_UP_PED_LIGHT",
+        "jhash": "0x93628786",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

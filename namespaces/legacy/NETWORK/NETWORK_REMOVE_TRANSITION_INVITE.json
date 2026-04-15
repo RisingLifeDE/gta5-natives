@@ -1,0 +1,15 @@
+{
+    "0x7524B431B2E6F7EE": {
+        "name": "NETWORK_REMOVE_TRANSITION_INVITE",
+        "jhash": "0xFDE84CB7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

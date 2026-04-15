@@ -1,0 +1,27 @@
+{
+    "0x7EC3C679D0E7E46B": {
+        "name": "UPDATE_SOUND_COORD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "678"
+    }
+}

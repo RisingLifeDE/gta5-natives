@@ -1,0 +1,15 @@
+{
+    "0x96B1361D9B24C2FF": {
+        "name": "UNREGISTER_PEDHEADSHOT",
+        "jhash": "0x0879AE45",
+        "comment": "gtaforums.com/topic/885580-ped-headshotmugshot-txd/",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

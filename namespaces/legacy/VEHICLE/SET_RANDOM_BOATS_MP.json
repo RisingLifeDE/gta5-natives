@@ -1,0 +1,18 @@
+{
+    "0xDA5E12F728DB30CA": {
+        "name": "SET_RANDOM_BOATS_MP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_SET_RANDOM_BOATS_IN_MP"
+        ]
+    }
+}

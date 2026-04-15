@@ -1,0 +1,19 @@
+{
+    "0x8C520A929415BCD2": {
+        "name": "GET_DAMPING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "3407"
+    }
+}

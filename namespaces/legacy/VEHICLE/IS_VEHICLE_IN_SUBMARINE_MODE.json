@@ -1,0 +1,18 @@
+{
+    "0xA77DC70BD689A1E5": {
+        "name": "IS_VEHICLE_IN_SUBMARINE_MODE",
+        "jhash": "0xE2FF06DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1290",
+        "old_names": [
+            "_GET_IS_SUBMARINE_VEHICLE_TRANSFORMED"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC361AA040D6637A8": {
+        "name": "SET_VEHICLE_BROKEN_PARTS_DONT_AFFECT_AI_HANDLING",
+        "jhash": "0x819CD954",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

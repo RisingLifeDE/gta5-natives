@@ -1,0 +1,43 @@
+{
+    "0x00DC833F2568DBF6": {
+        "name": "DISPLAY_ONSCREEN_KEYBOARD",
+        "jhash": "0xAD99F2CE",
+        "comment": "sfink: note, p0 is set to 6 for PC platform in at least 1 script, or to `unk::_get_ui_language_id() == 0` otherwise.\n\nNOTE: windowTitle uses text labels, and an invalid value will display nothing.\n\nwww.gtaforums.com/topic/788343-vrel-script-hook-v/?p=1067380474\n\nwindowTitle's\n-----------------\nCELL_EMAIL_BOD  =   \"Enter your Eyefind message\"\nCELL_EMAIL_BODE =   \"Message too long. Try again\"\nCELL_EMAIL_BODF    =   \"Forbidden message. Try again\"\nCELL_EMAIL_SOD    =   \"Enter your Eyefind subject\"\nCELL_EMAIL_SODE =   \"Subject too long. Try again\"\nCELL_EMAIL_SODF    =   \"Forbidden text. Try again\"\nCELL_EMASH_BOD   =   \"Enter your Eyefind message\"\nCELL_EMASH_BODE =   \"Message too long. Try again\"\nCELL_EMASH_BODF    =   \"Forbidden message. Try again\"\nCELL_EMASH_SOD    =   \"Enter your Eyefind subject\"\nCELL_EMASH_SODE =   \"Subject too long. Try again\"\nCELL_EMASH_SODF    =   \"Forbidden Text. Try again\"\nFMMC_KEY_TIP10   =   \"Enter Synopsis\"\nFMMC_KEY_TIP12  =   \"Enter Custom Team Name\"\nFMMC_KEY_TIP12F =   \"Forbidden Text. Try again\"\nFMMC_KEY_TIP12N  =   \"Custom Team Name\"\nFMMC_KEY_TIP8 =   \"Enter Message\"\nFMMC_KEY_TIP8F   =   \"Forbidden Text. Try again\"\nFMMC_KEY_TIP8FS  =   \"Invalid Message. Try again\"\nFMMC_KEY_TIP8S  =   \"Enter Message\"\nFMMC_KEY_TIP9    =   \"Enter Outfit Name\"\nFMMC_KEY_TIP9F   =   \"Invalid Outfit Name. Try again\"\nFMMC_KEY_TIP9N  =   \"Outfit Name\"\nPM_NAME_CHALL  =   \"Enter Challenge Name\"",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "windowTitle"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultText"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat1"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat3"
+            },
+            {
+                "type": "int",
+                "name": "maxInputLength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

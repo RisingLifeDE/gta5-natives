@@ -1,0 +1,23 @@
+{
+    "0xFCDFF7B72D23A1AC": {
+        "name": "HAS_ENTITY_CLEAR_LOS_TO_ENTITY",
+        "jhash": "0x53576FA7",
+        "comment": "traceType is always 17 in the scripts.\n\nThere is other codes used for traceType:\n19 - in jewelry_prep1a\n126 - in am_hunt_the_beast\n256 & 287 - in fm_mission_controller",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "traceType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

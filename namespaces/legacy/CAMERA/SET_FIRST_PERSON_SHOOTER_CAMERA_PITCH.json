@@ -1,0 +1,18 @@
+{
+    "0x759E13EBC1C15C5A": {
+        "name": "SET_FIRST_PERSON_SHOOTER_CAMERA_PITCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pitch"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_CAM_RAW_PITCH"
+        ]
+    }
+}

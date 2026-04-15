@@ -1,0 +1,55 @@
+{
+    "0x9A2D0FB2E7852392": {
+        "name": "PLAY_CAM_ANIM",
+        "jhash": "0xBCEFB87E",
+        "comment": "Atleast one time in a script for the zRot Rockstar uses GET_ENTITY_HEADING to help fill the parameter.\n\np9 is unknown at this time.\np10 throughout all the X360 Scripts is always 2.\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

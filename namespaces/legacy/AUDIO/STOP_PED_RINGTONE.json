@@ -1,0 +1,15 @@
+{
+    "0x6C5AE23EFA885092": {
+        "name": "STOP_PED_RINGTONE",
+        "jhash": "0xFEEA107C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

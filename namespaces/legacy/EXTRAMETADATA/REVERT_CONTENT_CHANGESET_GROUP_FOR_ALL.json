@@ -1,0 +1,18 @@
+{
+    "0x3C1978285B036B25": {
+        "name": "REVERT_CONTENT_CHANGESET_GROUP_FOR_ALL",
+        "jhash": "",
+        "comment": "From fm_deathmatch_creator and fm_race_creator:\n\nFILES::REVERT_CONTENT_CHANGESET_GROUP_FOR_ALL(joaat(\"GROUP_MAP_SP\"));\nFILES::EXECUTE_CONTENT_CHANGESET_GROUP_FOR_ALL(joaat(\"GROUP_MAP\"));",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_UNLOAD_CONTENT_CHANGE_SET_GROUP"
+        ]
+    }
+}

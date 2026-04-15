@@ -1,0 +1,15 @@
+{
+    "0x3DC52677769B4AE0": {
+        "name": "IS_PED_RUNNING_ARREST_TASK",
+        "jhash": "0x6942DB7A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

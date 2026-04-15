@@ -1,0 +1,18 @@
+{
+    "0x6C188BE134E074AA": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME",
+        "jhash": "0x27A244D8",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_TEXT_COMPONENT_STRING"
+        ]
+    }
+}

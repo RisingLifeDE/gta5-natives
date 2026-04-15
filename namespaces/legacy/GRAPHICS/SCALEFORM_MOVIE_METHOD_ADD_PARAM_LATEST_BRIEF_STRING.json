@@ -1,0 +1,18 @@
+{
+    "0xEC52C631A1831C03": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_LATEST_BRIEF_STRING",
+        "jhash": "0x83A9811D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SCALEFORM_MOVIE_METHOD_ADD_PARAM_INT_STRING"
+        ]
+    }
+}

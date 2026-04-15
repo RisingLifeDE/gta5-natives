@@ -1,0 +1,22 @@
+{
+    "0xEE2476B9EE4A094F": {
+        "name": "ENABLE_MP_LIGHT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_ENABLE_SCUBA_GEAR_LIGHT"
+        ]
+    }
+}

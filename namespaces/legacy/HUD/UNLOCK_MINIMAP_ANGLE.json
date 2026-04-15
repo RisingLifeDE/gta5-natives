@@ -1,0 +1,10 @@
+{
+    "0x8183455E16C42E3A": {
+        "name": "UNLOCK_MINIMAP_ANGLE",
+        "jhash": "0x742043F9",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

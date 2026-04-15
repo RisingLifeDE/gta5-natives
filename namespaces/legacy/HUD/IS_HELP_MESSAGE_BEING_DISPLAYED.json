@@ -1,0 +1,10 @@
+{
+    "0x4D79439A6B55AC67": {
+        "name": "IS_HELP_MESSAGE_BEING_DISPLAYED",
+        "jhash": "0xA65F262A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

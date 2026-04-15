@@ -1,0 +1,10 @@
+{
+    "0x3E93E06DB8EF1F30": {
+        "name": "UNLOCK_MINIMAP_POSITION",
+        "jhash": "0x5E8E6F54",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

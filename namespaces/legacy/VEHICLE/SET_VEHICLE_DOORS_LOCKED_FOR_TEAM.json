@@ -1,0 +1,23 @@
+{
+    "0xB81F6D4A8F5EEBA8": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_TEAM",
+        "jhash": "0x4F85E783",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xFEDDF04D62B8D790": {
+        "name": "GET_ANIM_DURATION",
+        "jhash": "0x8B5E3E3D",
+        "comment": "Full list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_ANIM_DURATION"
+        ]
+    }
+}

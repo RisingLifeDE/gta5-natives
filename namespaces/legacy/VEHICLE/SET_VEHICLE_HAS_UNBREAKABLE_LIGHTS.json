@@ -1,0 +1,22 @@
+{
+    "0x1AA8A837D2169D94": {
+        "name": "SET_VEHICLE_HAS_UNBREAKABLE_LIGHTS",
+        "jhash": "0x009AB49E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_LIGHTS_CAN_BE_VISIBLY_DAMAGED"
+        ]
+    }
+}

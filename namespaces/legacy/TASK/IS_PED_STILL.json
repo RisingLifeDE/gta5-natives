@@ -1,0 +1,15 @@
+{
+    "0xAC29253EEF8F0180": {
+        "name": "IS_PED_STILL",
+        "jhash": "0x09E3418D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

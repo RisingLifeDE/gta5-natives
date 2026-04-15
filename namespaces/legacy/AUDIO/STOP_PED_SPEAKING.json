@@ -1,0 +1,19 @@
+{
+    "0x9D64D7405520E3D3": {
+        "name": "STOP_PED_SPEAKING",
+        "jhash": "0xFF92B49D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "shaking"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x3DE51E9C80B116CF": {
+        "name": "IS_VEHICLE_PARACHUTE_DEPLOYED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1011",
+        "old_names": [
+            "_IS_VEHICLE_PARACHUTE_ACTIVE"
+        ]
+    }
+}

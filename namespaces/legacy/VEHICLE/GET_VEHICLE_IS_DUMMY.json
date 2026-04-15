@@ -1,0 +1,15 @@
+{
+    "0x8533CAFDE1F0F336": {
+        "name": "GET_VEHICLE_IS_DUMMY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "505"
+    }
+}

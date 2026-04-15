@@ -1,0 +1,15 @@
+{
+    "0xED3F346429CCD659": {
+        "name": "REMOVE_DECAL",
+        "jhash": "0xA4363188",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "decal"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x9537097412CF75FE": {
+        "name": "IS_THIS_MODEL_A_JETSKI",
+        "jhash": "",
+        "comment": "Checks if model is a boat, then checks for FLAG_IS_JETSKI.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_THIS_MODEL_A_SUBMERSIBLE",
+            "_IS_THIS_MODEL_AN_EMERGENCY_BOAT"
+        ]
+    }
+}

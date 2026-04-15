@@ -1,0 +1,15 @@
+{
+    "0x556C1AA270D5A207": {
+        "name": "DELETE_INCIDENT",
+        "jhash": "0x212BD0DC",
+        "comment": "Delete an incident with a given id.\n\n=======================================================\nCorrection, I have change this to int, instead of int*\nas it doesn't use a pointer to the createdIncident.\nIf you try it you will crash (or) freeze.\n=======================================================",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

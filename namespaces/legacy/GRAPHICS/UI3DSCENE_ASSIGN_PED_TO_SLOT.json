@@ -1,0 +1,35 @@
+{
+    "0x98C4FE6EC34154CA": {
+        "name": "UI3DSCENE_ASSIGN_PED_TO_SLOT",
+        "jhash": "0x9A0E3BFE",
+        "comment": "It's called after UI3DSCENE_IS_AVAILABLE and UI3DSCENE_PUSH_PRESET\n\npresetName was always \"CELEBRATION_WINNER\"\nAll presets can be found in common\\data\\ui\\uiscenes.meta",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "presetName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

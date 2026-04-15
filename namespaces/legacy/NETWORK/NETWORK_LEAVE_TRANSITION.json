@@ -1,0 +1,10 @@
+{
+    "0xD23A1A815D21DB19": {
+        "name": "NETWORK_LEAVE_TRANSITION",
+        "jhash": "0x3A3599B7",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

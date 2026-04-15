@@ -1,0 +1,19 @@
+{
+    "0x3E5F7FC85D854E15": {
+        "name": "IS_SPECIAL_ABILITY_ACTIVE",
+        "jhash": "0x1B17E334",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

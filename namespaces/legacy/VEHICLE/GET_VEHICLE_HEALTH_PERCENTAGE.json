@@ -1,0 +1,42 @@
+{
+    "0xB8EF61207C2393A9": {
+        "name": "GET_VEHICLE_HEALTH_PERCENTAGE",
+        "jhash": "0x196BA503",
+        "comment": "0 min 100 max\nstarts at 100\nSeams to have health zones\nFront of vehicle when damaged goes from 100-50 and stops at 50.\nRear can be damaged from 100-0\nOnly tested with two cars.\n\nany idea how this differs from the first one?\n\n--\nMay return the vehicle health on a scale of 0.0 - 100.0 (needs to be confirmed)\n\nexample:\n\nv_F = ENTITY::GET_ENTITY_MODEL(v_3);\nif (((v_F == ${tanker}) || (v_F == ${armytanker})) || (v_F == ${tanker2})) {\n    if (VEHICLE::GET_VEHICLE_HEALTH_PERCENTAGE(v_3) <= 1.0) {\n        NETWORK::NETWORK_EXPLODE_VEHICLE(v_3, 1, 1, -1);\n    }\n}",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "maxEngineHealth"
+            },
+            {
+                "type": "float",
+                "name": "maxPetrolTankHealth"
+            },
+            {
+                "type": "float",
+                "name": "maxBodyHealth"
+            },
+            {
+                "type": "float",
+                "name": "maxMainRotorHealth"
+            },
+            {
+                "type": "float",
+                "name": "maxTailRotorHealth"
+            },
+            {
+                "type": "float",
+                "name": "maxUnkHealth"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_BODY_HEALTH_2"
+        ]
+    }
+}

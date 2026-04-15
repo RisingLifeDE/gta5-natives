@@ -1,0 +1,10 @@
+{
+    "0x3C8938D7D872211E": {
+        "name": "POP_TIMECYCLE_MODIFIER",
+        "jhash": "0x79D7D235",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

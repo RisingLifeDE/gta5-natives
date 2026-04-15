@@ -1,0 +1,19 @@
+{
+    "0x8F5FB35D7E88FC70": {
+        "name": "RAISE_CONVERTIBLE_ROOF",
+        "jhash": "0xA4E4CBA3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantlyRaise"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x5006D96C995A5827": {
+        "name": "EXTEND_WORLD_BOUNDARY_FOR_PLAYER",
+        "jhash": "0x64DDB07D",
+        "comment": "Appears only 3 times in the scripts, more specifically in michael1.ysc\n\n-\nThis can be used to prevent dying if you are \"out of the world\"",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_EXPAND_WORLD_LIMITS"
+        ]
+    }
+}

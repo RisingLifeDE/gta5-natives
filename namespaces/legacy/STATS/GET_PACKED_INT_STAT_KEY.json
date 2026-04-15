@@ -1,0 +1,30 @@
+{
+    "0x61E111E323419E07": {
+        "name": "GET_PACKED_INT_STAT_KEY",
+        "jhash": "0x1F938864",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "spStat"
+            },
+            {
+                "type": "BOOL",
+                "name": "charStat"
+            },
+            {
+                "type": "int",
+                "name": "character"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_PSTAT_INT_HASH"
+        ]
+    }
+}

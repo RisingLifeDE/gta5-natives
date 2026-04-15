@@ -1,0 +1,15 @@
+{
+    "0x9B128DC36C1E04CF": {
+        "name": "GET_PEDS_JACKER",
+        "jhash": "0xDE1DBB59",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xF4080490ADC51C6F": {
+        "name": "PROCESS_ENTITY_ATTACHMENTS",
+        "jhash": "0x6909BA59",
+        "comment": "Called to update entity attachments.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

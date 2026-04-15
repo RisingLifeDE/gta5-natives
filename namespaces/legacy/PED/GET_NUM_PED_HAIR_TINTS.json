@@ -1,0 +1,13 @@
+{
+    "0xE5C0CF872C2AD150": {
+        "name": "GET_NUM_PED_HAIR_TINTS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_NUM_HAIR_COLORS"
+        ]
+    }
+}

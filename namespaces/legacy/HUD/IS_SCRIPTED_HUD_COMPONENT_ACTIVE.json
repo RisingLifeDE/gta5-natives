@@ -1,0 +1,15 @@
+{
+    "0xDD100EB17A94FF65": {
+        "name": "IS_SCRIPTED_HUD_COMPONENT_ACTIVE",
+        "jhash": "0x2B86F382",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

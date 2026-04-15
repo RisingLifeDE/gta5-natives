@@ -1,0 +1,27 @@
+{
+    "0x9A75585FB2E54FAD": {
+        "name": "SET_VEHICLE_GENERATOR_AREA_OF_INTEREST",
+        "jhash": "0x935A95DA",
+        "comment": "Related to car generators & CPlayerSwitchMgrLong",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

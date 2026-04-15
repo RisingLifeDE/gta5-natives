@@ -1,0 +1,15 @@
+{
+    "0x82377B65E943F72D": {
+        "name": "NETWORK_GET_PLAYER_OWNS_WAYPOINT",
+        "jhash": "0xB802B671",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

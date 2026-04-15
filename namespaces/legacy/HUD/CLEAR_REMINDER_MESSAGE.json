@@ -1,0 +1,10 @@
+{
+    "0xB57D8DD645CFA2CF": {
+        "name": "CLEAR_REMINDER_MESSAGE",
+        "jhash": "0x5BBCC934",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

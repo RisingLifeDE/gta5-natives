@@ -1,0 +1,15 @@
+{
+    "0x18F621F7A5B1F85D": {
+        "name": "SET_NIGHTVISION",
+        "jhash": "0xD1E5565F",
+        "comment": "Enables Night Vision.\n\nExample:\nC#: Function.Call(Hash.SET_NIGHTVISION, true);\nC++: GRAPHICS::SET_NIGHTVISION(true);\n\nBOOL toggle:\ntrue = turns night vision on for your player.\nfalse = turns night vision off for your player.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

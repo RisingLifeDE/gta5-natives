@@ -1,0 +1,22 @@
+{
+    "0x2970EAA18FD5E42F": {
+        "name": "SET_INCREASE_WHEEL_CRUSH_DAMAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604",
+        "old_names": [
+            "_SET_VEHICLE_WHEELS_DEAL_DAMAGE"
+        ]
+    }
+}

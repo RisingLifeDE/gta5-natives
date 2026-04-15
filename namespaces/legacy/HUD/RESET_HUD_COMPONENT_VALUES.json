@@ -1,0 +1,15 @@
+{
+    "0x450930E616475D0D": {
+        "name": "RESET_HUD_COMPONENT_VALUES",
+        "jhash": "0xD15B46DA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

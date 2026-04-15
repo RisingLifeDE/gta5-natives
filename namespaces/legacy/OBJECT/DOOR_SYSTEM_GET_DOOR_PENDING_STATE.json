@@ -1,0 +1,15 @@
+{
+    "0x4BC2854478F3A749": {
+        "name": "DOOR_SYSTEM_GET_DOOR_PENDING_STATE",
+        "jhash": "0xD649B7E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

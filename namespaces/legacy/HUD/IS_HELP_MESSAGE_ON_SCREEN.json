@@ -1,0 +1,10 @@
+{
+    "0xDAD37F45428801AE": {
+        "name": "IS_HELP_MESSAGE_ON_SCREEN",
+        "jhash": "0x4B3C9CA9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

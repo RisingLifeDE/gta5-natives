@@ -1,0 +1,15 @@
+{
+    "0xA18AFB39081B6A1F": {
+        "name": "FLASH_WANTED_DISPLAY",
+        "jhash": "0x629F866B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

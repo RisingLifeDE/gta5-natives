@@ -1,0 +1,10 @@
+{
+    "0x3BC861DF703E5097": {
+        "name": "DESTROY_MOBILE_PHONE",
+        "jhash": "0x1A65037B",
+        "comment": "Destroys the currently active mobile phone.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

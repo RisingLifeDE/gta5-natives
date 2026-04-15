@@ -1,0 +1,15 @@
+{
+    "0x5DCF6C5CAB2E9BF7": {
+        "name": "GET_WEAPON_TINT_COUNT",
+        "jhash": "0x99E4EAAB",
+        "comment": "Full list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

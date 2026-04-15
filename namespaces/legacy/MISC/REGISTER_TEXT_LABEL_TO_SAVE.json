@@ -1,0 +1,19 @@
+{
+    "0xEDB1232C5BEAE62F": {
+        "name": "REGISTER_TEXT_LABEL_TO_SAVE",
+        "jhash": "0x284352C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

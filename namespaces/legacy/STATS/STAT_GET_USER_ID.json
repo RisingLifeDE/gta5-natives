@@ -1,0 +1,15 @@
+{
+    "0x2365C388E393BBE2": {
+        "name": "STAT_GET_USER_ID",
+        "jhash": "0xE2E8B6BA",
+        "comment": "Returns the rockstar ID (user id) value of a given stat. Returns \"STAT_UNKNOWN\" if the statHash is invalid or the stat has no userId",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

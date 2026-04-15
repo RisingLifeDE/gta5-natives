@@ -1,0 +1,23 @@
+{
+    "0x70A382ADEC069DD3": {
+        "name": "SET_SCRIPT_FIRE_POSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "coordX"
+            },
+            {
+                "type": "float",
+                "name": "coordY"
+            },
+            {
+                "type": "float",
+                "name": "coordZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

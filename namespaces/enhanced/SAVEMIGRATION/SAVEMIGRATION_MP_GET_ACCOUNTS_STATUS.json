@@ -1,0 +1,10 @@
+{
+    "0xC8CB5999919EA2CA": {
+        "name": "SAVEMIGRATION_MP_GET_ACCOUNTS_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "2612"
+    }
+}

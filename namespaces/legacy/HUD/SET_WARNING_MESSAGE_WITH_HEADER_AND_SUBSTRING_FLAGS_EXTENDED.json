@@ -1,0 +1,63 @@
+{
+    "0x15803FEC3B9A872B": {
+        "name": "SET_WARNING_MESSAGE_WITH_HEADER_AND_SUBSTRING_FLAGS_EXTENDED",
+        "jhash": "",
+        "comment": "labelTitle: Label of the alert's title.\nlabelMsg: Label of the alert's message.\np2: This is an enum, check the description for a list.\np3: This is an enum, check the description for a list.\nlabelMsg2: Label of another message line\np5: usually 0\np6: usually -1\np7: usually 0\np8: unknown label\np9: unknown label\nbackground: Set to anything other than 0 or false (even any string) and it will draw a background. Setting it to 0 or false will draw no background.\nerrorCode: Error code, shown at the bottom left if set to value other than 0.\n\ninstructionalKey enum list:\nButtons = {\n      Empty = 0,\n      Select = 1, -- (RETURN)\n      Ok = 2, -- (RETURN)\n      Yes = 4, -- (RETURN)\n      Back = 8, -- (ESC)\n      Cancel = 16, -- (ESC)\n      No = 32, -- (ESC)\n      RetrySpace = 64, -- (SPACE)\n      Restart = 128, -- (SPACE)\n      Skip = 256, -- (SPACE)\n      Quit = 512, -- (ESC)\n      Adjust = 1024, -- (ARROWS)\n      SpaceKey = 2048, -- (SPACE)\n      Share = 4096, -- (SPACE)\n      SignIn = 8192, -- (SPACE)\n      Continue = 16384, -- (RETURN)\n      AdjustLeftRight = 32768, -- (SCROLL L/R)\n      AdjustUpDown = 65536, -- (SCROLL U/D)\n      Overwrite = 131072, -- (SPACE)\n      SocialClubSignup = 262144, -- (RETURN)\n      Confirm = 524288, -- (RETURN)\n      Queue = 1048576, -- (RETURN)\n      RetryReturn = 2097152, -- (RETURN)\n      BackEsc = 4194304, -- (ESC)\n      SocialClub = 8388608, -- (RETURN)\n      Spectate = 16777216, -- (SPACE)\n      OkEsc = 33554432, -- (ESC)\n      CancelTransfer = 67108864, -- (ESC)\n      LoadingSpinner = 134217728,\n      NoReturnToGTA = 268435456, -- (ESC)\n      CancelEsc = 536870912, -- (ESC)\n}\n\nAlt = {\n      Empty = 0,\n      No = 1, -- (SPACE)\n      Host = 2, -- (ESC)\n      SearchForJob = 4, -- (RETURN)\n      ReturnKey = 8, -- (TURN)\n      Freemode = 16, -- (ESC)\n}\n\nExample: https://i.imgur.com/TvmNF4k.png",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "labelTitle"
+            },
+            {
+                "type": "const char*",
+                "name": "labelMessage"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "labelMessage2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "const char*",
+                "name": "p8"
+            },
+            {
+                "type": "const char*",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "background"
+            },
+            {
+                "type": "int",
+                "name": "errorCode"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_DRAW_FRONTEND_ALERT",
+            "_SET_WARNING_MESSAGE_WITH_ALERT"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x722F5D28B61C5EA8": {
+        "name": "GET_COMMERCE_ITEM_TEXTURENAME",
+        "jhash": "0x44A58B0A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xCC33FA791322B9D9": {
+        "name": "CLEAR_PRINTS",
+        "jhash": "0x216CB1C5",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

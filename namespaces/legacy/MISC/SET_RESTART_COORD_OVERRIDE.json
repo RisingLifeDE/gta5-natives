@@ -1,0 +1,31 @@
+{
+    "0x706B5EDCAA7FA663": {
+        "name": "SET_RESTART_COORD_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_CUSTOM_RESPAWN_POSITION",
+            "_SET_RESTART_CUSTOM_POSITION"
+        ]
+    }
+}

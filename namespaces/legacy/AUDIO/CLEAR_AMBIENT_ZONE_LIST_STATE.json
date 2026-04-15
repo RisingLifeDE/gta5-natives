@@ -1,0 +1,19 @@
+{
+    "0x120C48C614909FA4": {
+        "name": "CLEAR_AMBIENT_ZONE_LIST_STATE",
+        "jhash": "0x38B9B8D4",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

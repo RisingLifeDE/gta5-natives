@@ -1,0 +1,39 @@
+{
+    "0xF1B760881820C952": {
+        "name": "GET_DISTANCE_BETWEEN_COORDS",
+        "jhash": "0xF698765E",
+        "comment": "Returns the distance between two three-dimensional points, optionally ignoring the Z values.\nIf useZ is false, only the 2D plane (X-Y) will be considered for calculating the distance.\n\nConsider using this faster native instead: SYSTEM::VDIST - DVIST always takes in consideration the 3D coordinates.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "useZ"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

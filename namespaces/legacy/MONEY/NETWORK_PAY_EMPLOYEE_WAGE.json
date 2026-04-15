@@ -1,0 +1,23 @@
+{
+    "0x5FD5ED82CBBE9989": {
+        "name": "NETWORK_PAY_EMPLOYEE_WAGE",
+        "jhash": "0xBE70849B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x65B080555EA48149": {
+        "name": "SET_SLOW_DOWN_EFFECT_DISABLED",
+        "jhash": "",
+        "comment": "Disables the screen effects and sound effects when driving over a slowdown pad.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

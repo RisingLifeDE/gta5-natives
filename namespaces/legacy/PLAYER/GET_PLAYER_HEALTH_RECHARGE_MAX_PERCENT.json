@@ -1,0 +1,18 @@
+{
+    "0x8BC515BAE4AAF8FF": {
+        "name": "GET_PLAYER_HEALTH_RECHARGE_MAX_PERCENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "617",
+        "old_names": [
+            "_GET_PLAYER_HEALTH_RECHARGE_LIMIT"
+        ]
+    }
+}

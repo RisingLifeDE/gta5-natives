@@ -1,0 +1,15 @@
+{
+    "0xDFB2B516207D3534": {
+        "name": "IS_CAM_ACTIVE",
+        "jhash": "0x4B58F177",
+        "comment": "Returns whether or not the passed camera handle is active.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

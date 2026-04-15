@@ -1,0 +1,23 @@
+{
+    "0x53E0DF1A2A3CF0CA": {
+        "name": "SET_TEAM_PICKUP_OBJECT",
+        "jhash": "0x77687DC5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

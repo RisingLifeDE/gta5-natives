@@ -1,0 +1,10 @@
+{
+    "0x054354A99211EB96": {
+        "name": "NETWORK_IS_SIGNED_IN",
+        "jhash": "0xADD0B40F",
+        "comment": "Returns whether the player is signed into Social Club.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "0x8C338E0263E4FD19": {
+        "name": "TASK_CHAT_TO_PED",
+        "jhash": "0xA2BE1821",
+        "comment": "p2 tend to be 16, 17 or 1\np3 to p7 tend to be 0.0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationX"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationY"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationZ"
+            },
+            {
+                "type": "float",
+                "name": "headingDegs"
+            },
+            {
+                "type": "float",
+                "name": "idleTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

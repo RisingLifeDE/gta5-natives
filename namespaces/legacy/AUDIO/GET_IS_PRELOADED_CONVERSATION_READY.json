@@ -1,0 +1,10 @@
+{
+    "0xE73364DB90778FFA": {
+        "name": "GET_IS_PRELOADED_CONVERSATION_READY",
+        "jhash": "0x336F3D35",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

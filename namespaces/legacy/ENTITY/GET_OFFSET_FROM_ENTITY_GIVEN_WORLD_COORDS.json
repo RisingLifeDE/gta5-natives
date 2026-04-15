@@ -1,0 +1,27 @@
+{
+    "0x2274BC1C4885E333": {
+        "name": "GET_OFFSET_FROM_ENTITY_GIVEN_WORLD_COORDS",
+        "jhash": "0x6477EC9E",
+        "comment": "Converts world coords (posX - Z) to coords relative to the entity\n\nExample:\nposX is given as 50\nentity's x coord is 40\nthe returned x coord will then be 10 or -10, not sure haven't used this in a while (think it is 10 though).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

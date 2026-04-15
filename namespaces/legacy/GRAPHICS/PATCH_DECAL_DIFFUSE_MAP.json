@@ -1,0 +1,27 @@
+{
+    "0x8A35C742130C6080": {
+        "name": "PATCH_DECAL_DIFFUSE_MAP",
+        "jhash": "0x335695CF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "decalType"
+            },
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_DECAL_TO_MARKER",
+            "_OVERRIDE_DECAL_TEXTURE"
+        ]
+    }
+}

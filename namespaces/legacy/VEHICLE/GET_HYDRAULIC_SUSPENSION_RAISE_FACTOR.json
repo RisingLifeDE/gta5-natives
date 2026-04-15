@@ -1,0 +1,22 @@
+{
+    "0x0BB5CBDDD0F25AE3": {
+        "name": "GET_HYDRAULIC_SUSPENSION_RAISE_FACTOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelId"
+            }
+        ],
+        "return_type": "float",
+        "build": "2372",
+        "old_names": [
+            "_GET_HYDRAULIC_WHEEL_VALUE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x8ACD366038D14505": {
+        "name": "GET_ENTITY_TYPE",
+        "jhash": "0x0B1BD08D",
+        "comment": "Returns:\n0 = no entity\n1 = ped\n2 = vehicle\n3 = object",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x4EBB7E87AA0DBED4": {
+        "name": "SET_PLAYER_IS_IN_ANIMAL_FORM",
+        "jhash": "",
+        "comment": "If toggle is true, the ped's head is shown in the pause menu\nIf toggle is false, the ped's head is not shown in the pause menu",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOW_PED_IN_PAUSE_MENU",
+            "_SET_PLAYER_IS_IN_ANIMAL_FORM"
+        ]
+    }
+}

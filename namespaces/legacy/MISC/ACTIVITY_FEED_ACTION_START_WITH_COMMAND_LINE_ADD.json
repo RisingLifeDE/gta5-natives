@@ -1,0 +1,15 @@
+{
+    "0x703CC7F60CBB2B57": {
+        "name": "ACTIVITY_FEED_ACTION_START_WITH_COMMAND_LINE_ADD",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

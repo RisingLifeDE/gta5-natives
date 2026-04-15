@@ -1,0 +1,15 @@
+{
+    "0xACE699C71AB9DEB5": {
+        "name": "REMOVE_VEHICLE_ASSET",
+        "jhash": "0x9620E9C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vehicleAsset"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

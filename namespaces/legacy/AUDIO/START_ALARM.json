@@ -1,0 +1,19 @@
+{
+    "0x0355EF116C4C97B2": {
+        "name": "START_ALARM",
+        "jhash": "0x703F524B",
+        "comment": "Example:\n\nThis will start the alarm at Fort Zancudo.\n\nAUDIO::START_ALARM(\"PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS\", 1);\n\nFirst parameter (char) is the name of the alarm.\nSecond parameter (bool) is unknown, it does not seem to make a difference if this one is 0 or 1.\n\n----------\n\nIt DOES make a difference but it has to do with the duration or something I dunno yet\n\n----------\n\n Found in the b617d scripts:\n\n AUDIO::START_ALARM(\"AGENCY_HEIST_FIB_TOWER_ALARMS\", 0);\n AUDIO::START_ALARM(\"AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER\", 1);\n AUDIO::START_ALARM(\"AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER_B\", 0);\n AUDIO::START_ALARM(\"BIG_SCORE_HEIST_VAULT_ALARMS\", a_0);\n AUDIO::START_ALARM(\"FBI_01_MORGUE_ALARMS\", 1);\n AUDIO::START_ALARM(\"FIB_05_BIOTECH_LAB_ALARMS\", 0);\n AUDIO::START_ALARM(\"JEWEL_STORE_HEIST_ALARMS\", 0);\n AUDIO::START_ALARM(\"PALETO_BAY_SCORE_ALARM\", 1);\n AUDIO::START_ALARM(\"PALETO_BAY_SCORE_CHICKEN_FACTORY_ALARM\", 0);\n AUDIO::START_ALARM(\"PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS\", 1);\n AUDIO::START_ALARM(\"PORT_OF_LS_HEIST_SHIP_ALARMS\", 0);\n AUDIO::START_ALARM(\"PRISON_ALARMS\", 0);\n AUDIO::START_ALARM(\"PROLOGUE_VAULT_ALARMS\", 0);\nFull list of alarm names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/alarmSounds.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "alarmName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

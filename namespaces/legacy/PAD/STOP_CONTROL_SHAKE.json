@@ -1,0 +1,18 @@
+{
+    "0x38C16A305E8CDC8D": {
+        "name": "STOP_CONTROL_SHAKE",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "STOP_PAD_SHAKE"
+        ]
+    }
+}

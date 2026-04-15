@@ -1,0 +1,15 @@
+{
+    "0x6E192E33AD436366": {
+        "name": "IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID",
+        "jhash": "0x597063BA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

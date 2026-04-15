@@ -1,0 +1,13 @@
+{
+    "0xAA3F739ABDDCF21F": {
+        "name": "CLEAR_VEHICLE_PHONE_EXPLOSIVE_DEVICE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_CLEAR_VEHICLE_PHONE_EXPLOSIVE_DEVICE"
+        ]
+    }
+}

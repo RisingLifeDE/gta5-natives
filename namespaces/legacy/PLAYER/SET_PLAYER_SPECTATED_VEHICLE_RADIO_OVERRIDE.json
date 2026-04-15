@@ -1,0 +1,15 @@
+{
+    "0x2F7CEB6520288061": {
+        "name": "SET_PLAYER_SPECTATED_VEHICLE_RADIO_OVERRIDE",
+        "jhash": "0x2849D4B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

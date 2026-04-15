@@ -1,0 +1,18 @@
+{
+    "0x3E71D0B300B7AA79": {
+        "name": "GET_SUBMARINE_IS_UNDER_DESIGN_DEPTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "submarine"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2189",
+        "old_names": [
+            "_GET_SUBMARINE_IS_BELOW_FIRST_CRUSH_DEPTH"
+        ]
+    }
+}

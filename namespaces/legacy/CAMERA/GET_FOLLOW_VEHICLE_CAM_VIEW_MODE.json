@@ -1,0 +1,10 @@
+{
+    "0xA4FF579AC0E3AAAE": {
+        "name": "GET_FOLLOW_VEHICLE_CAM_VIEW_MODE",
+        "jhash": "0xA4B4DB03",
+        "comment": "Returns the type of camera:\n\nenum _viewmode //0xA11D7CA8\n{\n\tTHIRD_PERSON_NEAR = 0,\n\tTHIRD_PERSON_MEDIUM = 1,\n\tTHIRD_PERSON_FAR = 2,\n\tCINEMATIC = 3,\n\tFIRST_PERSON = 4\n};",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

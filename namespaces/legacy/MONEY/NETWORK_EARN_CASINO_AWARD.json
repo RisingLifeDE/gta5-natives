@@ -1,0 +1,22 @@
+{
+    "0x973A9781A34F8DEB": {
+        "name": "NETWORK_EARN_CASINO_AWARD",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_EARN_FROM_CASINO_AWARD"
+        ]
+    }
+}

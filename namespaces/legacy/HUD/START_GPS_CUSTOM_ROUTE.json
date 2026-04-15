@@ -1,0 +1,23 @@
+{
+    "0xDB34E8D56FC13B08": {
+        "name": "START_GPS_CUSTOM_ROUTE",
+        "jhash": "0x7F93799B",
+        "comment": "Starts a new GPS custom-route, allowing you to plot lines on the map.\nLines are drawn directly between points.\nThe GPS custom route works like the GPS multi route, except it does not follow roads.\nExample result: https://i.imgur.com/BDm5pzt.png\nhudColor: The HUD color of the GPS path.\ndisplayOnFoot: Draws the path regardless if the player is in a vehicle or not.\nfollowPlayer: Draw the path partially between the previous and next point based on the players position between them. When false, the GPS appears to not disappear after the last leg is completed.",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColor"
+            },
+            {
+                "type": "BOOL",
+                "name": "displayOnFoot"
+            },
+            {
+                "type": "BOOL",
+                "name": "followPlayer"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

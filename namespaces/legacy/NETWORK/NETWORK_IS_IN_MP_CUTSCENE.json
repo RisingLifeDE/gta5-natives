@@ -1,0 +1,10 @@
+{
+    "0x6CC27C9FA2040220": {
+        "name": "NETWORK_IS_IN_MP_CUTSCENE",
+        "jhash": "0x4BB33316",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0xC2EAE3FB8CDBED31": {
+        "name": "ANIMATED_SHAKE_SCRIPT_GLOBAL",
+        "jhash": "0xCB75BD9C",
+        "comment": "CAM::ANIMATED_SHAKE_SCRIPT_GLOBAL(\"SHAKE_CAM_medium\", \"medium\", \"\", 0.5f);\n\nFull list of cam shake types by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/camShakeTypesCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

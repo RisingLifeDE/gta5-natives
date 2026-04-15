@@ -1,0 +1,19 @@
+{
+    "0x95A88F0B409CDA47": {
+        "name": "SET_VEHICLE_NUMBER_PLATE_TEXT",
+        "jhash": "0x400F9556",
+        "comment": "Sets a vehicle's license plate text.  8 chars maximum.\n\nExample:\nPed playerPed = PLAYER::PLAYER_PED_ID();\nVehicle veh = PED::GET_VEHICLE_PED_IS_USING(playerPed);\nchar *plateText = \"KING\";\nVEHICLE::SET_VEHICLE_NUMBER_PLATE_TEXT(veh, plateText);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "plateText"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

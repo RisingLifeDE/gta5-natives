@@ -1,0 +1,15 @@
+{
+    "0x259BA6D4E6F808F1": {
+        "name": "CASCADE_SHADOWS_SET_BOUND_POSITION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

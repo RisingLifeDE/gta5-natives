@@ -1,0 +1,19 @@
+{
+    "0x6683AB880E427778": {
+        "name": "SET_PLAYBACK_SPEED",
+        "jhash": "0x684E26E4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

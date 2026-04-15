@@ -1,0 +1,27 @@
+{
+    "0x170911F37F646F29": {
+        "name": "REGISTER_POSTFX_BULLET_IMPACT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponWorldPosX"
+            },
+            {
+                "type": "float",
+                "name": "weaponWorldPosY"
+            },
+            {
+                "type": "float",
+                "name": "weaponWorldPosZ"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

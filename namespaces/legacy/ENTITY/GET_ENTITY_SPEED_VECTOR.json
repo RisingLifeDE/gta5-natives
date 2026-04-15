@@ -1,0 +1,19 @@
+{
+    "0x9A8D700A51CB7B0D": {
+        "name": "GET_ENTITY_SPEED_VECTOR",
+        "jhash": "0x3ED2B997",
+        "comment": "Relative can be used for getting speed relative to the frame of the vehicle, to determine for example, if you are going in reverse (-y speed) or not (+y speed). ",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "relative"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

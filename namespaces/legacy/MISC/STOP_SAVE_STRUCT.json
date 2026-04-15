@@ -1,0 +1,10 @@
+{
+    "0xEB1774DF12BB9F12": {
+        "name": "STOP_SAVE_STRUCT",
+        "jhash": "0xC2624A28",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x5DB660B38DD98A31": {
+        "name": "SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER",
+        "jhash": "0x45514731",
+        "comment": "`regenRate`: The recharge multiplier, a value between 0.0 and 1.0.\nUse 1.0 to reset it back to normal",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "regenRate"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

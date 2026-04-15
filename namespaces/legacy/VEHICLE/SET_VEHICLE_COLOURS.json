@@ -1,0 +1,23 @@
+{
+    "0x4F1D4BE3A7F24601": {
+        "name": "SET_VEHICLE_COLOURS",
+        "jhash": "0x57F24253",
+        "comment": "colorPrimary & colorSecondary are the paint index for the vehicle.\nFor a list of valid paint indexes, view: https://pastebin.com/pwHci0xK\n-------------------------------------------------------------------------\nNote: minimum color index is 0, maximum color index is (numColorIndices - 1)\n\nFull list of vehicle colors by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicleColors.json",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "colorPrimary"
+            },
+            {
+                "type": "int",
+                "name": "colorSecondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

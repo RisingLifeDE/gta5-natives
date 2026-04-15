@@ -1,0 +1,31 @@
+{
+    "0x1374ABB7C15BAB92": {
+        "name": "IS_SHOCKING_EVENT_IN_SPHERE",
+        "jhash": "0x2F98823E",
+        "comment": "eventType: https://alloc8or.re/gta5/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

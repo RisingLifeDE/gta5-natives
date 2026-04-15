@@ -1,0 +1,27 @@
+{
+    "0x3C788E7F6438754D": {
+        "name": "SET_CHECKPOINT_DIRECTION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1180"
+    }
+}

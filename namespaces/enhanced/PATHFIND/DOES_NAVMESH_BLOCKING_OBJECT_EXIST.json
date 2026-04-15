@@ -1,0 +1,15 @@
+{
+    "0x0EAEB0DB4B132399": {
+        "name": "DOES_NAVMESH_BLOCKING_OBJECT_EXIST",
+        "jhash": "0x4B67D7EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "0x01C7B9B38428AEB6": {
+        "name": "CLEAR_AREA_OF_VEHICLES",
+        "jhash": "0x63320F3C",
+        "comment": "Example:\nCLEAR_AREA_OF_VEHICLES(0.0f, 0.0f, 0.0f, 10000.0f, false, false, false, false, false, false);",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

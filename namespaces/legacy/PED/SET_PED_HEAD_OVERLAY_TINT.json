@@ -1,0 +1,34 @@
+{
+    "0x497BF74A7B9CB952": {
+        "name": "SET_PED_HEAD_OVERLAY_TINT",
+        "jhash": "",
+        "comment": "\n\nColorType is 1 for eyebrows, beards, and chest hair; 2 for blush and lipstick; and 0 otherwise, though not called in those cases.\n\nCalled after SET_PED_HEAD_OVERLAY().",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "overlayID"
+            },
+            {
+                "type": "int",
+                "name": "colorType"
+            },
+            {
+                "type": "int",
+                "name": "colorID"
+            },
+            {
+                "type": "int",
+                "name": "secondColorID"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_HEAD_OVERLAY_COLOR"
+        ]
+    }
+}

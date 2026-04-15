@@ -1,0 +1,35 @@
+{
+    "0x7EEF65D5F153E26A": {
+        "name": "IS_COP_VEHICLE_IN_AREA_3D",
+        "jhash": "0xFB16C6D1",
+        "comment": "Usage:\n\npublic bool isCopInRange(Vector3 Location, float Range)\n        {\n            return Function.Call<bool>(Hash.IS_COP_PED_IN_AREA_3D, Location.X - Range, Location.Y - Range, Location.Z - Range, Location.X + Range, Location.Y + Range, Location.Z + Range);\n        }",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

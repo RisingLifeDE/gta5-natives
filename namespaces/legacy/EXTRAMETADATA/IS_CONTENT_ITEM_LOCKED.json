@@ -1,0 +1,19 @@
+{
+    "0xD4D7B033C3AA243C": {
+        "name": "IS_CONTENT_ITEM_LOCKED",
+        "jhash": "0x06396058",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_OUTFIT_EMPTY",
+            "_IS_DLC_DATA_EMPTY"
+        ]
+    }
+}

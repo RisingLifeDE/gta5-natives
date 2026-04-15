@@ -1,0 +1,19 @@
+{
+    "0xAB31EF4DE6800CE9": {
+        "name": "SET_GOON_BOSS_VEHICLE",
+        "jhash": "",
+        "comment": "Used for GTAO CEO/Associate spawned vehicles.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

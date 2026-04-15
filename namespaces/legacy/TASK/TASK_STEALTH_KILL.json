@@ -1,0 +1,31 @@
+{
+    "0xAA5DC05579D60BD9": {
+        "name": "TASK_STEALTH_KILL",
+        "jhash": "0x0D64C2FA",
+        "comment": "known \"killTypes\" are: \"AR_stealth_kill_knife\" and \"AR_stealth_kill_a\".",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "killer"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "Hash",
+                "name": "stealthKillActionResultHash"
+            },
+            {
+                "type": "float",
+                "name": "desiredMoveBlendRatio"
+            },
+            {
+                "type": "int",
+                "name": "stealthFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

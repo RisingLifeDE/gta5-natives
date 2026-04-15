@@ -1,0 +1,15 @@
+{
+    "0xCE60DE011B6C7978": {
+        "name": "NETWORK_IS_GAMER_MUTED_BY_ME",
+        "jhash": "0x001B4046",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

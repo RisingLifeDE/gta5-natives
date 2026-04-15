@@ -1,0 +1,19 @@
+{
+    "0x5C8B2F450EE4328E": {
+        "name": "SET_PLAYER_LOCKON",
+        "jhash": "0x0B270E0F",
+        "comment": "Example from fm_mission_controler.ysc.c4:\n\nPLAYER::SET_PLAYER_LOCKON(PLAYER::PLAYER_ID(), 1);\n\nAll other decompiled scripts using this seem to be using the player id as the first parameter, so I feel the need to confirm it as so.\n\nNo need to confirm it says PLAYER_ID() so it uses PLAYER_ID() lol.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

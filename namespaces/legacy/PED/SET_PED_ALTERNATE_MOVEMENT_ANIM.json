@@ -1,0 +1,35 @@
+{
+    "0x90A43CC281FFAB46": {
+        "name": "SET_PED_ALTERNATE_MOVEMENT_ANIM",
+        "jhash": "0xBA84FD8C",
+        "comment": "stance:\n0 = idle\n1 = walk\n2 = running\n\np5 = usually set to true\n\nFull list of animation dictionaries and anims by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/animDictsCompact.json\n\nFull list of movement clipsets by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/movementClipsetsCompact.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "stance"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

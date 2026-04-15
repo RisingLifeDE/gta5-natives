@@ -1,0 +1,19 @@
+{
+    "0x9222F300BF8354FE": {
+        "name": "REGISTER_HATED_TARGETS_AROUND_PED",
+        "jhash": "0x7F87559E",
+        "comment": "Based on TASK_COMBAT_HATED_TARGETS_AROUND_PED, the parameters are likely similar (PedHandle, and area to attack in).",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

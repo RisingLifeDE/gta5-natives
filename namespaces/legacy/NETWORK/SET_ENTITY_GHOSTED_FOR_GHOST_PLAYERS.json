@@ -1,0 +1,22 @@
+{
+    "0x4BA166079D658ED4": {
+        "name": "SET_ENTITY_GHOSTED_FOR_GHOST_PLAYERS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_NETWORK_SET_ENTITY_GHOSTED_WITH_OWNER"
+        ]
+    }
+}

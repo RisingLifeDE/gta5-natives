@@ -1,0 +1,19 @@
+{
+    "0x596976B02B6B5700": {
+        "name": "SET_IGNORE_LOW_PRIORITY_SHOCKING_EVENTS",
+        "jhash": "0xA3D675ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

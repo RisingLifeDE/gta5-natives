@@ -1,0 +1,15 @@
+{
+    "0xAAA553E7DD28A457": {
+        "name": "SET_NETWORK_CUTSCENE_ENTITIES",
+        "jhash": "0xFD0F7EDD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

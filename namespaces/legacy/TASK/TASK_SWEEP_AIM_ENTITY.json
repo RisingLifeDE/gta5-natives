@@ -1,0 +1,47 @@
+{
+    "0x2047C02158D6405A": {
+        "name": "TASK_SWEEP_AIM_ENTITY",
+        "jhash": "0x4D210467",
+        "comment": "This function is called on peds in vehicles.\n\nanim: animation name\np2, p3, p4: \"sweep_low\", \"sweep_med\" or \"sweep_high\"\np5: no idea what it does but is usually -1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "lowAnimName"
+            },
+            {
+                "type": "const char*",
+                "name": "medAnimName"
+            },
+            {
+                "type": "const char*",
+                "name": "hiAnimName"
+            },
+            {
+                "type": "int",
+                "name": "runtime"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "float",
+                "name": "turnRate"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

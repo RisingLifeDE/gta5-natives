@@ -1,0 +1,13 @@
+{
+    "0x81DF9ABA6C83DFF9": {
+        "name": "GET_WARNING_SCREEN_MESSAGE_HASH",
+        "jhash": "",
+        "comment": "Has to do with the confirmation overlay (E.g. confirm exit)",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1290",
+        "old_names": [
+            "_GET_WARNING_MESSAGE_TITLE_HASH"
+        ]
+    }
+}

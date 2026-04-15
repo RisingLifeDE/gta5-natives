@@ -1,0 +1,19 @@
+{
+    "0x464D8E1427156FE4": {
+        "name": "REMOVE_DOOR_FROM_SYSTEM",
+        "jhash": "0x00253286",
+        "comment": "CDoor and CDoorSystemData still internally allocated (and their associations between doorHash, modelHash, and coordinates).\nOnly its NetObj removed and flag ``*(v2 + 192) |= 8u`` (1604 retail) toggled.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

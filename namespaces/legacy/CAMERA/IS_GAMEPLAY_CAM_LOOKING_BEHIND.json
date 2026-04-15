@@ -1,0 +1,10 @@
+{
+    "0x70FDA869F3317EA9": {
+        "name": "IS_GAMEPLAY_CAM_LOOKING_BEHIND",
+        "jhash": "0x33C83F17",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

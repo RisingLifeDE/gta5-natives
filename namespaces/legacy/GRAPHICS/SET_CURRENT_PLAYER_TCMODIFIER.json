@@ -1,0 +1,15 @@
+{
+    "0xBBF327DED94E4DEB": {
+        "name": "SET_CURRENT_PLAYER_TCMODIFIER",
+        "jhash": "0x85BA15A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

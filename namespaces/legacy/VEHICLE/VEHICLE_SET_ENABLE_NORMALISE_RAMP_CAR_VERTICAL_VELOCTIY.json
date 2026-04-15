@@ -1,0 +1,22 @@
+{
+    "0x756AE6E962168A04": {
+        "name": "VEHICLE_SET_ENABLE_NORMALISE_RAMP_CAR_VERTICAL_VELOCTIY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_VEHICLE_RAMP_UPWARDS_LAUNCH_MOTION"
+        ]
+    }
+}

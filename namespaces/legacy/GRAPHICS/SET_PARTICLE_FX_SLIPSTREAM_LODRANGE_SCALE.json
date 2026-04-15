@@ -1,0 +1,15 @@
+{
+    "0x2B40A97646381508": {
+        "name": "SET_PARTICLE_FX_SLIPSTREAM_LODRANGE_SCALE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

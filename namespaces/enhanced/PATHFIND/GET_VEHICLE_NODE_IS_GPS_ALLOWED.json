@@ -1,0 +1,18 @@
+{
+    "0xA2AE5C478B96E3B6": {
+        "name": "GET_VEHICLE_NODE_IS_GPS_ALLOWED",
+        "jhash": "0xEE4B1219",
+        "comment": "Returns false for nodes that aren't used for GPS routes.\nExample:\nNodes in Fort Zancudo and LSIA are false",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_SUPPORTS_GPS_ROUTE_FLAG"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xCA3EF9B09A8D76B4": {
+        "name": "_NETWORK_EARN_SELL_PARTICIPATION_ACID_LAB",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

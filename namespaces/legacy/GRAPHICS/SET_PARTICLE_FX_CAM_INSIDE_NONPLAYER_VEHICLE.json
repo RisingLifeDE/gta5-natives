@@ -1,0 +1,19 @@
+{
+    "0xACEE6F360FC1F6B6": {
+        "name": "SET_PARTICLE_FX_CAM_INSIDE_NONPLAYER_VEHICLE",
+        "jhash": "0x6B125A02",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

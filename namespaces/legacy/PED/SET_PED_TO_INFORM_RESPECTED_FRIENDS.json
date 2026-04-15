@@ -1,0 +1,23 @@
+{
+    "0x112942C6E708F70B": {
+        "name": "SET_PED_TO_INFORM_RESPECTED_FRIENDS",
+        "jhash": "0xD78AC46C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "maxFriends"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x19F21E63AE6EAE4E": {
+        "name": "SET_USER_RADIO_CONTROL_ENABLED",
+        "jhash": "0x52E054CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

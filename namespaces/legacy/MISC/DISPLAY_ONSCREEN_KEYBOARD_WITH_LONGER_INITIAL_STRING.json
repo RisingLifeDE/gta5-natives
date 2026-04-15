@@ -1,0 +1,62 @@
+{
+    "0xCA78CFA0366592FE": {
+        "name": "DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING",
+        "jhash": "0xD2688412",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "windowTitle"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultText"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat1"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat3"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat4"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat5"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat6"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat7"
+            },
+            {
+                "type": "int",
+                "name": "maxInputLength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DISPLAY_ONSCREEN_KEYBOARD_2"
+        ]
+    }
+}

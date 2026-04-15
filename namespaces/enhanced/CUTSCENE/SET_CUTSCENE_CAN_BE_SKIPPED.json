@@ -1,0 +1,15 @@
+{
+    "0x41FAA8FB2ECE8720": {
+        "name": "SET_CUTSCENE_CAN_BE_SKIPPED",
+        "jhash": "0x28D54A7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

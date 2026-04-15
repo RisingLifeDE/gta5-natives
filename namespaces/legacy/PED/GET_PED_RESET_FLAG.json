@@ -1,0 +1,19 @@
+{
+    "0xAF9E59B1B1FBF2A0": {
+        "name": "GET_PED_RESET_FLAG",
+        "jhash": "0x2FC10D11",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

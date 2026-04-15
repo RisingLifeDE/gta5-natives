@@ -1,0 +1,10 @@
+{
+    "0x705A276EBFF3133D": {
+        "name": "IS_INTERPOLATING_TO_SCRIPT_CAMS",
+        "jhash": "0x60C23785",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

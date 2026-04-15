@@ -1,0 +1,18 @@
+{
+    "0xF8BDBF3D573049A1": {
+        "name": "SET_GAMEPLAY_HINT_FOLLOW_DISTANCE_SCALAR",
+        "jhash": "0x72E8CD3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_GAMEPLAY_HINT_ANIM_OFFSETZ"
+        ]
+    }
+}

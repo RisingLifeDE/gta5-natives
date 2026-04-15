@@ -1,0 +1,13 @@
+{
+    "0xDC48473142545431": {
+        "name": "FACEBOOK_POST_CREATE_CHARACTER",
+        "jhash": "0x02DAD93F",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_FACEBOOK_SET_CREATE_CHARACTER_COMPLETE"
+        ]
+    }
+}

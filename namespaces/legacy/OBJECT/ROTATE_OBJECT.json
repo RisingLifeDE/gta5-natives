@@ -1,0 +1,27 @@
+{
+    "0xAFE24E4D29249E4A": {
+        "name": "ROTATE_OBJECT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1734"
+    }
+}

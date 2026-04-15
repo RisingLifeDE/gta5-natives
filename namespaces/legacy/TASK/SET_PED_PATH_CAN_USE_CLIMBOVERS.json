@@ -1,0 +1,19 @@
+{
+    "0x8E06A6FE76C9EFF4": {
+        "name": "SET_PED_PATH_CAN_USE_CLIMBOVERS",
+        "jhash": "0xB7B7D442",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "Toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

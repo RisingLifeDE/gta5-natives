@@ -1,0 +1,15 @@
+{
+    "0x88795F13FACDA88D": {
+        "name": "SET_INITIAL_PLAYER_STATION",
+        "jhash": "0x9B069233",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

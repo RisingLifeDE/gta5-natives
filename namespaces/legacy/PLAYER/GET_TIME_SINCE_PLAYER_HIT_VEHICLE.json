@@ -1,0 +1,15 @@
+{
+    "0x5D35ECF3A81A0EE0": {
+        "name": "GET_TIME_SINCE_PLAYER_HIT_VEHICLE",
+        "jhash": "0x6E9B8B9E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

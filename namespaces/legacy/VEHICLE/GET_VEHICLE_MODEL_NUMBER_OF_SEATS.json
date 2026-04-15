@@ -1,0 +1,18 @@
+{
+    "0x2AD93716F184EDA4": {
+        "name": "GET_VEHICLE_MODEL_NUMBER_OF_SEATS",
+        "jhash": "0x838F7BF7",
+        "comment": "Returns max number of passengers (including the driver) for the specified vehicle model.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_MODEL_MAX_NUMBER_OF_PASSENGERS"
+        ]
+    }
+}

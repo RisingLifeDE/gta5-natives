@@ -1,0 +1,15 @@
+{
+    "0x433DDFFE2044B636": {
+        "name": "IS_PED_JUMPING_OUT_OF_VEHICLE",
+        "jhash": "0xB19215F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

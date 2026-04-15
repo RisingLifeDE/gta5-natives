@@ -1,0 +1,22 @@
+{
+    "0x838DA0936A24ED4D": {
+        "name": "SET_NETWORK_ENABLE_HIGH_SPEED_EDGE_FALL_DETECTION",
+        "jhash": "",
+        "comment": "Enables a periodic ShapeTest within the NetBlender and invokes rage::netBlenderLinInterp::GoStraightToTarget (or some functional wrapper).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_NETWORK_ENABLE_VEHICLE_POSITION_CORRECTION"
+        ]
+    }
+}

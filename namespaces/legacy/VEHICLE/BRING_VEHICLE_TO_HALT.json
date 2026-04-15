@@ -1,0 +1,30 @@
+{
+    "0x260BE8F09E326A20": {
+        "name": "BRING_VEHICLE_TO_HALT",
+        "jhash": "0xCBC7D3C8",
+        "comment": "This native makes the vehicle stop immediately, as happens when we enter a MP garage.\n\n. distance defines how far it will travel until stopping. Garage doors use 3.0.\n\n. If killEngine is set to 1, you cannot resume driving the vehicle once it stops. This looks like is a bitmapped integer.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VEHICLE_HALT"
+        ]
+    }
+}

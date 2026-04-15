@@ -1,0 +1,19 @@
+{
+    "0xCE4452AE85F5E252": {
+        "name": "_NETWORK_EARN_FOOLIGAN_JOB",
+        "jhash": "",
+        "comment": "JUGGALO_PHONE_MISSION...",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2802"
+    }
+}

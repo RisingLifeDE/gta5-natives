@@ -1,0 +1,19 @@
+{
+    "0x8ABFB70C49CC43E2": {
+        "name": "HAS_OBJECT_BEEN_BROKEN",
+        "jhash": "0xFE21F891",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

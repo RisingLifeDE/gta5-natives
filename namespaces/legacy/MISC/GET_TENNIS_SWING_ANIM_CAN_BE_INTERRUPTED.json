@@ -1,0 +1,15 @@
+{
+    "0x19BFED045C647C49": {
+        "name": "GET_TENNIS_SWING_ANIM_CAN_BE_INTERRUPTED",
+        "jhash": "0x1A332D2D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

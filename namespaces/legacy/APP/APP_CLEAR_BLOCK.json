@@ -1,0 +1,10 @@
+{
+    "0x5FE1DF3342DB7DBA": {
+        "name": "APP_CLEAR_BLOCK",
+        "jhash": "0xDAB86A18",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

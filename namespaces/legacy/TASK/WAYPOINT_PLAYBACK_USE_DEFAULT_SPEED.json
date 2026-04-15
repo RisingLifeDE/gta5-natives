@@ -1,0 +1,15 @@
+{
+    "0x6599D834B12D0800": {
+        "name": "WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED",
+        "jhash": "0x1BBB2CAC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

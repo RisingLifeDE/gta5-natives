@@ -1,0 +1,15 @@
+{
+    "0xF9DDA40BC293A61E": {
+        "name": "_GET_VEHICLE_CURRENT_REV_RATIO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "3095"
+    }
+}

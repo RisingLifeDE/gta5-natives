@@ -1,0 +1,10 @@
+{
+    "0xBC72B5D7A1CBD54D": {
+        "name": "IS_INTERIOR_SCENE",
+        "jhash": "0x55226C13",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

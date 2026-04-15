@@ -1,0 +1,27 @@
+{
+    "0x5F5D1665E352A839": {
+        "name": "ADD_PED_DECORATION_FROM_HASHES",
+        "jhash": "0x70559AC7",
+        "comment": "Applies an Item from a PedDecorationCollection to a ped. These include tattoos and shirt decals.\n\ncollection - PedDecorationCollection filename hash\noverlay - Item name hash\n\nExample:\nEntry inside \"mpbeach_overlays.xml\" -\n<Item>\n  <uvPos x=\"0.500000\" y=\"0.500000\" />\n  <scale x=\"0.600000\" y=\"0.500000\" />\n  <rotation value=\"0.000000\" />\n  <nameHash>FM_Hair_Fuzz</nameHash>\n  <txdHash>mp_hair_fuzz</txdHash>\n  <txtHash>mp_hair_fuzz</txtHash>\n  <zone>ZONE_HEAD</zone>\n  <type>TYPE_TATTOO</type>\n  <faction>FM</faction>\n  <garment>All</garment>\n  <gender>GENDER_DONTCARE</gender>\n  <award />\n  <awardLevel />\n</Item>\n\nCode:\nPED::ADD_PED_DECORATION_FROM_HASHES(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"mpbeach_overlays\"), MISC::GET_HASH_KEY(\"fm_hair_fuzz\"))\n\nFull list of ped overlays / decorations by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/pedOverlayCollections.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "collection"
+            },
+            {
+                "type": "Hash",
+                "name": "overlay"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_APPLY_PED_OVERLAY",
+            "_SET_PED_DECORATION"
+        ]
+    }
+}

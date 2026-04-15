@@ -1,0 +1,19 @@
+{
+    "0x08AAFD0814722BC3": {
+        "name": "GET_TRAIN_CARRIAGE",
+        "jhash": "0x2544E7A6",
+        "comment": "Corrected p1. it's basically the 'carriage/trailer number'. So if the train has 3 trailers you'd call the native once with a var or 3 times with 1, 2, 3.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "int",
+                "name": "trailerNumber"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

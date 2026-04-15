@@ -1,0 +1,19 @@
+{
+    "0xEAF4CD9EA3E7E922": {
+        "name": "HAS_ANIM_EVENT_FIRED",
+        "jhash": "0x66571CA0",
+        "comment": "if (ENTITY::HAS_ANIM_EVENT_FIRED(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"CreateObject\")))",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "actionHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

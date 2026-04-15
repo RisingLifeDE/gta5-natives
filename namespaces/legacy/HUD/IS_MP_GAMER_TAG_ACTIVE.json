@@ -1,0 +1,15 @@
+{
+    "0x4E929E7A5796FD26": {
+        "name": "IS_MP_GAMER_TAG_ACTIVE",
+        "jhash": "0x60118951",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x02CFBA0C9E9275CE": {
+        "name": "FLASH_ABILITY_BAR",
+        "jhash": "0x3648960D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "millisecondsToFlash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

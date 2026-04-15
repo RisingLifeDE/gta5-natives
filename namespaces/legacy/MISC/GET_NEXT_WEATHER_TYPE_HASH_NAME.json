@@ -1,0 +1,13 @@
+{
+    "0x711327CD09C8F162": {
+        "name": "GET_NEXT_WEATHER_TYPE_HASH_NAME",
+        "jhash": "0x353E8056",
+        "comment": "Returns weather name hash",
+        "params": [],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_GET_NEXT_WEATHER_TYPE"
+        ]
+    }
+}

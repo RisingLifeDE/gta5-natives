@@ -1,0 +1,10 @@
+{
+    "0x4EEBC3694E49C572": {
+        "name": "NETWORK_CAN_SESSION_END",
+        "jhash": "0xE1FCCDBA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

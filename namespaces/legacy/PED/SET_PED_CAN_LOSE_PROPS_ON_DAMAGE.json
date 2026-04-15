@@ -1,0 +1,23 @@
+{
+    "0xE861D0B05C7662B8": {
+        "name": "SET_PED_CAN_LOSE_PROPS_ON_DAMAGE",
+        "jhash": "0x2F9550C2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

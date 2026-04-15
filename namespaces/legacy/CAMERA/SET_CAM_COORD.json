@@ -1,0 +1,27 @@
+{
+    "0x4D41783FB745E42E": {
+        "name": "SET_CAM_COORD",
+        "jhash": "0x7A8053AF",
+        "comment": "Sets the position of the cam.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

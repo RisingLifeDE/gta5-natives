@@ -1,0 +1,15 @@
+{
+    "0xC9BF75D28165FF77": {
+        "name": "SET_SAVE_MENU_ACTIVE",
+        "jhash": "0xF5CCF164",
+        "comment": "ignoreVehicle - bypasses vehicle check of the local player (it will not open if you are in a vehicle and this is set to false)",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "ignoreVehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

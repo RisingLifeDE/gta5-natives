@@ -1,0 +1,19 @@
+{
+    "0xA2F80B8D040727CC": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS",
+        "jhash": "0x891BA8A4",
+        "comment": "After some analysis, I've decided that these are what the parameters are.\n\nWe can see this being used in R* scripts such as \"am_mp_property_int.ysc.c4\":\nl_11A1 = PED::GET_VEHICLE_PED_IS_IN(PLAYER::PLAYER_PED_ID(), 1);\n...\nVEHICLE::SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS(l_11A1, 1);",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

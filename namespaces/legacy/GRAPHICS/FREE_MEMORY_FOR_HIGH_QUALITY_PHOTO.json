@@ -1,0 +1,10 @@
+{
+    "0xD801CC02177FA3F1": {
+        "name": "FREE_MEMORY_FOR_HIGH_QUALITY_PHOTO",
+        "jhash": "0x9CBA682A",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

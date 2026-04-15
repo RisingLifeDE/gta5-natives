@@ -1,0 +1,19 @@
+{
+    "0xD821056B9ACF8052": {
+        "name": "SET_PLAYER_EXPLOSIVE_DAMAGE_MODIFIER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1011"
+    }
+}

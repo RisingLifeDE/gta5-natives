@@ -1,0 +1,35 @@
+{
+    "0xCFB0E9C3456319EA": {
+        "name": "_PLAYSTATS_FLOW_HIGH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "const char*",
+                "name": "action"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "0x23703CD154E83B88": {
+        "name": "TASK_PLANE_MISSION",
+        "jhash": "0x1D007E65",
+        "comment": "EXAMPLE USAGE:\n\nFly around target (Precautiously, keeps high altitude):\nFunction.Call(Hash.TASK_PLANE_MISSION, pilot, selectedAirplane, 0, 0, Target.X, Target.Y, Target.Z, 4, 100f, 0f, 90f, 0, 200f);\n\nFly around target (Dangerously, keeps VERY low altitude):\nFunction.Call(Hash.TASK_PLANE_MISSION, pilot, selectedAirplane, 0, 0, Target.X, Target.Y, Target.Z, 4, 100f, 0f, 90f, 0, -500f);\n\nFly directly into target:\nFunction.Call(Hash.TASK_PLANE_MISSION, pilot, selectedAirplane, 0, 0, Target.X, Target.Y, Target.Z, 4, 100f, 0f, 90f, 0, -5000f);\n\nEXPANDED INFORMATION FOR ADVANCED USAGE (custom pilot)\n\n'physicsSpeed': (THIS IS NOT YOUR ORDINARY SPEED PARAMETER: READ!!)\nThink of this -first- as a radius value, not a true speed value.  The ACTUAL effective speed of the plane will be that of the maximum speed permissible to successfully fly in a -circle- with a radius of 'physicsSpeed'.  This also means that the plane must complete a circle before it can begin its \"bombing run\", its straight line pass towards the target.  p9 appears to influence the angle at which a \"bombing run\" begins, although I can't confirm yet.\n\nVERY IMPORTANT: A \"bombing run\" will only occur if a plane can successfully determine a possible navigable route (the slower the value of 'physicsSpeed', the more precise the pilot can be due to less influence of physics on flightpath).  Otherwise, the pilot will continue to patrol around Destination (be it a dynamic Entity position vector or a fixed world coordinate vector.)\n\n0 = Plane's physics are almost entirely frozen, plane appears to \"orbit\" around precise destination point\n1-299 = Blend of \"frozen, small radius\" vs. normal vs. \"accelerated, hyperfast, large radius\"\n300+ =  Vehicle behaves entirely like a normal gameplay plane.\n\n'patrolBlend' (The lower the value, the more the Destination is treated as a \"fly AT\" rather than a \"fly AROUND point\".)\n\nScenario: Destination is an Entity on ground level, wide open field\n-5000 = Pilot kamikazes directly into Entity\n-1000 = Pilot flies extremely low -around- Entity, very prone to crashing\n-200 = Pilot flies lower than average around Entity.\n0 = Pilot flies around Entity, normal altitude\n200 = Pilot flies an extra eighty units or so higher than 0 while flying around Destination (this doesn't seem to correlate directly into distance units.)\n\n-- Valid mission types found in the exe: --\n\n0 = None\n1 = Unk\n2 = CTaskVehicleRam\n3 = CTaskVehicleBlock\n4 = CTaskVehicleGoToPlane\n5 = CTaskVehicleStop\n6 = CTaskVehicleAttack\n7 = CTaskVehicleFollow\n8 = CTaskVehicleFleeAirborne\n9= CTaskVehicleCircle\n10 = CTaskVehicleEscort\n15 = CTaskVehicleFollowRecording\n16 = CTaskVehiclePoliceBehaviour\n17 = CTaskVehicleCrash",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pilot"
+            },
+            {
+                "type": "Vehicle",
+                "name": "aircraft"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "destinationX"
+            },
+            {
+                "type": "float",
+                "name": "destinationY"
+            },
+            {
+                "type": "float",
+                "name": "destinationZ"
+            },
+            {
+                "type": "int",
+                "name": "missionFlag"
+            },
+            {
+                "type": "float",
+                "name": "angularDrag"
+            },
+            {
+                "type": "float",
+                "name": "targetReached"
+            },
+            {
+                "type": "float",
+                "name": "targetHeading"
+            },
+            {
+                "type": "float",
+                "name": "maxZ"
+            },
+            {
+                "type": "float",
+                "name": "minZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "precise"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

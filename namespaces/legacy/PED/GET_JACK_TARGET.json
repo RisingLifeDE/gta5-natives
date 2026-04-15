@@ -1,0 +1,15 @@
+{
+    "0x5486A79D9FBD342D": {
+        "name": "GET_JACK_TARGET",
+        "jhash": "0x1D196361",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "323"
+    }
+}

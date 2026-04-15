@@ -1,0 +1,30 @@
+{
+    "0x1254B5B3925EFD3D": {
+        "name": "NETWORK_SPEND_APARTMENT_UTILITIES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_SPENT_AGGREGATED_UTILITY_BILLS"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0x8CDDF1E452BABE11": {
+        "name": "STAT_SET_USER_ID",
+        "jhash": "0xDBE78ED7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x58A850EAEE20FAA3": {
+        "name": "PLACE_OBJECT_ON_GROUND_PROPERLY",
+        "jhash": "0x8F95A20B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

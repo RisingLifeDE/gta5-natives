@@ -1,0 +1,51 @@
+{
+    "0x2F8AF0E82773A171": {
+        "name": "TASK_DRIVE_BY",
+        "jhash": "0x2B84D1C4",
+        "comment": "Example:\n\nTASK::TASK_DRIVE_BY(l_467[1/*22*/], PLAYER::PLAYER_PED_ID(), 0, 0.0, 0.0, 2.0, 300.0, 100, 0, ${firing_pattern_burst_fire_driveby});\n\n\n\n\nNeeds working example. Doesn't seem to do anything.\n\nI marked p2 as targetVehicle as all these shooting related tasks seem to have that in common.\nI marked p6 as distanceToShoot as if you think of GTA's Logic with the native SET_VEHICLE_SHOOT natives, it won't shoot till it gets within a certain distance of the target.\nI marked p7 as pedAccuracy as it seems it's mostly 100 (Completely Accurate), 75, 90, etc. Although this could be the ammo count within the gun, but I highly doubt it. I will change this comment once I find out if it's ammo count or not.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driverPed"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetX"
+            },
+            {
+                "type": "float",
+                "name": "targetY"
+            },
+            {
+                "type": "float",
+                "name": "targetZ"
+            },
+            {
+                "type": "float",
+                "name": "distanceToShoot"
+            },
+            {
+                "type": "int",
+                "name": "pedAccuracy"
+            },
+            {
+                "type": "BOOL",
+                "name": "pushUnderneathDrivingTaskIfDriving"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

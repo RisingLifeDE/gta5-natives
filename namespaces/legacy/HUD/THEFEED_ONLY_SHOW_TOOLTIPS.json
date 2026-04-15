@@ -1,0 +1,15 @@
+{
+    "0x6F1554B0CC2089FA": {
+        "name": "THEFEED_ONLY_SHOW_TOOLTIPS",
+        "jhash": "0xA7C8594B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

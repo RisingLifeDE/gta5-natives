@@ -1,0 +1,19 @@
+{
+    "0x24F4121D07579880": {
+        "name": "CAN_ANCHOR_BOAT_HERE_IGNORE_PLAYERS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_CAN_BOAT_BE_ANCHORED_2",
+            "_CAN_ANCHOR_BOAT_HERE_2"
+        ]
+    }
+}

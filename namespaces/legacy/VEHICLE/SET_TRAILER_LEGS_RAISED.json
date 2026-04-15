@@ -1,0 +1,15 @@
+{
+    "0x95CF53B3D687F9FA": {
+        "name": "SET_TRAILER_LEGS_RAISED",
+        "jhash": "0x06C47A6F",
+        "comment": "in the decompiled scripts, seems to be always called on the vehicle right after being attached to a trailer.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

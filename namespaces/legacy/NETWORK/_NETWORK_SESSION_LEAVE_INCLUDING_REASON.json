@@ -1,0 +1,19 @@
+{
+    "0xE0128328CF1FD9F4": {
+        "name": "_NETWORK_SESSION_LEAVE_INCLUDING_REASON",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "leaveFlags"
+            },
+            {
+                "type": "int",
+                "name": "leaveReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

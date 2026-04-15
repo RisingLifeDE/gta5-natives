@@ -1,0 +1,15 @@
+{
+    "0x8A4986851C4EF6E7": {
+        "name": "SET_CREATE_RANDOM_COPS_NOT_ON_SCENARIOS",
+        "jhash": "0x82E548CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

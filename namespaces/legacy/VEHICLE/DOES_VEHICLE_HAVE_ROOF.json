@@ -1,0 +1,15 @@
+{
+    "0x8AC862B0B32C5B80": {
+        "name": "DOES_VEHICLE_HAVE_ROOF",
+        "jhash": "0xDB817403",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

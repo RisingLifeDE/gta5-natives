@@ -1,0 +1,15 @@
+{
+    "0x7E58745504313A2E": {
+        "name": "NETWORK_IS_INACTIVE_PROFILE",
+        "jhash": "0x95481343",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

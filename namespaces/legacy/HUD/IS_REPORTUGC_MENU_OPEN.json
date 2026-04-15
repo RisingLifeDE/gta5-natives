@@ -1,0 +1,10 @@
+{
+    "0x9135584D09A3437E": {
+        "name": "IS_REPORTUGC_MENU_OPEN",
+        "jhash": "0x9D2C94FA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

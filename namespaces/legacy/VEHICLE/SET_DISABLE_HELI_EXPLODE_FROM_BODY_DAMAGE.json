@@ -1,0 +1,19 @@
+{
+    "0xEDBC8405B3895CC9": {
+        "name": "SET_DISABLE_HELI_EXPLODE_FROM_BODY_DAMAGE",
+        "jhash": "",
+        "comment": "Prevents the vehicle from exploding when taking body damage. Only works for helis and planes.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103"
+    }
+}

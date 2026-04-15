@@ -1,0 +1,59 @@
+{
+    "0x04701832B739DCE5": {
+        "name": "TASK_GO_TO_ENTITY_WHILE_AIMING_AT_COORD",
+        "jhash": "0xD896CD82",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "aimX"
+            },
+            {
+                "type": "float",
+                "name": "aimY"
+            },
+            {
+                "type": "float",
+                "name": "aimZ"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "BOOL",
+                "name": "shoot"
+            },
+            {
+                "type": "float",
+                "name": "targetRadius"
+            },
+            {
+                "type": "float",
+                "name": "slowDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "useNavMesh"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantBlendToAim"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

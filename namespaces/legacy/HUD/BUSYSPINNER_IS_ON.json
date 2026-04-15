@@ -1,0 +1,13 @@
+{
+    "0xD422FCC5F239A915": {
+        "name": "BUSYSPINNER_IS_ON",
+        "jhash": "0xB8B3A5D0",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_IS_LOADING_PROMPT_BEING_DISPLAYED"
+        ]
+    }
+}

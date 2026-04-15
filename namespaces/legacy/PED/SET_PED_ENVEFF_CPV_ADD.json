@@ -1,0 +1,19 @@
+{
+    "0x110F526AB784111F": {
+        "name": "SET_PED_ENVEFF_CPV_ADD",
+        "jhash": "0x3B882533",
+        "comment": "In agency_heist3b.c4, its like this 90% of the time:\n\nPED::SET_PED_ENVEFF_CPV_ADD(ped, 0.099);\nPED::SET_PED_ENVEFF_SCALE(ped, 1.0);\nPED::SET_PED_ENVEFF_CPV_ADD(ped, 87, 81, 68);\nPED::SET_ENABLE_PED_ENVEFF_SCALE(ped, 1);\n\nand its like this 10% of the time:\n\nPED::SET_PED_ENVEFF_CPV_ADD(ped, 0.2);\nPED::SET_PED_ENVEFF_SCALE(ped, 0.65);\nPED::SET_PED_ENVEFF_COLOR_MODULATOR(ped, 74, 69, 60);\nPED::SET_ENABLE_PED_ENVEFF_SCALE(ped, 1);",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

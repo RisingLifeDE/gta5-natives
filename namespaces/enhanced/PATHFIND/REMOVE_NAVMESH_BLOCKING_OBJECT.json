@@ -1,0 +1,15 @@
+{
+    "0x46399A7895957C0E": {
+        "name": "REMOVE_NAVMESH_BLOCKING_OBJECT",
+        "jhash": "0x098602B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

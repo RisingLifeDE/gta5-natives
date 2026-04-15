@@ -1,0 +1,15 @@
+{
+    "0x113750538FA31298": {
+        "name": "IS_NAMED_RENDERTARGET_LINKED",
+        "jhash": "0x8B52601F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

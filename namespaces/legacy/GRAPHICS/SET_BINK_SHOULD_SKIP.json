@@ -1,0 +1,22 @@
+{
+    "0x6805D58CAA427B72": {
+        "name": "SET_BINK_SHOULD_SKIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "binkMovie"
+            },
+            {
+                "type": "BOOL",
+                "name": "bShouldSkip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_SET_BINK_SHOULD_SKIP"
+        ]
+    }
+}

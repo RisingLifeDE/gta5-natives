@@ -1,0 +1,13 @@
+{
+    "0x8251FB94DC4FDFC8": {
+        "name": "NETWORK_GET_HOST_PLAYER_INDEX",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Player",
+        "build": "2612",
+        "old_names": [
+            "_NETWORK_GET_HOST"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x2472622CE1F2D45F": {
+        "name": "ADD_PED_AMMO_BY_TYPE",
+        "jhash": "",
+        "comment": "Ammo types: https://gist.github.com/root-cause/faf41f59f7a6d818b7db0b839bd147c1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoTypeHash"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void",
+        "build": "1103",
+        "old_names": [
+            "_ADD_PED_AMMO",
+            "_ADD_AMMO_TO_PED_BY_TYPE"
+        ]
+    }
+}

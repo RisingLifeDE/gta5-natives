@@ -1,0 +1,23 @@
+{
+    "0x5D96CFB59DA076A0": {
+        "name": "TRIGGER_VEHICLE_PART_BROKEN_CAMERA_SHAKE",
+        "jhash": "",
+        "comment": "p1: 0..16",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060"
+    }
+}

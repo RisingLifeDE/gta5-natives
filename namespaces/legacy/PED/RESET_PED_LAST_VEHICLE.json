@@ -1,0 +1,15 @@
+{
+    "0xBB8DE8CF6A8DD8BB": {
+        "name": "RESET_PED_LAST_VEHICLE",
+        "jhash": "0x5E3B5942",
+        "comment": "Resets the value for the last vehicle driven by the Ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

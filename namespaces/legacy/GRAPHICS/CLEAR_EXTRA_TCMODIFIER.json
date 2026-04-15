@@ -1,0 +1,13 @@
+{
+    "0x92CCC17A7A2285DA": {
+        "name": "CLEAR_EXTRA_TCMODIFIER",
+        "jhash": "",
+        "comment": "Clears the secondary timecycle modifier usually set with _SET_EXTRA_TIMECYCLE_MODIFIER",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_EXTRA_TIMECYCLE_MODIFIER"
+        ]
+    }
+}

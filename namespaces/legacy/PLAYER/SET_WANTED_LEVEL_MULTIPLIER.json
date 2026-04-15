@@ -1,0 +1,15 @@
+{
+    "0x020E5F00CDA207BA": {
+        "name": "SET_WANTED_LEVEL_MULTIPLIER",
+        "jhash": "0x1359292F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

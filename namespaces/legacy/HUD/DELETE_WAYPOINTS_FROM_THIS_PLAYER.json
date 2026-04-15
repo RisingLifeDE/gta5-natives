@@ -1,0 +1,13 @@
+{
+    "0xD8E694757BCEA8E9": {
+        "name": "DELETE_WAYPOINTS_FROM_THIS_PLAYER",
+        "jhash": "0x62BABF2C",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DELETE_WAYPOINT"
+        ]
+    }
+}

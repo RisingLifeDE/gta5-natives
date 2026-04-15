@@ -1,0 +1,18 @@
+{
+    "0xE23D5873C2394C61": {
+        "name": "UPDATE_PLAYER_TELEPORT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_PLAYER_TELEPORT_FINISHED"
+        ]
+    }
+}

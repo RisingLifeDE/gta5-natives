@@ -1,0 +1,15 @@
+{
+    "0x9EEFB62EB27B5792": {
+        "name": "REQUEST_WAYPOINT_RECORDING",
+        "jhash": "0xAFABFB5D",
+        "comment": "Full list of waypoint recordings by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/waypointRecordings.json\nFor a full list of the points, see here: goo.gl/wIH0vn\n\nMax number of loaded recordings is 32.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

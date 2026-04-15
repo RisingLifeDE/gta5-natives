@@ -1,0 +1,31 @@
+{
+    "0x952F06BEECD775CC": {
+        "name": "SET_PED_VEHICLE_FORCED_SEAT_USAGE",
+        "jhash": "0x79CA237B",
+        "comment": "seatIndex must be <= 2",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

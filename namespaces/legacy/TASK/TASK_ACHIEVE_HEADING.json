@@ -1,0 +1,23 @@
+{
+    "0x93B93A37987F1F3D": {
+        "name": "TASK_ACHIEVE_HEADING",
+        "jhash": "0x0A0E9B42",
+        "comment": "Makes the specified ped achieve the specified heading.\n\npedHandle: The handle of the ped to assign the task to.\nheading: The desired heading.\ntimeout: The time, in milliseconds, to allow the task to complete. If the task times out, it is cancelled, and the ped will stay at the heading it managed to reach in the time.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

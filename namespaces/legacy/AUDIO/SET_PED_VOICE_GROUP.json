@@ -1,0 +1,22 @@
+{
+    "0x7CDC8C3B89F661B3": {
+        "name": "SET_PED_VOICE_GROUP",
+        "jhash": "",
+        "comment": "From the scripts:\n\nAUDIO::SET_PED_VOICE_GROUP(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"PAIGE_PVG\"));\nAUDIO::SET_PED_VOICE_GROUP(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"TALINA_PVG\"));\nAUDIO::SET_PED_VOICE_GROUP(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"FEMALE_LOST_BLACK_PVG\"));\nAUDIO::SET_PED_VOICE_GROUP(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY(\"FEMALE_LOST_WHITE_PVG\"));",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "voiceGroupHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_VOICE_GROUP"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xAFAF86043E5874E9": {
+        "name": "ARE_PLAYER_FLASHING_STARS_ABOUT_TO_DROP",
+        "jhash": "0xE13A71C7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

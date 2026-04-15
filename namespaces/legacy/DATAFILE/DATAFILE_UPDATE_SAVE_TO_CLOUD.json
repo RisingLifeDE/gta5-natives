@@ -1,0 +1,15 @@
+{
+    "0x4DFDD9EB705F8140": {
+        "name": "DATAFILE_UPDATE_SAVE_TO_CLOUD",
+        "jhash": "0x0B4087F7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

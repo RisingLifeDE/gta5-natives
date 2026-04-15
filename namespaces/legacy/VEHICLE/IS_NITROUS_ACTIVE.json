@@ -1,0 +1,15 @@
+{
+    "0x491E822B2C464FE4": {
+        "name": "IS_NITROUS_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

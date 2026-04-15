@@ -1,0 +1,10 @@
+{
+    "0x0B824797C9BF2159": {
+        "name": "NETWORK_IS_TRANSITION_HOST",
+        "jhash": "0x0C0900BC",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

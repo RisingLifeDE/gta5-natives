@@ -1,0 +1,19 @@
+{
+    "0x0FFB3C758E8C07B9": {
+        "name": "SET_TASK_MOVE_NETWORK_ENABLE_COLLISION_ON_NETWORK_CLONE_WHEN_FIXED",
+        "jhash": "",
+        "comment": "Doesn't actually return anything.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2060"
+    }
+}

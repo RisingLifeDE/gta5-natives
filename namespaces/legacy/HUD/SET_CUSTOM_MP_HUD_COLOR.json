@@ -1,0 +1,18 @@
+{
+    "0x2ACCB195F3CCD9DE": {
+        "name": "SET_CUSTOM_MP_HUD_COLOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudColorId"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_SET_CURRENT_CHARACTER_HUD_COLOR"
+        ]
+    }
+}

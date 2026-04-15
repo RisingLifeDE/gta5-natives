@@ -1,0 +1,19 @@
+{
+    "0x61BB1D9B3A95D802": {
+        "name": "SET_SCRIPT_GFX_DRAW_ORDER",
+        "jhash": "0xADF81D24",
+        "comment": "Sets the draw order for script draw commands.\n\nExamples from decompiled scripts:\nGRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(7);\nGRAPHICS::DRAW_RECT(0.5, 0.5, 3.0, 3.0, v_4, v_5, v_6, a_0._f172, 0);\n\nGRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(1);\nGRAPHICS::DRAW_RECT(0.5, 0.5, 1.5, 1.5, 0, 0, 0, 255, 0);",
+        "params": [
+            {
+                "type": "int",
+                "name": "drawOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_2D_LAYER",
+            "_SET_UI_LAYER"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA5342D390CDA41D6": {
+        "name": "SET_PED_GENDER",
+        "jhash": "",
+        "comment": "BOOL p1: 0 = Female; 1 = Male",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_AUDIO_GENDER"
+        ]
+    }
+}

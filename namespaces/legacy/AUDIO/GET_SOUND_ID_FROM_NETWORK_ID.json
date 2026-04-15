@@ -1,0 +1,15 @@
+{
+    "0x75262FD12D0A1C84": {
+        "name": "GET_SOUND_ID_FROM_NETWORK_ID",
+        "jhash": "0xD064D4DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

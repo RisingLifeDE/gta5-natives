@@ -1,0 +1,27 @@
+{
+    "0x0AE4086104E067B1": {
+        "name": "TASK_JUMP",
+        "jhash": "0x0356E3CE",
+        "comment": "Definition is wrong. This has 4 parameters (Not sure when they were added. v350 has 2, v678 has 4).\n\nv350: Ped ped, bool unused\nv678: Ped ped, bool unused, bool flag1, bool flag2\n\nflag1 = super jump, flag2 = do nothing if flag1 is false and doubles super jump height if flag1 is true.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "usePlayerLaunchForce"
+            },
+            {
+                "type": "BOOL",
+                "name": "doSuperJump"
+            },
+            {
+                "type": "BOOL",
+                "name": "useFullSuperJumpForce"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

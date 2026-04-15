@@ -1,0 +1,19 @@
+{
+    "0xBDECF64367884AC3": {
+        "name": "STOP_CAM_SHAKING",
+        "jhash": "0x40D0EB87",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

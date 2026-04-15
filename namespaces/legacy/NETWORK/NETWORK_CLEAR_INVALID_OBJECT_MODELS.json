@@ -1,0 +1,13 @@
+{
+    "0x03B2F03A53D85E41": {
+        "name": "NETWORK_CLEAR_INVALID_OBJECT_MODELS",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_CLEAR_INVALID_MODELS"
+        ]
+    }
+}

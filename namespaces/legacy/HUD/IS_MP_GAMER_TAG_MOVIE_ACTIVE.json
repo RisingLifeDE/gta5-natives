@@ -1,0 +1,13 @@
+{
+    "0x6E0EB3EB47C8D7AA": {
+        "name": "IS_MP_GAMER_TAG_MOVIE_ACTIVE",
+        "jhash": "0xEFD2564A",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_MP_GAMER_TAG"
+        ]
+    }
+}

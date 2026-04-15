@@ -1,0 +1,18 @@
+{
+    "0xA82819CAC9C4C403": {
+        "name": "GET_VEHICLE_ENVEFF_SCALE",
+        "jhash": "0xD5F1EEE1",
+        "comment": "The result is a value from 0-1, where 0 is fresh paint.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_PAINT_FADE"
+        ]
+    }
+}

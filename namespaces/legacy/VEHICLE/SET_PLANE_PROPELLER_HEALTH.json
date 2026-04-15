@@ -1,0 +1,22 @@
+{
+    "0x4C815EB175086F84": {
+        "name": "SET_PLANE_PROPELLER_HEALTH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "plane"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1103",
+        "old_names": [
+            "_SET_PLANE_PROPELLERS_HEALTH"
+        ]
+    }
+}

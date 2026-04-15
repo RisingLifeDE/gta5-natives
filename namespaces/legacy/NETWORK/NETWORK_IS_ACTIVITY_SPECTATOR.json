@@ -1,0 +1,10 @@
+{
+    "0x12103B9E0C9F92FB": {
+        "name": "NETWORK_IS_ACTIVITY_SPECTATOR",
+        "jhash": "0xAF329720",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

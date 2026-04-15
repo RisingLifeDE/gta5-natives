@@ -1,0 +1,19 @@
+{
+    "0xA7FFBA498E4AAF67": {
+        "name": "GET_TASK_MOVE_NETWORK_SIGNAL_BOOL",
+        "jhash": "0x1EBB6F3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

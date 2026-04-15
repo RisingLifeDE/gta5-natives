@@ -1,0 +1,62 @@
+{
+    "0xC95EB1DB6E92113D": {
+        "name": "START_NETWORKED_PARTICLE_FX_NON_LOOPED_ON_ENTITY",
+        "jhash": "0x469A2B4A",
+        "comment": "Full list of particle effect dictionaries and effects by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/particleEffectsCompact.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisX"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisY"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_START_PARTICLE_FX_NON_LOOPED_ON_ENTITY_2"
+        ]
+    }
+}

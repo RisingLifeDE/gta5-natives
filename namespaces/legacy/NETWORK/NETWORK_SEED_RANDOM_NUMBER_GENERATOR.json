@@ -1,0 +1,15 @@
+{
+    "0xF1B84178F8674195": {
+        "name": "NETWORK_SEED_RANDOM_NUMBER_GENERATOR",
+        "jhash": "0x41702C8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "seed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

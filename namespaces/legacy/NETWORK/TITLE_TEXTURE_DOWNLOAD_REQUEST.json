@@ -1,0 +1,23 @@
+{
+    "0x0B203B4AFDE53A4F": {
+        "name": "TITLE_TEXTURE_DOWNLOAD_REQUEST",
+        "jhash": "0x1856D008",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "filePath"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

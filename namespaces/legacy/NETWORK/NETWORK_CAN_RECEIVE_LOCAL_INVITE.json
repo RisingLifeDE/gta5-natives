@@ -1,0 +1,15 @@
+{
+    "0x421E34C55F125964": {
+        "name": "NETWORK_CAN_RECEIVE_LOCAL_INVITE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "2612"
+    }
+}

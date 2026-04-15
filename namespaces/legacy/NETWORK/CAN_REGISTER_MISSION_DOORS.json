@@ -1,0 +1,15 @@
+{
+    "0xE16AA70CE9BEEDC3": {
+        "name": "CAN_REGISTER_MISSION_DOORS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "877"
+    }
+}

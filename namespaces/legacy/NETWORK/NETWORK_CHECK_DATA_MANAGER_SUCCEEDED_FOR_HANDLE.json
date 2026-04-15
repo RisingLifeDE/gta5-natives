@@ -1,0 +1,19 @@
+{
+    "0x44B37CDCAE765AAE": {
+        "name": "NETWORK_CHECK_DATA_MANAGER_SUCCEEDED_FOR_HANDLE",
+        "jhash": "0x13301529",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x5C41E6BABC9E2112": {
+        "name": "SET_FIRST_PERSON_FLASH_EFFECT_TYPE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

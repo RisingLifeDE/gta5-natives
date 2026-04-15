@@ -1,0 +1,10 @@
+{
+    "0xDD21B55DF695CD0A": {
+        "name": "SET_MULTIPLAYER_BANK_CASH",
+        "jhash": "0x2C842D03",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

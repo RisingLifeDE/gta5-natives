@@ -1,0 +1,15 @@
+{
+    "0xBF286C554784F3DF": {
+        "name": "SET_MOBILE_PHONE_RADIO_STATE",
+        "jhash": "0xE1E0ED34",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

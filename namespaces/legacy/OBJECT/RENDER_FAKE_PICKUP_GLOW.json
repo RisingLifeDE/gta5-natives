@@ -1,0 +1,30 @@
+{
+    "0x3430676B11CDF21D": {
+        "name": "RENDER_FAKE_PICKUP_GLOW",
+        "jhash": "0x63B02FAD",
+        "comment": "draws circular marker at pos\n-1 = none\n0 = red\n1 = green\n2 = blue\n3 = green larger\n4 = nothing\n5 = green small",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "colorIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_HIGHLIGHT_PLACEMENT_COORDS"
+        ]
+    }
+}

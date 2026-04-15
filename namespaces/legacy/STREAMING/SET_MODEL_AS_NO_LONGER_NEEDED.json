@@ -1,0 +1,15 @@
+{
+    "0xE532F5D78798DAAB": {
+        "name": "SET_MODEL_AS_NO_LONGER_NEEDED",
+        "jhash": "0xAE0F069E",
+        "comment": "Unloads model from memory",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

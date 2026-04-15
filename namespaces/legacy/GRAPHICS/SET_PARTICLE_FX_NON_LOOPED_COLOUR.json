@@ -1,0 +1,23 @@
+{
+    "0x26143A59EF48B262": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_COLOUR",
+        "jhash": "0x7B689E20",
+        "comment": "only works on some fx's, not networked",
+        "params": [
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

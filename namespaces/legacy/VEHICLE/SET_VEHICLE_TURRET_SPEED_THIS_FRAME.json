@@ -1,0 +1,19 @@
+{
+    "0x1093408B4B9D1146": {
+        "name": "SET_VEHICLE_TURRET_SPEED_THIS_FRAME",
+        "jhash": "0xF30C566F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

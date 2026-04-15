@@ -1,0 +1,15 @@
+{
+    "0x8879EE09268305D5": {
+        "name": "UNPAUSE_PLAYBACK_RECORDED_VEHICLE",
+        "jhash": "0x59060F75",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

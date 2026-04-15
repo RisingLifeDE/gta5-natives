@@ -1,0 +1,15 @@
+{
+    "0x4EDE34FBADD967A6": {
+        "name": "WAIT",
+        "jhash": "0x7715C03B",
+        "comment": "Pauses execution of the current script, please note this behavior is only seen when called from one of the game script files(ysc). In order to wait an asi script use \"static void WAIT(DWORD time);\" found in main.h",
+        "params": [
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

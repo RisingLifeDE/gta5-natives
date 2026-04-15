@@ -1,0 +1,19 @@
+{
+    "0xAD2191A6E3543189": {
+        "name": "PLAY_PED_AUDIO_EVENT_ANIM",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "audioEvent"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC02F4DBFB51D988B": {
+        "name": "SET_TEXT_CENTRE",
+        "jhash": "0xE26D39A1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "align"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

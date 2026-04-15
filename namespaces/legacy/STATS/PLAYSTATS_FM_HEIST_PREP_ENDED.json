@@ -1,0 +1,18 @@
+{
+    "0xD8AFB345A9C5CCBB": {
+        "name": "PLAYSTATS_FM_HEIST_PREP_ENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_PLAYSTATS_H2_FMPREP_END"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x9D728C1E12BF5518": {
+        "name": "GET_PED_HELMET_STORED_HAT_TEX_INDEX",
+        "jhash": "0x74EB662D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

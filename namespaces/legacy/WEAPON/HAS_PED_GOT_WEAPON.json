@@ -1,0 +1,23 @@
+{
+    "0x8DECB02F88F428BC": {
+        "name": "HAS_PED_GOT_WEAPON",
+        "jhash": "0x43D2FA82",
+        "comment": "p2 should be FALSE, otherwise it seems to always return FALSE\n\nBool does not check if the weapon is current equipped, unfortunately.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

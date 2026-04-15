@@ -1,0 +1,15 @@
+{
+    "0xA6E9FDCB2C76785E": {
+        "name": "REQUEST_VEHICLE_HIGH_DETAIL_MODEL",
+        "jhash": "0x9DA21956",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

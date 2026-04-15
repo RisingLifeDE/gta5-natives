@@ -1,0 +1,22 @@
+{
+    "0x8181CE2F25CB9BB7": {
+        "name": "GET_VEHICLE_WEAPON_RESTRICTED_AMMO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "weaponIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1011",
+        "old_names": [
+            "_GET_VEHICLE_WEAPON_CAPACITY"
+        ]
+    }
+}

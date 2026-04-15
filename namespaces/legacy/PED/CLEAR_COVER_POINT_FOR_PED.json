@@ -1,0 +1,18 @@
+{
+    "0x637822DC2AFEEBF8": {
+        "name": "CLEAR_COVER_POINT_FOR_PED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_CLEAR_FACIAL_CLIPSET_OVERRIDE"
+        ]
+    }
+}

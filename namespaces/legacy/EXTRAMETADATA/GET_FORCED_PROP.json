@@ -1,0 +1,31 @@
+{
+    "0xE1CA84EBF72E691D": {
+        "name": "GET_FORCED_PROP",
+        "jhash": "0x22DAE257",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "forcedPropIndex"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            },
+            {
+                "type": "int*",
+                "name": "enumValue"
+            },
+            {
+                "type": "int*",
+                "name": "anchorPoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

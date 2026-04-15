@@ -1,0 +1,15 @@
+{
+    "0x75D3691713C3B05A": {
+        "name": "OPEN_SOCIAL_CLUB_MENU",
+        "jhash": "0x57218529",
+        "comment": "Uses the `SOCIAL_CLUB2` scaleform.\nmenu: GALLERY, MISSIONS, CREWS, MIGRATE, PLAYLISTS, JOBS",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "menu"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

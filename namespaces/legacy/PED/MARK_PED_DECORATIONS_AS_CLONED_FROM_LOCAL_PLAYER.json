@@ -1,0 +1,19 @@
+{
+    "0x2B694AFCF64E6994": {
+        "name": "MARK_PED_DECORATIONS_AS_CLONED_FROM_LOCAL_PLAYER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

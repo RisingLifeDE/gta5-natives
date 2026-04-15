@@ -1,0 +1,15 @@
+{
+    "0xF78B803082D4386F": {
+        "name": "SET_WEATHER_PTFX_OVERRIDE_CURR_LEVEL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

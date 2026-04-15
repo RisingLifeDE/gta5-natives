@@ -1,0 +1,23 @@
+{
+    "0xC6F5C0BCDC74D62D": {
+        "name": "GET_NAVMESH_ROUTE_DISTANCE_REMAINING",
+        "jhash": "0xD9281778",
+        "comment": "Looks like the last parameter returns true if the path has been calculated, while the first returns the remaining distance to the end of the path.\nReturn value of native is the same as GET_NAVMESH_ROUTE_RESULT\nLooks like the native returns an int for the path's state:\n1 - ???\n2 - ???\n3 - Finished Generating ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float*",
+                "name": "distanceRemaining"
+            },
+            {
+                "type": "BOOL*",
+                "name": "isPathReady"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

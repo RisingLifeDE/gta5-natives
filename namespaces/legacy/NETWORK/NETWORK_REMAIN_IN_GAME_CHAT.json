@@ -1,0 +1,15 @@
+{
+    "0xCFEB46DCD7D8D5EB": {
+        "name": "NETWORK_REMAIN_IN_GAME_CHAT",
+        "jhash": "0x1A3EA6CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

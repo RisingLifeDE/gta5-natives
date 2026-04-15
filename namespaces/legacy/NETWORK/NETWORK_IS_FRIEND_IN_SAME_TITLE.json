@@ -1,0 +1,15 @@
+{
+    "0x2EA9A3BEDF3F17B8": {
+        "name": "NETWORK_IS_FRIEND_IN_SAME_TITLE",
+        "jhash": "0xC54365C2",
+        "comment": "In scripts R* calls 'NETWORK_GET_FRIEND_NAME' in this param.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "friendName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

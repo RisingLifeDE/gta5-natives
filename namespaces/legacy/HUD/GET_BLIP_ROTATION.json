@@ -1,0 +1,18 @@
+{
+    "0x003E92BA477F9D7F": {
+        "name": "GET_BLIP_ROTATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "int",
+        "build": "2060",
+        "old_names": [
+            "_GET_BLIP_ROTATION"
+        ]
+    }
+}

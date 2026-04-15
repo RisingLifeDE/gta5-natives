@@ -1,0 +1,22 @@
+{
+    "0x3EED80DFF7325CAA": {
+        "name": "SET_PED_AI_BLIP_HAS_CONE",
+        "jhash": "0x872C2CFB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "HIDE_SPECIAL_ABILITY_LOCKON_OPERATION"
+        ]
+    }
+}

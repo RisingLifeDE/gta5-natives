@@ -1,0 +1,10 @@
+{
+    "0x5AD3932DAEB1E5D3": {
+        "name": "SET_SCRIPTS_HAVE_CLEANED_UP_FOR_REPLAY_SYSTEM",
+        "jhash": "",
+        "comment": "Disables some other rendering (internal)",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

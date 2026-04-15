@@ -1,0 +1,13 @@
+{
+    "0x5B50ABB1FE3746F4": {
+        "name": "HAS_LOADED_SP_DATA_SET",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_HAS_MULTIPLAYER_AUDIO_DATA_UNLOADED"
+        ]
+    }
+}

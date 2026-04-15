@@ -1,0 +1,10 @@
+{
+    "0x2DCF46CB1A4F0884": {
+        "name": "NETWORK_LAUNCH_TRANSITION",
+        "jhash": "0xE3570BA2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

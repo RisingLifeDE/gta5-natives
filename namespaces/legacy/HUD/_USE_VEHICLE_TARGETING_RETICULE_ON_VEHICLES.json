@@ -1,0 +1,15 @@
+{
+    "0x1BC0EA2912708625": {
+        "name": "_USE_VEHICLE_TARGETING_RETICULE_ON_VEHICLES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

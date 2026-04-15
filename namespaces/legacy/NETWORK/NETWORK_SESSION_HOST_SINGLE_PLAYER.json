@@ -1,0 +1,15 @@
+{
+    "0xC74C33FCA52856D5": {
+        "name": "NETWORK_SESSION_HOST_SINGLE_PLAYER",
+        "jhash": "0xF3B1CA85",
+        "comment": "Loads up the map that is loaded when beeing in mission creator\nPlayer gets placed in a mix between online/offline mode\np0 is always 2 in R* scripts.\n\nAppears to be patched in gtav b757 (game gets terminated) alonside with most other network natives to prevent online modding ~ghost30812",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

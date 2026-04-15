@@ -1,0 +1,15 @@
+{
+    "0x80054D7FCC70EEC6": {
+        "name": "CLEAR_PED_FALL_UPPER_BODY_CLIPSET_OVERRIDE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x686ECCD99D4E61BB": {
+        "name": "SET_PED_WAYPOINT_PROGRESS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "progress"
+            }
+        ],
+        "return_type": "void",
+        "build": "3570"
+    }
+}

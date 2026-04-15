@@ -1,0 +1,10 @@
+{
+    "0x0032A6DBA562C518": {
+        "name": "RESET_LAW_RESPONSE_DELAY_OVERRIDE",
+        "jhash": "0x47CAB814",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

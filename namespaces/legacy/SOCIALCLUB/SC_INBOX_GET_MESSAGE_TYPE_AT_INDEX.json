@@ -1,0 +1,15 @@
+{
+    "0xBB8EA16ECBC976C4": {
+        "name": "SC_INBOX_GET_MESSAGE_TYPE_AT_INDEX",
+        "jhash": "0x5ECF955D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "msgIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323"
+    }
+}

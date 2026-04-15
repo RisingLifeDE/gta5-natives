@@ -1,0 +1,18 @@
+{
+    "0xB7ED70C49521A61D": {
+        "name": "UNPATCH_DECAL_DIFFUSE_MAP",
+        "jhash": "0x7B786555",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "decalType"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_UNDO_DECAL_TEXTURE_OVERRIDE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x67F7C81C1395672A": {
+        "name": "_NETWORK_SET_IGNORE_VEHICLE_RAMMED_BY_NON_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

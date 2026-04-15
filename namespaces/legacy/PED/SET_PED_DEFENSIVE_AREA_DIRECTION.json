@@ -1,0 +1,31 @@
+{
+    "0x413C6C763A4AFFAD": {
+        "name": "SET_PED_DEFENSIVE_AREA_DIRECTION",
+        "jhash": "0xB66B0C9A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

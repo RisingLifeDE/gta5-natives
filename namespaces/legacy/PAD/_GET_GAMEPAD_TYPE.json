@@ -1,0 +1,10 @@
+{
+    "0x18E474F40EF05F10": {
+        "name": "_GET_GAMEPAD_TYPE",
+        "jhash": "",
+        "comment": "Always returns zero.",
+        "params": [],
+        "return_type": "int",
+        "build": "3570"
+    }
+}

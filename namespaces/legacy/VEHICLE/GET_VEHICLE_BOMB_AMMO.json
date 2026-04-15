@@ -1,0 +1,19 @@
+{
+    "0xEA12BD130D7569A1": {
+        "name": "GET_VEHICLE_BOMB_AMMO",
+        "jhash": "",
+        "comment": "Gets the amount of bombs that this vehicle has. As far as I know, this does _not_ impact vehicle weapons or the ammo of those weapons in any way, it is just a way to keep track of the amount of bombs in a specific plane.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1180",
+        "old_names": [
+            "_GET_AIRCRAFT_BOMB_COUNT",
+            "_GET_VEHICLE_BOMB_COUNT"
+        ]
+    }
+}

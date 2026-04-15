@@ -1,0 +1,22 @@
+{
+    "0xFF5E5EA2DCEEACF3": {
+        "name": "LOCK_RADIO_STATION_TRACK_LIST",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "radioStation"
+            },
+            {
+                "type": "const char*",
+                "name": "trackListName"
+            }
+        ],
+        "return_type": "void",
+        "build": "2372",
+        "old_names": [
+            "_LOCK_RADIO_STATION_TRACK_LIST"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x4C6A6451C79E4662": {
+        "name": "CAN_SET_EXIT_STATE_FOR_REGISTERED_ENTITY",
+        "jhash": "0x8FF5D3C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

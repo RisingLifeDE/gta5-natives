@@ -1,0 +1,31 @@
+{
+    "0x350F82CCB186AA1B": {
+        "name": "STAT_GET_POS",
+        "jhash": "0xC846ECCE",
+        "comment": "p3 is probably characterSlot or BOOL save, always -1",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            },
+            {
+                "type": "float*",
+                "name": "outX"
+            },
+            {
+                "type": "float*",
+                "name": "outY"
+            },
+            {
+                "type": "float*",
+                "name": "outZ"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

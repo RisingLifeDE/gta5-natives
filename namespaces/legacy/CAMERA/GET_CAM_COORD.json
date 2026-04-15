@@ -1,0 +1,15 @@
+{
+    "0xBAC038F7459AE5AE": {
+        "name": "GET_CAM_COORD",
+        "jhash": "0x7C40F09C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

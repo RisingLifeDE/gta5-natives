@@ -1,0 +1,19 @@
+{
+    "0xB5B7742424BD4445": {
+        "name": "SET_IS_OBJECT_BALL",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

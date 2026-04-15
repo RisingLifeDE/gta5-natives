@@ -1,0 +1,13 @@
+{
+    "0x77C3CEC46BE286F6": {
+        "name": "GET_DEBUG_CAM",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Cam",
+        "build": "2372",
+        "old_names": [
+            "_GET_DEBUG_CAMERA"
+        ]
+    }
+}

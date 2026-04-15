@@ -1,0 +1,23 @@
+{
+    "0x9AA47FFF660CB932": {
+        "name": "SET_VEHICLE_FLIGHT_NOZZLE_POSITION_IMMEDIATE",
+        "jhash": "0xDD7936F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_VERTICAL_FLIGHT_PHASE",
+            "_SET_PLANE_VTOL_DIRECTION"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "0xB302244A1839BDAD": {
+        "name": "ADD_DECAL",
+        "jhash": "0xEAD0C412",
+        "comment": "decal types:\n\npublic enum DecalTypes\n{\n    splatters_blood = 1010,\n    splatters_blood_dir = 1015,\n    splatters_blood_mist = 1017,\n    splatters_mud = 1020,\n    splatters_paint = 1030,\n    splatters_water = 1040,\n    splatters_water_hydrant = 1050,\n    splatters_blood2 = 1110,\n    weapImpact_metal = 4010,\n    weapImpact_concrete = 4020,\n    weapImpact_mattress = 4030,\n    weapImpact_mud = 4032,\n    weapImpact_wood = 4050,\n    weapImpact_sand = 4053,\n    weapImpact_cardboard = 4040,\n    weapImpact_melee_glass = 4100,\n    weapImpact_glass_blood = 4102,\n    weapImpact_glass_blood2 = 4104,\n    weapImpact_shotgun_paper = 4200,\n    weapImpact_shotgun_mattress,\n    weapImpact_shotgun_metal,\n    weapImpact_shotgun_wood,\n    weapImpact_shotgun_dirt,\n    weapImpact_shotgun_tvscreen,\n    weapImpact_shotgun_tvscreen2,\n    weapImpact_shotgun_tvscreen3,\n    weapImpact_melee_concrete = 4310,\n    weapImpact_melee_wood = 4312,\n    weapImpact_melee_metal = 4314,\n    burn1 = 4421,\n    burn2,\n    burn3,\n    burn4,\n    burn5,\n    bang_concrete_bang = 5000,\n    bang_concrete_bang2,\n    bang_bullet_bang,\n    bang_bullet_bang2 = 5004,\n    bang_glass = 5031,\n    bang_glass2,\n    solidPool_water = 9000,\n    solidPool_blood,\n    solidPool_oil,\n    solidPool_petrol,\n    solidPool_mud,\n    porousPool_water,\n    porousPool_blood,\n    porousPool_oil,\n    porousPool_petrol,\n    porousPool_mud,\n    porousPool_water_ped_drip,\n    liquidTrail_water = 9050\n}",
+        "params": [
+            {
+                "type": "int",
+                "name": "decalType"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "rCoef"
+            },
+            {
+                "type": "float",
+                "name": "gCoef"
+            },
+            {
+                "type": "float",
+                "name": "bCoef"
+            },
+            {
+                "type": "float",
+                "name": "opacity"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            },
+            {
+                "type": "BOOL",
+                "name": "p18"
+            },
+            {
+                "type": "BOOL",
+                "name": "p19"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

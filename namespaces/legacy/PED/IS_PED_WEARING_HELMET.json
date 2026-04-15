@@ -1,0 +1,15 @@
+{
+    "0xF33BDFE19B309B19": {
+        "name": "IS_PED_WEARING_HELMET",
+        "jhash": "0x0D680D49",
+        "comment": "Returns true if the ped passed through the parenthesis is wearing a helmet.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

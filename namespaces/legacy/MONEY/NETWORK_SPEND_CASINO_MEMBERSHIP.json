@@ -1,0 +1,30 @@
+{
+    "0xFBBE0570EDF39D46": {
+        "name": "NETWORK_SPEND_CASINO_MEMBERSHIP",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1734",
+        "old_names": [
+            "_NETWORK_SPENT_CASINO_MEMBERSHIP"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xEFB55E7C25D3B3BE": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_END",
+        "jhash": "0xE29EE145",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

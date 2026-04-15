@@ -1,0 +1,19 @@
+{
+    "0x638C03B0F9878F57": {
+        "name": "SET_PED_CAN_BE_TARGETED_WHEN_INJURED",
+        "jhash": "0x6FD9A7CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

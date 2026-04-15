@@ -1,0 +1,15 @@
+{
+    "0x42BC05C27A946054": {
+        "name": "GET_CURRENT_PLAYBACK_FOR_VEHICLE",
+        "jhash": "0xA3F44390",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x9824CFF8FC66E159": {
+        "name": "GET_VEHICLE_WAYPOINT_PROGRESS",
+        "jhash": "0xD3CCF64E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

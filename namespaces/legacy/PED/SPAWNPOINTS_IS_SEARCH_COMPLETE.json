@@ -1,0 +1,10 @@
+{
+    "0xA586FBEB32A53DBB": {
+        "name": "SPAWNPOINTS_IS_SEARCH_COMPLETE",
+        "jhash": "0x0B60D2BA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x320D0E0D936A0E9B": {
+        "name": "SET_GPS_FLASHES",
+        "jhash": "0xE991F733",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

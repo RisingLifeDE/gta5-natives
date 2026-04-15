@@ -1,0 +1,15 @@
+{
+    "0xF808475FA571D823": {
+        "name": "NETWORK_SET_FRIENDLY_FIRE_OPTION",
+        "jhash": "0x6BAF95FA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

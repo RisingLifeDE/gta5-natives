@@ -1,0 +1,15 @@
+{
+    "0x80D9F74197EA47D9": {
+        "name": "SET_RANDOM_TRAINS",
+        "jhash": "0xD461CA7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

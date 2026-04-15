@@ -1,0 +1,10 @@
+{
+    "0xCB645E85E97EA48B": {
+        "name": "GET_IS_USING_HOOD_CAMERA",
+        "jhash": "",
+        "comment": "Returns profile setting 243.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "372"
+    }
+}

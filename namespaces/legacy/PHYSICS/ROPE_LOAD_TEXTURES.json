@@ -1,0 +1,10 @@
+{
+    "0x9B9039DBF2D258C1": {
+        "name": "ROPE_LOAD_TEXTURES",
+        "jhash": "0xBA97CE91",
+        "comment": "Loads rope textures for all ropes in the current scene.",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

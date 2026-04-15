@@ -1,0 +1,19 @@
+{
+    "0x465BF26AB9684352": {
+        "name": "SET_DISABLE_VEHICLE_PETROL_TANK_FIRES",
+        "jhash": "0xC40192B5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

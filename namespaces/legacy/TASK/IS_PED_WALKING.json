@@ -1,0 +1,15 @@
+{
+    "0xDE4C184B2B9B071A": {
+        "name": "IS_PED_WALKING",
+        "jhash": "0x4B865C4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

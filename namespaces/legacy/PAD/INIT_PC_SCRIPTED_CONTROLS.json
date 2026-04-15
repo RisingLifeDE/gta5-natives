@@ -1,0 +1,18 @@
+{
+    "0x3D42B92563939375": {
+        "name": "INIT_PC_SCRIPTED_CONTROLS",
+        "jhash": "0xD2C80B2E",
+        "comment": "Used in carsteal3 script with schemeName = \"Carsteal4_spycar\".",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "schemeName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SWITCH_TO_INPUT_MAPPING_SCHEME"
+        ]
+    }
+}

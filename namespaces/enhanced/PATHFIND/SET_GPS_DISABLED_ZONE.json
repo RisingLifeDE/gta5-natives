@@ -1,0 +1,35 @@
+{
+    "0xDC20483CD3DD5201": {
+        "name": "SET_GPS_DISABLED_ZONE",
+        "jhash": "0x720B8073",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

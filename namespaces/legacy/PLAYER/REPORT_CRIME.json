@@ -1,0 +1,23 @@
+{
+    "0xE9B09589827545E7": {
+        "name": "REPORT_CRIME",
+        "jhash": "0xD8EB3A44",
+        "comment": "PLAYER::REPORT_CRIME(PLAYER::PLAYER_ID(), 37, PLAYER::GET_WANTED_LEVEL_THRESHOLD(1));\n\nFrom am_armybase.ysc.c4:\n\nPLAYER::REPORT_CRIME(PLAYER::PLAYER_ID(4), 36, PLAYER::GET_WANTED_LEVEL_THRESHOLD(4));\n\n-----\n\nThis was taken from the GTAV.exe v1.334. The function is called sub_140592CE8. For a full decompilation of the function, see here: https://pastebin.com/09qSMsN7 \n\n-----\ncrimeType:\n1: Firearms possession\n2: Person running a red light (\"5-0-5\")\n3: Reckless driver\n4: Speeding vehicle (a \"5-10\")\n5: Traffic violation (a \"5-0-5\")\n6: Motorcycle rider without a helmet\n7: Vehicle theft (a \"5-0-3\")\n8: Grand Theft Auto\n9: ???\n10: ???\n11: Assault on a civilian (a \"2-40\")\n12: Assault on an officer\n13: Assault with a deadly weapon (a \"2-45\")\n14: Officer shot (a \"2-45\")\n15: Pedestrian struck by a vehicle\n16: Officer struck by a vehicle\n17: Helicopter down (an \"AC\"?)\n18: Civilian on fire (a \"2-40\")\n19: Officer set on fire (a \"10-99\")\n20: Car on fire\n21: Air unit down (an \"AC\"?)\n22: An explosion (a \"9-96\")\n23: A stabbing (a \"2-45\") (also something else I couldn't understand)\n24: Officer stabbed (also something else I couldn't understand)\n25: Attack on a vehicle (\"MDV\"?)\n26: Damage to property\n27: Suspect threatening officer with a firearm\n28: Shots fired\n29: ???\n30: ???\n31: ???\n32: ???\n33: ???\n34: A \"2-45\"\n35: ???\n36: A \"9-25\"\n37: ???\n38: ???\n39: ???\n40: ???\n41: ???\n42: ???\n43: Possible disturbance\n44: Civilian in need of assistance\n45: ???\n46: ???",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "crimeType"
+            },
+            {
+                "type": "int",
+                "name": "wantedLvlThresh"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

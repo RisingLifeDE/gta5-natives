@@ -1,0 +1,14 @@
+{
+    "0xAAE7CE1D63167423": {
+        "name": "SET_MOUSE_CURSOR_THIS_FRAME",
+        "jhash": "",
+        "comment": "Shows the cursor on screen for one frame.",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SHOW_CURSOR_THIS_FRAME",
+            "_SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME"
+        ]
+    }
+}

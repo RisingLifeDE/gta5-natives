@@ -1,0 +1,15 @@
+{
+    "0xC54A08C85AE4D410": {
+        "name": "WATER_OVERRIDE_SET_STRENGTH",
+        "jhash": "0xDA02F415",
+        "comment": "This seems to edit the water wave, intensity around your current location.\n\n0.0f = Normal\n1.0f = So Calm and Smooth, a boat will stay still.\n3.0f = Really Intense.",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

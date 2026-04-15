@@ -1,0 +1,23 @@
+{
+    "0xA19435F193E081AC": {
+        "name": "GET_VEHICLE_COLOURS",
+        "jhash": "0x40D82D88",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "colorPrimary"
+            },
+            {
+                "type": "int*",
+                "name": "colorSecondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

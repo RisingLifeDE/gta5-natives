@@ -1,0 +1,22 @@
+{
+    "0x711794453CFD692B": {
+        "name": "SET_DISABLE_HIGH_FALL_DEATH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "463",
+        "old_names": [
+            "_SET_DISABLE_PED_FALL_DAMAGE"
+        ]
+    }
+}

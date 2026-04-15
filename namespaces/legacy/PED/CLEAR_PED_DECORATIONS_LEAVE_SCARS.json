@@ -1,0 +1,18 @@
+{
+    "0xE3B27E70CEAB9F0C": {
+        "name": "CLEAR_PED_DECORATIONS_LEAVE_SCARS",
+        "jhash": "0xEFD58EB9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_PED_FACIAL_DECORATIONS"
+        ]
+    }
+}

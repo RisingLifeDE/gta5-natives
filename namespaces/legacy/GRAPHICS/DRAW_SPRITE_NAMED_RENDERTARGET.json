@@ -1,0 +1,62 @@
+{
+    "0x2BC54A8188768488": {
+        "name": "DRAW_SPRITE_NAMED_RENDERTARGET",
+        "jhash": "",
+        "comment": "Similar to _DRAW_SPRITE, but seems to be some kind of \"interactive\" sprite, at least used by render targets.\nThese seem to be the only dicts ever requested by this native:\n\nprop_screen_biker_laptop\nProp_Screen_GR_Disruption\nProp_Screen_TaleOfUs\nprop_screen_nightclub\nProp_Screen_IE_Adhawk\nprop_screen_sm_free_trade_shipping\nprop_screen_hacker_truck\nMPDesktop\nProp_Screen_Nightclub\nAnd a few others\n",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "screenX"
+            },
+            {
+                "type": "float",
+                "name": "screenY"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void",
+        "build": "877",
+        "old_names": [
+            "_DRAW_INTERACTIVE_SPRITE"
+        ]
+    }
+}

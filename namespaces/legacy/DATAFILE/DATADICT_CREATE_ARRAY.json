@@ -1,0 +1,22 @@
+{
+    "0x5B11728527CA6E5F": {
+        "name": "DATADICT_CREATE_ARRAY",
+        "jhash": "0x03939B8D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "323",
+        "old_names": [
+            "_OBJECT_VALUE_ADD_ARRAY"
+        ]
+    }
+}

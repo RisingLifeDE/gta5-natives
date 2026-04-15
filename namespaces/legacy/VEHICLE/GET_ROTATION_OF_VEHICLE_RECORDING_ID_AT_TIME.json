@@ -1,0 +1,19 @@
+{
+    "0xF0F2103EFAF8CBA7": {
+        "name": "GET_ROTATION_OF_VEHICLE_RECORDING_ID_AT_TIME",
+        "jhash": "0x4D1C15C2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "323"
+    }
+}

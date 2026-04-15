@@ -1,0 +1,15 @@
+{
+    "0x22CCA434E368F03A": {
+        "name": "HAS_COLLISION_FOR_MODEL_LOADED",
+        "jhash": "0x41A094F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

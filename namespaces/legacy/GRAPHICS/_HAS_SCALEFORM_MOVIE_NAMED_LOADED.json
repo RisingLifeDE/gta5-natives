@@ -1,0 +1,19 @@
+{
+    "0x9743BCCF7CD6E1F6": {
+        "name": "_HAS_SCALEFORM_MOVIE_NAMED_LOADED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3407"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x8B7FD87F0DDB421E": {
+        "name": "SET_VEHICLE_FULLBEAM",
+        "jhash": "0x9C49CC15",
+        "comment": "It switch to highbeam when p1 is set to true.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

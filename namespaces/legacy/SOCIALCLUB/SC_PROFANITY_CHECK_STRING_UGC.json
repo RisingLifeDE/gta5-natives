@@ -1,0 +1,22 @@
+{
+    "0xEB2BF817463DFA28": {
+        "name": "SC_PROFANITY_CHECK_STRING_UGC",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            },
+            {
+                "type": "int*",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "678",
+        "old_names": [
+            "_SC_PROFANITY_CHECK_UGC_STRING"
+        ]
+    }
+}

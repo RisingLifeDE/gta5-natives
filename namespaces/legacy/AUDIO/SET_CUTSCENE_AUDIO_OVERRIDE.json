@@ -1,0 +1,15 @@
+{
+    "0x3B4BF5F0859204D9": {
+        "name": "SET_CUTSCENE_AUDIO_OVERRIDE",
+        "jhash": "0xCE1332B7",
+        "comment": "All occurrences found in b617d, sorted alphabetically and identical lines removed: \n\nAUDIO::SET_CUTSCENE_AUDIO_OVERRIDE(\"_AK\");\nAUDIO::SET_CUTSCENE_AUDIO_OVERRIDE(\"_CUSTOM\");\nAUDIO::SET_CUTSCENE_AUDIO_OVERRIDE(\"_TOOTHLESS\");\nFull list of cutscene names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/cutsceneNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x2AFE52F782F25775": {
+        "name": "IS_PED_RUNNING_MOBILE_PHONE_TASK",
+        "jhash": "0xFB2AFED1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

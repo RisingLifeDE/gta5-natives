@@ -1,0 +1,10 @@
+{
+    "0x8DB296B814EDDA07": {
+        "name": "NETWORK_IS_HOST",
+        "jhash": "0xE46AC10F",
+        "comment": "If you are host, returns true else returns false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

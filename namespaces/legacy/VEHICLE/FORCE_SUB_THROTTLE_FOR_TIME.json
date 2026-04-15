@@ -1,0 +1,23 @@
+{
+    "0x99CAD8E7AFDB60FA": {
+        "name": "FORCE_SUB_THROTTLE_FOR_TIME",
+        "jhash": "0x1128A45B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

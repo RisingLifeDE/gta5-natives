@@ -1,0 +1,10 @@
+{
+    "0xEE53B14A19E480D4": {
+        "name": "GET_CUTSCENE_TOTAL_DURATION",
+        "jhash": "0x0824EBE8",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

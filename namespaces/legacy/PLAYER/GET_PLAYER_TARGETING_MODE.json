@@ -1,0 +1,10 @@
+{
+    "0x875BDD898B99C8CE": {
+        "name": "GET_PLAYER_TARGETING_MODE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "3570"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC594B315EDF2D4AF": {
+        "name": "REMOVE_COP_BLIP_FROM_PED",
+        "jhash": "0x41B0D022",
+        "comment": "Interesting fact: A hash collision for this is RESET_JETPACK_MODEL_SETTINGS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xB721981B2B939E07": {
+        "name": "GET_PLAYER_INVINCIBLE",
+        "jhash": "0x680C90EE",
+        "comment": "Returns the Player's Invincible status.\n\nThis function will always return false if 0x733A643B5B0C53C1 is used to set the invincibility status. To always get the correct result, use this:\n\n bool IsPlayerInvincible(Player player)\n    {\n     auto addr = getScriptHandleBaseAddress(GET_PLAYER_PED(player)); \n\n        if (addr)\n     {\n         DWORD flag = *(DWORD *)(addr + 0x188);\n            return ((flag & (1 << 8)) != 0) || ((flag & (1 << 9)) != 0);\n      }\n\n       return false;\n }\n\n",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

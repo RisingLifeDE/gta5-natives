@@ -1,0 +1,15 @@
+{
+    "0x3DEC726C25A11BAC": {
+        "name": "SAVE_HIGH_QUALITY_PHOTO",
+        "jhash": "0x3B15D33C",
+        "comment": "1 match in 1 script. cellphone_controller.\np0 is -1 in scripts.",
+        "params": [
+            {
+                "type": "int",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

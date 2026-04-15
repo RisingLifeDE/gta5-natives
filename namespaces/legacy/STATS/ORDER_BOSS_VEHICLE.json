@@ -1,0 +1,26 @@
+{
+    "0xCEA553E35C2246E1": {
+        "name": "ORDER_BOSS_VEHICLE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "vehicleHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_ORDERED_BOSS_VEHICLE"
+        ]
+    }
+}

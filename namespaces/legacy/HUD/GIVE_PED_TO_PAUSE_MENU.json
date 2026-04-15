@@ -1,0 +1,19 @@
+{
+    "0xAC0BFBDC3BE00E14": {
+        "name": "GIVE_PED_TO_PAUSE_MENU",
+        "jhash": "0x2AD2C9CE",
+        "comment": "p1 is either 1 or 2 in the PC scripts.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

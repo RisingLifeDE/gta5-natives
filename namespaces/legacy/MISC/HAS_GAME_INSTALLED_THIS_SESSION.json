@@ -1,0 +1,10 @@
+{
+    "0x6FDDF453C0C756EC": {
+        "name": "HAS_GAME_INSTALLED_THIS_SESSION",
+        "jhash": "0xC3C10FCC",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

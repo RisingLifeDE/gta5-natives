@@ -1,0 +1,51 @@
+{
+    "0xF49E9A9716A04595": {
+        "name": "DRAW_LIGHT_WITH_RANGEEX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            },
+            {
+                "type": "float",
+                "name": "shadow"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_DRAW_LIGHT_WITH_RANGE_WITH_SHADOW",
+            "_DRAW_LIGHT_WITH_RANGE_AND_SHADOW"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xA6FA3979BED01B81": {
+        "name": "NETWORK_GET_STRING_BANK_BALANCE",
+        "jhash": "0xAA7EA3BD",
+        "comment": "",
+        "params": [],
+        "return_type": "const char*",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_GET_BANK_BALANCE_STRING"
+        ]
+    }
+}

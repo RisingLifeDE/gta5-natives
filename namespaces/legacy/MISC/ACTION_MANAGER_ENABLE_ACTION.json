@@ -1,0 +1,22 @@
+{
+    "0xA6A12939F16D85BE": {
+        "name": "ACTION_MANAGER_ENABLE_ACTION",
+        "jhash": "0x42B484ED",
+        "comment": "Appears to remove stealth kill action from memory",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_STEALTH_KILL"
+        ]
+    }
+}

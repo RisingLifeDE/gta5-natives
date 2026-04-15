@@ -1,0 +1,19 @@
+{
+    "0xE549F846DE7D32D5": {
+        "name": "_NETWORK_SET_COMMUNICATION_GROUP_FLAGS",
+        "jhash": "",
+        "comment": "communicationType: see 0xDBDF80673BBA3D65\ncommunicationGroupFlag: see 0x40DF02F371F40883",
+        "params": [
+            {
+                "type": "int",
+                "name": "communicationType"
+            },
+            {
+                "type": "int",
+                "name": "communicationGroupFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

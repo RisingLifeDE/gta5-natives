@@ -1,0 +1,23 @@
+{
+    "0xC2AFFFDABBDC2C5C": {
+        "name": "SET_ACHIEVEMENT_PROGRESS",
+        "jhash": "",
+        "comment": "For Steam.\nDoes nothing and always returns false in the retail version of the game.",
+        "params": [
+            {
+                "type": "int",
+                "name": "achievementId"
+            },
+            {
+                "type": "int",
+                "name": "progress"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_SET_ACHIEVEMENT_PROGRESSION",
+            "_SET_ACHIEVEMENT_PROGRESS"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x0FEE4F80AC44A726": {
+        "name": "SET_PLAYER_FORCED_AIM",
+        "jhash": "0x94E42E2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

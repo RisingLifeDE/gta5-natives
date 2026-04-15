@@ -1,0 +1,15 @@
+{
+    "0x7AC24EAB6D74118D": {
+        "name": "PHONEPHOTOEDITOR_TOGGLE",
+        "jhash": "0xB2410EAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0xE78503B10C4314E0": {
+        "name": "RESET_TREVOR_RAGE",
+        "jhash": "0xE80CF0D4",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

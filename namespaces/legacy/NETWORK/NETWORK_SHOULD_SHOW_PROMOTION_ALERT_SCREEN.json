@@ -1,0 +1,10 @@
+{
+    "0x023ACAB2DC9DC4A4": {
+        "name": "NETWORK_SHOULD_SHOW_PROMOTION_ALERT_SCREEN",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1493"
+    }
+}

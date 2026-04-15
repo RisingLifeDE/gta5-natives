@@ -1,0 +1,19 @@
+{
+    "0x57DBA049E110F217": {
+        "name": "NETWORK_ARE_HANDLES_THE_SAME",
+        "jhash": "0x45975AE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle1"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

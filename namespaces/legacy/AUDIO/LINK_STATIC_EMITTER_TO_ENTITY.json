@@ -1,0 +1,22 @@
+{
+    "0x651D3228960D08AF": {
+        "name": "LINK_STATIC_EMITTER_TO_ENTITY",
+        "jhash": "",
+        "comment": "Full list of static emitters by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/staticEmitters.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "emitterName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "505",
+        "old_names": [
+            "_LINK_STATIC_EMITTER_TO_ENTITY"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xDEAAF77EB3687E97": {
+        "name": "STAT_MIGRATE_CHECK_GET_PLATFORM_STATUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

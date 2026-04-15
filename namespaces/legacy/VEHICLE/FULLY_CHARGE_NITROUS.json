@@ -1,0 +1,15 @@
+{
+    "0x1A2BCC8C636F9226": {
+        "name": "FULLY_CHARGE_NITROUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3095"
+    }
+}

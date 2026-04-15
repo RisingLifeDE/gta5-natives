@@ -1,0 +1,10 @@
+{
+    "0x0F70731BACCFBB96": {
+        "name": "GET_IS_USING_ALTERNATE_DRIVEBY",
+        "jhash": "0xC1AFABD5",
+        "comment": "Returns profile setting 225.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x46E571A0E20D01F1": {
+        "name": "IS_VEHICLE_WINDOW_INTACT",
+        "jhash": "0xAC4EF23D",
+        "comment": "This will return false if the window is broken, or rolled down.\nWindow indexes:\n0 = Front Right Window\n1 = Front Left Window\n2 = Back Right Window\n3 = Back Left Window\n\n\nThose numbers go on for vehicles that have more than 4 doors with windows.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "windowIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

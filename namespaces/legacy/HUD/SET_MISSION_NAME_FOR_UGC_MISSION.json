@@ -1,0 +1,22 @@
+{
+    "0xE45087D85F468BC2": {
+        "name": "SET_MISSION_NAME_FOR_UGC_MISSION",
+        "jhash": "0x8D9A1734",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_MISSION_NAME_2"
+        ]
+    }
+}

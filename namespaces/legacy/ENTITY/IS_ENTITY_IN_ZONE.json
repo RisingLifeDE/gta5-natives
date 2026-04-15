@@ -1,0 +1,19 @@
+{
+    "0xB6463CF6AF527071": {
+        "name": "IS_ENTITY_IN_ZONE",
+        "jhash": "0x45C82B21",
+        "comment": "Full list of zones by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/zones.json",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "zone"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

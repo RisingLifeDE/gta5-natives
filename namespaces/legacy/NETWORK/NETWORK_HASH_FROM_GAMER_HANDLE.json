@@ -1,0 +1,18 @@
+{
+    "0x58575AC3CF2CA8EC": {
+        "name": "NETWORK_HASH_FROM_GAMER_HANDLE",
+        "jhash": "0x5AC9F04D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_HASH_FROM_GAMER_HANDLE"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xEEF059FAD016D209": {
+        "name": "GET_ENTITY_HEALTH",
+        "jhash": "0x8E3222B7",
+        "comment": "Returns an integer value of entity's current health.\n\nExample of range for ped:\n- Player [0 to 200]\n- Ped [100 to 200]\n- Vehicle [0 to 1000]\n- Object [0 to 1000]\n\nHealth is actually a float value but this native casts it to int.\nIn order to get the actual value, do:\nfloat health = *(float *)(entityAddress + 0x280);",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xA6FCECCF4721D679": {
+        "name": "NETWORK_SET_CUSTOM_ARENA_BALL_PARAMS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1604"
+    }
+}

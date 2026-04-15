@@ -1,0 +1,22 @@
+{
+    "0x4FCDBD3F0A813C25": {
+        "name": "PLAYSTATS_ARCADE_LOVE_MATCH",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_PLAYSTATS_ARCADE_LOVEMATCH"
+        ]
+    }
+}

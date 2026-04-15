@@ -1,0 +1,15 @@
+{
+    "0xCFD16F0DB5A3535C": {
+        "name": "DISABLE_IN_WATER_PTFX",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "2060"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xC30BDAEE47256C13": {
+        "name": "IS_PED_GESTURING",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1868"
+    }
+}

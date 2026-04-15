@@ -1,0 +1,22 @@
+{
+    "0x6E0859B530A365CC": {
+        "name": "SET_HELI_CONTROL_LAGGING_RATE_SCALAR",
+        "jhash": "0x6E67FD35",
+        "comment": "value between 0.0 and 1.0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "helicopter"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_HELICOPTER_ROLL_PITCH_YAW_MULT"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0xC6941B4A3A8FBBB9": {
+        "name": "PLAY_PED_AMBIENT_SPEECH_AND_CLONE_NATIVE",
+        "jhash": "0x444180DB",
+        "comment": "Plays ambient speech. See also _0x5C57B85D.\n\nSee PLAY_PED_AMBIENT_SPEECH_NATIVE for parameter specifications.\n\nFull list of speeches and voices names by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/speeches.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "speechName"
+            },
+            {
+                "type": "const char*",
+                "name": "speechParam"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_PLAY_AMBIENT_SPEECH2"
+        ]
+    }
+}

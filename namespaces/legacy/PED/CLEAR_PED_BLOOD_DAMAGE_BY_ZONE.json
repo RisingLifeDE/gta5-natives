@@ -1,0 +1,19 @@
+{
+    "0x56E3B78C5408D9F4": {
+        "name": "CLEAR_PED_BLOOD_DAMAGE_BY_ZONE",
+        "jhash": "0xF210BE69",
+        "comment": "Somehow related to changing ped's clothes.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

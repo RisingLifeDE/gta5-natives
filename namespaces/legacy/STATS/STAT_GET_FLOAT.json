@@ -1,0 +1,23 @@
+{
+    "0xD7AE6C9C9C6AC54C": {
+        "name": "STAT_GET_FLOAT",
+        "jhash": "0xFCBDA612",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statHash"
+            },
+            {
+                "type": "float*",
+                "name": "outValue"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

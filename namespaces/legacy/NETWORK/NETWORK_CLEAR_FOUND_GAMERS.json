@@ -1,0 +1,10 @@
+{
+    "0x6D14CCEE1B40381A": {
+        "name": "NETWORK_CLEAR_FOUND_GAMERS",
+        "jhash": "0x6AA9A154",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

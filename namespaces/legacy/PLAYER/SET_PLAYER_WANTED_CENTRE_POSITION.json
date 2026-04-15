@@ -1,0 +1,27 @@
+{
+    "0x520E541A97A13354": {
+        "name": "SET_PLAYER_WANTED_CENTRE_POSITION",
+        "jhash": "0xF261633A",
+        "comment": "# Predominant call signatures\nPLAYER::SET_PLAYER_WANTED_CENTRE_POSITION(PLAYER::PLAYER_ID(), ENTITY::GET_ENTITY_COORDS(PLAYER::PLAYER_PED_ID(), 1));\n\n# Parameter value ranges\nP0: PLAYER::PLAYER_ID()\nP1: ENTITY::GET_ENTITY_COORDS(PLAYER::PLAYER_PED_ID(), 1)\nP2: Not set by any call",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

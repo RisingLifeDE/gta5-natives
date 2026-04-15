@@ -1,0 +1,15 @@
+{
+    "0x11879CDD803D30F4": {
+        "name": "SET_FIRE_AMMO_THIS_FRAME",
+        "jhash": "0x7C18FC8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

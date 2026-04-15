@@ -1,0 +1,22 @@
+{
+    "0xBCFC632DB7673BF0": {
+        "name": "SET_FIRST_PERSON_AIM_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE",
+        "jhash": "0x76DAC96C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_FIRST_PERSON_CAM_PITCH_RANGE"
+        ]
+    }
+}

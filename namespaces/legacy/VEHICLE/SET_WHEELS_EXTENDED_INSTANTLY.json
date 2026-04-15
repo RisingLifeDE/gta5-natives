@@ -1,0 +1,19 @@
+{
+    "0xF660602546D27BA8": {
+        "name": "SET_WHEELS_EXTENDED_INSTANTLY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_RAISE_LOWERABLE_WHEELS",
+            "_RAISE_RETRACTABLE_WHEELS"
+        ]
+    }
+}

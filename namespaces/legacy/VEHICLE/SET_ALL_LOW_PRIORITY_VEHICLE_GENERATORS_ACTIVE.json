@@ -1,0 +1,15 @@
+{
+    "0x608207E7A8FB787C": {
+        "name": "SET_ALL_LOW_PRIORITY_VEHICLE_GENERATORS_ACTIVE",
+        "jhash": "0x87F767F2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x065DB281590CEA2D": {
+        "name": "DATAARRAY_GET_COUNT",
+        "jhash": "0xA8A21766",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_ARRAY_VALUE_GET_SIZE"
+        ]
+    }
+}

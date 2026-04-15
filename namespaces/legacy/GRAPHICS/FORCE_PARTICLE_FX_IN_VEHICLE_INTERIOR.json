@@ -1,0 +1,19 @@
+{
+    "0xBA0127DA25FD54C9": {
+        "name": "FORCE_PARTICLE_FX_IN_VEHICLE_INTERIOR",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "372"
+    }
+}

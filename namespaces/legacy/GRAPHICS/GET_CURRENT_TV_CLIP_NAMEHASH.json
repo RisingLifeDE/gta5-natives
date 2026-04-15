@@ -1,0 +1,10 @@
+{
+    "0x30432A0118736E00": {
+        "name": "GET_CURRENT_TV_CLIP_NAMEHASH",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1493"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "0x84D32B3BEC531324": {
+        "name": "TASK_SEEK_COVER_FROM_PED",
+        "jhash": "0xC1EC907E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "allowPeekingAndFiring"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

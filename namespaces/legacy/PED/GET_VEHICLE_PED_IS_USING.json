@@ -1,0 +1,15 @@
+{
+    "0x6094AD011A2EA87D": {
+        "name": "GET_VEHICLE_PED_IS_USING",
+        "jhash": "0x6DE3AADA",
+        "comment": "Gets ID of vehicle player using. It means it can get ID at any interaction with vehicle. Enter\\exit for example. And that means it is faster than GET_VEHICLE_PED_IS_IN but less safe.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "323"
+    }
+}

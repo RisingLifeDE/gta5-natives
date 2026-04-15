@@ -1,0 +1,22 @@
+{
+    "0xA46413066687A328": {
+        "name": "SET_VEHICLE_CEILING_HEIGHT",
+        "jhash": "0x98A10A86",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "GET_VEHICLE_DEFORMATION_GET_TREE"
+        ]
+    }
+}

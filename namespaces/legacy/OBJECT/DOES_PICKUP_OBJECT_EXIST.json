@@ -1,0 +1,15 @@
+{
+    "0xD9EFB6DBF7DAAEA3": {
+        "name": "DOES_PICKUP_OBJECT_EXIST",
+        "jhash": "0xE0B32108",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

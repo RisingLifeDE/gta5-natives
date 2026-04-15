@@ -1,0 +1,27 @@
+{
+    "0xD687100F616163F4": {
+        "name": "_NETWORK_SPENT_MISSILE_JAMMER",
+        "jhash": "",
+        "comment": "Hash p3 = MISSILE_JAMMER",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBank"
+            },
+            {
+                "type": "BOOL",
+                "name": "fromBankAndWallet"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "2944"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x4E90D746056E273D": {
+        "name": "SET_PED_EMISSIVE_SCALE",
+        "jhash": "",
+        "comment": "intensity: 0.0f - 1.0f\n\nThis native sets the emissive intensity for the given ped. It is used for different 'glow' levels on illuminated clothing.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "944",
+        "old_names": [
+            "_SET_PED_REFLECTION_INTENSITY",
+            "_SET_PED_ILLUMINATED_CLOTHING_GLOW_INTENSITY",
+            "_SET_PED_EMISSIVE_INTENSITY"
+        ]
+    }
+}

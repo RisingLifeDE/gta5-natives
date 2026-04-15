@@ -1,0 +1,19 @@
+{
+    "0xE0E8BEECCA96BA31": {
+        "name": "SET_ENTITY_ICON_VISIBILITY",
+        "jhash": "0xD1D2FD52",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

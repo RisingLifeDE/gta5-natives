@@ -1,0 +1,15 @@
+{
+    "0x632A689BF42301B1": {
+        "name": "PAUSE_PLAYBACK_RECORDED_VEHICLE",
+        "jhash": "0xCCF54912",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x5E3AA4CA2B6FB0EE": {
+        "name": "NETWORK_ENABLE_VOICE_BANDWIDTH_RESTRICTION",
+        "jhash": "0x7BBEA8CF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

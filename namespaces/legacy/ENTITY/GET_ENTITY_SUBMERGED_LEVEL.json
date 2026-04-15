@@ -1,0 +1,15 @@
+{
+    "0xE81AFC1BC4CC41CE": {
+        "name": "GET_ENTITY_SUBMERGED_LEVEL",
+        "jhash": "0x0170F68C",
+        "comment": "Get how much of the entity is submerged.  1.0f is whole entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

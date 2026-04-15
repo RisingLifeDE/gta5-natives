@@ -1,0 +1,15 @@
+{
+    "0x4D36070FE0215186": {
+        "name": "NETWORK_HAS_CONTROL_OF_NETWORK_ID",
+        "jhash": "0x92E77D21",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

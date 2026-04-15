@@ -1,0 +1,19 @@
+{
+    "0xFD1D220394BCB824": {
+        "name": "SET_MULTIPLAYER_HUD_CASH",
+        "jhash": "0xA8DB435E",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

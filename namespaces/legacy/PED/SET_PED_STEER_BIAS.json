@@ -1,0 +1,22 @@
+{
+    "0x288DF530C92DAD6F": {
+        "name": "SET_PED_STEER_BIAS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_PED_STEER_BIAS"
+        ]
+    }
+}

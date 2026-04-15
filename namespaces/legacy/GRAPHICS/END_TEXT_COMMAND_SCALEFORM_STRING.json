@@ -1,0 +1,13 @@
+{
+    "0x362E2D3FE93A9959": {
+        "name": "END_TEXT_COMMAND_SCALEFORM_STRING",
+        "jhash": "0x386CE0B8",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_END_TEXT_COMPONENT"
+        ]
+    }
+}

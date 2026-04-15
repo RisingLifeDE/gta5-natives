@@ -1,0 +1,26 @@
+{
+    "0x3270F67EED31FBC1": {
+        "name": "STAT_SAVE_MIGRATION_CONSUME_CONTENT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contentId"
+            },
+            {
+                "type": "const char*",
+                "name": "srcPlatform"
+            },
+            {
+                "type": "const char*",
+                "name": "srcGamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_STAT_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK"
+        ]
+    }
+}

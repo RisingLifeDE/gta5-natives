@@ -1,0 +1,15 @@
+{
+    "0xBDEB86F4D5809204": {
+        "name": "SET_PLAYER_TCMODIFIER_TRANSITION",
+        "jhash": "0x9559BB38",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

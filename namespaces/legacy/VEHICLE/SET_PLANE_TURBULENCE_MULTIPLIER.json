@@ -1,0 +1,19 @@
+{
+    "0xAD2D28A1AFDFF131": {
+        "name": "SET_PLANE_TURBULENCE_MULTIPLIER",
+        "jhash": "0xED159AE6",
+        "comment": "This native sets the turbulence multiplier. It only works for planes.\n0.0 = no turbulence at all.\n1.0 = heavy turbulence.\nWorks by just calling it once, does not need to be called every tick.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

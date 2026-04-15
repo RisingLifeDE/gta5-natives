@@ -1,0 +1,26 @@
+{
+    "0x74C68EF97645E79D": {
+        "name": "SET_TYRE_HEALTH",
+        "jhash": "",
+        "comment": "SET_TYRE_WEAR_RATE must be active, otherwise values set to <1000.0f will default to 350.0f\n\nUsable wheels:\n0: wheel_lf\n1: wheel_rf\n2: wheel_lm1\n3: wheel_rm1\n4: wheel_lr\n5: wheel_rr",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "1868",
+        "old_names": [
+            "_SET_TYRE_HEALTH"
+        ]
+    }
+}

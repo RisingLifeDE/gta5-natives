@@ -1,0 +1,15 @@
+{
+    "0xC4301E5121A0ED73": {
+        "name": "SET_MISSION_FLAG",
+        "jhash": "0x57592D52",
+        "comment": "If true, the player can't save the game. \n\n\nIf the parameter is true, sets the mission flag to true, if the parameter is false, the function does nothing at all.\n\n^ also, if the mission flag is already set, the function does nothing at all",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

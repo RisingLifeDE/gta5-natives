@@ -1,0 +1,23 @@
+{
+    "0x8DE69FE35CA09A45": {
+        "name": "GET_GROUP_SIZE",
+        "jhash": "0xF7E1A691",
+        "comment": "p1 may be a BOOL representing whether or not the group even exists",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupID"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "sizeInMembers"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

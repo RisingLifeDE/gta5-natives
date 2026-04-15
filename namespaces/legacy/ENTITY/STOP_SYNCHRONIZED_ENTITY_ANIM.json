@@ -1,0 +1,23 @@
+{
+    "0x43D3807C077261E3": {
+        "name": "STOP_SYNCHRONIZED_ENTITY_ANIM",
+        "jhash": "0xE27D2FC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xB8721407EE9C3FF6": {
+        "name": "ADD_TACTICAL_NAV_MESH_POINT",
+        "jhash": "0x24A4E0B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_ADD_TACTICAL_ANALYSIS_POINT"
+        ]
+    }
+}

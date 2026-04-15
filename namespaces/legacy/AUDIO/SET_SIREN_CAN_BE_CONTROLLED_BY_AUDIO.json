@@ -1,0 +1,19 @@
+{
+    "0x43FA0DFC5DF87815": {
+        "name": "SET_SIREN_CAN_BE_CONTROLLED_BY_AUDIO",
+        "jhash": "0x7BED1872",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

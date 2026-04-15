@@ -1,0 +1,67 @@
+{
+    "0xB8ECD61F531A7B02": {
+        "name": "TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED",
+        "jhash": "0x86DC03F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "useLongRangeVehiclePathing"
+            },
+            {
+                "type": "int",
+                "name": "drivingFlags"
+            },
+            {
+                "type": "float",
+                "name": "maxRangeToShootTargets"
+            },
+            {
+                "type": "float",
+                "name": "extraVehToTargetDistToPreferVehicle"
+            },
+            {
+                "type": "float",
+                "name": "driveStraightLineDistance"
+            },
+            {
+                "type": "int",
+                "name": "extraFlags"
+            },
+            {
+                "type": "float",
+                "name": "cruiseSpeed"
+            },
+            {
+                "type": "float",
+                "name": "targetArriveDist"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

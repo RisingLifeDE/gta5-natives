@@ -1,0 +1,19 @@
+{
+    "0xEB6FB9D48DDE23EC": {
+        "name": "SET_PED_STEERS_AROUND_VEHICLES",
+        "jhash": "0x533C0651",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

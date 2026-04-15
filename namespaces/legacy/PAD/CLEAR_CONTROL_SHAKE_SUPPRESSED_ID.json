@@ -1,0 +1,18 @@
+{
+    "0xA0CEFCEA390AAB9B": {
+        "name": "CLEAR_CONTROL_SHAKE_SUPPRESSED_ID",
+        "jhash": "",
+        "comment": "control: see IS_CONTROL_ENABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_CLEAR_SUPPRESSED_PAD_RUMBLE"
+        ]
+    }
+}

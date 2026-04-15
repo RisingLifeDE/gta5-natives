@@ -1,0 +1,18 @@
+{
+    "0x53952FD2BAA19F17": {
+        "name": "GET_FAKE_SUSPENSION_LOWERING_AMOUNT",
+        "jhash": "0xB73A1486",
+        "comment": "Gets the height of the vehicle's suspension.\nThe higher the value the lower the suspension. Each 0.002 corresponds with one more level lowered.\n0.000 is the stock suspension.\n0.008 is Ultra Suspension.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_SUSPENSION_HEIGHT"
+        ]
+    }
+}

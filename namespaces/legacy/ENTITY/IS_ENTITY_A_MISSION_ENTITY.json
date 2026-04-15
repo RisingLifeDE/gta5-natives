@@ -1,0 +1,15 @@
+{
+    "0x0A7B270912999B3C": {
+        "name": "IS_ENTITY_A_MISSION_ENTITY",
+        "jhash": "0x2632E124",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x0F3B4D4E43177236": {
+        "name": "ALLOW_BOAT_BOOM_TO_ANIMATE",
+        "jhash": "0x113DF5FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_GET_BOAT_BOOM_POSITION_RATIO_3"
+        ]
+    }
+}

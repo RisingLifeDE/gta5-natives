@@ -1,0 +1,22 @@
+{
+    "0xBD8D32550E5CEBFE": {
+        "name": "GET_ENTITY_BONE_OBJECT_ROTATION",
+        "jhash": "",
+        "comment": "Gets the local rotation of the specified bone of the specified entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1734",
+        "old_names": [
+            "_GET_ENTITY_BONE_ROTATION_LOCAL"
+        ]
+    }
+}

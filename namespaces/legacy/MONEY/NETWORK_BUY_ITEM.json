@@ -1,0 +1,51 @@
+{
+    "0xF0077C797F66A355": {
+        "name": "NETWORK_BUY_ITEM",
+        "jhash": "0xA07B6368",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "item_name"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x1DD2139A9A20DCE8": {
+        "name": "BEGIN_TAKE_MISSION_CREATOR_PHOTO",
+        "jhash": "0xBA9AD458",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

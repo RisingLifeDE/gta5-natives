@@ -1,0 +1,22 @@
+{
+    "0xEA16B69D93D71A45": {
+        "name": "NETWORK_ACCESS_TUNABLE_BOOL_HASH",
+        "jhash": "0x18867C61",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_ACCESS_TUNABLE_BOOL_HASH"
+        ]
+    }
+}

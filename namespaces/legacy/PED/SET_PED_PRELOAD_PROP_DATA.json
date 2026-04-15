@@ -1,0 +1,30 @@
+{
+    "0x2B16A3BFF1FBCE49": {
+        "name": "SET_PED_PRELOAD_PROP_DATA",
+        "jhash": "0xC0E23671",
+        "comment": "List of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "componentId"
+            },
+            {
+                "type": "int",
+                "name": "drawableId"
+            },
+            {
+                "type": "int",
+                "name": "TextureId"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_IS_PED_PROP_VALID"
+        ]
+    }
+}

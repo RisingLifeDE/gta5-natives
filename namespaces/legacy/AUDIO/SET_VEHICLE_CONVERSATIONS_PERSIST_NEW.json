@@ -1,0 +1,23 @@
+{
+    "0x9BD7BD55E4533183": {
+        "name": "SET_VEHICLE_CONVERSATIONS_PERSIST_NEW",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0xC8A9481A01E63C28": {
+        "name": "SET_PED_RANDOM_COMPONENT_VARIATION",
+        "jhash": "0x4111BA46",
+        "comment": "p1 is always 0 in R* scripts.\n\nList of component/props ID\ngtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

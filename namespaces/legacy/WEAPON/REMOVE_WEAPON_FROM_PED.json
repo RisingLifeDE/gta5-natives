@@ -1,0 +1,19 @@
+{
+    "0x4899CB088EDF59B8": {
+        "name": "REMOVE_WEAPON_FROM_PED",
+        "jhash": "0x9C37F220",
+        "comment": "This native removes a specified weapon from your selected ped.\n\nExample:\nC#:\nFunction.Call(Hash.REMOVE_WEAPON_FROM_PED, Game.Player.Character, 0x99B507EA);\n\nC++:\nWEAPON::REMOVE_WEAPON_FROM_PED(PLAYER::PLAYER_PED_ID(), 0x99B507EA);\n\nThe code above removes the knife from the player.\nFull list of weapons by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/weapons.json",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

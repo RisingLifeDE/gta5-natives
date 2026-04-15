@@ -1,0 +1,26 @@
+{
+    "0x19F2A026EDF0013F": {
+        "name": "GET_SHOP_PED_OUTFIT_COMPONENT_VARIANT",
+        "jhash": "0x818534AC",
+        "comment": "See https://git.io/JtcBH for example and structs.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "outfitHash"
+            },
+            {
+                "type": "int",
+                "name": "variantIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outComponentVariant"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323",
+        "old_names": [
+            "_GET_PROP_FROM_OUTFIT"
+        ]
+    }
+}

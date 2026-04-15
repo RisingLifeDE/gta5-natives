@@ -1,0 +1,15 @@
+{
+    "0xC843060B5765DCE7": {
+        "name": "ASIN",
+        "jhash": "0x998E5CAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "323"
+    }
+}

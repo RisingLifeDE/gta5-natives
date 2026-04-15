@@ -1,0 +1,22 @@
+{
+    "0x88D6C327D6C57C45": {
+        "name": "NETWORK_EARN_AWARD_FIXER_MISSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "2545",
+        "old_names": [
+            "_NETWORK_EARN_FROM_AWARD_AGENCY_STORY"
+        ]
+    }
+}

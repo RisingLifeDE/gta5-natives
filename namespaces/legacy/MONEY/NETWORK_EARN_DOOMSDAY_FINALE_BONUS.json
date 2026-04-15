@@ -1,0 +1,22 @@
+{
+    "0x128A747F4A230952": {
+        "name": "NETWORK_EARN_DOOMSDAY_FINALE_BONUS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "vehicleHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1290",
+        "old_names": [
+            "_NETWORK_EARN_FROM_DOOMSDAY_FINALE_BONUS"
+        ]
+    }
+}

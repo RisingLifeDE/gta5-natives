@@ -1,0 +1,13 @@
+{
+    "0x2DD39BF3E2F9C47F": {
+        "name": "AUDIO_IS_SCRIPTED_MUSIC_PLAYING",
+        "jhash": "",
+        "comment": "This is an alias of AUDIO_IS_MUSIC_PLAYING.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "463",
+        "old_names": [
+            "_AUDIO_IS_SCRIPTED_MUSIC_PLAYING_2"
+        ]
+    }
+}

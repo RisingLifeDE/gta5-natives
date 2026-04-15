@@ -1,0 +1,15 @@
+{
+    "0xCCF71CBDDF5B6CB9": {
+        "name": "REMOVE_DECALS_FROM_OBJECT",
+        "jhash": "0x8B67DCA7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "obj"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

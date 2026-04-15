@@ -1,0 +1,15 @@
+{
+    "0x1423725069EE1D14": {
+        "name": "_GET_VEHICLE_DRIVETRAIN_TYPE",
+        "jhash": "",
+        "comment": "Returns the vehicle's drivetrain type.\n\nenum eVehicleDrivetrainType\n{\n\tVehicleDrivetrainType_INVALID,\n\tVehicleDrivetrainType_FWD,\n\tVehicleDrivetrainType_RWD,\n\tVehicleDrivetrainType_AWD\n};\n\n_GET_VEHICLE_DE* - _GET_VEHICLE_DI*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "int",
+        "build": "3258"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "0x16B5E274BDE402F8": {
+        "name": "ATTACH_VEHICLE_ON_TO_TRAILER",
+        "jhash": "0x12AC1A16",
+        "comment": "This is the proper way of attaching vehicles to the car carrier, it's what Rockstar uses. Video Demo: https://www.youtube.com/watch?v=2lVEIzf7bgo",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "trailer"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "coordsX"
+            },
+            {
+                "type": "float",
+                "name": "coordsY"
+            },
+            {
+                "type": "float",
+                "name": "coordsZ"
+            },
+            {
+                "type": "float",
+                "name": "rotationX"
+            },
+            {
+                "type": "float",
+                "name": "rotationY"
+            },
+            {
+                "type": "float",
+                "name": "rotationZ"
+            },
+            {
+                "type": "float",
+                "name": "disableCollisions"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

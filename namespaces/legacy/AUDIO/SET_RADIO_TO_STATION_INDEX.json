@@ -1,0 +1,15 @@
+{
+    "0xA619B168B8A8570F": {
+        "name": "SET_RADIO_TO_STATION_INDEX",
+        "jhash": "0x1D82766D",
+        "comment": "Sets radio station by index.",
+        "params": [
+            {
+                "type": "int",
+                "name": "radioStation"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

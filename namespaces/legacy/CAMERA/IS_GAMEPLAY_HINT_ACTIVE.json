@@ -1,0 +1,10 @@
+{
+    "0xE520FF1AD2785B40": {
+        "name": "IS_GAMEPLAY_HINT_ACTIVE",
+        "jhash": "0xAD8DA205",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

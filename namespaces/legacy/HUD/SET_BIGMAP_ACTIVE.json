@@ -1,0 +1,22 @@
+{
+    "0x231C8F89D0539D8F": {
+        "name": "SET_BIGMAP_ACTIVE",
+        "jhash": "0x08EB83D2",
+        "comment": "Toggles the big minimap state like in GTA:Online.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggleBigMap"
+            },
+            {
+                "type": "BOOL",
+                "name": "showFullMap"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_RADAR_BIGMAP_ENABLED"
+        ]
+    }
+}

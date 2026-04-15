@@ -1,0 +1,15 @@
+{
+    "0x993CBE59D350D225": {
+        "name": "UGC_GET_CONTENT_HAS_PLAYER_BOOKMARKED",
+        "jhash": "0x0DEB3F5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

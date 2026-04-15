@@ -1,0 +1,10 @@
+{
+    "0x5068F488DDB54DD8": {
+        "name": "IPL_GROUP_SWAP_IS_ACTIVE",
+        "jhash": "0xDAB4BAC0",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

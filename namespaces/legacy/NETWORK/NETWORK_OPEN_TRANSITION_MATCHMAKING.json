@@ -1,0 +1,10 @@
+{
+    "0x2B3A8F7CA3A38FDE": {
+        "name": "NETWORK_OPEN_TRANSITION_MATCHMAKING",
+        "jhash": "0xC71E607B",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "323"
+    }
+}

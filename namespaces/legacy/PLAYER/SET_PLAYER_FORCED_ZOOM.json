@@ -1,0 +1,19 @@
+{
+    "0x75E7D505F2B15902": {
+        "name": "SET_PLAYER_FORCED_ZOOM",
+        "jhash": "0xB0C576CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

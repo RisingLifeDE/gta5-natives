@@ -1,0 +1,19 @@
+{
+    "0xB203913733F27884": {
+        "name": "SET_BLIP_BRIGHT",
+        "jhash": "0x72BEE6DF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

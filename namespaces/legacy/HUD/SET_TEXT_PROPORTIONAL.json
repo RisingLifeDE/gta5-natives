@@ -1,0 +1,15 @@
+{
+    "0x038C1F517D7FDCF8": {
+        "name": "SET_TEXT_PROPORTIONAL",
+        "jhash": "0xF49D8A08",
+        "comment": "This native does absolutely nothing, just a nullsub",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

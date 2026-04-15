@@ -1,0 +1,19 @@
+{
+    "0x1F34B0626C594380": {
+        "name": "SET_CARGOBOB_EXCLUDE_FROM_PICKUP_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "757"
+    }
+}

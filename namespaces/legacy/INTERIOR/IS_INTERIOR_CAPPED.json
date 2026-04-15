@@ -1,0 +1,15 @@
+{
+    "0x92BAC8ACF88CEC26": {
+        "name": "IS_INTERIOR_CAPPED",
+        "jhash": "0x18B17C80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

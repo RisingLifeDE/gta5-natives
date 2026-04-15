@@ -1,0 +1,19 @@
+{
+    "0xC7ABCACA4985A766": {
+        "name": "PREPARE_SYNCHRONIZED_AUDIO_EVENT",
+        "jhash": "0xE1D91FD0",
+        "comment": "p1 is always 0 in the scripts",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioEvent"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

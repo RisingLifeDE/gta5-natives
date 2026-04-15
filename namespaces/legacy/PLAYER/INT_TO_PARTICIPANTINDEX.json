@@ -1,0 +1,15 @@
+{
+    "0x9EC6603812C24710": {
+        "name": "INT_TO_PARTICIPANTINDEX",
+        "jhash": "0x98F3B274",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).\n--------------------------------------------------------\nif (NETWORK::NETWORK_IS_PARTICIPANT_ACTIVE(PLAYER::INT_TO_PARTICIPANTINDEX(i)))\n",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

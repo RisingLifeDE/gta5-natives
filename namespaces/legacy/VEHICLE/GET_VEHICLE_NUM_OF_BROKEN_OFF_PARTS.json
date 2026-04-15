@@ -1,0 +1,18 @@
+{
+    "0x42A4BEB35D372407": {
+        "name": "GET_VEHICLE_NUM_OF_BROKEN_OFF_PARTS",
+        "jhash": "0x8CDB0C09",
+        "comment": "Also includes some \"turnOffBones\" when vehicle mods are installed.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323",
+        "old_names": [
+            "_GET_VEHICLE_NUMBER_OF_BROKEN_OFF_BONES"
+        ]
+    }
+}

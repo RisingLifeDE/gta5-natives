@@ -1,0 +1,19 @@
+{
+    "0x4FBACCE3B4138EE8": {
+        "name": "IS_PED_BEING_STUNNED",
+        "jhash": "0x0A66CE30",
+        "comment": "p1 is always 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

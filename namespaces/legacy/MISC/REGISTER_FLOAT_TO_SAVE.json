@@ -1,0 +1,19 @@
+{
+    "0x7CAEC29ECB5DFEBB": {
+        "name": "REGISTER_FLOAT_TO_SAVE",
+        "jhash": "0xDB06F7AD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

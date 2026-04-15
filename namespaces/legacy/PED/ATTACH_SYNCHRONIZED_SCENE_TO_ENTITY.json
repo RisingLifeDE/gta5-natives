@@ -1,0 +1,23 @@
+{
+    "0x272E4723B56A3B96": {
+        "name": "ATTACH_SYNCHRONIZED_SCENE_TO_ENTITY",
+        "jhash": "0xE9BA6189",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "sceneID"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

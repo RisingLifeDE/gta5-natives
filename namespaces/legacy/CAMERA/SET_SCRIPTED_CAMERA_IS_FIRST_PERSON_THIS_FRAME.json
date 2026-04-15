@@ -1,0 +1,15 @@
+{
+    "0x469F2ECDEC046337": {
+        "name": "SET_SCRIPTED_CAMERA_IS_FIRST_PERSON_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

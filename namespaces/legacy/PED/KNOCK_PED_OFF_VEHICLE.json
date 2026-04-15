@@ -1,0 +1,15 @@
+{
+    "0x45BBCBA77C29A841": {
+        "name": "KNOCK_PED_OFF_VEHICLE",
+        "jhash": "0xACDD0674",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

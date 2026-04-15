@@ -1,0 +1,10 @@
+{
+    "0x5E346D934122613F": {
+        "name": "IS_FIRST_PERSON_AIM_CAM_ACTIVE",
+        "jhash": "0xD6280468",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

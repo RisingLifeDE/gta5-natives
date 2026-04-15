@@ -1,0 +1,19 @@
+{
+    "0xFD280B4D7F3ABC4D": {
+        "name": "SET_HELI_BLADES_SPEED",
+        "jhash": "0x5C7D4EA9",
+        "comment": "Sets the speed of the helicopter blades in percentage of the full speed.\n\nvehicleHandle: The helicopter.\nspeed: The speed in percentage, 0.0f being 0% and 1.0f being 100%.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

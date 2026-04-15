@@ -1,0 +1,23 @@
+{
+    "0x3F5CC444DCAAA8F2": {
+        "name": "SET_HEALTH_HUD_DISPLAY_VALUES",
+        "jhash": "0x7FB6FB2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "health"
+            },
+            {
+                "type": "int",
+                "name": "capacity"
+            },
+            {
+                "type": "BOOL",
+                "name": "wasAdded"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

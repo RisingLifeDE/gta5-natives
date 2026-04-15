@@ -1,0 +1,13 @@
+{
+    "0x66D6A5E9C511214A": {
+        "name": "ARE_CUTSCENE_ENTITIES_NETWORKED",
+        "jhash": "",
+        "comment": "Getter for SET_NETWORK_CUTSCENE_ENTITIES.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "2699",
+        "old_names": [
+            "_NETWORK_ARE_CUTSCENE_ENTITIES"
+        ]
+    }
+}

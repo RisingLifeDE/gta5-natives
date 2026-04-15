@@ -1,0 +1,22 @@
+{
+    "0xC434133D9BA52777": {
+        "name": "NETWORK_GET_DESTROYER_OF_ENTITY",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Player",
+        "build": "463",
+        "old_names": [
+            "_NETWORK_GET_DESTROYER_OF_ENTITY"
+        ]
+    }
+}

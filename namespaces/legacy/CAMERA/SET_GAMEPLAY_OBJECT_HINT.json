@@ -1,0 +1,43 @@
+{
+    "0x83E87508A2CA2AC6": {
+        "name": "SET_GAMEPLAY_OBJECT_HINT",
+        "jhash": "0x2ED5E2F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "easeInTime"
+            },
+            {
+                "type": "int",
+                "name": "easeOutTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x6CB5B84B78AC55FE": {
+        "name": "SET_VEHICLE_TAIL_BROKEN",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "3717"
+    }
+}

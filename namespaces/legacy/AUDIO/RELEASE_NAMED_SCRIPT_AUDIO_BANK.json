@@ -1,0 +1,15 @@
+{
+    "0x77ED170667F50170": {
+        "name": "RELEASE_NAMED_SCRIPT_AUDIO_BANK",
+        "jhash": "0x16707ABC",
+        "comment": "Full list of script audio bank names by DurtyFree https://github.com/DurtyFree/gta-v-data-dumps/blob/master/scriptAudioBankNames.json",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioBank"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

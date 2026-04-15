@@ -1,0 +1,15 @@
+{
+    "0x0BC3144DEB678666": {
+        "name": "ADD_MODEL_TO_CREATOR_BUDGET",
+        "jhash": "0xC0E83320",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

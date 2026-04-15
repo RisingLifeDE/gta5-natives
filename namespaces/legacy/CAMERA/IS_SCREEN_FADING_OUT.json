@@ -1,0 +1,10 @@
+{
+    "0x797AC7CB535BA28F": {
+        "name": "IS_SCREEN_FADING_OUT",
+        "jhash": "0x79275A57",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

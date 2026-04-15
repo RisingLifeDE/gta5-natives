@@ -1,0 +1,19 @@
+{
+    "0x25367DE49D64CF16": {
+        "name": "SET_DISABLE_PRETEND_OCCUPANTS",
+        "jhash": "0xCBD98BA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

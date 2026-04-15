@@ -1,0 +1,15 @@
+{
+    "0x487EB90B98E9FB19": {
+        "name": "TEXTURE_DOWNLOAD_RELEASE",
+        "jhash": "0xEE8D9E70",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

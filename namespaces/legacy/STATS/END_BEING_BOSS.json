@@ -1,0 +1,26 @@
+{
+    "0xA3C53804BDB68ED2": {
+        "name": "END_BEING_BOSS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "573",
+        "old_names": [
+            "_PLAYSTATS_END_BEING_BOSS"
+        ]
+    }
+}

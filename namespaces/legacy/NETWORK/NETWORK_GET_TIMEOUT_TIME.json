@@ -1,0 +1,10 @@
+{
+    "0x5ED0356A0CE3A34F": {
+        "name": "NETWORK_GET_TIMEOUT_TIME",
+        "jhash": "0xE1F86C6A",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "323"
+    }
+}

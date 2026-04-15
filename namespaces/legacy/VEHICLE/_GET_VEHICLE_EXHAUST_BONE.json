@@ -1,0 +1,27 @@
+{
+    "0xE728F090D538CB18": {
+        "name": "_GET_VEHICLE_EXHAUST_BONE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "int*",
+                "name": "boneIndex"
+            },
+            {
+                "type": "BOOL*",
+                "name": "axisX"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "3095"
+    }
+}

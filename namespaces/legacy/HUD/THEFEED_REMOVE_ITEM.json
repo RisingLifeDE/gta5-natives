@@ -1,0 +1,18 @@
+{
+    "0xBE4390CB40B3E627": {
+        "name": "THEFEED_REMOVE_ITEM",
+        "jhash": "0xECA8ACB9",
+        "comment": "Removes a notification instantly instead of waiting for it to disappear",
+        "params": [
+            {
+                "type": "int",
+                "name": "notificationId"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_REMOVE_NOTIFICATION"
+        ]
+    }
+}

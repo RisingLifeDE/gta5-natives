@@ -1,0 +1,19 @@
+{
+    "0xCFE359CCCFE359CC": {
+        "name": "_NETWORK_HIDE_ENTITY_IN_TUTORIAL_SESSION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "hide"
+            }
+        ],
+        "return_type": "void",
+        "build": "3258"
+    }
+}

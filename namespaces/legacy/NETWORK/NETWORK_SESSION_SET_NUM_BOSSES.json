@@ -1,0 +1,15 @@
+{
+    "0x59D421683D31835A": {
+        "name": "NETWORK_SESSION_SET_NUM_BOSSES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "num"
+            }
+        ],
+        "return_type": "void",
+        "build": "573"
+    }
+}

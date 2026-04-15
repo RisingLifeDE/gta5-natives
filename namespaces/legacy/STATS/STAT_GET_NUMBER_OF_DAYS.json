@@ -1,0 +1,15 @@
+{
+    "0xE0E854F5280FB769": {
+        "name": "STAT_GET_NUMBER_OF_DAYS",
+        "jhash": "0xFD66A429",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "statName"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

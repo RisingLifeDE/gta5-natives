@@ -1,0 +1,15 @@
+{
+    "0xF11BC2DD9A3E7195": {
+        "name": "GET_VEHICLE_NUMBER_PLATE_TEXT_INDEX",
+        "jhash": "0x499747B6",
+        "comment": "Returns the PlateType of a vehicle\n      Blue_on_White_1 = 3,\n      Blue_on_White_2 = 0,\n      Blue_on_White_3 = 4,\n      Yellow_on_Blue = 2,\n       Yellow_on_Black = 1,\n      North_Yankton = 5,",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "323"
+    }
+}

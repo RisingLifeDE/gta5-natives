@@ -1,0 +1,19 @@
+{
+    "0xB8E181E559464527": {
+        "name": "IS_VEHICLE_DOOR_DAMAGED",
+        "jhash": "0x4999E3C3",
+        "comment": "doorID starts at 0, not seeming to skip any numbers. Four door vehicles intuitively range from 0 to 3.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "veh"
+            },
+            {
+                "type": "int",
+                "name": "doorID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

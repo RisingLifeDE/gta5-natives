@@ -1,0 +1,47 @@
+{
+    "0x9454528DF15D657A": {
+        "name": "TASK_VEHICLE_MISSION_PED_TARGET",
+        "jhash": "0xC81C4677",
+        "comment": "See TASK_VEHICLE_MISSION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "pedTarget"
+            },
+            {
+                "type": "int",
+                "name": "missionType"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            },
+            {
+                "type": "float",
+                "name": "straightLineDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

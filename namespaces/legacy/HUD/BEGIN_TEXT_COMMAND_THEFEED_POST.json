@@ -1,0 +1,18 @@
+{
+    "0x202709F4C58A0424": {
+        "name": "BEGIN_TEXT_COMMAND_THEFEED_POST",
+        "jhash": "0x574EE85C",
+        "comment": "Declares the entry type of a notification, for example \"STRING\".\n\nint ShowNotification(char *text)\n{\n\tBEGIN_TEXT_COMMAND_THEFEED_POST(\"STRING\");\n\tADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME(text);\n\treturn END_TEXT_COMMAND_THEFEED_POST_TICKER(1, 1);\n}",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_SET_NOTIFICATION_TEXT_ENTRY"
+        ]
+    }
+}

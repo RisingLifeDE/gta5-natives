@@ -1,0 +1,18 @@
+{
+    "0xC7E7181C09F33B69": {
+        "name": "LOBBY_SET_AUTO_MP_RANDOM_JOB",
+        "jhash": "0x8C227332",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_LOADINGSCREEN_SET_IS_LOADING_FREEMODE"
+        ]
+    }
+}

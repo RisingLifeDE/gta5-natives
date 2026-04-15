@@ -1,0 +1,39 @@
+{
+    "0xF82D8F1926A02C3D": {
+        "name": "SET_STATE_OF_CLOSEST_DOOR_OF_TYPE",
+        "jhash": "0x38C951A4",
+        "comment": "Hardcoded to not work in multiplayer.\n\n\nUsed to lock/unlock doors to interior areas of the game.\n\n(Possible) Door Types:\n\nhttps://pastebin.com/9S2m3qA4\n\nHeading is either 1, 0 or -1 in the scripts. Means default closed(0) or opened either into(1) or out(-1) of the interior.\nLocked means that the heading is locked.  \np6 is always 0. \n\n225 door types, model names and coords found in stripclub.c4:\nhttps://pastebin.com/gywnbzsH\n\nget door info: https://pastebin.com/i14rbekD",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "locked"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

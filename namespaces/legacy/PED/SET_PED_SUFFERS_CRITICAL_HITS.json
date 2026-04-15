@@ -1,0 +1,19 @@
+{
+    "0xEBD76F2359F190AC": {
+        "name": "SET_PED_SUFFERS_CRITICAL_HITS",
+        "jhash": "0x6F6FC7E6",
+        "comment": "Ped no longer takes critical damage modifiers if set to FALSE.\nExample: Headshotting a player no longer one shots them. Instead they will take the same damage as a torso shot.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

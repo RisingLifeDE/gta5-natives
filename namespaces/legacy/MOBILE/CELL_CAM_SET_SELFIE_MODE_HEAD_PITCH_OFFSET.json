@@ -1,0 +1,15 @@
+{
+    "0x466DA42C89865553": {
+        "name": "CELL_CAM_SET_SELFIE_MODE_HEAD_PITCH_OFFSET",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pitch"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

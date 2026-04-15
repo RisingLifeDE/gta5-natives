@@ -1,0 +1,58 @@
+{
+    "0x38B55259C2E078ED": {
+        "name": "SET_WARNING_MESSAGE_WITH_HEADER_EXTENDED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "entryHeader"
+            },
+            {
+                "type": "const char*",
+                "name": "entryLine1"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "const char*",
+                "name": "entryLine2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any*",
+                "name": "p6"
+            },
+            {
+                "type": "Any*",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "showBg"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_SET_WARNING_MESSAGE_WITH_HEADER_UNK"
+        ]
+    }
+}

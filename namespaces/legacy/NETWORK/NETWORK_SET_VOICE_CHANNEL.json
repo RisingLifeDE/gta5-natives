@@ -1,0 +1,15 @@
+{
+    "0xEF6212C2EFEF1A23": {
+        "name": "NETWORK_SET_VOICE_CHANNEL",
+        "jhash": "0x3974879F",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "channel"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x690A61A6D13583F6": {
+        "name": "IS_REMOTE_PLAYER_IN_NON_CLONED_VEHICLE",
+        "jhash": "0x1D371529",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}

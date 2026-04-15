@@ -1,0 +1,22 @@
+{
+    "0xB26F670685631727": {
+        "name": "PLAYSTATS_DJ_USAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1493",
+        "old_names": [
+            "_PLAYSTATS_DJ_USAGE"
+        ]
+    }
+}

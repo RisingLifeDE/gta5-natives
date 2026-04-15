@@ -1,0 +1,26 @@
+{
+    "0x6EA318C91C1A8786": {
+        "name": "NETWORK_EARN_FROM_DAILY_OBJECTIVES",
+        "jhash": "0xAB6BD72F",
+        "comment": "type either Monthly,Weekly,Daily",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "const char*",
+                "name": "type"
+            },
+            {
+                "type": "int",
+                "name": "characterSlot"
+            }
+        ],
+        "return_type": "void",
+        "build": "323",
+        "old_names": [
+            "_NETWORK_EARN_FROM_DAILY_OBJECTIVE"
+        ]
+    }
+}

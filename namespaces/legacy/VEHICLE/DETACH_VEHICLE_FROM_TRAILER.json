@@ -1,0 +1,15 @@
+{
+    "0x90532EDF0D2BDD86": {
+        "name": "DETACH_VEHICLE_FROM_TRAILER",
+        "jhash": "0xB5DBF91D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

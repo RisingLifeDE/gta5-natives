@@ -1,0 +1,27 @@
+{
+    "0xBED8CA5FF5E04113": {
+        "name": "REMAP_LODSCALE_RANGE_THIS_FRAME",
+        "jhash": "0x9CD6A451",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "323"
+    }
+}

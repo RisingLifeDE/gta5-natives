@@ -1,0 +1,18 @@
+{
+    "0xF7AF4F159FF99F97": {
+        "name": "GET_MAKE_NAME_FROM_VEHICLE_MODEL",
+        "jhash": "",
+        "comment": "Will return a vehicle's manufacturer display label.\nReturns \"CARNOTFOUND\" if the hash doesn't match a vehicle hash.\n\nFull list of vehicles by DurtyFree: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/vehicles.json",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1868",
+        "old_names": [
+            "_GET_MAKE_NAME_FROM_VEHICLE_MODEL"
+        ]
+    }
+}

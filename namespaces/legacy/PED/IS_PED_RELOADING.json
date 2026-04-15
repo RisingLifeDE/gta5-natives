@@ -1,0 +1,15 @@
+{
+    "0x24B100C68C645951": {
+        "name": "IS_PED_RELOADING",
+        "jhash": "0x961E1745",
+        "comment": "Returns whether the specified ped is reloading.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "323"
+    }
+}
