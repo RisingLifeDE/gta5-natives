@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_VEHICLE_NUMBER_OF_BROKEN_OFF_BONES"
         ]

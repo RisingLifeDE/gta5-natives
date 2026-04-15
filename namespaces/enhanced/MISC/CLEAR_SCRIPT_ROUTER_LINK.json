@@ -1,0 +1,10 @@
+{
+    "0xC3BCD7401198B284": {
+        "name": "CLEAR_SCRIPT_ROUTER_LINK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

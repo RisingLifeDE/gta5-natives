@@ -1,0 +1,15 @@
+{
+    "0x1997BABDBA01F72C": {
+        "name": "REPORT_INVALID_SCRIPT_ROUTER_ARGUMENT",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "argument"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

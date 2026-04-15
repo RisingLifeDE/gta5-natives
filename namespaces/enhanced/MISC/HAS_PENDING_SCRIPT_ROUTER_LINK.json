@@ -1,0 +1,10 @@
+{
+    "0x776947A43CCD5328": {
+        "name": "HAS_PENDING_SCRIPT_ROUTER_LINK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

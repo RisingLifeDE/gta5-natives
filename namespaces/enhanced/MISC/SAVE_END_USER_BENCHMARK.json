@@ -5,7 +5,7 @@
         "comment": "Saves the benchmark recording to %USERPROFILE%\\Documents\\Rockstar Games\\GTA V\\Benchmarks and submits some metrics.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SAVE_BENCHMARK_RECORDING"
         ]

@@ -1,0 +1,10 @@
+{
+    "0x483F6369B8CEE24B": {
+        "name": "NETWORK_HAS_SC_MEMBERSHIP_INFO",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

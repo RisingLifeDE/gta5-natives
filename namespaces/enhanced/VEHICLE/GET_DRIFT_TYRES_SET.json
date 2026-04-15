@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_GET_DRIFT_TYRES_ENABLED"
         ]

@@ -1,0 +1,10 @@
+{
+    "0xB233964AC562A357": {
+        "name": "HAS_FINALIZED_CHOSEN_CRIMINAL_CAREER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

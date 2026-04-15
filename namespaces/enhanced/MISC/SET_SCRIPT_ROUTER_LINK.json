@@ -1,0 +1,15 @@
+{
+    "0x317989BB72A2EBFB": {
+        "name": "SET_SCRIPT_ROUTER_LINK",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "contextData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

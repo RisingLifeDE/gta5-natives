@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_RESET_WANTED_LEVEL_HIDDEN_EVASION_TIME"
         ]

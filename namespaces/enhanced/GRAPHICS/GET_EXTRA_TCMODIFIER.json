@@ -5,7 +5,7 @@
         "comment": "See GET_TIMECYCLE_MODIFIER_INDEX for use, works the same just for the secondary timecycle modifier.\nReturns an integer representing the Timecycle modifier",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_EXTRA_TIMECYCLE_MODIFIER_INDEX"
         ]

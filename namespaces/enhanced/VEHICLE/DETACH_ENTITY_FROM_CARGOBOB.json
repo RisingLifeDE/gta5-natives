@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "678",
+        "build": "811",
         "old_names": [
             "_DETACH_ENTITY_FROM_CARGOBOB"
         ]

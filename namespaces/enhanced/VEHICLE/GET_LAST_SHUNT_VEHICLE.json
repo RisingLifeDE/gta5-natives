@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Vehicle",
-        "build": "1604",
+        "build": "811",
         "old_names": [
             "_GET_LAST_RAMMED_VEHICLE"
         ]

@@ -1,0 +1,10 @@
+{
+    "0x2CAFD5254592365F": {
+        "name": "SET_LOADING_SCREEN_BLANK",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

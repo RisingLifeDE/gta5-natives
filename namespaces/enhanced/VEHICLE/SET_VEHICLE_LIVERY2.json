@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_SET_VEHICLE_ROOF_LIVERY"
         ]

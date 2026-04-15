@@ -5,6 +5,6 @@
         "comment": "This returns YOUR 'identity' as a Player type.\n\nAlways returns 0 in story mode.",
         "params": [],
         "return_type": "Player",
-        "build": "323"
+        "build": "811"
     }
 }

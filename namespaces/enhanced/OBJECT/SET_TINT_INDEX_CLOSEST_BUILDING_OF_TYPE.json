@@ -30,7 +30,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1103",
+        "build": "811",
         "old_names": [
             "_SET_TEXTURE_VARIATION_OF_CLOSEST_OBJECT_OF_TYPE"
         ]

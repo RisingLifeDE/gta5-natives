@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_BROADCAST_FINSHED_LOS_SOUND",
             "_LOADINGSCREEN_SET_LOAD_FREEMODE"

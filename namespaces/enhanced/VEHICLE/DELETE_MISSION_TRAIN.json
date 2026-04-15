@@ -5,11 +5,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const Vehicle*",
+                "type": "Vehicle*",
                 "name": "train"
             }
         ],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

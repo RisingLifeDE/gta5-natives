@@ -5,7 +5,7 @@
         "comment": "Achieve the highest speed in a land vehicle",
         "params": [],
         "return_type": "float",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_CHALLENGE_HIGHEST_SPEED"
         ]

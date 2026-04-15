@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_LAST_INPUT_METHOD",
             "_IS_INPUT_DISABLED",

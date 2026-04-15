@@ -5,7 +5,7 @@
         "comment": "Returns the current interior id from gameplay camera",
         "params": [],
         "return_type": "Interior",
-        "build": "1604",
+        "build": "811",
         "old_names": [
             "_GET_INTERIOR_FROM_GAMEPLAY_CAM"
         ]

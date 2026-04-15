@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_IS_NAVMESH_REQUIRED_REGION_OWNED_BY_ANY_THREAD"
         ]

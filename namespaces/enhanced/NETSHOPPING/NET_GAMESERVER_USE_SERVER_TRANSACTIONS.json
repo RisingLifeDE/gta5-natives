@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_NET_GAMESERVER_USE_SERVER_TRANSACTIONS"
         ]

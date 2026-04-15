@@ -5,11 +5,11 @@
         "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
         "params": [
             {
-                "type": "const Object*",
+                "type": "Object*",
                 "name": "object"
             }
         ],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

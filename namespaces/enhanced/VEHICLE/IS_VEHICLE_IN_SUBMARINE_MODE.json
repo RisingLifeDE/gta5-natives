@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_GET_IS_SUBMARINE_VEHICLE_TRANSFORMED"
         ]

@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "void",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_SET_NETWORK_ID_VISIBLE_IN_CUTSCENE_NO_COLLISION"
         ]

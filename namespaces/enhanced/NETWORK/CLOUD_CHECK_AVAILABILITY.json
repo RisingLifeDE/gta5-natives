@@ -5,7 +5,7 @@
         "comment": "Downloads prod.cloud.rockstargames.com/titles/gta5/[platform]/check.json",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DOWNLOAD_CHECK"
         ]

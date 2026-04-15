@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_SOCIALCLUB_BANNED",
             "_NETWORK_HAVE_SOCIAL_CLUB_PRIVILEGE"

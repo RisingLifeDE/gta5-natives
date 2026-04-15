@@ -5,7 +5,7 @@
         "comment": "Starts a new iteration of the current threads.\nCall this first, then SCRIPT_THREAD_ITERATOR_GET_NEXT_THREAD_ID (0x30B4FA1C82DD4B9F)",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_BEGIN_ENUMERATING_THREADS"
         ]

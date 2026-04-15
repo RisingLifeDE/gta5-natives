@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "678",
+        "build": "811",
         "old_names": [
             "_DOES_AIR_DEFENSE_ZONE_EXIST"
         ]

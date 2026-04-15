@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_NUMBER_OF_INSTANCES_OF_STREAMED_SCRIPT",
             "_GET_NUMBER_OF_INSTANCES_OF_SCRIPT_WITH_NAME_HASH",

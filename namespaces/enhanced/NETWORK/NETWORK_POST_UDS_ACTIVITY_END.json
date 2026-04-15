@@ -1,0 +1,23 @@
+{
+    "0xC78F2FFEECA7EE57": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_END",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "activityId"
+            },
+            {
+                "type": "int",
+                "name": "iOutcome"
+            },
+            {
+                "type": "int",
+                "name": "iScore"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

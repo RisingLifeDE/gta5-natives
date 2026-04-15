@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_SCREEN_ASPECT_RATIO",
             "_GET_ASPECT_RATIO"

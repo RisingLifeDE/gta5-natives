@@ -1,0 +1,15 @@
+{
+    "0x140491FD99CE6F5D": {
+        "name": "TRY_GET_USER_ENTITLEMENTS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "entitlements"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

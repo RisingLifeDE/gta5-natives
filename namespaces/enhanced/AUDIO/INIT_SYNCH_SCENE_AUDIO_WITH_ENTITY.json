@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_SYNCHRONIZED_AUDIO_EVENT_POSITION_THIS_FRAME"
         ]

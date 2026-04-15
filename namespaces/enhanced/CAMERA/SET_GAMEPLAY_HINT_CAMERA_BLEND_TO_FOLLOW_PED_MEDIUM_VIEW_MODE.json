@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "GET_IS_MULTIPLAYER_BRIEF",
             "_SET_GAMEPLAY_HINT_ANIM_CLOSEUP"

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_INPUT_JUST_DISABLED",
             "_IS_USING_KEYBOARD_2"

@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1103",
+        "build": "811",
         "old_names": [
             "_ADD_PED_AMMO",
             "_ADD_AMMO_TO_PED_BY_TYPE"

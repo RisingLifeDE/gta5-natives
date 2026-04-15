@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "2189",
+        "build": "811",
         "old_names": [
             "_GET_SUBMARINE_CRUSH_DEPTH_WARNING_STATE"
         ]

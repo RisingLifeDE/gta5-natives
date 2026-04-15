@@ -5,6 +5,6 @@
         "comment": "Does the same as SET_GPS_MULTI_ROUTE_RENDER(false);",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

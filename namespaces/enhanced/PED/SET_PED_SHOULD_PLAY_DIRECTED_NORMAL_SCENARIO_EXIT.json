@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_PED_SHOULD_PLAY_DIRECTED_SCENARIO_EXIT"
         ]

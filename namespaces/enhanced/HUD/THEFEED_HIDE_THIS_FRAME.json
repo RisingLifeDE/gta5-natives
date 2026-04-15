@@ -5,7 +5,7 @@
         "comment": "Once called each frame hides all above radar notifications.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_HIDE_HUD_NOTIFICATIONS_THIS_FRAME"
         ]

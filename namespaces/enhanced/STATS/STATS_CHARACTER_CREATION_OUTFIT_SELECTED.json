@@ -1,0 +1,15 @@
+{
+    "0x66ED2A62D0054F1A": {
+        "name": "STATS_CHARACTER_CREATION_OUTFIT_SELECTED",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "outfit"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "791",
+        "build": "811",
         "old_names": [
             "_USE_STUNT_CAMERA_THIS_FRAME"
         ]

@@ -5,7 +5,7 @@
         "comment": "Returns pointer to an empty string.",
         "params": [],
         "return_type": "const char*",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_GLOBAL_CHAR_BUFFER"
         ]

@@ -1,0 +1,15 @@
+{
+    "0x06FF3C88FCADEDB0": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_START",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "activityId"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0xBF7B00C05D66667C": {
+        "name": "CHECKOUT_COMMERCE_PRODUCT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "productID"
+            },
+            {
+                "type": "int",
+                "name": "location"
+            },
+            {
+                "type": "BOOL",
+                "name": "launchLandingPageOnClose"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

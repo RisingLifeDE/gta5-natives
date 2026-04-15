@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_RESET_PARTICLE_FX_ASSET_OLD_TO_NEW"
         ]

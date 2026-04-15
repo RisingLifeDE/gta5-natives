@@ -5,7 +5,7 @@
         "comment": "Gets the aggressiveness factor of the ocean waves.",
         "params": [],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_WAVES_INTENSITY",
             "_GET_CURRENT_INTENSITY"

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "617",
+        "build": "811",
         "old_names": [
             "_GET_PLAYER_HEALTH_RECHARGE_LIMIT"
         ]

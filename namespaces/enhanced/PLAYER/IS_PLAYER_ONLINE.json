@@ -5,6 +5,6 @@
         "comment": "Returns TRUE if the game is in online mode and FALSE if in offline mode.\n\nThis is an alias for NETWORK_IS_SIGNED_ONLINE.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

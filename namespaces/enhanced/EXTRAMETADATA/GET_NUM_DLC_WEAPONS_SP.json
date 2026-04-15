@@ -5,7 +5,7 @@
         "comment": "Returns the total number of DLC weapons that are available in SP (availableInSP field in shop_weapon.meta).",
         "params": [],
         "return_type": "int",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_GET_NUM_DLC_WEAPONS_SP"
         ]

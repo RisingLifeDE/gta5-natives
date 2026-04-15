@@ -5,7 +5,7 @@
         "comment": "Returns a bool if interior rendering is disabled, if yes, all \"normal\" rendered interiors are invisible",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_INTERIOR_RENDERING_DISABLED"
         ]

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_CARGOBOB_MAGNET_ACTIVE",
             "_DOES_CARGOBOB_HAVE_PICKUP_MAGNET"

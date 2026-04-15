@@ -1,0 +1,19 @@
+{
+    "0xD06669003AD0DA58": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_RESUME_WITH_TASKS",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "activityId"
+            },
+            {
+                "type": "Any*",
+                "name": "taskStatus"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

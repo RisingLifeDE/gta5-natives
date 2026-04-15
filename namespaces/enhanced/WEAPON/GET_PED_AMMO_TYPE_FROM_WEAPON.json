@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_PED_AMMO_TYPE"
         ]

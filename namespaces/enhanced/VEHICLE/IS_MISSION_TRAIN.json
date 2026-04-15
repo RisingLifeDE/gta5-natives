@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_IS_MISSION_TRAIN"
         ]

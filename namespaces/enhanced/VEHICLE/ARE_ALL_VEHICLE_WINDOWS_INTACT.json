@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ARE_ALL_VEHICLE_WINDOWS_INTACT"
         ]

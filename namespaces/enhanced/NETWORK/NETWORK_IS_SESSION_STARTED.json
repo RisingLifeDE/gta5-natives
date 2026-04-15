@@ -5,6 +5,6 @@
         "comment": "This checks if player is playing on gta online or not.\nPlease add an if and block your mod if this is \"true\".",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

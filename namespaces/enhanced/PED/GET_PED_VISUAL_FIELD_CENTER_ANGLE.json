@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "1493",
+        "build": "811",
         "old_names": [
             "_GET_PED_VISUAL_FIELD_CENTER_ANGLE"
         ]

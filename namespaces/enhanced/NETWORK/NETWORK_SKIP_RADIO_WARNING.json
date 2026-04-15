@@ -5,7 +5,7 @@
         "comment": "Returns true if dinput8.dll is present in the game directory.\nYou will get following error message if that is true: \"You are attempting to access GTA Online servers with an altered version of the game.\"",
         "params": [],
         "return_type": "BOOL",
-        "build": "1011",
+        "build": "811",
         "old_names": [
             "_NETWORK_HAS_GAME_BEEN_ALTERED"
         ]

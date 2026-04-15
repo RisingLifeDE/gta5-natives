@@ -1,0 +1,10 @@
+{
+    "0xA6E586C3BD772B7B": {
+        "name": "NETWORK_GET_MP_WINDFALL_AVAILABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

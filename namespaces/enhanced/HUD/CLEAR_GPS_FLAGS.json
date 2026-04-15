@@ -5,6 +5,6 @@
         "comment": "Clears the GPS flags. Only the script that originally called SET_GPS_FLAGS can clear them.\n\nDoesn't seem like the flags are actually read by the game at all.",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

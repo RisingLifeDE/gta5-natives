@@ -5,7 +5,7 @@
         "comment": "Perform the most near misses with other vehicles in a land vehicle without crashing",
         "params": [],
         "return_type": "int",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_CHALLENGE_NEAR_MISSES"
         ]

@@ -5,7 +5,7 @@
         "comment": "Or non-flyable area",
         "params": [],
         "return_type": "BOOL",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_STAT_IS_ABOVE_DEEP_WATER"
         ]

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "791",
+        "build": "811",
         "old_names": [
             "_NETWORK_MANUAL_DELETE_CHARACTER"
         ]

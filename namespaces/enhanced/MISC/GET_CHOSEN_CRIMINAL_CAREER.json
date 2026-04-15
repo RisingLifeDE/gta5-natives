@@ -1,0 +1,10 @@
+{
+    "0xA0A0D77ECEDD4136": {
+        "name": "GET_CHOSEN_CRIMINAL_CAREER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "811"
+    }
+}

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "678",
+        "build": "811",
         "old_names": [
             "_NETWORK_IS_NETWORK_ID_A_CLONE"
         ]

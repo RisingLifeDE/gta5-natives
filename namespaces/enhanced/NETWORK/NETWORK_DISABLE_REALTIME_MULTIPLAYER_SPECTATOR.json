@@ -1,0 +1,10 @@
+{
+    "0xE20BEB3E2B5A8A2B": {
+        "name": "NETWORK_DISABLE_REALTIME_MULTIPLAYER_SPECTATOR",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

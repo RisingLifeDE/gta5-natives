@@ -1,0 +1,15 @@
+{
+    "0x99BE65CCCBE09C71": {
+        "name": "GET_SCRIPT_ROUTER_CONTEXT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "contextData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_LOADINGSCREEN_GET_LOAD_FREEMODE_WITH_EVENT_NAME"
         ]

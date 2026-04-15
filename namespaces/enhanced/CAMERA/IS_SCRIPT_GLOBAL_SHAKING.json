@@ -5,6 +5,6 @@
         "comment": "In drunk_controller.c4, sub_309\nif (CAM::IS_SCRIPT_GLOBAL_SHAKING()) {\n    CAM::STOP_SCRIPT_GLOBAL_SHAKING(0);\n}",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

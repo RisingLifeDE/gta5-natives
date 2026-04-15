@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE"
         ]

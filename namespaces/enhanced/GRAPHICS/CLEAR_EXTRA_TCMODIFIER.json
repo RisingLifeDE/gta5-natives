@@ -5,7 +5,7 @@
         "comment": "Clears the secondary timecycle modifier usually set with _SET_EXTRA_TIMECYCLE_MODIFIER",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_CLEAR_EXTRA_TIMECYCLE_MODIFIER"
         ]

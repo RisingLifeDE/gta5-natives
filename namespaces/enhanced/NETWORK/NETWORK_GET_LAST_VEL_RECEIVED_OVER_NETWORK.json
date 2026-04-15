@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Vector3",
-        "build": "1103",
+        "build": "811",
         "old_names": [
             "_NETWORK_GET_LAST_VELOCITY_RECEIVED"
         ]

@@ -1,0 +1,19 @@
+{
+    "0x76A6981AEF0376EB": {
+        "name": "SC_PAUSE_NEWS_INIT_STORY_TYPE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "storyType"
+            },
+            {
+                "type": "BOOL",
+                "name": "textOnly"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

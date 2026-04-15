@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "877",
+        "build": "811",
         "old_names": [
             "_SET_NETWORK_VEHICLE_POSITION_UPDATE_MULTIPLIER"
         ]

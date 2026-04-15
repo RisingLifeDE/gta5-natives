@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ABORT_TEXT_CHAT",
             "_CLOSE_MULTIPLAYER_CHAT"

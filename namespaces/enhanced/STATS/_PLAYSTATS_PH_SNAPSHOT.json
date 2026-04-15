@@ -1,0 +1,15 @@
+{
+    "0x47506D5327297364": {
+        "name": "_PLAYSTATS_PH_SNAPSHOT",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

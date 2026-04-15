@@ -5,7 +5,7 @@
         "comment": "Drive the furthest distance in a land vehicle without crashing",
         "params": [],
         "return_type": "float",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_CHALLENGE_NO_CRASHES"
         ]

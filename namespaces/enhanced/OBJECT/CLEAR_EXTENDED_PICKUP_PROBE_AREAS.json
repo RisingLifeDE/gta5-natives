@@ -5,6 +5,6 @@
         "comment": "Clears all areas created by ADD_EXTENDED_PICKUP_PROBE_AREA",
         "params": [],
         "return_type": "void",
-        "build": "1290"
+        "build": "811"
     }
 }

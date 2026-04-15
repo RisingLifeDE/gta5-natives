@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "float",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_GET_TYRE_WEAR_MULTIPLIER"
         ]

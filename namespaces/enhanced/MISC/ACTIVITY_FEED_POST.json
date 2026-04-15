@@ -5,6 +5,6 @@
         "comment": "Does nothing (it's a nullsub). Seems to be PS4 specific.",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

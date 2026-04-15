@@ -58,7 +58,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2189",
+        "build": "811",
         "old_names": [
             "_START_NETWORKED_PARTICLE_FX_NON_LOOPED_ON_ENTITY_BONE"
         ]

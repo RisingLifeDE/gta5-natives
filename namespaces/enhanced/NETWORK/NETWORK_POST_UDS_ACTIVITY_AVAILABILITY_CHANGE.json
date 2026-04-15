@@ -1,0 +1,15 @@
+{
+    "0x8A50277FD4E75404": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_AVAILABILITY_CHANGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "availablityData"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

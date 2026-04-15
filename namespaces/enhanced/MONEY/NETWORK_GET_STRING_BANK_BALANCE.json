@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "const char*",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_GET_BANK_BALANCE_STRING"
         ]

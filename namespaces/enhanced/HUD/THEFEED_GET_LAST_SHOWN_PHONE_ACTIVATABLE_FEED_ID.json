@@ -5,7 +5,7 @@
         "comment": "Returns the handle for the notification currently displayed on the screen. Name may be a hash collision, but describes the function accurately.",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_CURRENT_NOTIFICATION",
             "_THEFEED_GET_CURRENT_NOTIFICATION",

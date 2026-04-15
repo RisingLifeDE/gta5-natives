@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_PLAYSTATS_AMBIENT_MISSION_CRATE_CREATED",
             "_PLAYSTATS_CRATE_CREATED_MISSION_DONE"

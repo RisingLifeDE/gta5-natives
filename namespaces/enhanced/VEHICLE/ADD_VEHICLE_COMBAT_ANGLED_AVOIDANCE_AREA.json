@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ADD_VEHICLE_COMBAT_AVOIDANCE_AREA"
         ]

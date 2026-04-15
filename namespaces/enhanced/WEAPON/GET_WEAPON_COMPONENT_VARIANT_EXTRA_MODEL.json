@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "372",
+        "build": "811",
         "old_names": [
             "_GET_WEAPON_COMPONENT_VARIANT_EXTRA_COMPONENT_MODEL"
         ]

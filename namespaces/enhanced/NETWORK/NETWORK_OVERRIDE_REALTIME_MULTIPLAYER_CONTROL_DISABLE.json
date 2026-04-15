@@ -1,0 +1,10 @@
+{
+    "0x04D27017A38E747D": {
+        "name": "NETWORK_OVERRIDE_REALTIME_MULTIPLAYER_CONTROL_DISABLE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

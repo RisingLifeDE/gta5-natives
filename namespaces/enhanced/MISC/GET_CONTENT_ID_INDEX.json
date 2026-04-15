@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "2612",
+        "build": "811",
         "old_names": [
             "_GET_CONTENT_MAP_INDEX"
         ]

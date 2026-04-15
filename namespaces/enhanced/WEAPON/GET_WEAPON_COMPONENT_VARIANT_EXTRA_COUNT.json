@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "372",
+        "build": "811",
         "old_names": [
             "_GET_WEAPON_COMPONENT_VARIANT_EXTRA_COMPONENT_COUNT"
         ]

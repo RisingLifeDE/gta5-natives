@@ -1,0 +1,10 @@
+{
+    "0xF3A281B1AA86DBA9": {
+        "name": "DECLARE_IN_MULTIPLAYER_THIS_FRAME",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

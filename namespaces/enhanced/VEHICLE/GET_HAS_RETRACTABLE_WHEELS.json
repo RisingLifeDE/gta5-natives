@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_GET_HAS_LOWERABLE_WHEELS",
             "_DOES_VEHICLE_HAVE_RETRACTABLE_WHEELS",

@@ -1,0 +1,15 @@
+{
+    "0xB8B3A6B404B1844B": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_RESUME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "activityId"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

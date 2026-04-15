@@ -42,7 +42,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DRAW_LIGHT_WITH_RANGE_WITH_SHADOW",
             "_DRAW_LIGHT_WITH_RANGE_AND_SHADOW"

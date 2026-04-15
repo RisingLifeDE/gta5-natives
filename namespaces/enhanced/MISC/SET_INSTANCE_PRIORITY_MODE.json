@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ENABLE_MP_DLC_MAPS",
             "_USE_FREEMODE_MAP_BEHAVIOR",

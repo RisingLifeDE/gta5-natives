@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_GET_DLC_WEAPON_DATA_SP"
         ]

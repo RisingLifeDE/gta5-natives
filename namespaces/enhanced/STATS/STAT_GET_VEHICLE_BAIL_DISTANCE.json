@@ -5,7 +5,7 @@
         "comment": "Travel the furthest distance when bailing from a vehicle",
         "params": [],
         "return_type": "float",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_LONGEST_BAIL"
         ]

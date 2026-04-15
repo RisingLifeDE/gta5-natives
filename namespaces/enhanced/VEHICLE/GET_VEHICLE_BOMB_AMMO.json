@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1180",
+        "build": "811",
         "old_names": [
             "_GET_AIRCRAFT_BOMB_COUNT",
             "_GET_VEHICLE_BOMB_COUNT"

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_GET_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE"
         ]

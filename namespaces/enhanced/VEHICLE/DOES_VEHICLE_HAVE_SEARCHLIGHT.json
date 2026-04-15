@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2189",
+        "build": "811",
         "old_names": [
             "_DOES_VEHICLE_HAVE_SEARCHLIGHT"
         ]

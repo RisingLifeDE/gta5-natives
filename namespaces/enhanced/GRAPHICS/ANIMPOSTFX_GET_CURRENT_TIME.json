@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "877",
+        "build": "811",
         "old_names": [
             "_ANIMPOSTFX_GET_UNK"
         ]

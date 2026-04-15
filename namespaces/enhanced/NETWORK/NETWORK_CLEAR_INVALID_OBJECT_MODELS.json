@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "2545",
+        "build": "811",
         "old_names": [
             "_NETWORK_CLEAR_INVALID_MODELS"
         ]

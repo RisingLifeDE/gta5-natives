@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_TEXT_SCREEN_WIDTH",
             "_END_TEXT_COMMAND_GET_WIDTH"

@@ -5,6 +5,6 @@
         "comment": "Alternative: GET_VEHICLE_PED_IS_IN(PLAYER_PED_ID(), 1);",
         "params": [],
         "return_type": "Vehicle",
-        "build": "323"
+        "build": "811"
     }
 }

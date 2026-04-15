@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "3095",
+        "build": "811",
         "old_names": [
             "_NETWORK_DOES_COMMUNICATION_GROUP_EXIST"
         ]

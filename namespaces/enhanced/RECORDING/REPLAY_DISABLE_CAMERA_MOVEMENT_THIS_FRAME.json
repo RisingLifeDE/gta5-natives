@@ -5,7 +5,7 @@
         "comment": "This will disable the ability to make camera changes in R* Editor.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DISABLE_ROCKSTAR_EDITOR_CAMERA_CHANGES"
         ]

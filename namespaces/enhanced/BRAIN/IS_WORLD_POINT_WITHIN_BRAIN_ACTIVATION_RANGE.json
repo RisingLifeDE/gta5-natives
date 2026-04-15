@@ -5,6 +5,6 @@
         "comment": "Gets whether the world point the calling script is registered to is within desired range of the player.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

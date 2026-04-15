@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Vector3",
-        "build": "877",
+        "build": "811",
         "old_names": [
             "_GET_WORLD_POSITION_OF_ENTITY_BONE_2",
             "_GET_ENTITY_BONE_POSITION_2"

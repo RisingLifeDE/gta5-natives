@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2699",
+        "build": "811",
         "old_names": [
             "_SET_PED_VOICE_GROUP_RACE"
         ]

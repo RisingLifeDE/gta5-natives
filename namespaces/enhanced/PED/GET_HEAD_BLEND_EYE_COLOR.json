@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1011",
+        "build": "811",
         "old_names": [
             "_GET_PED_EYE_COLOR"
         ]

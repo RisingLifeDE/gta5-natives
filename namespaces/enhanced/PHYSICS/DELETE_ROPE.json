@@ -5,11 +5,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const int*",
+                "type": "int*",
                 "name": "ropeId"
             }
         ],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

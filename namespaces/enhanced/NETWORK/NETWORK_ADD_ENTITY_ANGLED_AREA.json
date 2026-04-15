@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_ADD_ENTITY_ANGLED_AREA"
         ]

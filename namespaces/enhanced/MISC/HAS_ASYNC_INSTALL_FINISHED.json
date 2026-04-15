@@ -5,7 +5,7 @@
         "comment": "Hardcoded to always return true.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_HAS_ASYNC_INSTALL_FINISHED"
         ]

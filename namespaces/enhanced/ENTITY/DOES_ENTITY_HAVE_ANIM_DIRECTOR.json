@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2699",
+        "build": "811",
         "old_names": [
             "_DOES_ENTITY_HAVE_ANIM_DIRECTOR"
         ]

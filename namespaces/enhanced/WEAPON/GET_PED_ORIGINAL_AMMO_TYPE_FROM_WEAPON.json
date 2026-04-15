@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "1103",
+        "build": "811",
         "old_names": [
             "_GET_PED_AMMO_TYPE_FROM_WEAPON_2"
         ]

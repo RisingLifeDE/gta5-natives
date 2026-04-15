@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ENABLE_GAMEPLAY_CAM",
             "_SET_FROZEN_RENDERING_DISABLED"

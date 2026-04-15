@@ -1,0 +1,10 @@
+{
+    "0x770CB76ED0895B5B": {
+        "name": "GET_LANDING_PAGE_SELECTED_CHARACTER_SLOT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "811"
+    }
+}

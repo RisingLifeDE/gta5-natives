@@ -30,7 +30,7 @@
             }
         ],
         "return_type": "int",
-        "build": "2699",
+        "build": "811",
         "old_names": [
             "_ADD_PETROL_DECAL_2",
             "_ADD_OIL_DECAL"

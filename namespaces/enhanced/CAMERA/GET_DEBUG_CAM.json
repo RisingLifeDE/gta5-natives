@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "Cam",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_GET_DEBUG_CAMERA"
         ]

@@ -5,7 +5,7 @@
         "comment": "Sets the waves intensity back to original (1.0 in most cases).",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_RESET_WAVES_INTENSITY",
             "_RESET_CURRENT_INTENSITY"

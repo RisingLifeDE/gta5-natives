@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GRASS_LOD_SHRINK_SCRIPT_AREAS"
         ]

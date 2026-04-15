@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SC_INBOX_MESSAGE_GET_DATA_BOOL"
         ]

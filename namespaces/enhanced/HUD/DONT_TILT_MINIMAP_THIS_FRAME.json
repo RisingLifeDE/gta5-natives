@@ -5,7 +5,7 @@
         "comment": "When calling this, the current frame will have the players \"arrow icon\" be focused on the dead center of the radar.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_CENTER_PLAYER_ON_RADAR_THIS_FRAME"
         ]

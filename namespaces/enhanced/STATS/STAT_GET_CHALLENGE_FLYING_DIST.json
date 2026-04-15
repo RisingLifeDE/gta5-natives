@@ -5,7 +5,7 @@
         "comment": "Fly low to the ground for the longest distance",
         "params": [],
         "return_type": "float",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_CHALLENGE_LOW_FLYING"
         ]

@@ -5,11 +5,11 @@
         "comment": "Deletes a vehicle.\nThe vehicle must be a mission entity to delete, so call this before deleting: SET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\n\neg how to use:\nSET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\nDELETE_VEHICLE(&vehicle);\n\nDeletes the specified vehicle, then sets the handle pointed to by the pointer to NULL.",
         "params": [
             {
-                "type": "const Vehicle*",
+                "type": "Vehicle*",
                 "name": "vehicle"
             }
         ],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

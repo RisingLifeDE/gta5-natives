@@ -5,7 +5,7 @@
         "comment": "Shows the crosshair even if it wouldn't show normally. Only works for one frame, so make sure to call it repeatedly.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ENABLE_CROSSHAIR_THIS_FRAME"
         ]

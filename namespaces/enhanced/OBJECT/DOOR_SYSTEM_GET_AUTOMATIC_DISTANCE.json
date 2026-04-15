@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "1868",
+        "build": "811",
         "old_names": [
             "_DOOR_SYSTEM_GET_AUTOMATIC_DISTANCE"
         ]

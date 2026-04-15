@@ -58,7 +58,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE_2"
         ]

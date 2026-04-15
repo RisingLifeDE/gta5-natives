@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_UI_LOADING_MULTIPLAYER",
             "_LOADINGSCREEN_IS_LOADING_FREEMODE"

@@ -5,6 +5,6 @@
         "comment": "See viewmode enum in CAM.GET_FOLLOW_VEHICLE_CAM_VIEW_MODE for return value",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

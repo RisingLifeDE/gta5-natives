@@ -5,6 +5,6 @@
         "comment": "Returns profile setting 243.",
         "params": [],
         "return_type": "BOOL",
-        "build": "372"
+        "build": "811"
     }
 }

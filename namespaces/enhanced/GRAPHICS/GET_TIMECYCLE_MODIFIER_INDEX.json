@@ -5,6 +5,6 @@
         "comment": "Only use for this in the PC scripts is:\n\nif (GRAPHICS::GET_TIMECYCLE_MODIFIER_INDEX() != -1)",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "0xB37FC2FB7418367C": {
+        "name": "IS_LANDING_PAGE_ACTIVE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

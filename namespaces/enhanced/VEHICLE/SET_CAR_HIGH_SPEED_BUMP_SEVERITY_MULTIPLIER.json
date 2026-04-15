@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_CAR_HIGH_SPEED_BUMP_SEVERITY_MULTIPLIER"
         ]

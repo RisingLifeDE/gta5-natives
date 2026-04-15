@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "const char*",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "SITTING_TV",
             "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_STRING"

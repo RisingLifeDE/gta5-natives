@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1734",
+        "build": "811",
         "old_names": [
             "_GET_RANDOM_INT_IN_RANGE_2"
         ]

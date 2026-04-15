@@ -5,6 +5,6 @@
         "comment": "Shows the screen which is visible before you redo a mission? The game will make a restoration point where you will cameback when the mission is over.\nReturns 1 if the message isn't currently on screen",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

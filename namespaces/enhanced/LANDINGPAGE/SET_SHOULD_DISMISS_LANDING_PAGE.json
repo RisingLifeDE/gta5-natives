@@ -1,0 +1,10 @@
+{
+    "0x237D6F6D474FC93C": {
+        "name": "SET_SHOULD_DISMISS_LANDING_PAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

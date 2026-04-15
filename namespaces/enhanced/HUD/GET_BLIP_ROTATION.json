@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_GET_BLIP_ROTATION"
         ]

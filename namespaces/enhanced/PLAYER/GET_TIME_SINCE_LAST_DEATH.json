@@ -5,6 +5,6 @@
         "comment": "Returns the time since the character died in (ms) milliseconds.\n\nexample\n\nvar time = Function.call<int>(Hash.GET_TIME_SINCE_LAST_DEATH();\n\nUI.DrawSubtitle(time.ToString());\n\nif player has not died, the int returned will be -1.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

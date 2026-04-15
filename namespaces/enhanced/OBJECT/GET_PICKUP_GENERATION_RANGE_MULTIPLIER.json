@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "float",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_GET_PICKUP_GENERATION_RANGE_MULTIPLIER"
         ]

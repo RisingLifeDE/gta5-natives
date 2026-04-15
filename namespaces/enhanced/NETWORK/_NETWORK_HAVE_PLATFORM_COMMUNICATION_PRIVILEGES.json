@@ -5,6 +5,6 @@
         "comment": "Appears to be PlayStation-specific. Always returns true on other platforms if signed in with the primary user profile",
         "params": [],
         "return_type": "BOOL",
-        "build": "3095"
+        "build": "811"
     }
 }

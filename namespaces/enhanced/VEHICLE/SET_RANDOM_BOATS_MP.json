@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_SET_RANDOM_BOATS_IN_MP"
         ]

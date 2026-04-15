@@ -5,7 +5,7 @@
         "comment": "Returns true if the NAT type is Strict (3) and a certain number of connections have failed.",
         "params": [],
         "return_type": "BOOL",
-        "build": "393",
+        "build": "811",
         "old_names": [
             "_NETWORK_SHOULD_SHOW_CONNECTIVITY_TROUBLESHOOTING"
         ]

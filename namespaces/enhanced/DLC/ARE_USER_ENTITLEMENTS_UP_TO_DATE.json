@@ -1,0 +1,10 @@
+{
+    "0xB42DBFF903BB270F": {
+        "name": "ARE_USER_ENTITLEMENTS_UP_TO_DATE",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

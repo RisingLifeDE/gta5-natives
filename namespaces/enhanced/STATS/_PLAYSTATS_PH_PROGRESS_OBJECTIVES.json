@@ -1,0 +1,15 @@
+{
+    "0xFEF378E70D9AE59C": {
+        "name": "_PLAYSTATS_PH_PROGRESS_OBJECTIVES",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

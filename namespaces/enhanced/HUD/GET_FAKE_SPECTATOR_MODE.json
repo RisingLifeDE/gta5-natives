@@ -5,6 +5,6 @@
         "comment": "Getter for SET_FAKE_SPECTATOR_MODE",
         "params": [],
         "return_type": "BOOL",
-        "build": "505"
+        "build": "811"
     }
 }

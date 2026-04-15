@@ -5,6 +5,6 @@
         "comment": "Hard-coded to return 3 if using KBM, otherwise same behavior as GET_LOCAL_PLAYER_GAMEPAD_AIM_STATE.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

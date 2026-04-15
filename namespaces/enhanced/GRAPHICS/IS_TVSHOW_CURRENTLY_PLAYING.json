@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_LOAD_TV_CHANNEL",
             "_IS_TV_PLAYLIST_ITEM_PLAYING"

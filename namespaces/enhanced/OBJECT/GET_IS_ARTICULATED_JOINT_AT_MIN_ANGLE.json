@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1604",
+        "build": "811",
         "old_names": [
             "_GET_IS_ARENA_PROP_PHYSICS_DISABLED"
         ]

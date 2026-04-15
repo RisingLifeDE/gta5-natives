@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_GET_RESERVATIONS_FOR_SLOT_WORLD_POSITION"
         ]

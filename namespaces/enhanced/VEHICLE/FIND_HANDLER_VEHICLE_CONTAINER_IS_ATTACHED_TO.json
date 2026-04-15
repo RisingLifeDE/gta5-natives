@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Vehicle",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_VEHICLE_ATTACHED_TO_ENTITY",
             "_FIND_VEHICLE_CARRYING_THIS_ENTITY"

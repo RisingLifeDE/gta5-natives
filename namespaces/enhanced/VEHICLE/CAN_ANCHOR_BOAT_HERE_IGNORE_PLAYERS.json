@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "678",
+        "build": "811",
         "old_names": [
             "_CAN_BOAT_BE_ANCHORED_2",
             "_CAN_ANCHOR_BOAT_HERE_2"

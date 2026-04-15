@@ -5,7 +5,7 @@
         "comment": "Calling this each frame, stops the player from receiving a weapon via the weapon wheel.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_BLOCK_WEAPON_WHEEL_THIS_FRAME",
             "_HUD_WEAPON_WHEEL_IGNORE_SELECTION"

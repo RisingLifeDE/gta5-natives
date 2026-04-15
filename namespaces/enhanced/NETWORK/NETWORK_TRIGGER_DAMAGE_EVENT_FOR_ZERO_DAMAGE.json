@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1365",
+        "build": "811",
         "old_names": [
             "_NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE"
         ]

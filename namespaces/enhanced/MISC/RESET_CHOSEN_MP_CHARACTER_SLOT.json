@@ -1,0 +1,10 @@
+{
+    "0x54A2DDE8F751EEE5": {
+        "name": "RESET_CHOSEN_MP_CHARACTER_SLOT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

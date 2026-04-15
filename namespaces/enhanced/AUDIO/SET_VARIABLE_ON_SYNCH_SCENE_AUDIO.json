@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "GET_PLAYER_HEADSET_SOUND_ALTERNATE",
             "_SET_VARIABLE_ON_CUTSCENE_AUDIO"

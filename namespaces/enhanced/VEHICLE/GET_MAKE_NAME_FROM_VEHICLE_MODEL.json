@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "const char*",
-        "build": "1868",
+        "build": "811",
         "old_names": [
             "_GET_MAKE_NAME_FROM_VEHICLE_MODEL"
         ]

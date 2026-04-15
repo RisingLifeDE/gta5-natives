@@ -5,6 +5,6 @@
         "comment": "Returns the current status of the onscreen keyboard, and updates the output.\n\nStatus Codes:\n\n-1: Keyboard isn't active\n0: User still editing\n1: User has finished editing\n2: User has canceled editing",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

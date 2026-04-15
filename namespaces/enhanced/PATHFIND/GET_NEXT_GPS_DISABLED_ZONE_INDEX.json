@@ -5,6 +5,6 @@
         "comment": "Gets the next zone that has been disabled using SET_GPS_DISABLED_ZONE_AT_INDEX.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

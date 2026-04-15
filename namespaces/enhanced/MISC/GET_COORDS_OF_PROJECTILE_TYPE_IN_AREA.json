@@ -42,7 +42,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_IS_PROJECTILE_TYPE_IN_AREA"
         ]

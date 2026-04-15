@@ -1,0 +1,15 @@
+{
+    "0xE8CABE94E8592520": {
+        "name": "SET_ACTIVITY_SCRIPT_ROUTING_ENABLED",
+        "jhash": "",
+        "comment": "Does nothing (it's a nullsub).",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

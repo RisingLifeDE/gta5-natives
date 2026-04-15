@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1365",
+        "build": "811",
         "old_names": [
             "_TRANSFORM_STORMBERG_TO_WATER_VEHICLE",
             "_TRANSFORM_VEHICLE_TO_SUBMARINE"

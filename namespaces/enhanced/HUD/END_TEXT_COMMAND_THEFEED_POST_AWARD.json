@@ -26,7 +26,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DRAW_NOTIFICATION_ICON",
             "_DRAW_NOTIFICATION_AWARD"

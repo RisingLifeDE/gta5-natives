@@ -5,7 +5,7 @@
         "comment": "Stops recording and saves the recorded clip.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_STOP_RECORDING",
             "_STOP_RECORDING_AND_SAVE_CLIP"

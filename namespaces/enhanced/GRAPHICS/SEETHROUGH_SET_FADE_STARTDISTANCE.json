@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "573",
+        "build": "811",
         "old_names": [
             "_SEETHROUGH_SET_FADE_START_DISTANCE"
         ]

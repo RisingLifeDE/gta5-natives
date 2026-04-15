@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "void",
-        "build": "393",
+        "build": "811",
         "old_names": [
             "_SET_PED_PERCEPTION_OVERRIDE_THIS_FRAME"
         ]

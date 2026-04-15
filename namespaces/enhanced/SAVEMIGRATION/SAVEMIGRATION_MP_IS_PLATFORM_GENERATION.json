@@ -1,0 +1,15 @@
+{
+    "0xB2C55F521748367B": {
+        "name": "SAVEMIGRATION_MP_IS_PLATFORM_GENERATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "generation"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

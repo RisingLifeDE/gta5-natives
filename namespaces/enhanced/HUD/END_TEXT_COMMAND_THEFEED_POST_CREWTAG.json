@@ -46,7 +46,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NOTIFICATION_SEND_APARTMENT_INVITE",
             "_DRAW_NOTIFICATION_APARTMENT_INVITE"

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_SHOP_IS_ITEM_UNLOCKED_HASH",
             "_NETWORK_SHOP_DOES_ITEM_EXIST_HASH",

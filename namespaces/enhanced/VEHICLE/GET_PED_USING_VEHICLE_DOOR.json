@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Ped",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_PED_USING_VEHICLE_DOOR"
         ]

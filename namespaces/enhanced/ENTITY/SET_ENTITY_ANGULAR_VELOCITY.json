@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2372",
+        "build": "811",
         "old_names": [
             "_SET_ENTITY_ANGULAR_VELOCITY"
         ]

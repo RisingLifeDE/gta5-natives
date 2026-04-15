@@ -5,6 +5,6 @@
         "comment": "Called after all decorator type initializations.",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

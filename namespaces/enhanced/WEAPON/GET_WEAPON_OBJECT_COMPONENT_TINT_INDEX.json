@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1103",
+        "build": "811",
         "old_names": [
             "_GET_WEAPON_OBJECT_LIVERY_COLOR"
         ]

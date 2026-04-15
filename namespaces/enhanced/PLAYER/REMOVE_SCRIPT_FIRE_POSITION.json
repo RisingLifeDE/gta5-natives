@@ -5,6 +5,6 @@
         "comment": "Resets values set by SET_SCRIPT_FIRE_POSITION",
         "params": [],
         "return_type": "void",
-        "build": "1604"
+        "build": "811"
     }
 }

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "Hash",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NET_GAMESERVER_GET_CATALOG_CRC"
         ]

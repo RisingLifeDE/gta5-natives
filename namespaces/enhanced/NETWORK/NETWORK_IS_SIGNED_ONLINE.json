@@ -5,6 +5,6 @@
         "comment": "Returns whether the game is not in offline mode.\n\nseemed not to work for some ppl",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

@@ -5,7 +5,7 @@
         "comment": "0 = american (en-US)\n1 = french (fr-FR)\n2 = german (de-DE)\n3 = italian (it-IT)\n4 = spanish (es-ES)\n5 = brazilian (pt-BR)\n6 = polish (pl-PL)\n7 = russian (ru-RU)\n8 = korean (ko-KR)\n9 = chinesetrad (zh-TW)\n10 = japanese (ja-JP)\n11 = mexican (es-MX)\n12 = chinesesimp (zh-CN)",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_UI_LANGUAGE_ID",
             "_GET_CURRENT_LANGUAGE_ID"

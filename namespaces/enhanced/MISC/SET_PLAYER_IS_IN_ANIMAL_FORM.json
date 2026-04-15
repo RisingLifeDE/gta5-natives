@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SHOW_PED_IN_PAUSE_MENU",
             "_SET_PLAYER_IS_IN_ANIMAL_FORM"

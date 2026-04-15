@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Vector3",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "GET_FINAL_RENDERED_IN_WHEN_FRIENDLY_ROT"
         ]

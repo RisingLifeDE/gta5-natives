@@ -5,6 +5,6 @@
         "comment": "Checks for privilege 30",
         "params": [],
         "return_type": "BOOL",
-        "build": "3095"
+        "build": "811"
     }
 }

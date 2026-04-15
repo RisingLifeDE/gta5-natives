@@ -5,6 +5,6 @@
         "comment": "Gets the maximum wanted level the player can get.\nRanges from 0 to 5.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

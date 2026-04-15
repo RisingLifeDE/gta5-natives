@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_GET_WEAPON_TIME_BETWEEN_SHOTS"
         ]

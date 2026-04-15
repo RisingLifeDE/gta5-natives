@@ -5,6 +5,6 @@
         "comment": "Setting Aspect Ratio Manually in game will return:\n\nfalse - for Narrow format Aspect Ratios (3:2, 4:3, 5:4, etc. )\ntrue - for Wide format Aspect Ratios (5:3, 16:9, 16:10, etc. )\n\nSetting Aspect Ratio to \"Auto\" in game will return \"false\" or \"true\" based on the actual set Resolution Ratio.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

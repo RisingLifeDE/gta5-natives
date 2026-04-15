@@ -5,7 +5,7 @@
         "comment": "Returns true when the player is not able to control the cam i.e. when running a benchmark test, switching the player or viewing a cutscene.\n\nNote: I am not 100% sure if the native actually checks if the cam control is disabled but it seems promising.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_IS_PLAYER_CAM_CONTROL_DISABLED"
         ]

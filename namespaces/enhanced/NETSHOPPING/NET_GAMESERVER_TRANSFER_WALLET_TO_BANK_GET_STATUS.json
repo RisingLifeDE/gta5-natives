@@ -5,7 +5,7 @@
         "comment": "Same as 0x23789E777D14CE44",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NET_GAMESERVER_TRANSFER_CASH_GET_STATUS_2"
         ]

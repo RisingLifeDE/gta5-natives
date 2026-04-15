@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_SET_BINK_MOVIE_REQUESTED",
             "_SET_BINK_MOVIE"

@@ -1,0 +1,10 @@
+{
+    "0xC243F786521F4321": {
+        "name": "NETWORK_POST_UDS_ACTIVITY_TERMINATE",
+        "jhash": "",
+        "comment": "Does nothing.",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

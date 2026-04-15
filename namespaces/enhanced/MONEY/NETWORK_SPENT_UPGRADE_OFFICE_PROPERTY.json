@@ -26,7 +26,7 @@
             }
         ],
         "return_type": "void",
-        "build": "757",
+        "build": "811",
         "old_names": [
             "_NETWORK_SPENT_UPGRADE_OFFICE"
         ]

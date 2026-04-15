@@ -5,6 +5,6 @@
         "comment": "Returns true when the srl from BEGIN_SRL is loaded.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

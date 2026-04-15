@@ -1,0 +1,23 @@
+{
+    "0x640B4FB20A104099": {
+        "name": "PAUSE_MENU_SET_CLOUD_BUSY_SPINNER",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "TextLabel"
+            },
+            {
+                "type": "BOOL",
+                "name": "bNoMenu"
+            },
+            {
+                "type": "BOOL",
+                "name": "bBlackBackground"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

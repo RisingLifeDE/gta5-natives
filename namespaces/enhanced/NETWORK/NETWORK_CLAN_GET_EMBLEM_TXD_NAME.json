@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_GET_PLAYER_CREW_EMBLEM_TXD_NAME"
         ]

@@ -1,0 +1,10 @@
+{
+    "0x7F87B6CE3D8D9DD8": {
+        "name": "IS_GAME_INSTALLED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

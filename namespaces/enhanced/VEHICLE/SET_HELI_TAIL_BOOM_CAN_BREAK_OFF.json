@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "WAS_COUNTER_ACTIVATED",
             "SET_HELI_TAIL_EXPLODE_THROW_DASHBOARD"

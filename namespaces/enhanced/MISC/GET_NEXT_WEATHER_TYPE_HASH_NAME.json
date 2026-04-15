@@ -5,7 +5,7 @@
         "comment": "Returns weather name hash",
         "params": [],
         "return_type": "Hash",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_NEXT_WEATHER_TYPE"
         ]

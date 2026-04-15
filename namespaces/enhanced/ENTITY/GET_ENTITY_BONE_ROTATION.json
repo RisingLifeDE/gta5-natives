@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "Vector3",
-        "build": "791",
+        "build": "811",
         "old_names": [
             "_GET_WORLD_ROTATION_OF_ENTITY_BONE",
             "_GET_ENTITY_BONE_ROTATION"

@@ -5,7 +5,7 @@
         "comment": "Has to do with the confirmation overlay (E.g. confirm exit)",
         "params": [],
         "return_type": "Hash",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_GET_WARNING_MESSAGE_TITLE_HASH"
         ]

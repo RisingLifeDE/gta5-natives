@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_NETWORK_GET_ENTITY_NET_SCRIPT_ID"
         ]

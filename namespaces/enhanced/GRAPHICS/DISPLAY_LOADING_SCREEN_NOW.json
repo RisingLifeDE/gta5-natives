@@ -1,0 +1,15 @@
+{
+    "0x7A019A9E156318FC": {
+        "name": "DISPLAY_LOADING_SCREEN_NOW",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "onOff"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

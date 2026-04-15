@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "2612",
+        "build": "811",
         "old_names": [
             "_DOES_CUSTOMIZATION_COMPONENT_HAVE_RESTRICTION_TAG"
         ]

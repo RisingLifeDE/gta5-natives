@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Vector3",
-        "build": "1290",
+        "build": "811",
         "old_names": [
             "_FIND_RANDOM_POINT_IN_SPACE"
         ]

@@ -5,6 +5,6 @@
         "comment": "Returns the number of *types* of licence plates, enumerated below in SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

@@ -5,6 +5,6 @@
         "comment": "This function is hard-coded to always return 1.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_SET_PED_REFLECTION_INTENSITY",
             "_SET_PED_ILLUMINATED_CLOTHING_GLOW_INTENSITY",

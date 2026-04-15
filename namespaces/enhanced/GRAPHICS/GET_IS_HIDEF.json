@@ -5,6 +5,6 @@
         "comment": "false = Any resolution < 1280x720\ntrue = Any resolution >= 1280x720",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

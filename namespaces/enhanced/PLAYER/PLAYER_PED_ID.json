@@ -5,6 +5,6 @@
         "comment": "Returns current player ped",
         "params": [],
         "return_type": "Ped",
-        "build": "323"
+        "build": "811"
     }
 }

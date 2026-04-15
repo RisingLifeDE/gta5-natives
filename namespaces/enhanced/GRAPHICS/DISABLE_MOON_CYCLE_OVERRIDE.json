@@ -5,7 +5,7 @@
         "comment": "Resets the extra timecycle modifier strength normally set with 0x2C328AF17210F009",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_RESET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH"
         ]

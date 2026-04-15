@@ -2,7 +2,7 @@
     "0xAC3F722321800755": {
         "name": "_NETWORK_GET_BROADCAST_DATA_PLAYER_UPDATE_SIZE",
         "jhash": "",
-        "comment": "",
+        "comment": "Note: this native was added in build 889.19",
         "params": [
             {
                 "type": "Hash",
@@ -22,6 +22,6 @@
             }
         ],
         "return_type": "int",
-        "build": "3586"
+        "build": "889"
     }
 }

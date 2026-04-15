@@ -34,7 +34,7 @@
             }
         ],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_VEHICLE_BODY_HEALTH_2"
         ]

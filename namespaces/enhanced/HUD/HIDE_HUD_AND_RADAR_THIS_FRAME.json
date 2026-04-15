@@ -5,6 +5,6 @@
         "comment": "Hides HUD and radar this frame and prohibits switching to other weapons (or accessing the weapon wheel)",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

@@ -1,0 +1,15 @@
+{
+    "0xD5AEB715D79ADE64": {
+        "name": "RESERVE_COMMERCE_STORE_PURCHASE_LOCATION",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "location"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

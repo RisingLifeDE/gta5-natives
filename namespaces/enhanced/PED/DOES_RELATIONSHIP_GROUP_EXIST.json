@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_DOES_RELATIONSHIP_GROUP_EXIST"
         ]

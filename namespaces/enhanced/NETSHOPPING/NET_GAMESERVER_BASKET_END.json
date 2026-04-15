@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "372",
+        "build": "811",
         "old_names": [
             "_NET_GAMESERVER_BASKET_DELETE"
         ]

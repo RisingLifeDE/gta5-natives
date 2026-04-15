@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "757",
+        "build": "811",
         "old_names": [
             "_IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER"
         ]

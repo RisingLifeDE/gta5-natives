@@ -5,7 +5,7 @@
         "comment": "Returns the local player's targeting mode. See PLAYER::SET_PLAYER_TARGETING_MODE.",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_LOCAL_PLAYER_AIM_STATE_2"
         ]

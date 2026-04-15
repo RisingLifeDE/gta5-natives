@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "757",
+        "build": "811",
         "old_names": [
             "_GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_BOOL"
         ]

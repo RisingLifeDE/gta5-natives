@@ -5,7 +5,7 @@
         "comment": "Tests some cinematic camera flags",
         "params": [],
         "return_type": "BOOL",
-        "build": "1493",
+        "build": "811",
         "old_names": [
             "_IS_CINEMATIC_CAM_ACTIVE"
         ]

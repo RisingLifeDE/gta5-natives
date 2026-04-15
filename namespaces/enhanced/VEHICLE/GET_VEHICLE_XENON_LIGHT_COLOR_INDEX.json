@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "1604",
+        "build": "811",
         "old_names": [
             "_GET_VEHICLE_HEADLIGHTS_COLOUR",
             "_GET_VEHICLE_XENON_LIGHTS_COLOUR",

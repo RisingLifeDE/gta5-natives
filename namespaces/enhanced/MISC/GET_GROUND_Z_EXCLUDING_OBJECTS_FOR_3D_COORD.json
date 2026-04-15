@@ -30,7 +30,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_GET_GROUND_Z_FOR_3D_COORD_2"
         ]

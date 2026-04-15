@@ -22,7 +22,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_TUPSTAT_INT_HASH",
             "_GET_PACKED_TITLE_UPDATE_INT_STAT_KEY"

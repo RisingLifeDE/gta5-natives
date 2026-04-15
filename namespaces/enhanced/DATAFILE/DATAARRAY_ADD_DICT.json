@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Any*",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_ARRAY_VALUE_ADD_OBJECT"
         ]

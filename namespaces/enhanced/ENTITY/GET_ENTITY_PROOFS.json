@@ -42,7 +42,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1604",
+        "build": "811",
         "old_names": [
             "_GET_ENTITY_PROOFS"
         ]

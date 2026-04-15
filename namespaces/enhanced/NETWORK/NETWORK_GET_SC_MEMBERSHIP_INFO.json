@@ -1,0 +1,15 @@
+{
+    "0x9FA18B5CD8803086": {
+        "name": "NETWORK_GET_SC_MEMBERSHIP_INFO",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "info"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "SET_WEAPON_SMOKEGRENADE_ASSIGNED"
         ]

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "1365",
+        "build": "811",
         "old_names": [
             "_GET_IS_USING_ALTERNATE_HANDBRAKE"
         ]

@@ -5,6 +5,6 @@
         "comment": "Sets some flag on cinematic camera",
         "params": [],
         "return_type": "void",
-        "build": "1180"
+        "build": "811"
     }
 }

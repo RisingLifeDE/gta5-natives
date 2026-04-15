@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_REPLAY_FREE_CAM_GET_MAX_RANGE"
         ]

@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_CREATE_WEAPON_OBJECT_LIGHT_SOURCE"
         ]

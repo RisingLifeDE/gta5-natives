@@ -1,0 +1,10 @@
+{
+    "0x0E50FCE4525E3D72": {
+        "name": "IS_SESSION_INITIALIZED",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "811"
+    }
+}

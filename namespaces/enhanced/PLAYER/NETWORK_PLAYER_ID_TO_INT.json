@@ -5,6 +5,6 @@
         "comment": "Does exactly the same thing as PLAYER_ID()",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

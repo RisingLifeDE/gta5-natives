@@ -6,18 +6,22 @@
         "params": [
             {
                 "type": "const char*",
-                "name": "p0"
+                "name": "productID"
             },
             {
                 "type": "const char*",
-                "name": "p1"
+                "name": "category"
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "location"
+            },
+            {
+                "type": "BOOL",
+                "name": "launchLandingPageOnClose"
             }
         ],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

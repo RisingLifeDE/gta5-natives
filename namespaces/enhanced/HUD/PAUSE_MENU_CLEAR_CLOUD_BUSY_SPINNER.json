@@ -1,0 +1,10 @@
+{
+    "0x4947F58BB3AB76D2": {
+        "name": "PAUSE_MENU_CLEAR_CLOUD_BUSY_SPINNER",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

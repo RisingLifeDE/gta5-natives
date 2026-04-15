@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "Hash",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_WEAPON_HASH_FROM_PICKUP"
         ]

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "Player",
-        "build": "2612",
+        "build": "811",
         "old_names": [
             "_NETWORK_GET_HOST"
         ]

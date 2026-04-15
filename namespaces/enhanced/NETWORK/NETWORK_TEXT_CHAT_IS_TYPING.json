@@ -5,7 +5,7 @@
         "comment": "Same as _IS_TEXT_CHAT_ACTIVE, except it does not check if the text chat HUD component is initialized, and therefore may crash.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_IS_TEXT_CHAT_ACTIVE"
         ]

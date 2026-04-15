@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_SCREEN_ACTIVE_RESOLUTION",
             "_GET_ACTIVE_SCREEN_RESOLUTION"

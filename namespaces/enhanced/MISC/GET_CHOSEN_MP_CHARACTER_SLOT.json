@@ -1,0 +1,10 @@
+{
+    "0xFBEF52A5C70F324F": {
+        "name": "GET_CHOSEN_MP_CHARACTER_SLOT",
+        "jhash": "",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "811"
+    }
+}

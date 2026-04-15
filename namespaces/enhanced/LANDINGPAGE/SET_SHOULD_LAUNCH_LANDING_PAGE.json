@@ -1,0 +1,15 @@
+{
+    "0xFD1B81BDD7FBCB41": {
+        "name": "SET_SHOULD_LAUNCH_LANDING_PAGE",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "entrypointId"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

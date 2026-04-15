@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "1180",
+        "build": "811",
         "old_names": [
             "_GET_PLANE_HOVER_MODE_PERCENTAGE",
             "_GET_VEHICLE_HOVER_MODE_PERCENTAGE",

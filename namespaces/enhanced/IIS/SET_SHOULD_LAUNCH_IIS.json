@@ -1,0 +1,10 @@
+{
+    "0x244A22A2DA85D8C8": {
+        "name": "SET_SHOULD_LAUNCH_IIS",
+        "jhash": "",
+        "comment": "Launches the Initial Interactive Screen",
+        "params": [],
+        "return_type": "void",
+        "build": "811"
+    }
+}

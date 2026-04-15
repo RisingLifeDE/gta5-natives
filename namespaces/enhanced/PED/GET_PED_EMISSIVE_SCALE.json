@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "float",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_GET_PED_REFLECTION_INTENSITY",
             "_GET_PED_ILLUMINATED_CLOTHING_GLOW_INTENSITY",

@@ -5,6 +5,6 @@
         "comment": "Resets the effect of SET_FORMATION_LEADER",
         "params": [],
         "return_type": "void",
-        "build": "877"
+        "build": "811"
     }
 }

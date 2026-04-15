@@ -5,6 +5,6 @@
         "comment": "Returns the amount of players connected in the current session. Only works when connected to a session/server.",
         "params": [],
         "return_type": "int",
-        "build": "323"
+        "build": "811"
     }
 }

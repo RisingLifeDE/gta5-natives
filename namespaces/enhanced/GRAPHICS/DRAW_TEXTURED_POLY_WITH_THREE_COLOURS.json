@@ -134,7 +134,7 @@
             }
         ],
         "return_type": "void",
-        "build": "877",
+        "build": "811",
         "old_names": [
             "_DRAW_SPRITE_POLY_2"
         ]

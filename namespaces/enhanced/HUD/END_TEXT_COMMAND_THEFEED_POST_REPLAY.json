@@ -18,7 +18,7 @@
             }
         ],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DRAW_NOTIFICATION_WITH_ICON",
             "_END_TEXT_COMMAND_THEFEED_POST_REPLAY_ICON"

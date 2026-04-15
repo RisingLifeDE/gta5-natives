@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_CAN_VEHICLE_PARACHUTE_BE_ACTIVATED",
             "_GET_VEHICLE_CAN_ACTIVATE_PARACHUTE"

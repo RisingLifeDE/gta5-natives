@@ -30,7 +30,7 @@
             }
         ],
         "return_type": "void",
-        "build": "791",
+        "build": "811",
         "old_names": [
             "_ATTACH_ENTITY_BONE_TO_ENTITY_BONE_PHYSICALLY"
         ]

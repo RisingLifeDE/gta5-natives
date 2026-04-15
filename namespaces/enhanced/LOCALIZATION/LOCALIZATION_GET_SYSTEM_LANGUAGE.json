@@ -5,7 +5,7 @@
         "comment": "Same return values as GET_CURRENT_LANGUAGE",
         "params": [],
         "return_type": "int",
-        "build": "877",
+        "build": "811",
         "old_names": [
             "_LOCALIZATION_GET_SYSTEM_LANGUAGE"
         ]

@@ -5,7 +5,7 @@
         "comment": "0.0 = no memory used\n1.0 = all memory used\n\nMaximum model memory (as defined in common\\data\\missioncreatordata.meta) is 100 MiB",
         "params": [],
         "return_type": "float",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_USED_CREATOR_MODEL_MEMORY_PERCENTAGE"
         ]

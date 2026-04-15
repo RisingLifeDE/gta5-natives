@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "1493",
+        "build": "811",
         "old_names": [
             "_SET_ENABLE_SCUBA_GEAR_LIGHT"
         ]

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_NEXT_RESPAWN_TO_CUSTOM",
             "_CLEAR_RESTART_CUSTOM_POSITION"

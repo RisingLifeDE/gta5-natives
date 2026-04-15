@@ -5,7 +5,7 @@
         "comment": "Sets the localplayer playerinfo state back to playing (State 0)\n\nStates are:\n-1: \"Invalid\"\n0: \"Playing\"\n1: \"Died\"\n2: \"Arrested\"\n3: \"Failed Mission\"\n4: \"Left Game\"\n5: \"Respawn\"\n6: \"In MP Cutscene\"",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_RESET_LOCALPLAYER_STATE"
         ]

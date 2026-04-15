@@ -1,0 +1,31 @@
+{
+    "0xDA256F9AEAC28331": {
+        "name": "_REGISTER_PTFX_FOG_VOLUME",
+        "jhash": "",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "density"
+            }
+        ],
+        "return_type": "void",
+        "build": "811"
+    }
+}

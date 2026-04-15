@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_NETWORK_SESSION_ARE_PLAYERS_VOTING_TO_KICK",
             "_NETWORK_SESSION_IS_PLAYER_VOTED_TO_KICK"

@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_DISABLE_VEHICLE_FIRST_PERSON_CAM_THIS_FRAME"
         ]

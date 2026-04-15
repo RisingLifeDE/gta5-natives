@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "int",
-        "build": "791",
+        "build": "811",
         "old_names": [
             "_GET_SHOP_PED_APPAREL_VARIANT_PROP_COUNT"
         ]

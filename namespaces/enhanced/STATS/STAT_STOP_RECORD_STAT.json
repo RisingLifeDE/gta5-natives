@@ -5,7 +5,7 @@
         "comment": "",
         "params": [],
         "return_type": "BOOL",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_TRACKING_CLEAR_PROGRESS"
         ]

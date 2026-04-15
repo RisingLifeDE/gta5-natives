@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_NETWORK_CAN_COMMUNICATE_WITH_GAMER_2"
         ]

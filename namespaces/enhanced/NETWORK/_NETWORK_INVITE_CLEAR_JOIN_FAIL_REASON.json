@@ -5,6 +5,6 @@
         "comment": "Clears the failed invite join alert reason",
         "params": [],
         "return_type": "void",
-        "build": "3179"
+        "build": "811"
     }
 }

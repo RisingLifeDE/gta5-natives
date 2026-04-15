@@ -5,7 +5,7 @@
         "comment": "Possible return values: 0, 1, 2",
         "params": [],
         "return_type": "int",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_GET_USER_LANGUAGE_ID",
             "_LOCALIZATION_GET_SYSTEM_DATE_FORMAT"

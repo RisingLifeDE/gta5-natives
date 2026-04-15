@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "505",
+        "build": "811",
         "old_names": [
             "_DOES_ENTITY_HAVE_FRAG_INST",
             "_GET_HAS_OBJECT_FRAG_INST"

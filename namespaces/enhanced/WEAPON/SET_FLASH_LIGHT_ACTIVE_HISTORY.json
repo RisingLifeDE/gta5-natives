@@ -14,7 +14,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2060",
+        "build": "811",
         "old_names": [
             "_SET_FLASH_LIGHT_ENABLED"
         ]

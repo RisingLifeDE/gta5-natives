@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "2189",
+        "build": "811",
         "old_names": [
             "_CLEAR_INTERIOR_FOR_ENTITY"
         ]

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "944",
+        "build": "811",
         "old_names": [
             "_HAS_VEHICLE_PARACHUTE",
             "_DOES_VEHICLE_HAVE_PARACHUTE",

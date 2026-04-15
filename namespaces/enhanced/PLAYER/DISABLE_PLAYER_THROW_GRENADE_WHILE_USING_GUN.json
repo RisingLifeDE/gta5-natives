@@ -5,6 +5,6 @@
         "comment": "Used only once in R* scripts (freemode.ysc).",
         "params": [],
         "return_type": "void",
-        "build": "323"
+        "build": "811"
     }
 }

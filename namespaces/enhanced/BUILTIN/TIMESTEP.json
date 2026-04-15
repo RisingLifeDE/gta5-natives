@@ -5,6 +5,6 @@
         "comment": "Gets the current frame time.",
         "params": [],
         "return_type": "float",
-        "build": "323"
+        "build": "811"
     }
 }

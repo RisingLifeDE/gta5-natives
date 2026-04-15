@@ -5,7 +5,7 @@
         "comment": "Fall the longest distance with a parachute before opening it",
         "params": [],
         "return_type": "float",
-        "build": "463",
+        "build": "811",
         "old_names": [
             "_STAT_GET_CHALLENGE_LONGEST_FREEFALL"
         ]

@@ -5,7 +5,7 @@
         "comment": "creates single lightning+thunder at random position",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_CREATE_LIGHTNING_THUNDER"
         ]

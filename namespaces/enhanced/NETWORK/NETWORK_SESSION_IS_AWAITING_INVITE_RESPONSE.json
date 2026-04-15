@@ -5,6 +5,6 @@
         "comment": "Seems to be true while \"Getting GTA Online session details\" shows up.",
         "params": [],
         "return_type": "BOOL",
-        "build": "323"
+        "build": "811"
     }
 }

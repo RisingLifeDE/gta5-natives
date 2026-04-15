@@ -5,7 +5,7 @@
         "comment": "Hides area and vehicle name HUD components for one frame.",
         "params": [],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_HIDE_AREA_AND_VEHICLE_NAME_THIS_FRAME"
         ]

@@ -10,7 +10,7 @@
             }
         ],
         "return_type": "void",
-        "build": "323",
+        "build": "811",
         "old_names": [
             "_SET_LOADING_PROMPT_TEXT_ENTRY",
             "_BEGIN_TEXT_COMMAND_BUSY_STRING"
